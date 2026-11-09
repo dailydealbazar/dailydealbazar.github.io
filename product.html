@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Product — Daily Deal Bazar</title>
 <meta name="description" content="Product details at Daily Deal Bazar — Shop Smart, Save Big!">
-<link rel="stylesheet" href="style.css?v=10">
+<link rel="stylesheet" href="style.css?v=11">
 <script src="countries.js?v=2"></script>
 </head>
 <body>
@@ -98,6 +98,7 @@ document.getElementById("detail").innerHTML = `
       ${p.specs.map(s => `<tr><td>${s[0]}</td><td>${s[1]}</td></tr>`).join("")}
     </table>
     <a class="pd-buy" href="${p.link}" target="_blank" rel="noopener">BUY NOW →</a>
+    <button class="pd-copy" onclick="copyProductLink('${p.id}', this)">🔗 Copy Link</button>
     <div class="pd-trust"><span>🔒 Secure checkout on AliExpress</span><span>🛡️ Buyer Protection</span><span>⭐ Real reviews on AliExpress</span></div>
     <div class="ship-box"><h4>Shipping &amp; Returns</h4><p>This product is sold and shipped by the AliExpress seller. Shipping cost, delivery time and returns follow the seller's policy on the AliExpress product page — please check them there before you buy. <a href="${p.link}" target="_blank" rel="noopener">See shipping details &amp; real customer reviews on AliExpress →</a></p></div>
     <p class="pd-note">This is an affiliate website. Buying opens the product on AliExpress — your order, payment, shipping and delivery are handled by AliExpress and the seller. We do not sell products directly and there is no checkout on this website.</p>
@@ -123,8 +124,16 @@ document.getElementById("related").innerHTML = relList.map(x => `
     <div class="p-cat">${x.categoryName}</div>
     <div class="p-price">${DDB.formatPrice(x.price)}</div>
     <a class="p-buy" href="${x.link}" target="_blank" rel="noopener">Buy Now →</a>
+    <button class="p-copy" onclick="copyProductLink('${x.id}', this)">🔗 Copy Link</button>
   </div>
 </article>`).join("");
+function copyProductLink(id, btn) {
+  const url = "https://dailydealbazar.netlify.app/product.html?id=" + id;
+  const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
+  const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }
+  else fallback();
+}
 </script>
 <script>
 document.addEventListener("ddb:country", () => {

@@ -111,6 +111,8 @@ footer{background:var(--navy);color:#cbd5e1;padding:48px 24px 32px}
 .p-rating{color:#f5a623;font-size:14px;margin:6px 0 12px}
 .p-buy{margin-top:auto;display:block;text-align:center;background:var(--gold);color:var(--navy)!important;font-weight:800;padding:13px;border-radius:999px;text-decoration:none}
 .p-buy:hover{background:#ffd83d}
+.p-copy{margin-top:8px;display:block;width:100%;text-align:center;background:#fff;border:1.5px solid var(--navy);color:var(--navy);font-weight:700;padding:10px;border-radius:999px;cursor:pointer;font-size:14px;font-family:inherit}
+.p-copy:hover{background:#f1f5f9}
 .empty{grid-column:1/-1;text-align:center;color:#cbd5e1;padding:48px 0;font-size:18px}
 .load-wrap{text-align:center;margin-top:32px}
 .load-btn{background:var(--navy);color:#fff;border:0;font-weight:800;padding:14px 32px;border-radius:999px;cursor:pointer;font-size:16px}
@@ -131,6 +133,8 @@ footer{background:var(--navy);color:#cbd5e1;padding:48px 24px 32px}
 .pd-specs td{border:1px solid var(--line);padding:10px 14px}
 .pd-specs td:first-child{font-weight:700;background:#f8fafc;width:40%}
 .pd-buy{display:inline-block;background:var(--gold);color:var(--navy)!important;font-weight:800;font-size:19px;padding:16px 40px;border-radius:999px;text-decoration:none;margin-top:8px}
+.pd-copy{display:inline-block;background:#fff;border:2px solid var(--navy);color:var(--navy);font-weight:800;font-size:16px;padding:14px 28px;border-radius:999px;cursor:pointer;margin:8px 0 0 12px;font-family:inherit}
+.pd-copy:hover{background:#f1f5f9}
 .pd-note{font-size:13px;color:var(--muted);margin-top:14px}
 
 /* Info pages (About / Terms / Privacy) */

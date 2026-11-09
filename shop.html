@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shop — Daily Deal Bazar | Explore Our Products</title>
 <meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=10">
+<link rel="stylesheet" href="style.css?v=11">
 <script src="countries.js?v=2"></script>
 </head>
 <body>
@@ -165,8 +165,17 @@ function card(p) {
       <div class="p-price">${DDB.formatPrice(p.price)}${old}</div>
       ${rating}
       <a class="p-buy" href="${p.link}" target="_blank" rel="noopener">Buy Now →</a>
+      <button class="p-copy" onclick="copyProductLink('${p.id}', this)">🔗 Copy Link</button>
     </div>
   </article>`;
+}
+
+function copyProductLink(id, btn) {
+  const url = "https://dailydealbazar.netlify.app/product.html?id=" + id;
+  const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
+  const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }
+  else fallback();
 }
 
 function render() {
