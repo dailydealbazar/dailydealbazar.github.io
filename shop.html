@@ -35,10 +35,6 @@
 <h1>Explore Our Products</h1>
 <p>Find Your Favorite Products at Amazing Prices.</p>
 <div class="shop-photo-strip" id="photoStrip"></div>
-<div class="shop-ad-wrap">
-<video id="shopAd" class="shop-ad-video" src="assets/ads/shop-header-ad.mp4?v=2" autoplay muted loop playsinline preload="metadata" poster="assets/home-banner.png"></video>
-<button class="shop-sound-btn" onclick="toggleShopAdSound(this)">🔊 Sound On</button>
-</div>
 </div>
 </section>
 
@@ -181,14 +177,6 @@ function card(p) {
       <button class="p-copy" onclick="copyProductLink('${p.id}', this)">🔗 Copy Link</button>
     </div>
   </article>`;
-}
-
-function toggleShopAdSound(btn) {
-  const v = document.getElementById("shopAd");
-  if (!v) return;
-  v.muted = !v.muted;
-  if (!v.muted) { v.play().catch(() => {}); btn.textContent = "🔇 Sound Off"; }
-  else { btn.textContent = "🔊 Sound On"; }
 }
 
 function copyProductLink(id, btn) {
