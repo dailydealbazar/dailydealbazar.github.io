@@ -38,6 +38,7 @@
 <button class="vg-btn" onclick="openGuide()">▶ Video Guide</button>
 </div>
 </section>
+<div class="wrap"><div class="shop-photo-strip" id="photoStrip"></div></div>
 <style>
 .vg-btn{display:inline-block;background:transparent;border:2px solid var(--gold);color:var(--gold);font-weight:800;font-size:16px;padding:13px 26px;border-radius:999px;cursor:pointer;margin:8px 0 0 12px;font-family:inherit}
 .vg-btn:hover{background:var(--gold);color:var(--navy)}
@@ -123,6 +124,7 @@
 <div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 <script src="countries.js?v=2"></script>
+<script src="products.js?v=6"></script>
 <div class="vg-modal" id="vgModal" onclick="if(event.target===this)closeGuide()">
   <div class="vg-box">
     <button class="vg-close" onclick="closeGuide()" aria-label="Close">✕</button>
@@ -131,6 +133,12 @@
   </div>
 </div>
 <script>
+(function buildPhotoStrip() {
+  const strip = document.getElementById("photoStrip");
+  if (!strip || typeof PRODUCTS === "undefined") return;
+  const items = PRODUCTS.slice(0, 12).map(p => `<a href="product.html?id=${p.id}"><img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>`).join("");
+  strip.innerHTML = `<div class="strip-track">${items}${items}</div>`;
+})();
 function openGuide(){var m=document.getElementById("vgModal");var v=document.getElementById("vgVideo");m.classList.add("open");v.play().catch(function(){});}
 function closeGuide(){var m=document.getElementById("vgModal");var v=document.getElementById("vgVideo");v.pause();m.classList.remove("open");}
 document.addEventListener("keydown",function(e){if(e.key==="Escape")closeGuide();});
