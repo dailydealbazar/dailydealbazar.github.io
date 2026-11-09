@@ -3,31 +3,66 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Deal Bazar — Shop Smart, Save More</title>
-<meta name="description" content="Daily Deal Bazar — your go-to destination for smart, affordable shopping. Daily deals on gadgets, home essentials, fashion, beauty and digital products, through trusted AliExpress links.">
+<title>Daily Deal Bazar — Shop Smart, Save Big!</title>
+<meta name="description" content="Daily Deal Bazar — Best Deals, Top Quality, Unbeatable Prices. Shop smart and save big on gadgets, home essentials, fashion and more through trusted AliExpress links.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-<img class="logo" src="assets/logo.png" alt="Daily Deal Bazar logo">
-<div class="brand">DAILY DEAL <span>BAZAR</span></div>
-<nav><a href="index.html">Home</a><a href="shop.html">Shop</a><a href="about.html">About Us</a><a href="terms.html">Terms and Conditions</a><a href="privacy.html">Privacy Policy</a></nav>
+<header class="topbar">
+<a class="logo-link" href="index.html"><img class="logo" src="assets/logo.png" alt="Daily Deal Bazar logo"><span class="brand">Daily <span>Deal Bazar</span></span></a>
+<nav class="main-nav">
+<a href="index.html" class="active">Home</a>
+<a href="shop.html">All Products ⌄</a>
+<a href="shop.html">Deals</a>
+<a href="about.html">About</a>
+<a href="about.html">Contact</a>
+</nav>
+<form class="search" action="https://www.aliexpress.com/wholesale" method="get" target="_blank" rel="noopener">
+<input type="search" name="SearchText" placeholder="Search products..." aria-label="Search products">
+<button type="submit" aria-label="Search">🔍</button>
+</form>
+<a class="cart" href="shop.html" aria-label="Cart">🛒<span class="cart-count">0</span></a>
 </header>
-<div class="hero"><img src="assets/home-banner.png" alt="Shop Smart, Save More — up to 70% off at Daily Deal Bazar"></div>
-<main>
-<h1>Shop Smart, Save More</h1>
-<p><a class="shop-btn" href="shop.html">🛍️ Shop Now</a></p>
 
-<p class="lead">Welcome to Daily Deal Bazar — your go-to destination for smart, affordable shopping around the world. Every day, new deals and useful finds are added for you to discover.</p>
-<p>We look for products that are practical, fairly priced, and genuinely useful, so you can shop with confidence and without wasting hours searching. No more endless scrolling, no more confusion — just great products at great prices.</p>
-<div class="cards">
-<div class="card"><h3>Home Essentials</h3><p>Home and kitchen tools, storage, cooking helpers, and items that make the home easier to run.</p></div>
-<div class="card"><h3>Gadgets &amp; Electronics</h3><p>Mobile accessories and small gadgets — chargers, cases, stands, and useful tech for daily use.</p></div>
-<div class="card"><h3>Fashion &amp; Beauty</h3><p>Clothing, accessories, personal care, beauty products, and gift ideas for family and friends.</p></div>
-<div class="card"><h3>Sports &amp; Fitness</h3><p>Sports, fitness, toys and gifts for everyday life.</p></div>
-<div class="card"><h3>Health &amp; Personal Care</h3><p>Everyday care products for you and your family.</p></div>
-<div class="card"><h3>Digital Products</h3><p>Useful apps, software, online courses, ebooks, and subscriptions, when the deal is genuinely worth sharing.</p></div>
+<section class="hero">
+<div class="hero-text">
+<span class="offer-badge">⚡ Limited Time Offer</span>
+<h1>Shop Smart,<br><span class="gold-text">Save Big!</span></h1>
+<p class="hero-sub">Best Deals • Top Quality • Unbeatable Prices</p>
+<a class="shop-btn" href="shop.html">Shop Now →</a>
 </div>
+<div class="hero-img"><img src="assets/home-banner.png" alt="Daily Deal Bazar — Shop Smart, Save More, up to 70% off"></div>
+</section>
+
+<main class="store">
+<section>
+<div class="section-head"><h2><span class="bar"></span> Our Products</h2><a class="view-all" href="shop.html">View All Products →</a></div>
+<div class="products-grid">
+<div class="product-card"><div class="p-img">🎧</div><h3>Wireless Earbuds</h3><p>Crystal Clear Sound</p><p class="p-price">$29.99 <s>$49.99</s></p><a class="buy" href="https://www.aliexpress.com/wholesale?SearchText=wireless+earbuds" target="_blank" rel="noopener">🛒 Add to Cart</a></div>
+<div class="product-card"><div class="p-img">⌚</div><h3>Smart Watch</h3><p>Track Your Health</p><p class="p-price">$49.99 <s>$79.99</s></p><a class="buy" href="https://www.aliexpress.com/wholesale?SearchText=smart+watch" target="_blank" rel="noopener">🛒 Add to Cart</a></div>
+<div class="product-card"><div class="p-img">🎧</div><h3>Bluetooth Headphones</h3><p>Premium Sound</p><p class="p-price">$39.99 <s>$69.99</s></p><a class="buy" href="https://www.aliexpress.com/wholesale?SearchText=bluetooth+headphones" target="_blank" rel="noopener">🛒 Add to Cart</a></div>
+<div class="product-card"><div class="p-img">📱</div><h3>Smartphone</h3><p>Next Gen Performance</p><p class="p-price">$599.00 <s>$699.00</s></p><a class="buy" href="https://www.aliexpress.com/wholesale?SearchText=smartphone" target="_blank" rel="noopener">🛒 Add to Cart</a></div>
+<div class="product-card"><div class="p-img">🔋</div><h3>Power Bank</h3><p>Stay Charged</p><p class="p-price">$19.99 <s>$29.99</s></p><a class="buy" href="https://www.aliexpress.com/wholesale?SearchText=power+bank" target="_blank" rel="noopener">🛒 Add to Cart</a></div>
+</div>
+</section>
+
+<section class="product-frame">
+<a class="product-link" href="https://s.click.aliexpress.com/e/_c37x9Ah5" target="_blank" rel="noopener">
+<video class="product-main" src="assets/products/hydraulic-jack/ad-video.mp4" poster="assets/products/hydraulic-jack/ad-photo.png" muted loop playsinline preload="metadata" onmouseenter="this.play()" onmouseleave="this.pause()" ontouchstart="this.play()" aria-label="Heavy Duty 30 Ton Hydraulic Jack ad video"></video>
+<span class="product-title">Heavy Duty 30 Ton Portable Low Profile Hydraulic Ram Cylinder 700bar Jack with Hand Pump</span>
+<span class="product-price">USD 638.49</span>
+<span class="buy-now">Click &amp; Buy →</span>
+</a>
+</section>
+
+<section class="trust-row">
+<div class="trust"><span>🛡️</span><div><strong>Secure Payment</strong><p>Your payment is safe</p></div></div>
+<div class="trust"><span>🚚</span><div><strong>Fast Delivery</strong><p>Get your order quickly</p></div></div>
+<div class="trust"><span>🎧</span><div><strong>24/7 Support</strong><p>We're here to help</p></div></div>
+<div class="trust"><span>↩️</span><div><strong>Easy Returns</strong><p>Hassle-free returns</p></div></div>
+</section>
+
+<section>
 <h2>How Deals Work</h2>
 <ol class="steps">
 <li>Browse the deals on this website and find something you like.</li>
@@ -36,13 +71,13 @@
 <li>If you are happy, place your order on AliExpress and pay there.</li>
 </ol>
 <div class="note"><strong>Please note:</strong> we do not sell products directly — we simply share the best deals for you. Your order, payment, shipping, and delivery are handled by AliExpress and the seller. Some links are affiliate links: if you buy through them, we may earn a small commission at no extra cost to you.</div>
-<p>New deals are added regularly. Start with the <a href="about.html">About Us</a> page to see what you will find here, and read the <a href="terms.html">Terms and Conditions</a> and <a href="privacy.html">Privacy Policy</a> before you shop.</p>
 <h2>Contact Us</h2>
 <p>If you have a question, a suggestion, or you spotted a deal that is no longer working, please contact us by email at <a href="mailto:atifhussain78698633@gmail.com">atifhussain78698633@gmail.com</a>.</p>
+</section>
 </main>
 <footer>
-<p><strong>Daily Deal Bazar</strong> — Shop Smart, Save More</p>
-<p><a href="index.html">Home</a><a href="shop.html">Shop</a> · <a href="about.html">About Us</a> · <a href="terms.html">Terms and Conditions</a> · <a href="privacy.html">Privacy Policy</a></p>
+<p><strong>Daily Deal Bazar</strong> — Shop Smart, Save Big!</p>
+<p><a href="index.html">Home</a> · <a href="shop.html">Shop</a> · <a href="about.html">About Us</a> · <a href="terms.html">Terms and Conditions</a> · <a href="privacy.html">Privacy Policy</a></p>
 <p>Contact: <a href="mailto:atifhussain78698633@gmail.com">atifhussain78698633@gmail.com</a></p>
 </footer>
 </body>
