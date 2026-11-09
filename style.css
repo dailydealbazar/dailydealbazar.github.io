@@ -1,0 +1,25 @@
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#16233a;background:#fff;line-height:1.75}
+a{color:#ff7a00}
+header{position:sticky;top:0;background:#001437;color:#fff;display:flex;align-items:center;gap:16px;padding:12px 24px;z-index:10}
+header img.logo{height:48px;width:auto;border-radius:8px}
+header .brand{font-weight:800;font-size:22px;letter-spacing:.5px}
+header .brand span{color:#ff7a00}
+nav{margin-left:auto;display:flex;gap:18px;flex-wrap:wrap}
+nav a{color:#fff;text-decoration:none;font-weight:600}
+nav a:hover{color:#ff7a00}
+.hero img{width:100%;display:block;max-height:420px;object-fit:cover}
+.page-banner img{width:100%;display:block;max-height:300px;object-fit:cover}
+main{max-width:900px;margin:0 auto;padding:32px 20px 64px}
+h1{font-size:34px;line-height:1.25;color:#001437}
+h2{color:#001437;margin-top:36px}
+.lead{font-size:19px;color:#33415e}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:28px 0}
+.card{border:1px solid #e3e8f0;border-radius:14px;padding:20px;background:#f8fafc}
+.card h3{margin:0 0 8px;color:#001437}
+.steps{counter-reset:step}
+.steps li{margin:10px 0}
+footer{background:#001437;color:#cbd5e1;padding:32px 24px;text-align:center}
+footer a{color:#ff9a3d}
+.note{background:#fff4e6;border:1px solid #ffd9a8;border-radius:12px;padding:16px 20px;margin:24px 0}
+@media(max-width:640px){header{flex-wrap:wrap}nav{margin-left:0}h1{font-size:27px}}
