@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shop — Daily Deal Bazar | Explore Our Products</title>
 <meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=9">
+<link rel="stylesheet" href="style.css?v=10">
 <script src="countries.js?v=2"></script>
 </head>
 <body>
@@ -44,15 +44,15 @@
 <div class="shop-layout">
 <aside class="sidebar">
 <h3>Filter Products</h3>
-<h3 style="font-size:15px;margin-top:18px">Product Categories</h3>
+<h3 style="font-size:15px;margin-top:12px">Product Categories</h3>
 <div id="sideCats"></div>
-<h3 style="font-size:15px;margin-top:18px">Price Range</h3>
+<h3 style="font-size:15px;margin-top:12px">Price Range</h3>
 <label>Minimum Price (USD)</label>
 <input type="number" id="minPrice" min="0" step="1" placeholder="0">
 <label>Maximum Price (USD)</label>
 <input type="number" id="maxPrice" min="0" step="1" placeholder="1000">
 <button class="side-btn" id="applyPrice">Apply Price Filter</button>
-<h3 style="font-size:15px;margin-top:18px">Highlights</h3>
+<h3 style="font-size:15px;margin-top:12px">Highlights</h3>
 <label><input type="checkbox" id="fPopular"> Popular Products</label>
 <label><input type="checkbox" id="fLatest"> Latest Products</label>
 <label><input type="checkbox" id="fDiscounted"> Discounted Products</label>
@@ -60,6 +60,7 @@
 </aside>
 
 <main>
+<div class="shop-trust"><span>🔒 Secure checkout on AliExpress</span><span>🛡️ AliExpress Buyer Protection</span><span>🚚 Shipping &amp; returns by the seller</span></div>
 <div class="shop-tools">
 <span class="count" id="resultCount">Showing Products</span>
 <input type="search" id="searchBox" placeholder="Search Products..." aria-label="Search products">
