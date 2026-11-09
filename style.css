@@ -34,4 +34,14 @@ footer a{color:#ff9a3d}
 .shop-card p{color:#cbd5e1}
 .buy{display:inline-block;margin-top:12px;background:#d4af37;color:#001437!important;font-weight:800;padding:12px 22px;border-radius:999px;text-decoration:none}
 .buy:hover{background:#ff7a00;color:#fff!important}
+.product-frame{border:2px solid #d4af37;border-radius:20px;padding:24px;margin:28px 0;background:#fff;box-shadow:0 10px 30px rgba(0,20,55,.18)}
+.luxury .product-frame{background:rgba(255,255,255,.97)}
+.product-link{display:block;text-decoration:none;color:#16233a}
+.sale-badge{display:inline-block;background:#ff3b30;color:#fff;font-weight:800;padding:8px 16px;border-radius:999px;margin-bottom:12px}
+.product-main{width:100%;max-height:420px;object-fit:contain;display:block;background:#fff}
+.product-title{display:block;font-size:22px;font-weight:800;color:#001437;margin:16px 0 8px;line-height:1.35}
+.product-price{display:block;font-size:28px;font-weight:800;color:#ff7a00}
+.buy-now{display:inline-block;margin-top:14px;background:linear-gradient(135deg,#ff7a00,#ffb347);color:#fff;font-weight:800;padding:14px 28px;border-radius:999px}
+.thumbs{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.thumbs img{width:90px;height:90px;object-fit:cover;border-radius:10px;border:1px solid #e3e8f0}
 @media(max-width:640px){header{flex-wrap:wrap}nav{margin-left:0}h1{font-size:27px}}
