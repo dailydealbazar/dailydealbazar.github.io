@@ -65,7 +65,10 @@ const DDB = {
   async initSelect() {
     const sel = document.getElementById("countrySelect");
     if (!sel) return;
-    sel.innerHTML = COUNTRIES.map(c => `<option value="${c[0]}">${c[1]}</option>`).join("");
+    const TOP = ["RU", "UA", "KZ", "BY", "UZ", "DE"];
+    const topOpts = TOP.map(code => { const c = COUNTRIES.find(x => x[0] === code); return `<option value="${c[0]}">${c[1]} ★</option>`; }).join("");
+    const restOpts = COUNTRIES.filter(c => !TOP.includes(c[0])).map(c => `<option value="${c[0]}">${c[1]}</option>`).join("");
+    sel.innerHTML = `<optgroup label="Top audience countries">${topOpts}</optgroup><optgroup label="All countries">${restOpts}</optgroup>`;
     const code = await this.detectCountry();
     sel.value = code;
     await this.loadRates();
