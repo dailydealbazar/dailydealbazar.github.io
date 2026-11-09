@@ -7,7 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shop — Daily Deal Bazar | Explore Our Products</title>
 <meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=8">
+<link rel="stylesheet" href="style.css?v=9">
+<script src="countries.js?v=1"></script>
 </head>
 <body>
 <header class="topbar">
@@ -23,6 +24,7 @@
 <input type="search" name="q" placeholder="Search products..." aria-label="Search products">
 <button type="submit" aria-label="Search">🔍</button>
 </form>
+<select id="countrySelect" class="country-select" aria-label="Select your country"></select>
 <a class="account-link" href="about.html" aria-label="Account">👤</a>
 <a class="cart" href="shop.html" aria-label="Cart">🛒<span class="cart-count">0</span></a>
 </header>
@@ -152,14 +154,14 @@ function filtered() {
 
 function card(p) {
   const badge = p.badge ? `<span class="p-badge">${p.badge}</span>` : "";
-  const old = p.oldPrice ? `<s>${money(p.oldPrice)}</s>` : "";
+  const old = p.oldPrice ? `<s>${DDB.formatPrice(p.oldPrice)}</s>` : "";
   const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
   return `<article class="p-card">
     <a class="p-media" href="product.html?id=${p.id}">${badge}<img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>
     <div class="p-body">
       <h3><a href="product.html?id=${p.id}">${p.short}</a></h3>
       <div class="p-cat">${p.categoryName}</div>
-      <div class="p-price">${money(p.price)}${old}</div>
+      <div class="p-price">${DDB.formatPrice(p.price)}${old}</div>
       ${rating}
       <a class="p-buy" href="${p.link}" target="_blank" rel="noopener">Buy Now →</a>
     </div>
@@ -207,6 +209,7 @@ document.getElementById("loadMore").addEventListener("click", () => { state.show
 document.getElementById("fPopular").checked = state.popular;
 document.getElementById("fLatest").checked = state.latest;
 document.getElementById("fDiscounted").checked = state.discounted;
+document.addEventListener("ddb:country", () => render());
 render();
 </script>
 </body>

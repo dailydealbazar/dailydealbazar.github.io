@@ -7,7 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Product — Daily Deal Bazar</title>
 <meta name="description" content="Product details at Daily Deal Bazar — Shop Smart, Save Big!">
-<link rel="stylesheet" href="style.css?v=8">
+<link rel="stylesheet" href="style.css?v=9">
+<script src="countries.js?v=1"></script>
 </head>
 <body>
 <header class="topbar">
@@ -23,6 +24,7 @@
 <input type="search" name="q" placeholder="Search products..." aria-label="Search products">
 <button type="submit" aria-label="Search">🔍</button>
 </form>
+<select id="countrySelect" class="country-select" aria-label="Select your country"></select>
 <a class="account-link" href="about.html" aria-label="Account">👤</a>
 <a class="cart" href="shop.html" aria-label="Cart">🛒<span class="cart-count">0</span></a>
 </header>
@@ -73,7 +75,7 @@ const id = new URLSearchParams(location.search).get("id");
 const p = PRODUCTS.find(x => x.id === id) || PRODUCTS[0];
 document.title = p.short + " — Daily Deal Bazar";
 document.getElementById("crumbName").textContent = p.short;
-const old = p.oldPrice ? `<s>${money(p.oldPrice)}</s>` : "";
+const old = p.oldPrice ? `<s>${DDB.formatPrice(p.oldPrice)}</s>` : "";
 const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
 const badge = p.badge ? `<span class="p-badge" style="position:static">${p.badge}</span>` : "";
 document.getElementById("detail").innerHTML = `
@@ -88,7 +90,7 @@ document.getElementById("detail").innerHTML = `
   <div class="pd-info">
     ${badge}
     <h1>${p.name}</h1>
-    <div class="pd-price">${money(p.price)} ${old}</div>
+    <div class="pd-price">${DDB.formatPrice(p.price)} ${old}</div>
     ${rating}
     <div class="pd-meta">Category: <a href="shop.html?cat=${p.category}">${p.categoryName}</a></div>
     <p class="pd-desc">${p.desc}</p>
@@ -117,10 +119,16 @@ document.getElementById("related").innerHTML = relList.map(x => `
   <div class="p-body">
     <h3><a href="product.html?id=${x.id}">${x.short}</a></h3>
     <div class="p-cat">${x.categoryName}</div>
-    <div class="p-price">${money(x.price)}</div>
+    <div class="p-price">${DDB.formatPrice(x.price)}</div>
     <a class="p-buy" href="${x.link}" target="_blank" rel="noopener">Buy Now →</a>
   </div>
 </article>`).join("");
+</script>
+<script>
+document.addEventListener("ddb:country", () => {
+  document.querySelectorAll(".pd-price").forEach(el => { el.childNodes[0].textContent = DDB.formatPrice(p.price) + " "; });
+  document.querySelectorAll("#related .p-price").forEach((el, i) => { el.textContent = DDB.formatPrice(relList[i].price); });
+});
 </script>
 </body>
 </html>
