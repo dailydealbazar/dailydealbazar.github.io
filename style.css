@@ -80,7 +80,7 @@ footer{background:var(--navy);color:#cbd5e1;padding:48px 24px 32px}
 .shop-photo-strip:hover .strip-track{animation-play-state:paused}
 @keyframes stripScroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media(max-width:640px){.strip-track img{height:64px;width:92px}}
-.shop-ad-wrap{position:relative;margin:24px auto 0;max-width:640px}
+.shop-ad-wrap{position:relative;margin:24px auto 0;max-width:720px}
 .shop-ad-video{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;border-radius:16px;box-shadow:0 12px 40px rgba(0,0,0,.35)}
 .shop-sound-btn{position:absolute;bottom:14px;right:14px;background:rgba(3,20,47,.85);color:#fff;border:1.5px solid var(--gold);font-weight:700;font-size:14px;padding:9px 16px;border-radius:999px;cursor:pointer;font-family:inherit}
 .shop-sound-btn:hover{background:var(--gold);color:var(--navy)}
