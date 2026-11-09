@@ -195,6 +195,7 @@ document.getElementById("clearFilters").addEventListener("click", () => {
   state = { cat: "all", q: "", min: null, max: null, popular: false, latest: false, discounted: false, sort: "popular", shown: PER_PAGE };
   document.getElementById("minPrice").value = ""; document.getElementById("maxPrice").value = "";
   document.getElementById("fPopular").checked = false; document.getElementById("fLatest").checked = false; document.getElementById("fDiscounted").checked = false;
+  document.getElementById("sortBox").value = "popular"; document.getElementById("searchBox").value = "";
   render();
 });
 document.getElementById("loadMore").addEventListener("click", () => { state.shown += PER_PAGE; render(); });
