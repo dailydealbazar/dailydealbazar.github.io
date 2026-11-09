@@ -73,7 +73,14 @@ footer{background:var(--navy);color:#cbd5e1;padding:48px 24px 32px}
 .shop-head{background:linear-gradient(120deg,var(--navy),var(--deep) 60%,var(--royal));color:#fff;padding:48px 0 40px}
 .shop-head h1{color:#fff;font-size:40px;margin:0}
 .shop-head p{color:#dbeafe;font-size:18px;margin:8px 0 0}
-.shop-ad-wrap{position:relative;margin:24px auto 0;max-width:800px}
+.shop-photo-strip{overflow:hidden;margin:4px 0 20px;border-radius:14px}
+.strip-track{display:flex;gap:10px;width:max-content;animation:stripScroll 40s linear infinite}
+.strip-track a{flex:0 0 auto}
+.strip-track img{height:90px;width:130px;object-fit:cover;border-radius:12px;display:block;border:2px solid rgba(255,255,255,.25)}
+.shop-photo-strip:hover .strip-track{animation-play-state:paused}
+@keyframes stripScroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(max-width:640px){.strip-track img{height:64px;width:92px}}
+.shop-ad-wrap{position:relative;margin:24px auto 0;max-width:640px}
 .shop-ad-video{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;border-radius:16px;box-shadow:0 12px 40px rgba(0,0,0,.35)}
 .shop-sound-btn{position:absolute;bottom:14px;right:14px;background:rgba(3,20,47,.85);color:#fff;border:1.5px solid var(--gold);font-weight:700;font-size:14px;padding:9px 16px;border-radius:999px;cursor:pointer;font-family:inherit}
 .shop-sound-btn:hover{background:var(--gold);color:var(--navy)}

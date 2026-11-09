@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shop — Daily Deal Bazar | Explore Our Products</title>
 <meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=13">
+<link rel="stylesheet" href="style.css?v=14">
 <script src="countries.js?v=2"></script>
 </head>
 <body>
@@ -34,6 +34,7 @@
 <div class="crumb"><a href="index.html">Home</a> → Shop</div>
 <h1>Explore Our Products</h1>
 <p>Find Your Favorite Products at Amazing Prices.</p>
+<div class="shop-photo-strip" id="photoStrip"></div>
 <div class="shop-ad-wrap">
 <video id="shopAd" class="shop-ad-video" src="assets/ads/shop-header-ad.mp4?v=1" autoplay muted loop playsinline preload="metadata" poster="assets/home-banner.png"></video>
 <button class="shop-sound-btn" onclick="toggleShopAdSound(this)">🔊 Sound On</button>
@@ -140,6 +141,14 @@ function buildCatNav() {
     `<button class="side-cat${state.cat === c.slug ? " active" : ""}" data-cat="${c.slug}">${c.name}</button>`).join("");
   side.querySelectorAll("button").forEach(b => b.onclick = () => { state.cat = b.dataset.cat; state.shown = PER_PAGE; render(); });
 }
+
+// Photo strip above the ad video: first 12 product photos, duplicated for a seamless marquee loop.
+(function buildPhotoStrip() {
+  const strip = document.getElementById("photoStrip");
+  if (!strip || typeof PRODUCTS === "undefined") return;
+  const items = PRODUCTS.slice(0, 12).map(p => `<a href="product.html?id=${p.id}"><img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>`).join("");
+  strip.innerHTML = `<div class="strip-track">${items}${items}</div>`;
+})();
 
 function filtered() {
   let list = PRODUCTS.slice();
