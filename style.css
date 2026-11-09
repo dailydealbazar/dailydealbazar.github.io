@@ -60,12 +60,12 @@ footer a{color:#ff9a3d}
 .cart{position:relative;font-size:22px;text-decoration:none}
 .cart-count{position:absolute;top:-8px;right:-10px;background:#ff3b30;color:#fff;font-size:11px;font-weight:800;border-radius:999px;padding:2px 6px}
 .hero{background:linear-gradient(120deg,#0a1f4d,#0a3a8c 55%,#06122e);color:#fff;display:flex;flex-direction:column;align-items:center;gap:0;padding:0 0 56px;text-align:center}
-.hero-text{padding:40px 28px 0}
+.hero-text{width:100%;text-align:center;padding:40px 28px 0;margin:0 auto}
 .offer-badge{display:inline-block;background:#f5b301;color:#0a1628;font-weight:800;padding:8px 18px;border-radius:999px}
-.hero h1{font-size:56px;line-height:1.05;margin:18px 0 12px;color:#fff}
+.hero h1{font-size:56px;line-height:1.05;margin:18px auto 12px;color:#fff;text-align:center}
 .gold-text{color:#f5b301}
-.hero-sub{font-size:19px;color:#dbeafe}
-.hero .shop-btn{margin-top:18px}
+.hero-sub{font-size:19px;color:#dbeafe;text-align:center}
+.hero .shop-btn{display:inline-block;margin:18px auto 0}
 .hero-img{width:100%}
 .hero-img img{width:100%;border-radius:0;display:block;max-height:420px;object-fit:cover}
 .store{max-width:1200px;margin:0 auto;padding:32px 20px 64px;background:#0a1628;color:#e2e8f0}
