@@ -159,3 +159,9 @@ main.page h2{color:var(--navy);margin-top:36px}
   .foot-grid{grid-template-columns:1fr}
   .shop-head h1{font-size:30px}
 }
+
+/* Info pages: breadcrumb + back button on light background */
+.page .crumb{color:var(--muted);margin-bottom:8px}
+.page .crumb a{color:var(--royal)}
+.back-link{display:inline-block;background:var(--navy);color:#fff!important;font-weight:700;padding:10px 20px;border-radius:999px;margin-bottom:8px}
+.back-link:hover{background:var(--royal)}
