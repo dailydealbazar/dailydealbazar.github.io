@@ -5,22 +5,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Daily Deal Bazar — Shop Smart, Save Big!</title>
 <meta name="description" content="Daily Deal Bazar — Best Deals, Top Quality, Unbeatable Prices. Shop smart and save big on gadgets, home essentials, fashion and more through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
 <header class="topbar">
 <a class="logo-link" href="index.html"><img class="logo" src="assets/logo.png" alt="Daily Deal Bazar logo"><span class="brand">Daily <span>Deal Bazar</span></span></a>
 <nav class="main-nav">
 <a href="index.html" class="active">Home</a>
-<a href="shop.html">All Products ⌄</a>
-<a href="shop.html">Deals</a>
-<a href="about.html">About</a>
+<a href="shop.html">Shop</a>
+<a href="shop.html?filter=discounted">Deals</a>
+<a href="about.html">About Us</a>
 <a href="about.html">Contact</a>
 </nav>
-<form class="search" action="https://www.aliexpress.com/wholesale" method="get" target="_blank" rel="noopener">
-<input type="search" name="SearchText" placeholder="Search products..." aria-label="Search products">
+<form class="search" action="shop.html" method="get">
+<input type="search" name="q" placeholder="Search products..." aria-label="Search products">
 <button type="submit" aria-label="Search">🔍</button>
 </form>
+<a class="account-link" href="about.html" aria-label="Account">👤</a>
 <a class="cart" href="shop.html" aria-label="Cart">🛒<span class="cart-count">0</span></a>
 </header>
 
@@ -32,18 +33,39 @@
 <p class="hero-sub">Best Deals • Top Quality • Unbeatable Prices</p>
 <a class="shop-btn" href="shop.html">Shop Now →</a>
 </div>
-
 </section>
 
-<main class="store">
-<section>
-<div class="section-head"><h2><span class="bar"></span> Our Products</h2><a class="view-all" href="shop.html">View All Products →</a></div>
-<p style="color:#cbd5e1">New products coming soon — stay tuned for the best daily deals!</p>
-</section>
-
-
-
-
+<section class="shop-section">
+<div class="wrap">
+<h2>SHOP</h2>
+<p class="sub">Discover Amazing Products at Unbeatable Prices.</p>
+<div class="cat-grid">
+<a class="cat-card" href="shop.html?cat=electronics">
+<img src="assets/home-banner.png" alt="Gadgets and Electronics">
+<div class="cat-body"><h3>Gadgets &amp; Electronics</h3><p>Smart gadgets, headphones, smart watches and useful tech for daily life.</p><span class="cat-arrow">→</span></div>
+</a>
+<a class="cat-card" href="shop.html?cat=home-kitchen">
+<img src="assets/products/hydraulic-jack/main.png" alt="Home and Kitchen">
+<div class="cat-body"><h3>Home &amp; Kitchen</h3><p>Tools, storage, cooking helpers and items that make the home easier to run.</p><span class="cat-arrow">→</span></div>
+</a>
+<a class="cat-card" href="shop.html?cat=fashion-beauty">
+<img src="assets/products/jesus-saves-hoodie/main.jpg" alt="Fashion and Beauty">
+<div class="cat-body"><h3>Fashion &amp; Beauty</h3><p>Clothing, accessories, personal care and beauty products for you and your family.</p><span class="cat-arrow">→</span></div>
+</a>
+<a class="cat-card" href="shop.html?cat=health-care">
+<img src="assets/products/nyc-hoodie-set/main.jpg" alt="Health and Personal Care">
+<div class="cat-body"><h3>Health &amp; Personal Care</h3><p>Everyday care products, grooming and wellness finds.</p><span class="cat-arrow">→</span></div>
+</a>
+<a class="cat-card" href="shop.html?cat=toys-gifts">
+<img src="assets/products/ny-tracksuit/main.jpg" alt="Toys and Gifts">
+<div class="cat-body"><h3>Toys &amp; Gifts</h3><p>Toys, gifts and fun finds for family and friends.</p><span class="cat-arrow">→</span></div>
+</a>
+<a class="cat-card" href="shop.html?cat=sports-fitness">
+<img src="assets/products/ny-tracksuit/main.jpg" alt="Sports and Fitness">
+<div class="cat-body"><h3>Sports &amp; Fitness</h3><p>Fitness gear, sports accessories and outdoor essentials.</p><span class="cat-arrow">→</span></div>
+</a>
+</div>
+<div class="explore-wrap"><a class="shop-btn" href="shop.html">Explore All Products →</a></div>
 
 <section class="trust-row">
 <div class="trust"><span>🛡️</span><div><strong>Secure Payment</strong><p>Your payment is safe</p></div></div>
@@ -51,12 +73,40 @@
 <div class="trust"><span>🎧</span><div><strong>24/7 Support</strong><p>We're here to help</p></div></div>
 <div class="trust"><span>↩️</span><div><strong>Easy Returns</strong><p>Hassle-free returns</p></div></div>
 </section>
+</div>
+</section>
 
-</main>
 <footer>
-<p><strong>Daily Deal Bazar</strong> — Shop Smart, Save Big!</p>
-<p><a href="index.html">Home</a> · <a href="shop.html">Shop</a> · <a href="about.html">About Us</a> · <a href="terms.html">Terms and Conditions</a> · <a href="privacy.html">Privacy Policy</a></p>
-<p>Contact: <a href="mailto:atifhussain78698633@gmail.com">atifhussain78698633@gmail.com</a></p>
+<div class="foot-grid">
+<div>
+<div class="foot-brand">Daily <span>Deal Bazar</span></div>
+<p>Shop Smart, Save Big! Best deals, top quality and unbeatable prices from trusted AliExpress sellers, for shoppers around the world.</p>
+<p>📧 <a href="mailto:atifhussain78698633@gmail.com">atifhussain78698633@gmail.com</a></p>
+</div>
+<div>
+<h4>Quick Links</h4>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="shop.html?filter=discounted">Deals</a>
+<a href="about.html">About Us</a>
+<a href="about.html">Contact</a>
+</div>
+<div>
+<h4>Information</h4>
+<a href="about.html">About Us</a>
+<a href="privacy.html">Privacy Policy</a>
+<a href="terms.html">Terms &amp; Conditions</a>
+<a href="terms.html">Affiliate Disclosure</a>
+</div>
+<div>
+<h4>Follow Us</h4>
+<a href="https://www.youtube.com" target="_blank" rel="noopener">▶ YouTube</a>
+<a href="https://www.facebook.com" target="_blank" rel="noopener">f Facebook</a>
+<a href="https://www.instagram.com" target="_blank" rel="noopener">📸 Instagram</a>
+<a href="https://www.tiktok.com" target="_blank" rel="noopener">♪ TikTok</a>
+</div>
+</div>
+<div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 </body>
 </html>
