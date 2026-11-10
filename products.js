@@ -2161,6 +2161,111 @@ const PRODUCTS = [
     added: 83,
     popular: false
   }
+,
+  {
+    id: "led-starry-night-sky-projector-aurora-rgb",
+    name: "LED Starry Night Sky Projector Aurora USB Remote Control RGB Galaxy Light 7 Modes for Home Bedroom Game Room Party Decoration",
+    short: "LED Starry Night Sky Projector Aurora",
+    price: 6.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3cHiQB9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/photo-6.jpg"
+    ],
+    video: "assets/products/led-starry-night-sky-projector-aurora-rgb/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-starry-night-sky-projector-aurora-rgb/ad-photo.png",
+    desc: "LED starry night sky projector with aurora RGB galaxy light — USB, remote control, 7 modes for bedroom, game room or party.",
+    specs: [["Power", "USB"], ["Control", "Remote control"], ["Modes", "7"], ["Light", "RGB galaxy aurora"]],
+    added: 84,
+    popular: false
+  },
+  {
+    id: "beyblade-bb104-basalt-horogium-starter-set",
+    name: "GENUINE BB104 Beyblade Starter Set (Basalt Horogium / Twisted Tempo 145WD Masters)",
+    short: "Beyblade BB104 Basalt Horogium Starter Set",
+    price: 22.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4Ua7bY3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/photo-6.jpg"
+    ],
+    video: "assets/products/beyblade-bb104-basalt-horogium-starter-set/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beyblade-bb104-basalt-horogium-starter-set/ad-photo.png",
+    desc: "Genuine BB104 Beyblade starter set — Basalt Horogium / Twisted Tempo 145WD Masters, metal battle top.",
+    specs: [["Brand", "TAKARA TOMY"], ["Material", "Metal"], ["Model", "BB104 Basalt Horogium"]],
+    added: 85,
+    popular: false
+  },
+  {
+    id: "mornwell-f18-portable-water-flosser",
+    name: "Portable Mornwell F18 Water Flosser",
+    short: "Mornwell F18 Portable Water Flosser",
+    price: 25.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2vScWL5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/photo-6.jpg"
+    ],
+    video: "assets/products/mornwell-f18-portable-water-flosser/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mornwell-f18-portable-water-flosser/ad-photo.png",
+    desc: "Portable Mornwell F18 water flosser — 4 modes, 4 nozzles, 200 ml tank, USB-C, IPX7 waterproof.",
+    specs: [["Modes", "4"], ["Nozzles", "4"], ["Tank", "200 ml"], ["Charging", "USB-C"], ["Waterproof", "IPX7"]],
+    added: 86,
+    popular: false
+  },
+  {
+    id: "disangni-22-momme-mulberry-silk-pillowcase",
+    name: "DISANGNI 22 Momme 100% Mulberry Silk Pillowcase",
+    short: "DISANGNI 22 Momme Mulberry Silk Pillowcase",
+    price: 21.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3byHvj1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/photo-6.jpg"
+    ],
+    video: "assets/products/disangni-22-momme-mulberry-silk-pillowcase/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/disangni-22-momme-mulberry-silk-pillowcase/ad-photo.png",
+    desc: "DISANGNI 22 momme 100% mulberry silk pillowcase with hidden zipper, in many colors and sizes.",
+    specs: [["Material", "100% mulberry silk"], ["Weight", "22 momme"], ["Closure", "Hidden zipper"]],
+    added: 87,
+    popular: false
+  }
 
 ];
 
