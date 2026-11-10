@@ -2056,6 +2056,111 @@ const PRODUCTS = [
     added: 79,
     popular: false
   }
+,
+  {
+    id: "pokemon-figure-pokeball-toys-12pcs",
+    name: "12Pcs Pokemon Figure Pokeball Toys Pikachu Charmander Anime Figure Kawaii Doll Collect Accessories Birthday Gifts Ornament",
+    short: "Pokemon Figure Pokeball Toys 12Pcs",
+    price: 8.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3cXGBRZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/photo-6.jpg"
+    ],
+    video: "assets/products/pokemon-figure-pokeball-toys-12pcs/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-figure-pokeball-toys-12pcs/ad-photo.png",
+    desc: "12-piece Pokemon figure set with Pokeball toys — Pikachu, Charmander and friends, a kawaii collectible gift for fans.",
+    specs: [["Pieces", "12"], ["Characters", "Pikachu, Charmander and friends"], ["Type", "Collectible figure set"]],
+    added: 80,
+    popular: false
+  },
+  {
+    id: "laikou-japan-sakura-skincare-set-7pcs",
+    name: "LAIKOU Japan Sakura 7PCS Skincare Set (cleanser, serum, eye cream, mud mask, lip mask, sleeping mask, toner)",
+    short: "LAIKOU Japan Sakura Skincare Set",
+    price: 16.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3rQJDMb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/photo-6.jpg"
+    ],
+    video: "assets/products/laikou-japan-sakura-skincare-set-7pcs/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laikou-japan-sakura-skincare-set-7pcs/ad-photo.png",
+    desc: "LAIKOU Japan Sakura 7-piece skincare set — cleanser, serum, eye cream, mud mask, lip mask, sleeping mask and toner.",
+    specs: [["Brand", "LAIKOU"], ["Pieces", "7"], ["Model", "1688LKyh8"]],
+    added: 81,
+    popular: false
+  },
+  {
+    id: "diy-acrylic-moon-lamp-thousand-layer",
+    name: "DIY Acrylic Thousand Layer Lamp Moon Lamp Desktop Decoration Suspended Atmosphere Light Room Props Home Decor",
+    short: "DIY Acrylic Moon Lamp",
+    price: 28.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4cU4lkx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/photo-6.jpg"
+    ],
+    video: "assets/products/diy-acrylic-moon-lamp-thousand-layer/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-acrylic-moon-lamp-thousand-layer/ad-photo.png",
+    desc: "DIY acrylic thousand-layer moon lamp — suspended atmosphere light with 16 colors for cozy room decor.",
+    specs: [["Brand", "XMSJ"], ["Colors", "16"], ["Power", "Battery powered, 5V"]],
+    added: 82,
+    popular: false
+  },
+  {
+    id: "magsafe-magnetic-ring-phone-holder",
+    name: "For Magsafe Strong Magnetic Ring Phone Holder Stands Adhesive Magnet Wall Mount Mobile Phone Car Holder For iPhone 15 14 13 12",
+    short: "MagSafe Magnetic Ring Phone Holder",
+    price: 2.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3KBLMOF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/photo-6.jpg"
+    ],
+    video: "assets/products/magsafe-magnetic-ring-phone-holder/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magsafe-magnetic-ring-phone-holder/ad-photo.png",
+    desc: "Strong magnetic ring phone holder for MagSafe — adhesive wall mount and car holder for iPhone 15/14/13/12.",
+    specs: [["Compatibility", "iPhone 15/14/13/12"], ["Mount", "Adhesive magnet"], ["Type", "Magnetic ring holder"]],
+    added: 83,
+    popular: false
+  }
 
 ];
 
