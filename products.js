@@ -2686,6 +2686,59 @@ const PRODUCTS = [
     added: 103,
     popular: false
   }
+,
+  {
+    id: "omekol-double-layer-anti-fog-ski-goggles",
+    name: "OMEKOL Brand New Double Layers Anti-fog Ski Goggles Men Women Snow Snowboard Glasses Snowmobile Mask Outdoor Sport Eyewear",
+    short: "OMEKOL Double Layer Anti-Fog Ski Goggles",
+    price: 6.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4Nks1On",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/photo-6.jpg"
+    ],
+    video: "assets/products/omekol-double-layer-anti-fog-ski-goggles/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/omekol-double-layer-anti-fog-ski-goggles/ad-photo.png",
+    desc: "OMEKOL double layer anti-fog ski goggles — men and women snow goggles for snowboarding and snowmobile.",
+    specs: [["Layers", "Double layers"], ["Lens", "Anti-fog, UV400"], ["Use", "Snow, snowboard"]],
+    added: 104,
+    popular: false
+  },
+  {
+    id: "diy-3d-holographic-projector-kit-for-kids",
+    name: "DIY 3D Holographic Projector Kit for Kids Scientific Production Handmade Puzzle Experimental Materials Small Invention Projects",
+    short: "DIY 3D Holographic Projector Kit for Kids",
+    price: 3.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3xQqEkr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/photo-6.jpg"
+    ],
+    video: "assets/products/diy-3d-holographic-projector-kit-for-kids/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-3d-holographic-projector-kit-for-kids/ad-photo.png",
+    desc: "DIY 3D holographic projector kit for kids — scientific production handmade puzzle, small invention project.",
+    specs: [["Type", "DIY 3D hologram"], ["Learning", "STEM"], ["Format", "Handmade puzzle"]],
+    added: 105,
+    popular: false
+  }
 
 ];
 
