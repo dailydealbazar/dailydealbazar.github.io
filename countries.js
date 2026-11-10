@@ -34,6 +34,13 @@ const DDB = {
     } catch (e) { this.rates = null; }
     return this.rates;
   },
+  // PKR equivalent of a USD price, from the same live cached rates as
+  // formatPrice. Returns null when no live PKR rate is available, so the
+  // caller omits the line instead of showing a guessed rate.
+  formatPKR(usd) {
+    if (!this.rates || !this.rates.PKR) return null;
+    return "\u2248 Rs. " + Math.round(usd * this.rates.PKR).toLocaleString("en-US");
+  },
   formatPrice(usd, code) {
     const cur = this.currencyFor(code || this.getCountry() || this.defaultCountry);
     let amount = usd, ccy = "USD";

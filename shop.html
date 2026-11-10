@@ -7,8 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shop — Daily Deal Bazar | Explore Our Products</title>
 <meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=16">
-<script src="countries.js?v=2"></script>
+<link rel="stylesheet" href="style.css?v=17">
+<script src="countries.js?v=3"></script>
 </head>
 <body>
 <header class="topbar">
@@ -18,6 +18,7 @@
 <a href="shop.html" class="active">Shop</a>
 <a href="shop.html?filter=discounted">Deals</a>
 <a href="about.html">About Us</a>
+<a href="faq.html">FAQ</a>
 <a href="about.html#contact">Contact</a>
 </nav>
 <form class="search" action="shop.html" method="get">
@@ -26,7 +27,6 @@
 </form>
 <select id="countrySelect" class="country-select" aria-label="Select your country"></select>
 <a class="account-link" href="about.html" aria-label="Account">👤</a>
-<a class="cart" href="shop.html" aria-label="Cart">🛒<span class="cart-count">0</span></a>
 </header>
 
 <section class="shop-head">
@@ -96,11 +96,13 @@
 <a href="shop.html">Shop</a>
 <a href="shop.html?filter=discounted">Deals</a>
 <a href="about.html">About Us</a>
+<a href="faq.html">FAQ</a>
 <a href="about.html#contact">Contact</a>
 </div>
 <div>
 <h4>Information</h4>
 <a href="about.html">About Us</a>
+<a href="faq.html">FAQ</a>
 <a href="privacy.html">Privacy Policy</a>
 <a href="terms.html">Terms &amp; Conditions</a>
 <a href="terms.html">Affiliate Disclosure</a>
@@ -116,7 +118,7 @@
 <div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 
-<script src="products.js?v=8"></script>
+<script src="products.js?v=9"></script>
 <script>
 const params = new URLSearchParams(location.search);
 let state = {
@@ -146,7 +148,9 @@ function buildCatNav() {
 (function buildPhotoStrip() {
   const strip = document.getElementById("photoStrip");
   if (!strip || typeof PRODUCTS === "undefined") return;
-  const items = PRODUCTS.slice(0, 12).map(p => `<a href="product.html?id=${p.id}"><img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>`).join("");
+  const shuffled = PRODUCTS.slice();
+  for (let i = shuffled.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]; }
+  const items = shuffled.slice(0, 12).map(p => `<a href="product.html?id=${p.id}"><img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>`).join("");
   strip.innerHTML = `<div class="strip-track">${items}${items}</div>`;
 })();
 
@@ -166,6 +170,16 @@ function filtered() {
   return list;
 }
 
+// Green % OFF badge — only when a real original price is recorded.
+function offBadge(p) {
+  if (!p.oldPrice || p.oldPrice <= p.price) return "";
+  return `<span class="p-off">-${Math.round((1 - p.price / p.oldPrice) * 100)}%</span>`;
+}
+// PKR line — only when a live exchange rate is available; otherwise omitted.
+function pkrLine(p) {
+  const v = (DDB.formatPKR ? DDB.formatPKR(p.price) : null);
+  return v ? `<div class="pkr-line">${v}</div>` : "";
+}
 function card(p) {
   const badge = p.badge ? `<span class="p-badge">${p.badge}</span>` : "";
   const old = p.oldPrice ? `<s>${DDB.formatPrice(p.oldPrice)}</s>` : "";
@@ -175,7 +189,8 @@ function card(p) {
     <div class="p-body">
       <h3><a href="product.html?id=${p.id}">${p.short}</a></h3>
       <div class="p-cat">${p.categoryName}</div>
-      <div class="p-price">${DDB.formatPrice(p.price)}${old}</div>
+      <div class="p-price">${DDB.formatPrice(p.price)}${old}${offBadge(p)}</div>
+      ${pkrLine(p)}
       ${rating}
       <a class="p-buy" href="${p.link}" target="_blank" rel="noopener">Buy Now →</a>
       <button class="p-copy" onclick="copyProductLink('${p.id}', this)">🔗 Copy Link</button>

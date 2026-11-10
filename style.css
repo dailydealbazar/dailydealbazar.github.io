@@ -21,8 +21,6 @@ img{max-width:100%}
 .search input{background:transparent;border:0;color:#fff;padding:10px 16px;outline:none;width:180px}
 .search input::placeholder{color:#94a3b8}
 .search button{background:var(--gold);border:0;padding:10px 16px;cursor:pointer;font-size:16px}
-.cart{position:relative;font-size:22px;text-decoration:none}
-.cart-count{position:absolute;top:-8px;right:-10px;background:#ff3b30;color:#fff;font-size:11px;font-weight:800;border-radius:999px;padding:2px 6px}
 .account-link{font-size:22px;text-decoration:none}
 
 /* Hero — PERMANENT order: banner image on top, text below, centered */
@@ -228,3 +226,17 @@ main.page h2{color:var(--navy);margin-top:36px}
 /* Country selector in header */
 .country-select{margin-left:8px;background:#16233a;color:#fff;border:1px solid #2b4a7a;border-radius:999px;padding:9px 10px;font-size:14px;max-width:150px;outline:none;cursor:pointer}
 .country-select:focus{border-color:var(--gold)}
+
+/* % OFF badge (green) shown next to a price when a real oldPrice exists */
+.p-off{display:inline-block;background:#16a34a;color:#fff;font-weight:800;font-size:13px;padding:3px 9px;border-radius:999px;margin-left:8px;vertical-align:middle}
+.pd-price .p-off{font-size:15px;padding:4px 11px}
+/* PKR equivalent line under a price (live rate only; hidden when no rate) */
+.pkr-line{font-size:14px;color:var(--muted);font-weight:600;margin:2px 0 10px}
+/* Delivery block on the product page */
+.delivery-box{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:14px;padding:16px 18px;margin-top:20px;font-size:14px;color:var(--ink)}
+.delivery-box h4{margin:0 0 6px;color:#166534;font-size:16px}
+.delivery-box p{margin:0}
+/* FAQ page */
+.faq-item{margin:0 0 24px}
+.faq-item h3{color:var(--navy);font-size:19px;margin:0 0 6px}
+.faq-item p{margin:0}
