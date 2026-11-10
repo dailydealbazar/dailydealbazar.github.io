@@ -2476,6 +2476,111 @@ const PRODUCTS = [
     added: 95,
     popular: false
   }
+,
+  {
+    id: "7-levels-heavy-duty-resistance-band",
+    name: "7 Levels Heavy-Duty Resistance Band Agility Training Workout Gym Equipment Yoga Pilates Accessories",
+    short: "7 Levels Heavy-Duty Resistance Band",
+    price: 3.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4ovyQUJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/photo-6.jpg"
+    ],
+    video: "assets/products/7-levels-heavy-duty-resistance-band/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-levels-heavy-duty-resistance-band/ad-photo.png",
+    desc: "7-levels heavy-duty resistance band for agility training, gym workouts, yoga and Pilates.",
+    specs: [["Levels", "7"], ["Type", "Heavy-duty"]],
+    added: 96,
+    popular: false
+  },
+  {
+    id: "keychron-m6-wireless-mouse",
+    name: "Keychron M6 Wireless Mouse [Touch Scroll] 1000Hz Dual Mode 2.4Ghz Bluetooth Mouse With Holder Support 4K Polling Rate",
+    short: "Keychron M6 Wireless Mouse",
+    price: 47.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4Nu36aF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/photo-6.jpg"
+    ],
+    video: "assets/products/keychron-m6-wireless-mouse/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/keychron-m6-wireless-mouse/ad-photo.png",
+    desc: "Keychron M6 wireless mouse with touch scroll, 1000Hz dual mode 2.4GHz and Bluetooth, 4K polling rate.",
+    specs: [["Polling rate", "1000Hz"], ["Mode", "Dual mode 2.4GHz + Bluetooth"], ["Feature", "4K polling rate"]],
+    added: 97,
+    popular: false
+  },
+  {
+    id: "ugreen-dual-hdmi-usb-c-hub-10-in-1",
+    name: "UGREEN Dual HDMI USB-C HUB 8K 4K HDMI Adapter 10 in 1 Splitter with RJ45 USB3.0 PD 100W Dock for MacBook Air Pro",
+    short: "UGREEN Dual HDMI USB-C Hub 10-in-1",
+    price: 16.02,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c311lXKB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/photo-6.jpg"
+    ],
+    video: "assets/products/ugreen-dual-hdmi-usb-c-hub-10-in-1/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-dual-hdmi-usb-c-hub-10-in-1/ad-photo.png",
+    desc: "UGREEN dual HDMI USB-C hub 10-in-1 — 8K/4K HDMI adapter with RJ45, USB 3.0 and 100W PD dock.",
+    specs: [["Ports", "10-in-1"], ["HDMI", "Dual 8K 4K"], ["Network", "RJ45"], ["Power", "PD 100W"]],
+    added: 98,
+    popular: false
+  },
+  {
+    id: "fosi-audio-bt20a-bluetooth-amplifier",
+    name: "Fosi Audio BT20A Bluetooth TPA3116D2 Sound Power Amplifier 100W Mini HiFi Stereo Class D Amp Bass Treble Tone Control",
+    short: "Fosi Audio BT20A Bluetooth Amplifier",
+    price: 60.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3nsHtdd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/photo-6.jpg"
+    ],
+    video: "assets/products/fosi-audio-bt20a-bluetooth-amplifier/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-bt20a-bluetooth-amplifier/ad-photo.png",
+    desc: "Fosi Audio BT20A Bluetooth amplifier — 100W mini HiFi stereo Class D amp with bass and treble tone control.",
+    specs: [["Power", "100W"], ["Bluetooth", "Yes"], ["Chip", "TPA3116D2"], ["Class", "D"]],
+    added: 99,
+    popular: false
+  }
 
 ];
 
