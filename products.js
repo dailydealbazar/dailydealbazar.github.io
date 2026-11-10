@@ -1165,6 +1165,111 @@ const PRODUCTS = [
     added: 45,
     popular: false
   }
+,
+  {
+    id: "usb-c-fast-charging-cable-240w",
+    name: "240W Nylon USB Type-C Super Fast Charging Cable with LED Display (Dual Type C)",
+    short: "240W USB-C Fast Charging Cable",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4F4C2pp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/photo-6.jpg"
+    ],
+    video: "assets/products/usb-c-fast-charging-cable-240w/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-fast-charging-cable-240w/ad-photo.png",
+    desc: "240W nylon USB Type-C super fast charging cable with LED display, dual Type-C, durable braided design.",
+    specs: [["Power", "240W"], ["Type", "USB Type-C to Type-C"], ["Display", "LED"], ["Material", "Nylon braided"]],
+    added: 46,
+    popular: false
+  },
+  {
+    id: "hailicare-heating-belt",
+    name: "Hailicare Electric Heating Belt / Hand Warmer, Winter Heater (Gray, USB, 3 Heat Levels)",
+    short: "Hailicare Heating Belt",
+    price: 2.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4l18SLH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/photo-6.jpg"
+    ],
+    video: "assets/products/hailicare-heating-belt/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hailicare-heating-belt/ad-photo.png",
+    desc: "Hailicare electric heating belt and hand warmer, USB powered with 3 heat levels for winter warmth.",
+    specs: [["Power", "USB"], ["Heat levels", "3"], ["Color", "Gray"], ["Type", "Heating belt / hand warmer"]],
+    added: 47,
+    popular: false
+  },
+  {
+    id: "amoled-smart-watch-x20-earbuds",
+    name: "OEM AMOLED 1.43-inch Smart Watch X20 with Wireless Earbuds, BT 2-in-1 Fitness & Heart-Rate Tracker",
+    short: "AMOLED Smart Watch X20 + Earbuds",
+    price: 51.69,
+    oldPrice: 59.79,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3AZDJRp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/photo-6.jpg"
+    ],
+    video: "assets/products/amoled-smart-watch-x20-earbuds/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/amoled-smart-watch-x20-earbuds/ad-photo.png",
+    desc: "AMOLED 1.43-inch smart watch X20 with wireless earbuds built in — Bluetooth 2-in-1 with fitness and heart-rate tracking.",
+    specs: [["Display", "1.43-inch AMOLED"], ["Features", "Wireless earbuds, BT 2-in-1"], ["Tracking", "Fitness & heart rate"], ["Color", "Silver"]],
+    added: 48,
+    popular: false
+  },
+  {
+    id: "men-winter-work-gloves-40c",
+    name: "Men's Cold and Waterproof Winter Work Gloves, -40°C, Fleece-Lined (1 Pair, Blue)",
+    short: "Men Winter Work Gloves -40°C",
+    price: 4.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3ObQIX9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/photo-6.jpg"
+    ],
+    video: "assets/products/men-winter-work-gloves-40c/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-winter-work-gloves-40c/ad-photo.png",
+    desc: "Men's cold and waterproof winter work gloves, fleece-lined, rated to -40°C.",
+    specs: [["Temperature", "-40°C"], ["Lining", "Fleece"], ["Waterproof", "Yes"], ["Color", "Blue"]],
+    added: 49,
+    popular: false
+  }
 
 ];
 
