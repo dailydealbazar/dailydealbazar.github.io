@@ -1270,6 +1270,109 @@ const PRODUCTS = [
     added: 49,
     popular: false
   }
+,
+  {
+    id: "portable-desktop-heater-fan-1500w",
+    name: "Portable Desktop Heater Fan 1500W PTC Mini Space Heater with Remote, 12H Timer",
+    short: "Portable Desktop Heater Fan 1500W",
+    price: 49.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4eKWT07",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-desktop-heater-fan-1500w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-desktop-heater-fan-1500w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-desktop-heater-fan-1500w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-desktop-heater-fan-1500w/photo-4.jpg"
+    ],
+    video: "assets/products/portable-desktop-heater-fan-1500w/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-desktop-heater-fan-1500w/ad-photo.png",
+    desc: "Portable desktop heater fan 1500W PTC mini space heater with remote and 12-hour timer for quick winter warmth.",
+    specs: [["Power", "1500W"], ["Type", "PTC mini space heater"], ["Remote", "Yes"], ["Timer", "12H"]],
+    added: 50,
+    popular: false
+  },
+  {
+    id: "chaifenko-winter-parka-men",
+    name: "CHAIFENKO Brand Winter Warm Waterproof Hooded Parka for Men",
+    short: "CHAIFENKO Winter Parka",
+    price: 35.02,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3FZiGiL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/photo-6.jpg"
+    ],
+    video: "assets/products/chaifenko-winter-parka-men/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chaifenko-winter-parka-men/ad-photo.png",
+    desc: "CHAIFENKO winter warm waterproof hooded parka for men, built for cold weather.",
+    specs: [["Brand", "CHAIFENKO"], ["Type", "Hooded parka"], ["Waterproof", "Yes"], ["Season", "Winter"]],
+    added: 51,
+    popular: false
+  },
+  {
+    id: "leosoxs-heated-ski-gloves",
+    name: "LEOSOXS Heated Electric Ski Gloves, USB Charging, Winter Outdoor (Black, MJ-67)",
+    short: "LEOSOXS Heated Ski Gloves",
+    price: 31.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3taeHjD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/photo-6.jpg"
+    ],
+    video: "assets/products/leosoxs-heated-ski-gloves/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leosoxs-heated-ski-gloves/ad-photo.png",
+    desc: "LEOSOXS heated electric ski gloves with USB charging for winter outdoor sports. Batteries and power bank not included.",
+    specs: [["Type", "Heated ski gloves"], ["Charging", "USB"], ["Color", "Black"], ["Model", "MJ-67"]],
+    added: 52,
+    popular: false
+  },
+  {
+    id: "bernie-chen-thermal-underwear-set",
+    name: "Bernie Chen Men's Winter Thermal Underwear Set, Fleece-Lined Long Johns (Polyester/Spandex)",
+    short: "Bernie Chen Thermal Set",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3F9dPG7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/photo-6.jpg"
+    ],
+    video: "assets/products/bernie-chen-thermal-underwear-set/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bernie-chen-thermal-underwear-set/ad-photo.png",
+    desc: "Bernie Chen men's winter thermal underwear set, fleece-lined long johns. Sizing runs small — size up.",
+    specs: [["Material", "Polyester/Spandex"], ["Lining", "Fleece"], ["Type", "Thermal underwear set"], ["Fit", "Runs small, size up"]],
+    added: 53,
+    popular: false
+  }
 
 ];
 
