@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shop — Daily Deal Bazar | Explore Our Products</title>
 <meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=17">
+<link rel="stylesheet" href="style.css?v=18">
 <script src="countries.js?v=3"></script>
 </head>
 <body>
@@ -68,7 +68,7 @@
 <span class="count" id="resultCount">Showing Products</span>
 <input type="search" id="searchBox" placeholder="Search Products..." aria-label="Search products">
 <select id="sortBox" aria-label="Sort products">
-<option value="popular">Sort by Popularity</option>
+<option value="popular">Sort by Featured</option>
 <option value="latest">Sort by Latest</option>
 <option value="price-low">Sort by Price: Low to High</option>
 <option value="price-high">Sort by Price: High to Low</option>
@@ -118,9 +118,15 @@
 <div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 
-<script src="products.js?v=9"></script>
+<script src="products.js?v=10"></script>
 <script>
 const params = new URLSearchParams(location.search);
+const PER_PAGE = 12;
+// Shop grid order: shuffled once per page load (Fisher–Yates on a copy).
+// Every reload shows a different order; the same order is kept for the
+// session so Load More paginates through it consistently.
+const SHOP_ORDER = (typeof PRODUCTS === "undefined" ? [] : PRODUCTS.slice());
+for (let i = SHOP_ORDER.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [SHOP_ORDER[i], SHOP_ORDER[j]] = [SHOP_ORDER[j], SHOP_ORDER[i]]; }
 let state = {
   cat: params.get("cat") || "all",
   q: (params.get("q") || "").trim().toLowerCase(),
@@ -129,9 +135,8 @@ let state = {
   latest: params.get("filter") === "latest",
   discounted: params.get("filter") === "discounted",
   sort: "popular",
-  shown: 8
+  shown: PER_PAGE
 };
-const PER_PAGE = 8;
 
 function buildCatNav() {
   const nav = document.getElementById("catNav");
@@ -155,7 +160,7 @@ function buildCatNav() {
 })();
 
 function filtered() {
-  let list = PRODUCTS.slice();
+  let list = SHOP_ORDER.slice();
   if (state.cat !== "all") list = list.filter(p => p.category === state.cat);
   if (state.q) list = list.filter(p => (p.name + " " + p.short + " " + p.categoryName).toLowerCase().includes(state.q));
   if (state.min !== null) list = list.filter(p => p.price >= state.min);
@@ -166,7 +171,8 @@ function filtered() {
   if (state.sort === "latest") list.sort((a, b) => b.added - a.added);
   else if (state.sort === "price-low") list.sort((a, b) => a.price - b.price);
   else if (state.sort === "price-high") list.sort((a, b) => b.price - a.price);
-  else list.sort((a, b) => (b.popular - a.popular) || (b.added - a.added));
+  // Default sort ("popular"): keep the session shuffle order — no re-sort,
+  // so every reload shows a different grid order.
   return list;
 }
 
