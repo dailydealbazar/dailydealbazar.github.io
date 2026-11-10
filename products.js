@@ -2739,6 +2739,111 @@ const PRODUCTS = [
     added: 105,
     popular: false
   }
+,
+  {
+    id: "kapvoe-ski-goggles-anti-fog-uv400",
+    name: "Kapvoe Ski Goggles, Snow Goggles, Anti-Fog Lens, UV400, for Skiing/Snowboarding, Men & Women",
+    short: "Kapvoe Ski Goggles Anti-Fog UV400",
+    price: 37.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3BeUgax",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/photo-6.jpg"
+    ],
+    video: "assets/products/kapvoe-ski-goggles-anti-fog-uv400/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kapvoe-ski-goggles-anti-fog-uv400/ad-photo.png",
+    desc: "Kapvoe ski goggles — snow goggles with anti-fog lens and UV400 protection, for skiing and snowboarding, men and women.",
+    specs: [["Lens", "Anti-fog, UV400"], ["Use", "Skiing, snowboarding"], ["Fit", "Men & women"]],
+    added: 106,
+    popular: false
+  },
+  {
+    id: "tesla-magsafe-car-phone-mount-wireless-charger",
+    name: "Car Phone Mount Holder 15W and 25W Magnetic Wireless Charger Compatible with MagSafe for Tesla Model Y / 3 JUNIPER 2026",
+    short: "Tesla MagSafe Car Phone Mount Wireless Charger",
+    price: 32.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3TVVZhl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/photo-6.jpg"
+    ],
+    video: "assets/products/tesla-magsafe-car-phone-mount-wireless-charger/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tesla-magsafe-car-phone-mount-wireless-charger/ad-photo.png",
+    desc: "Car phone mount holder — 15W and 25W magnetic wireless charger, MagSafe compatible for Tesla Model Y / 3 Juniper 2026.",
+    specs: [["Charging", "15W and 25W wireless"], ["Mount", "Magnetic, MagSafe"], ["Fit", "Tesla Model Y / 3"]],
+    added: 107,
+    popular: false
+  },
+  {
+    id: "kids-digital-camera-unicorn-32gb",
+    name: "Kids Camera Toys for Boys Girls, Selfie HD Digital Video Camera, Shockproof Camcorder, Christmas/Birthday, 32GB Card Included (Purple, Unicorn)",
+    short: "Kids Digital Camera Unicorn 32GB",
+    price: 19.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3FRcBNd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/photo-6.jpg"
+    ],
+    video: "assets/products/kids-digital-camera-unicorn-32gb/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-digital-camera-unicorn-32gb/ad-photo.png",
+    desc: "Kids digital camera — selfie HD video camera, shockproof camcorder with 32GB card included, purple unicorn.",
+    specs: [["Video", "HD digital video"], ["Build", "Shockproof"], ["Storage", "32GB card included"]],
+    added: 108,
+    popular: false
+  },
+  {
+    id: "rc-jet-car-gesture-sensing-2-4g",
+    name: "RC Jet Car 2.4G Gesture Sensing Remote Control Car, Drift 4WD Stunt, Water Balloon Tank Car, Boys' Toy",
+    short: "RC Jet Car Gesture Sensing 2.4G",
+    price: 45.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3hlB5Tp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/photo-6.jpg"
+    ],
+    video: "assets/products/rc-jet-car-gesture-sensing-2-4g/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-jet-car-gesture-sensing-2-4g/ad-photo.png",
+    desc: "RC jet car — 2.4G gesture sensing remote control car, drift 4WD stunt, water balloon tank car, boys' toy.",
+    specs: [["Control", "2.4G gesture sensing"], ["Drive", "Drift 4WD stunt"], ["Feature", "Water balloon tank"]],
+    added: 109,
+    popular: false
+  }
 
 ];
 
