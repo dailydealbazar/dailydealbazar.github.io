@@ -2922,6 +2922,59 @@ const PRODUCTS = [
     added: 112,
     popular: false
   }
+,
+  {
+    id: "genshin-impact-tea-party-dodoco-plush-keychain-blind-box",
+    name: "Official Authentic miHoYo Genshin Impact Tea Party Companion Dodoco Plush Keychain Blind Box Klee Peripheral Collectible Gift",
+    short: "Genshin Impact Dodoco Plush Keychain Blind Box",
+    price: 21.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2u8IdKB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/photo-6.jpg"
+    ],
+    video: "assets/products/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-tea-party-dodoco-plush-keychain-blind-box/ad-photo.png",
+    desc: "Official authentic miHoYo Genshin Impact tea party companion Dodoco plush keychain blind box — Klee peripheral collectible gift.",
+    specs: [["Brand", "Official authentic miHoYo"], ["Design", "Tea party companion Dodoco"], ["Type", "Blind box collectible"]],
+    added: 113,
+    popular: false
+  },
+  {
+    id: "thornsline-x8-braid-fishing-line",
+    name: "ThornsLine X8 Upgrade Braid Fishing Line Super Strong 8 Strands Multifilament PE Line 300-1000M Braided Line All For Fish Carp",
+    short: "ThornsLine X8 Braid Fishing Line",
+    price: 10.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3EZRA8P",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/photo-6.jpg"
+    ],
+    video: "assets/products/thornsline-x8-braid-fishing-line/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thornsline-x8-braid-fishing-line/ad-photo.png",
+    desc: "ThornsLine X8 upgrade braid fishing line — super strong 8 strands multifilament PE line, 300-1000M braided line for carp fishing.",
+    specs: [["Type", "X8 upgrade braid"], ["Strands", "8 strands multifilament PE"], ["Length", "300-1000M"]],
+    added: 114,
+    popular: false
+  }
 
 ];
 
