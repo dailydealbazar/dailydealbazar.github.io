@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dailydealbazar.github.io/sitemap.xml
