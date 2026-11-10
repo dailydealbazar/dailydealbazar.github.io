@@ -1478,6 +1478,111 @@ const PRODUCTS = [
     added: 57,
     popular: false
   }
+,
+  {
+    id: "miniso-ms190-ai-translator-earbuds",
+    name: "MINISO MS190 Real Time AI Voice Translator Earbuds, 135 Languages, Wireless Bluetooth Earphones",
+    short: "MINISO MS190 AI Translator Earbuds",
+    price: 20.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4SFceW7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/photo-6.jpg"
+    ],
+    video: "assets/products/miniso-ms190-ai-translator-earbuds/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miniso-ms190-ai-translator-earbuds/ad-photo.png",
+    desc: "MINISO MS190 real-time AI voice translator earbuds with 135 languages, wireless Bluetooth earphones.",
+    specs: [["Brand", "MINISO"], ["Model", "MS190"], ["Languages", "135"], ["Type", "AI translator earbuds"]],
+    added: 58,
+    popular: false
+  },
+  {
+    id: "qoovi-pd-100w-power-bank-20000mah",
+    name: "QOOVI PD 100W Power Bank 20000mAh",
+    short: "QOOVI PD 100W Power Bank 20000mAh",
+    price: 39.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2z0iVMx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/photo-6.jpg"
+    ],
+    video: "assets/products/qoovi-pd-100w-power-bank-20000mah/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoovi-pd-100w-power-bank-20000mah/ad-photo.png",
+    desc: "QOOVI PD 100W power bank with 20000mAh capacity for fast charging on the go.",
+    specs: [["Brand", "QOOVI"], ["Capacity", "20000mAh"], ["Power", "PD 100W"], ["Type", "Power bank"]],
+    added: 59,
+    popular: false
+  },
+  {
+    id: "blux-spintail-spinner-fishing-lure",
+    name: "BLUX SPINTAIL Spinner Fishing Lure 4.5g/7g/11g",
+    short: "BLUX SPINTAIL Spinner Fishing Lure",
+    price: 4.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3XE3aDv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/photo-6.jpg"
+    ],
+    video: "assets/products/blux-spintail-spinner-fishing-lure/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blux-spintail-spinner-fishing-lure/ad-photo.png",
+    desc: "BLUX SPINTAIL spinner fishing lure, available in 4.5g, 7g and 11g weights.",
+    specs: [["Brand", "BLUX"], ["Type", "Spinner fishing lure"], ["Weights", "4.5g / 7g / 11g"], ["Use", "Fishing"]],
+    added: 60,
+    popular: false
+  },
+  {
+    id: "naturehike-sleeping-bag-lw180",
+    name: "Naturehike Envelope-style Sleeping Bag LW180 Ultralight Cotton Double Sleeping Bag",
+    short: "Naturehike Sleeping Bag LW180",
+    price: 38.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4M9m6Hp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/photo-6.jpg"
+    ],
+    video: "assets/products/naturehike-sleeping-bag-lw180/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-lw180/ad-photo.png",
+    desc: "Naturehike envelope-style sleeping bag LW180, ultralight cotton double sleeping bag for camping. 3-season, comfort 15-22°C, about 680g.",
+    specs: [["Brand", "Naturehike"], ["Model", "LW180"], ["Weight", "About 680g"], ["Seasons", "3-season, 15-22°C"]],
+    added: 61,
+    popular: false
+  }
 
 ];
 
