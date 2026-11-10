@@ -2581,6 +2581,111 @@ const PRODUCTS = [
     added: 99,
     popular: false
   }
+,
+  {
+    id: "cold-proof-thermal-balaclava-ski-mask",
+    name: "Men Women Cold-Proof Thermal Scarf Winter Ski Hat Balaclava Full Face Mask Ski Cycling Hunting Head Neck Cover Helmet Liner Cap",
+    short: "Cold-Proof Thermal Balaclava Ski Mask",
+    price: 5.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4Ufa839",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/photo-6.jpg"
+    ],
+    video: "assets/products/cold-proof-thermal-balaclava-ski-mask/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cold-proof-thermal-balaclava-ski-mask/ad-photo.png",
+    desc: "Cold-proof thermal balaclava ski mask — full face cover for winter ski, cycling and hunting.",
+    specs: [["Type", "Cold-proof thermal"], ["Coverage", "Full face mask"], ["Use", "Ski, cycling, hunting"]],
+    added: 100,
+    popular: false
+  },
+  {
+    id: "magnetic-building-blocks-stem-toy",
+    name: "Magnetic Building Blocks Kids DIY Magnet Cubes Montessori STEM Educational Game Toy",
+    short: "Magnetic Building Blocks STEM Toy",
+    price: 12.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3R7TZWX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/photo-6.jpg"
+    ],
+    video: "assets/products/magnetic-building-blocks-stem-toy/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-building-blocks-stem-toy/ad-photo.png",
+    desc: "Magnetic building blocks for kids — DIY magnet cubes, Montessori STEM educational game toy.",
+    specs: [["Type", "DIY magnet cubes"], ["Learning", "Montessori STEM"]],
+    added: 101,
+    popular: false
+  },
+  {
+    id: "htc-ne58-bluetooth-open-ear-headset",
+    name: "HTC Bluetooth Headset Surround Sound Hi-Fi Stereo Comfort Fit Lightweight Open Ear for Sport Running (HTC NE58)",
+    short: "HTC NE58 Bluetooth Open-Ear Headset",
+    price: 24.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3wAM60n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/photo-6.jpg"
+    ],
+    video: "assets/products/htc-ne58-bluetooth-open-ear-headset/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne58-bluetooth-open-ear-headset/ad-photo.png",
+    desc: "HTC NE58 Bluetooth headset — surround sound Hi-Fi stereo, comfortable lightweight open-ear fit for sport running.",
+    specs: [["Fit", "Open-ear"], ["Sound", "Surround sound Hi-Fi"], ["Use", "Sport running"]],
+    added: 102,
+    popular: false
+  },
+  {
+    id: "magnetic-car-phone-holder-air-vent",
+    name: "Car Phone Holder Magnetic Universal Magnet Phone Air Vent Mount for iPhone 14 13 Samsung",
+    short: "Magnetic Car Phone Holder Air Vent",
+    price: 2.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3kWlnKJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/photo-6.jpg"
+    ],
+    video: "assets/products/magnetic-car-phone-holder-air-vent/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-air-vent/ad-photo.png",
+    desc: "Magnetic car phone holder — universal magnet air vent mount for iPhone 14/13 and Samsung.",
+    specs: [["Mount", "Magnetic air vent"], ["Compatibility", "iPhone 14/13, Samsung"]],
+    added: 103,
+    popular: false
+  }
 
 ];
 
