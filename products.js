@@ -1688,6 +1688,33 @@ const PRODUCTS = [
     added: 65,
     popular: false
   }
+,
+  {
+    id: "kuulaa-magnetic-power-bank-10000mah",
+    name: "KUULAA Magnetic Power Bank 10000mAh, 20W MagSafe Wireless Charger, Model KL-YD75",
+    short: "KUULAA Magnetic Power Bank",
+    price: 35.26,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3uuiMQx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/photo-6.jpg"
+    ],
+    video: "assets/products/kuulaa-magnetic-power-bank-10000mah/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuulaa-magnetic-power-bank-10000mah/ad-photo.png",
+    desc: "KUULAA magnetic power bank, 10000mAh, 20W MagSafe wireless charging for iPhone 12-16 series. Note: some reviews mention heating during use.",
+    specs: [["Brand", "KUULAA"], ["Model", "KL-YD75"], ["Capacity", "10000mAh"], ["Output", "20W MagSafe"]],
+    added: 66,
+    popular: false
+  }
 
 ];
 
