@@ -1,0 +1,90 @@
+/* Daily Deal Bazar — live tracker (Firebase Realtime Database).
+   Counts pageviews, sessions, countries, top pages, live presence and Buy Now clicks.
+   Never breaks the page: every step is guarded. No personal data is collected. */
+(function () {
+  try {
+    if (location.hostname !== "dailydealbazar.github.io") return;
+    if (!window.firebase || !firebase.database) return;
+    var CFG = {
+      apiKey: "AIzaSyBHPNawUwdK-0DcagTm1IpbDKZwQvZTNQc",
+      authDomain: "daily-deal-bazar.firebaseapp.com",
+      databaseURL: "https://daily-deal-bazar-default-rtdb.firebaseio.com",
+      projectId: "daily-deal-bazar",
+      storageBucket: "daily-deal-bazar.firebasestorage.app",
+      messagingSenderId: "803305199726",
+      appId: "1:803305199726:web:7cb905feaaf78bec932e7f"
+    };
+    if (!firebase.apps.length) firebase.initializeApp(CFG);
+    var db = firebase.database();
+    var INC = firebase.database.ServerValue.increment(1);
+    var now = new Date();
+    var dstr = now.getFullYear() + "-" + String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0");
+    var path = location.pathname.replace(/^\//, "") || "index.html";
+    var slug = path.replace(/\.html$/, "").replace(/[^A-Za-z0-9_-]/g, "_") || "home";
+    if (slug === "index") slug = "home";
+    var sid = null;
+    try {
+      sid = sessionStorage.getItem("ddb_sid");
+      if (!sid) { sid = "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 8); sessionStorage.setItem("ddb_sid", sid); }
+    } catch (e) { sid = "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 8); }
+    var isNewSession = false;
+    try {
+      if (!sessionStorage.getItem("ddb_sess")) { sessionStorage.setItem("ddb_sess", "1"); isNewSession = true; }
+    } catch (e) { isNewSession = true; }
+
+    function bump(country) {
+      var up = {};
+      up["ddb/stats/total/pageviews"] = INC;
+      up["ddb/stats/days/" + dstr + "/pageviews"] = INC;
+      up["ddb/stats/pages/" + slug + "/pageviews"] = INC;
+      if (country) up["ddb/stats/countries/" + country + "/pageviews"] = INC;
+      if (isNewSession) {
+        up["ddb/stats/total/sessions"] = INC;
+        up["ddb/stats/days/" + dstr + "/sessions"] = INC;
+      }
+      db.ref().update(up).catch(function () {});
+    }
+    bump(null);
+
+    /* Country — ipapi, same source the site already uses for its country selector. */
+    try {
+      var ctrl = new AbortController();
+      var to = setTimeout(function () { try { ctrl.abort(); } catch (e) {} }, 2500);
+      fetch("https://ipapi.co/json/", { signal: ctrl.signal }).then(function (r) { return r.json(); }).then(function (j) {
+        clearTimeout(to);
+        var cc = (j && j.country_code) ? String(j.country_code).toUpperCase().replace(/[^A-Z]/g, "") : "";
+        if (cc) {
+          var up2 = {};
+          up2["ddb/stats/countries/" + cc + "/pageviews"] = INC;
+          db.ref().update(up2).catch(function () {});
+        }
+      }).catch(function () { clearTimeout(to); });
+    } catch (e) {}
+
+    /* Live presence — removed automatically when the tab closes. */
+    try {
+      var pres = db.ref("ddb/presence/" + sid);
+      pres.onDisconnect().remove().catch(function () {});
+      pres.set({ ts: firebase.database.ServerValue.TIMESTAMP, page: slug }).catch(function () {});
+      setInterval(function () {
+        pres.update({ ts: firebase.database.ServerValue.TIMESTAMP, page: location.pathname.replace(/^\//, "") || "index.html" }).catch(function () {});
+      }, 20000);
+      window.addEventListener("beforeunload", function () { try { pres.remove(); } catch (e) {} });
+    } catch (e) {}
+
+    /* Buy Now clicks (affiliate links). */
+    document.addEventListener("click", function (ev) {
+      try {
+        var a = ev.target && ev.target.closest ? ev.target.closest("a") : null;
+        if (!a) return;
+        var href = a.getAttribute("href") || "";
+        var isBuy = (a.className || "").indexOf("p-buy") !== -1 || href.indexOf("aliexpress") !== -1 || href.indexOf("s.click") !== -1;
+        if (!isBuy) return;
+        var up3 = {};
+        up3["ddb/stats/total/buyClicks"] = INC;
+        up3["ddb/stats/days/" + dstr + "/buyClicks"] = INC;
+        db.ref().update(up3).catch(function () {});
+      } catch (e) {}
+    });
+  } catch (e) {}
+})();
