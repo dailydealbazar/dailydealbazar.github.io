@@ -1846,6 +1846,111 @@ const PRODUCTS = [
     added: 71,
     popular: false
   }
+,
+  {
+    id: "beta58-wired-dynamic-microphone",
+    name: "Beta58 Wired Dynamic Microphone with Transformer, Super-Cardioid Pattern, Professional Vocal Microphone (Includes Cables, Stand)",
+    short: "Beta58 Wired Dynamic Microphone",
+    price: 11.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4pIdHp9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/photo-6.jpg"
+    ],
+    video: "assets/products/beta58-wired-dynamic-microphone/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beta58-wired-dynamic-microphone/ad-photo.png",
+    desc: "Professional Beta58 wired dynamic vocal microphone with super-cardioid pattern — includes cables and stand.",
+    specs: [["Type", "Wired dynamic microphone"], ["Pattern", "Super-cardioid"], ["Includes", "Cables, stand"]],
+    added: 72,
+    popular: false
+  },
+  {
+    id: "front-built-in-car-dvr-camera-1080p",
+    name: "Front and Built-in Car DVR Camera with 1080P Front and 720P Rear Recording, 140° Wide-Angle Lens, Night Vision, Intelligent Parking Mode, G-Sensor, Loop Playback",
+    short: "Front and Rear Car DVR Camera",
+    price: 21.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4aQtvnt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/photo-6.jpg"
+    ],
+    video: "assets/products/front-built-in-car-dvr-camera-1080p/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/front-built-in-car-dvr-camera-1080p/ad-photo.png",
+    desc: "Car DVR with 1080P front and 720P rear recording, 140° wide-angle lens, night vision and parking mode.",
+    specs: [["Front recording", "1080P"], ["Rear recording", "720P"], ["Lens", "140° wide-angle"], ["Features", "Night vision, parking mode, G-sensor, loop playback"]],
+    added: 73,
+    popular: false
+  },
+  {
+    id: "butter-stick-squishy-fidget-toy",
+    name: "Butter Stick Squishy Stress Ball Fidget Toy Crunchy Squeeze round Blocks Anti Stress ASMR Hand Relaxation Gift for Stress Relief",
+    short: "Butter Stick Squishy Fidget Toy",
+    price: 3.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c37TInrD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/photo-6.jpg"
+    ],
+    video: "assets/products/butter-stick-squishy-fidget-toy/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/butter-stick-squishy-fidget-toy/ad-photo.png",
+    desc: "Butter-stick squishy fidget toy — crunchy squeeze stress relief, a fun ASMR hand toy and gift.",
+    specs: [["Type", "Squishy fidget toy"]],
+    added: 74,
+    popular: false
+  },
+  {
+    id: "electric-steam-eye-mask-3d-massage",
+    name: "Electric Steam Eye Mask 3D Massage Constant Temperature Hot Compress Smart Timing Sleep Shading Relieve Eye Fatigue",
+    short: "Electric Steam Eye Mask",
+    price: 19.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3qyKNOn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/photo-6.jpg"
+    ],
+    video: "assets/products/electric-steam-eye-mask-3d-massage/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-steam-eye-mask-3d-massage/ad-photo.png",
+    desc: "Electric steam eye mask with 3D massage, constant-temperature hot compress and smart timing — relieves eye fatigue.",
+    specs: [["Warm compress", "5 levels"], ["Vibration massage", "6 levels"], ["Contour", "3D, zero pressure"], ["Light blocking", "100%"]],
+    added: 75,
+    popular: false
+  }
 
 ];
 
