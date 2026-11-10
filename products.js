@@ -1951,6 +1951,111 @@ const PRODUCTS = [
     added: 75,
     popular: false
   }
+,
+  {
+    id: "ab30-electric-heated-scarf",
+    name: "AB30 Winter Electric Heated Scarf Neck Wrap USB Rechargeable Neck Warmer 3 Speed Adjustment Fleece Scarf for Cycling Skiing",
+    short: "AB30 Electric Heated Scarf",
+    price: 8.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4ODq2WF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/photo-6.jpg"
+    ],
+    video: "assets/products/ab30-electric-heated-scarf/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab30-electric-heated-scarf/ad-photo.png",
+    desc: "USB rechargeable heated fleece scarf with 3 heat levels — warm neck wrap for cycling and skiing.",
+    specs: [["Heat levels", "3 speed adjustment"], ["Material", "Fleece"], ["Power", "USB rechargeable"]],
+    added: 76,
+    popular: false
+  },
+  {
+    id: "2-in-1-angled-jigsaw-puzzle-board-1000-pieces",
+    name: "2-in-1 Angled Jigsaw Puzzle Board for 1000 Pieces, Felt Puzzle Tray with 6 Sorting Drawers & Protective Cover, Portable Puzzle Work Stand",
+    short: "2-in-1 Angled Jigsaw Puzzle Board",
+    price: 36.73,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4BrGMCr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/photo-6.jpg"
+    ],
+    video: "assets/products/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in-1-angled-jigsaw-puzzle-board-1000-pieces/ad-photo.png",
+    desc: "Angled jigsaw puzzle board for 1000 pieces with felt tray, 6 sorting drawers and protective cover.",
+    specs: [["Pieces", "1000"], ["Sorting drawers", "6"], ["Cover", "Protective cover"]],
+    added: 77,
+    popular: false
+  },
+  {
+    id: "ai-voice-assistant-bluetooth-speaker-alarm-clock",
+    name: "AI Voice Assistant Bluetooth Speaker With RGB Color Lighting Alarm Clock LED Screen Weather Clock Display Electronic Speaker",
+    short: "AI Voice Assistant Bluetooth Speaker",
+    price: 35.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4Eh9ior",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/photo-6.jpg"
+    ],
+    video: "assets/products/ai-voice-assistant-bluetooth-speaker-alarm-clock/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-alarm-clock/ad-photo.png",
+    desc: "AI voice assistant Bluetooth speaker with RGB lighting, alarm clock and weather display on an LED screen.",
+    specs: [["Brand", "luxuglow"], ["Screen", "4.0-inch HD screen"], ["Bluetooth", "5.4"], ["Charging", "Type-C"], ["Speaker", "50mm"]],
+    added: 78,
+    popular: false
+  },
+  {
+    id: "windaily-electric-neck-massager-u-shaped-pillow",
+    name: "2025 Electric Neck Massager Vibration 3D Kneading Shiatsu Back Massage U Shaped Pillow For Shoulder Cervical Pain Relief Fatigue",
+    short: "Windaily Electric Neck Massager Pillow",
+    price: 33.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c36ou97D",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/photo-6.jpg"
+    ],
+    video: "assets/products/windaily-electric-neck-massager-u-shaped-pillow/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/windaily-electric-neck-massager-u-shaped-pillow/ad-photo.png",
+    desc: "Electric neck massager pillow with vibration and 3D kneading shiatsu massage for shoulder and cervical relief. Note: some reviews mention weak heat.",
+    specs: [["Brand", "Windaily"], ["Material", "Memory foam 50D"], ["Battery", "1200mAh"], ["Power", "7W"], ["Auto-off", "15-min"]],
+    added: 79,
+    popular: false
+  }
 
 ];
 
