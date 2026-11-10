@@ -1373,6 +1373,111 @@ const PRODUCTS = [
     added: 53,
     popular: false
   }
+,
+  {
+    id: "raugee-food-warmer-plate",
+    name: "Electric Food Warmer Plate — Foldable Warming Tray, 8 Temperature Settings (Raugee)",
+    short: "Raugee Food Warmer Plate",
+    price: 37.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3ENceO7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/photo-6.jpg"
+    ],
+    video: "assets/products/raugee-food-warmer-plate/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raugee-food-warmer-plate/ad-photo.png",
+    desc: "Raugee electric food warmer plate, foldable warming tray with 8 temperature settings to keep food warm.",
+    specs: [["Brand", "Raugee"], ["Type", "Foldable warming tray"], ["Temperature settings", "8"], ["Power", "EU Plug 220V"]],
+    added: 54,
+    popular: false
+  },
+  {
+    id: "ultra-thin-heating-hand-warmer",
+    name: "Ultra Thin Double-Sided Heating Hand Warmer, One-Click Switch, 3 Temperature Levels",
+    short: "Ultra Thin Heating Hand Warmer",
+    price: 7.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4lwoOOL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/photo-6.jpg"
+    ],
+    video: "assets/products/ultra-thin-heating-hand-warmer/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-heating-hand-warmer/ad-photo.png",
+    desc: "Ultra thin double-sided heating hand warmer with one-click switch and 3 temperature levels, for hands and abdominal warming.",
+    specs: [["Type", "Double-sided hand warmer"], ["Temperature levels", "3"], ["Switch", "One-click"], ["Use", "Hands and abdomen"]],
+    added: 55,
+    popular: false
+  },
+  {
+    id: "rockbros-heated-winter-gloves",
+    name: "ROCKBROS Heated Winter Gloves — USB Electric Rechargeable Ski Gloves, Touchscreen",
+    short: "ROCKBROS Heated Winter Gloves",
+    price: 38.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c36rGie7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/photo-6.jpg"
+    ],
+    video: "assets/products/rockbros-heated-winter-gloves/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-heated-winter-gloves/ad-photo.png",
+    desc: "ROCKBROS heated winter gloves, USB electric rechargeable ski and cycling gloves with touchscreen. Some reviews say heating is weak and sizes run small.",
+    specs: [["Brand", "ROCKBROS"], ["Type", "Heated ski/cycling gloves"], ["Charging", "USB rechargeable"], ["Touchscreen", "Yes"]],
+    added: 56,
+    popular: false
+  },
+  {
+    id: "electric-heating-pad-shawl",
+    name: "Electric Heating Pad — Home Office Winter Thermal Blanket Warmer / Heated Shawl",
+    short: "Electric Heating Pad Shawl",
+    price: 38.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4SsF0MJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/photo-6.jpg"
+    ],
+    video: "assets/products/electric-heating-pad-shawl/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heating-pad-shawl/ad-photo.png",
+    desc: "Electric heating pad, home office winter thermal blanket warmer and heated shawl for shoulder, neck and sofa bed.",
+    specs: [["Type", "Heating pad / heated shawl"], ["Use", "Shoulder, neck, sofa bed"], ["Power", "EU plug 220V"], ["Season", "Winter"]],
+    added: 57,
+    popular: false
+  }
 
 ];
 
