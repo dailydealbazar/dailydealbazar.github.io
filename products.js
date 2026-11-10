@@ -2266,6 +2266,111 @@ const PRODUCTS = [
     added: 87,
     popular: false
   }
+,
+  {
+    id: "lenovo-tour-pro6-touch-earbuds",
+    name: "Lenovo TOUR PRO6 Touch Wireless TWS Earbuds with Multifunction Touch Screen, ANC, Deep Bass, ENC",
+    short: "Lenovo TOUR PRO6 Touch Earbuds",
+    price: 33.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c371nz1N",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/photo-6.jpg"
+    ],
+    video: "assets/products/lenovo-tour-pro6-touch-earbuds/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-tour-pro6-touch-earbuds/ad-photo.png",
+    desc: "Lenovo TOUR PRO6 Touch wireless TWS earbuds with multifunction touch screen, ANC, deep bass and ENC.",
+    specs: [["Brand", "Lenovo"], ["Feature", "ANC"], ["Control", "Touch screen"], ["Type", "TWS"]],
+    added: 88,
+    popular: false
+  },
+  {
+    id: "ugreen-240w-usb-c-cable-display",
+    name: "UGREEN 240W USB-C to USB-C Cable with Touchscreen Digital Display, 5A PD Fast Charging, Model L541",
+    short: "UGREEN 240W USB-C Cable with Display",
+    price: 16.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3WwAHef",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/photo-6.jpg"
+    ],
+    video: "assets/products/ugreen-240w-usb-c-cable-display/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-240w-usb-c-cable-display/ad-photo.png",
+    desc: "UGREEN 240W USB-C to USB-C cable with 0.48-inch touchscreen digital display, 5A PD fast charging, model L541.",
+    specs: [["Brand", "UGREEN"], ["Power", "240W"], ["Current", "5A PD"], ["Model", "L541"]],
+    added: 89,
+    popular: false
+  },
+  {
+    id: "couple-massage-slippers-acupressure",
+    name: "Couple Massage Slippers — Men's Acupressure Foot-Therapy Slippers for Shower/Bath/Home",
+    short: "Couple Massage Slippers Acupressure",
+    price: 15.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4oDbA6F",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/photo-6.jpg"
+    ],
+    video: "assets/products/couple-massage-slippers-acupressure/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/couple-massage-slippers-acupressure/ad-photo.png",
+    desc: "Couple massage slippers — men's acupressure foot-therapy slippers for shower, bath and home.",
+    specs: [["Sizes", "36-45"], ["Model", "N-4564"], ["Therapy", "Acupressure"]],
+    added: 90,
+    popular: false
+  },
+  {
+    id: "glowing-eyes-dinosaur-toy-figurine",
+    name: "Halloween and Christmas Little Dinosaur Toy with Glowing Eyes and Vibration Sensor — Bandai Collectible Figurine",
+    short: "Glowing-Eyes Dinosaur Toy Figurine",
+    price: 3.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4cTKHIR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/photo-6.jpg"
+    ],
+    video: "assets/products/glowing-eyes-dinosaur-toy-figurine/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glowing-eyes-dinosaur-toy-figurine/ad-photo.png",
+    desc: "Little dinosaur toy with glowing eyes and vibration sensor — Bandai collectible figurine, also a car ornament.",
+    specs: [["Brand", "Bandai"], ["Eyes", "Glowing"], ["Sensor", "Vibration"]],
+    added: 91,
+    popular: false
+  }
 
 ];
 
