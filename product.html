@@ -85,7 +85,7 @@
 <div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 
-<script src="products.js?v=32"></script>
+<script src="products.js?v=33"></script>
 <script>
 const id = new URLSearchParams(location.search).get("id");
 const p = PRODUCTS.find(x => x.id === id) || PRODUCTS[0];
@@ -110,11 +110,11 @@ const badge = p.badge ? `<span class="p-badge" style="position:static">${p.badge
 document.getElementById("detail").innerHTML = `
 <div class="pd-layout">
   <div class="pd-gallery">
-    <video id="mainMedia" src="${p.video}" poster="${p.poster}" controls muted loop playsinline preload="metadata"></video>
+    ${p.video ? `<video id="mainMedia" src="${p.video}" poster="${p.poster}" controls muted loop playsinline preload="metadata"></video>` : `<img id="mainMedia" src="${p.images[0]}" alt="${p.short}">`}
     <div class="pd-thumbs">
       ${p.images.map((src, i) => `<img src="${src}" data-i="${i}" class="${i === 0 ? "active" : ""}" alt="Product photo ${i + 1}">`).join("")}
     </div>
-    <p class="pd-note">Hover or tap the video above to watch the product ad. All ${p.images.length} photos are shown in the gallery.</p>
+    <p class="pd-note">${p.video ? "Hover or tap the video above to watch the product ad. " : "Tap a thumbnail below to view each photo. "}All ${p.images.length} photos are shown in the gallery.</p>
   </div>
   <div class="pd-info">
     ${badge}

@@ -2975,6 +2975,108 @@ const PRODUCTS = [
     added: 114,
     popular: false
   }
+,
+  {
+    id: "smart-heated-vest-26-zones",
+    name: "Smart Heated Vest 26 Zones Intelligent Temperature Control Heating Vest",
+    short: "Smart Heated Vest 26 Zones",
+    price: 23.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4sVTiEx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-heated-vest-26-zones/ad-photo.png",
+    desc: "Smart heated vest with 26 heating zones and intelligent temperature control — 3 heating levels, one-touch start, lightweight and comfortable for cold weather. Note: power bank is not included.",
+    specs: [["Heating zones", "26 areas"], ["Heating levels", "3 levels (35°C / 45°C / 55°C)"], ["Control", "One-touch smart switch"], ["Power bank", "Not included"]],
+    added: 115,
+    popular: false
+  },
+  {
+    id: "rc-bulldozer-1-20-alloy-construction-vehicle",
+    name: "1:20 Remote Control Bulldozer Alloy Construction Vehicle 9 Channel 2.4GHz RC Tracked Truck",
+    short: "1:20 RC Bulldozer Alloy Construction Vehicle",
+    price: 39.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3ug1NHV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/photo-7.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-bulldozer-1-20-alloy-construction-vehicle/ad-photo.png",
+    desc: "1:20 scale remote control alloy bulldozer construction vehicle — 9 channels, 2.4GHz remote, tracked truck with 360° rotation, lights and sound.",
+    specs: [["Scale", "1:20"], ["Channels", "9 channel"], ["Frequency", "2.4GHz"], ["Rotation", "360°"]],
+    added: 116,
+    popular: false
+  },
+  {
+    id: "ai-voice-assistant-bluetooth-speaker-rgb",
+    name: "AI Voice Assistant Bluetooth Speaker With RGB Color Lighting Alarm Clock LED Screen Weather Clock",
+    short: "AI Voice Assistant Bluetooth Speaker RGB",
+    price: 23.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3gf4l1V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ai-voice-assistant-bluetooth-speaker-rgb/ad-photo.png",
+    desc: "AI voice assistant Bluetooth speaker with RGB color lighting, alarm clock, LED screen and weather display — hands-free calling, digital photo album wallpaper and Bluetooth 5.4 music playback.",
+    specs: [["Display", "LED screen with weather clock"], ["Lighting", "RGB color lighting"], ["Bluetooth", "5.4 music playback"], ["Features", "AI voice assistant, alarm clock, hands-free calling"]],
+    added: 117,
+    popular: false
+  },
+  {
+    id: "znp-wireless-ai-translator-earbuds-n03",
+    name: "2026 Latest ZNP Wireless AI Translator Earbuds N03 Smart Life Assistant Translation Bluetooth Earphones",
+    short: "2026 ZNP Wireless AI Translator Earbuds N03",
+    price: 28.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3cmlfIP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/znp-wireless-ai-translator-earbuds-n03/ad-photo.png",
+    desc: "ZNP wireless AI translator earbuds N03 — 130+ language translation, AI chat, smart life assistant with high-fidelity sound and smart control button.",
+    specs: [["Brand", "ZNP"], ["Model", "N03"], ["Translation", "130+ languages"], ["Features", "AI chat, voice memo, smart control button"]],
+    added: 118,
+    popular: false
+  }
 
 ];
 
