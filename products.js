@@ -1714,6 +1714,32 @@ const PRODUCTS = [
     specs: [["Brand", "KUULAA"], ["Model", "KL-YD75"], ["Capacity", "10000mAh"], ["Output", "20W MagSafe"]],
     added: 66,
     popular: false
+  },
+{
+    id: "fashion-square-vintage-sunglasses",
+    name: "Fashion Square Vintage Sunglasses, Unisex (Wsz F732-6A), Ice Blue Mirror",
+    short: "Fashion Square Vintage Sunglasses",
+    price: 3.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2vvDMMP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/photo-6.jpg"
+    ],
+    video: "assets/products/fashion-square-vintage-sunglasses/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-square-vintage-sunglasses/ad-photo.png",
+    desc: "Fashion square vintage sunglasses, unisex, ice blue mirror lens. Note: some reviews mention faded print on the arms and unclear polarization.",
+    specs: [["Brand", "Wsz"], ["Model", "F732-6A"], ["Style", "Square vintage"], ["Fit", "Unisex"], ["Frame width", "149mm"], ["Temple length", "138mm"]],
+    added: 67,
+    popular: false
   }
 
 ];
