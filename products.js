@@ -2371,6 +2371,111 @@ const PRODUCTS = [
     added: 91,
     popular: false
   }
+,
+  {
+    id: "electric-heated-foot-warmer-pad",
+    name: "Adjustable Timer Soft Plush Electric Heated Foot Warmer Pad Safe Winter Heating Mat Home Office Indoor Relaxation Foot Heater",
+    short: "Electric Heated Foot Warmer Pad",
+    price: 24.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4qpmlaJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/photo-6.jpg"
+    ],
+    video: "assets/products/electric-heated-foot-warmer-pad/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-heated-foot-warmer-pad/ad-photo.png",
+    desc: "Adjustable timer soft plush electric heated foot warmer pad — safe winter heating mat for home or office.",
+    specs: [["Temperature", "9 levels"], ["Timer", "0.5H-2H auto shut-off"], ["Material", "Soft plush"], ["Feature", "Detachable washable"]],
+    added: 92,
+    popular: false
+  },
+  {
+    id: "qoa-ryusei-hifi-earphones",
+    name: "New QoA X 7th Acoustics Ryusei In Ear Earphones Single Nano Gold Plated Dynamic Driver Headphone With HiFi Earbuds Cable Plug",
+    short: "QoA Ryusei HiFi Earphones",
+    price: 161.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4aSwvvd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/photo-6.jpg"
+    ],
+    video: "assets/products/qoa-ryusei-hifi-earphones/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qoa-ryusei-hifi-earphones/ad-photo.png",
+    desc: "QoA X 7th Acoustics Ryusei in-ear HiFi earphones — single nano gold-plated dynamic driver, with cable.",
+    specs: [["Brand", "QoA X 7th Acoustics"], ["Driver", "Single nano gold-plated dynamic"], ["Type", "HiFi"]],
+    added: 93,
+    popular: false
+  },
+  {
+    id: "parachute-toys-for-kids",
+    name: "Parachute Toys for Kids Hand Throwing Kids Parachute Toys with 5/2/1Pcs Set Gift for Kids Boys Girls Parachute Toys Outdoor Games",
+    short: "Parachute Toys for Kids",
+    price: 2.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c36VFcPz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/photo-6.jpg"
+    ],
+    video: "assets/products/parachute-toys-for-kids/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/parachute-toys-for-kids/ad-photo.png",
+    desc: "Hand-throwing parachute toys for kids — 5/2/1 pcs set, a fun outdoor game gift for boys and girls.",
+    specs: [["Type", "Hand throwing"], ["Set", "5/2/1 pcs"], ["Canopy", "17 in"], ["Use", "Outdoor games"]],
+    added: 94,
+    popular: false
+  },
+  {
+    id: "joyroom-hd-glass-iphone-screen-protector",
+    name: "Joyroom 3/2/1PCS HD Glass For iPhone 18 17 16 15 Pro Max Screen Protector Full Screen Glass Protection",
+    short: "Joyroom HD Glass iPhone Screen Protector",
+    price: 6.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4BkeSbH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/photo-6.jpg"
+    ],
+    video: "assets/products/joyroom-hd-glass-iphone-screen-protector/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joyroom-hd-glass-iphone-screen-protector/ad-photo.png",
+    desc: "Joyroom HD glass screen protector for iPhone 18/17/16/15 Pro Max — full screen glass protection, 3/2/1 pcs.",
+    specs: [["Brand", "Joyroom"], ["Type", "9D HD glass"], ["Feature", "Anti-drop"], ["For", "iPhone 18/17/16/15 Pro Max"]],
+    added: 95,
+    popular: false
+  }
 
 ];
 
