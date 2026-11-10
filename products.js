@@ -1583,6 +1583,111 @@ const PRODUCTS = [
     added: 61,
     popular: false
   }
+,
+  {
+    id: "usb-heating-vest-down-cotton",
+    name: "Thickened Down Cotton Heating Vest, USB Charging, Unisex Sleeveless Outerwear, Autumn Winter Warmth",
+    short: "USB Heating Vest",
+    price: 36.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3w4FpIR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/photo-6.jpg"
+    ],
+    video: "assets/products/usb-heating-vest-down-cotton/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-heating-vest-down-cotton/ad-photo.png",
+    desc: "Thickened down cotton heating vest with USB charging, unisex sleeveless outerwear for autumn and winter warmth.",
+    specs: [["Type", "Heating vest"], ["Charging", "USB"], ["Material", "Down cotton"], ["Fit", "Unisex sleeveless"]],
+    added: 62,
+    popular: false
+  },
+  {
+    id: "toocki-67w-gan-usb-c-charger",
+    name: "Toocki 67W GaN USB Type C Charger with Digital Display, 65W 45W PPS PD QC4.0 Quick Charge",
+    short: "Toocki 67W GaN Charger",
+    price: 23.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3vwyySb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/photo-6.jpg"
+    ],
+    video: "assets/products/toocki-67w-gan-usb-c-charger/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-67w-gan-usb-c-charger/ad-photo.png",
+    desc: "Toocki 67W GaN USB Type-C charger with digital display, PPS PD QC4.0 quick charge.",
+    specs: [["Brand", "Toocki"], ["Power", "67W GaN"], ["Display", "Digital"], ["Charging", "PPS PD QC4.0"]],
+    added: 63,
+    popular: false
+  },
+  {
+    id: "haylou-watch-faro-smartwatch",
+    name: "HAYLOU Watch Faro Voice Calling Smart Watch, 2.01-inch HD Screen, 24H Health Monitor, 150+ Sports Modes",
+    short: "HAYLOU Watch Faro",
+    price: 27.43,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3koMREB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/photo-6.jpg"
+    ],
+    video: "assets/products/haylou-watch-faro-smartwatch/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-watch-faro-smartwatch/ad-photo.png",
+    desc: "HAYLOU Watch Faro voice calling smart watch with 2.01-inch HD screen, 24-hour health monitor and 150+ sports modes.",
+    specs: [["Brand", "HAYLOU"], ["Model", "Watch Faro"], ["Display", "2.01-inch HD"], ["Sports modes", "150+"]],
+    added: 64,
+    popular: false
+  },
+  {
+    id: "booster-massage-gun-ls",
+    name: "Booster Massage Gun Electric Neck Massager 7.4V Smart Hit Fascia Gun (LS, 4000mAh)",
+    short: "Booster Massage Gun LS",
+    price: 95.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3yqQHPZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/photo-6.jpg"
+    ],
+    video: "assets/products/booster-massage-gun-ls/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/booster-massage-gun-ls/ad-photo.png",
+    desc: "Booster massage gun, electric neck massager with 7.4V smart hit fascia gun, 4000mAh battery.",
+    specs: [["Brand", "Booster"], ["Model", "LS"], ["Battery", "4000mAh"], ["Voltage", "7.4V"]],
+    added: 65,
+    popular: false
+  }
 
 ];
 
