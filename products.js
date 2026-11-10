@@ -2844,6 +2844,84 @@ const PRODUCTS = [
     added: 109,
     popular: false
   }
+,
+  {
+    id: "armkin-warm-wool-socks",
+    name: "ARMKIN Warm Wool Socks for Men and Women",
+    short: "ARMKIN Warm Wool Socks",
+    price: 5.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3a2tYEj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/photo-6.jpg"
+    ],
+    video: "assets/products/armkin-warm-wool-socks/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/armkin-warm-wool-socks/ad-photo.png",
+    desc: "ARMKIN warm wool socks for men and women — soft, warm and comfortable.",
+    specs: [["Material", "Warm wool"], ["Fit", "Men and women"]],
+    added: 110,
+    popular: false
+  },
+  {
+    id: "rocket-bubble-gun-automatic",
+    name: "Fully Automatic Bubble Gun Rocket Bubble Machine",
+    short: "Rocket Bubble Gun Automatic",
+    price: 3.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3FKnSl1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rocket-bubble-gun-automatic/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rocket-bubble-gun-automatic/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rocket-bubble-gun-automatic/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rocket-bubble-gun-automatic/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rocket-bubble-gun-automatic/photo-5.jpg"
+    ],
+    video: "assets/products/rocket-bubble-gun-automatic/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rocket-bubble-gun-automatic/ad-photo.png",
+    desc: "Fully automatic bubble gun — rocket bubble machine with 360° flip, no liquid leakage.",
+    specs: [["Type", "Fully automatic"], ["Design", "Rocket bubble machine"], ["Feature", "360° flip, no liquid leakage"]],
+    added: 111,
+    popular: false
+  },
+  {
+    id: "nevertoolate-extra-long-jump-rope-3-2m",
+    name: "NEVERTOOLATE Extra Long 3.2m Longhandle Jump Rope",
+    short: "NEVERTOOLATE Extra Long Jump Rope 3.2m",
+    price: 8.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c42SSxeX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/photo-6.jpg"
+    ],
+    video: "assets/products/nevertoolate-extra-long-jump-rope-3-2m/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nevertoolate-extra-long-jump-rope-3-2m/ad-photo.png",
+    desc: "NEVERTOOLATE extra long 3.2m longhandle jump rope — indoor fitness jump rope.",
+    specs: [["Length", "Extra long 3.2m"], ["Handle", "Longhandle"], ["Use", "Indoor fitness"]],
+    added: 112,
+    popular: false
+  }
 
 ];
 
