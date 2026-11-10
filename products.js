@@ -1741,6 +1741,111 @@ const PRODUCTS = [
     added: 67,
     popular: false
   }
+,
+  {
+    id: "michael-jackson-building-blocks-set",
+    name: "MOC Michael Jackson Building Blocks Set King of Pop Figure Model Space Walk Pose Bricks Kit DIY Construction Toys for Adults Fan",
+    short: "MJ Building Blocks Set",
+    price: 9.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4FYSWfN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/photo-6.jpg"
+    ],
+    video: "assets/products/michael-jackson-building-blocks-set/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-building-blocks-set/ad-photo.png",
+    desc: "Build the King of Pop in bricks — a Michael Jackson figure building-block set with the iconic space-walk pose, a fun gift and display piece for fans.",
+    specs: [["Type", "Building blocks set"], ["Theme", "Michael Jackson"], ["Pose", "Space walk"], ["Use", "Display / gift"]],
+    added: 68,
+    popular: false
+  },
+  {
+    id: "uv-toothbrush-sterilizer-holder",
+    name: "USB Charging Smart Toothbrush Sterilizer For Ultraviolet Disinfection Air-Drying Wall-Mounted Electric Toothbrush Shelf",
+    short: "Toothbrush Sterilizer Holder",
+    price: 21.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3guxrNN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/photo-6.jpg"
+    ],
+    video: "assets/products/uv-toothbrush-sterilizer-holder/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/uv-toothbrush-sterilizer-holder/ad-photo.png",
+    desc: "Wall-mounted UV toothbrush sterilizer with air-drying and storage — keeps up to several brushes clean and dry.",
+    specs: [["Brand", "NOCCLILI"], ["Type", "UV toothbrush sterilizer"], ["Charging", "USB"], ["Mount", "Wall-mounted"]],
+    added: 69,
+    popular: false
+  },
+  {
+    id: "usb-rechargeable-hand-warmers-2-pack",
+    name: "2 Pack USB Rechargeable Hand Warmers, Reusable Pocket Gloves Warmers, 3 Levels Heating, Winter Gifts for Women and Men",
+    short: "USB Hand Warmers 2-Pack",
+    price: 17.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4EXcIBl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/photo-6.jpg"
+    ],
+    video: "assets/products/usb-rechargeable-hand-warmers-2-pack/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-rechargeable-hand-warmers-2-pack/ad-photo.png",
+    desc: "Two pocket-size USB rechargeable hand warmers with 3 heat levels — reusable winter warmth for hands, on the go.",
+    specs: [["Brand", "koskoz"], ["Pack", "2-pack"], ["Heat levels", "3"], ["Charging", "USB rechargeable"]],
+    added: 70,
+    popular: false
+  },
+  {
+    id: "foldable-3-in-1-wireless-charging-station",
+    name: "Foldable 3 in 1 Wireless Charging Station for iPhone 17 16 15 14 13 12 Pro Max iWatch 11 Airpods Pro 4/3 Fast Charger Stand Dock",
+    short: "Foldable 3-in-1 Wireless Charger",
+    price: 17.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4lKQhC3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/photo-6.jpg"
+    ],
+    video: "assets/products/foldable-3-in-1-wireless-charging-station/ad-video.mp4",
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foldable-3-in-1-wireless-charging-station/ad-photo.png",
+    desc: "Foldable 3-in-1 wireless charging station for iPhone, Apple Watch and AirPods — one compact dock for phone, watch and earbuds.",
+    specs: [["Brand", "VIKEFON"], ["Type", "3-in-1 wireless charger"], ["Devices", "iPhone / Apple Watch / AirPods"], ["Design", "Foldable"]],
+    added: 71,
+    popular: false
+  }
 
 ];
 
