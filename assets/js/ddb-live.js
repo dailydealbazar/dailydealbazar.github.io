@@ -32,6 +32,31 @@
       if (!sessionStorage.getItem("ddb_sess")) { sessionStorage.setItem("ddb_sess", "1"); isNewSession = true; }
     } catch (e) { isNewSession = true; }
 
+    function sourceName() {
+      try {
+        var q = new URLSearchParams(location.search);
+        var u = q.get("utm_source") || "";
+        if (u) {
+          u = u.replace(/[^A-Za-z0-9 _-]/g, "").trim();
+          if (u) return u.charAt(0).toUpperCase() + u.slice(1);
+        }
+        var r = document.referrer || "";
+        if (!r) return "Direct";
+        var h = "";
+        try { h = new URL(r).hostname.toLowerCase(); } catch (e) { return "Other"; }
+        if (h.indexOf("youtu") !== -1) return "YouTube";
+        if (h.indexOf("google.") !== -1) return "Google";
+        if (h.indexOf("facebook.") !== -1 || h.indexOf("fb.com") !== -1) return "Facebook";
+        if (h.indexOf("instagram.") !== -1) return "Instagram";
+        if (h.indexOf("tiktok.") !== -1) return "TikTok";
+        if (h === "x.com" || h.indexOf("twitter.") !== -1) return "X";
+        if (h.indexOf("bing.") !== -1) return "Bing";
+        if (h.indexOf("duckduckgo.") !== -1) return "DuckDuckGo";
+        if (h.indexOf("dailydealbazar.") !== -1) return "Internal";
+        return h.replace(/^www\./, "").replace(/[^A-Za-z0-9_-]/g, "_") || "Other";
+      } catch (e) { return "Other"; }
+    }
+
     function bump(country) {
       var up = {};
       up["ddb/stats/total/pageviews"] = INC;
@@ -41,10 +66,25 @@
       if (isNewSession) {
         up["ddb/stats/total/sessions"] = INC;
         up["ddb/stats/days/" + dstr + "/sessions"] = INC;
+        up["ddb/stats/sources/" + sourceName() + "/sessions"] = INC;
       }
       db.ref().update(up).catch(function () {});
     }
     bump(null);
+
+    /* Unique visitors by IP — one count per IP ever + one per IP per day.
+       Raw IPs are never stored; only a hash of the IP is written. */
+    function iphash(s) {
+      var h1 = 0xdeadbeef, h2 = 0x41c6ce57, i, ch;
+      for (i = 0; i < s.length; i++) {
+        ch = s.charCodeAt(i);
+        h1 = Math.imul(h1 ^ ch, 2654435761);
+        h2 = Math.imul(h2 ^ ch, 1597334677);
+      }
+      h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+      h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+      return (h2 >>> 0).toString(16) + (h1 >>> 0).toString(16);
+    }
 
     /* Country — ipapi, same source the site already uses for its country selector. */
     try {
@@ -57,6 +97,14 @@
           var up2 = {};
           up2["ddb/stats/countries/" + cc + "/pageviews"] = INC;
           db.ref().update(up2).catch(function () {});
+        }
+        var ip = (j && j.ip) ? String(j.ip) : "";
+        if (ip) {
+          var h = iphash(ip);
+          var up3 = {};
+          up3["ddb/uniq/all/" + h] = true;
+          up3["ddb/uniq/days/" + dstr + "/" + h] = true;
+          db.ref().update(up3).catch(function () {});
         }
       }).catch(function () { clearTimeout(to); });
     } catch (e) {}
