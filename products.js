@@ -5193,6 +5193,107 @@ const PRODUCTS = [
     added: 202,
     popular: false
   }
+,
+  {
+    id: "w-king-d9-1-100w-bluetooth-speaker",
+    name: "W-KING D9-1 100W Bluetooth Speaker",
+    short: "W-KING D9-1 100W Bluetooth Speaker",
+    price: 53.40,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3oQdLkL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/w-king-d9-1-100w-bluetooth-speaker/ad-photo.png",
+    desc: "W-KING D9-1 100W Bluetooth speaker — high-power portable wireless speaker for outdoor and home use.",
+    specs: [["Type", "100W Bluetooth speaker"], ["Peak power", "80W"], ["Connectivity", "Bluetooth 5.3, TF card, USB, 3.5mm AUX"], ["Rating", "IPX6 waterproof dustproof"]],
+    added: 203,
+    popular: false
+  },
+  {
+    id: "5-way-multi-plug-outlet-extender",
+    name: "5 Way Multi Plug Outlet Extender Power Socket Adapter",
+    short: "5 Way Multi Plug Outlet Extender",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4sKCUoJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-way-multi-plug-outlet-extender/ad-photo.png",
+    desc: "5-way multi plug outlet extender — extra sockets for home and office use.",
+    specs: [["Type", "5-way multi plug outlet extender"], ["Outlets", "1× 3-pin + 4× 2-pin"], ["Material", "Fire-retardant PC"]],
+    added: 204,
+    popular: false
+  },
+  {
+    id: "okuma-polarized-sunglasses-uv400",
+    name: "Okuma Polarized Sunglasses UV400 Men Women Outdoor Hunting Fishing Driving Cycling",
+    short: "Okuma Polarized Sunglasses UV400",
+    price: 6.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c43GQpzl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/okuma-polarized-sunglasses-uv400/ad-photo.png",
+    desc: "Okuma polarized UV400 sunglasses for men and women — outdoor hunting, fishing, driving and cycling.",
+    specs: [["Lens", "HD Polarized UV400"], ["Frame", "TAC"], ["Gender", "Unisex"], ["Model", "#731"]],
+    added: 205,
+    popular: false
+  },
+  {
+    id: "bucklos-resin-disc-brake-pad-shimano-b01s",
+    name: "BUCKLOS Resin Disc Brake Pad for SHIMANO B01S MTB B03S B05S Compatible",
+    short: "BUCKLOS Resin Disc Brake Pad SHIMANO B01S",
+    price: 3.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3nrCveP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-resin-disc-brake-pad-shimano-b01s/ad-photo.png",
+    desc: "BUCKLOS resin disc brake pad for SHIMANO B01S — compatible with B03S and B05S, for MTB use.",
+    specs: [["Type", "Resin disc brake pad"], ["Compatibility", "SHIMANO B01S / B03S / B05S"], ["Size", "31 × 35 mm, 4 mm thick"], ["Weight", "24.8 g"]],
+    added: 206,
+    popular: false
+  }
 
 ];
 
