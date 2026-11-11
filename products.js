@@ -6404,6 +6404,107 @@ const PRODUCTS = [
     added: 250,
     popular: false
   }
+,
+  {
+    id: "makita-12v-battery-pa12-ni-mh-4000mah",
+    name: "For Makita 12V Battery PA12 NI-MH 4000mAh Replacement Battery Compatible for Makita PA1222 1220 1200 1201 1233S Power Tools",
+    short: "Makita 12V Battery PA12",
+    price: 26.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3i4D559",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-12v-battery-pa12-ni-mh-4000mah/ad-photo.png",
+    desc: "Makita 12V battery PA12, NI-MH 4000mAh replacement battery — compatible with Makita PA1222, 1220, 1200, 1201, 1233S power tools.",
+    specs: [["Type", "12V NI-MH replacement battery, 4000mAh"], ["Fits", "Makita PA1222, 1220, 1200, 1201, 1233S"], ["Use", "Power tools replacement battery"], ["Chemistry", "NI-MH"]],
+    added: 251,
+    popular: false
+  },
+  {
+    id: "6-in-1-240w-type-c-charger-pd-fast-charging",
+    name: "6 in 1 240W Type C Charger PD Fast Charging Phone Power Adapter for iPhone Samsung Xiaomi EU/US Plug Quick Charge Wall Charger",
+    short: "6 in 1 240W Type C Charger",
+    price: 3.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4C1LFmB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-240w-type-c-charger-pd-fast-charging/ad-photo.png",
+    desc: "6 in 1 240W Type-C charger — PD fast charging phone power adapter with EU/US plug, quick charge wall charger.",
+    specs: [["Type", "6 in 1 240W Type-C charger"], ["Feature", "PD fast charging"], ["Plug", "EU/US plug"], ["Fits", "iPhone, Samsung, Xiaomi"]],
+    added: 252,
+    popular: false
+  },
+  {
+    id: "xiusuzaki-w-shaped-lashes-bloom",
+    name: "XIUSUZAKI W Shaped Lashes Bloom 2D 3D 4D 5D 6D 7D 8D Automatic Flowering Premade Fans Eyelashes Extensions YY Individual Lashes",
+    short: "XIUSUZAKI W Shaped Lashes",
+    price: 1.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4LJCp9H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-w-shaped-lashes-bloom/ad-photo.png",
+    desc: "XIUSUZAKI W shaped lashes — 2D–8D automatic flowering premade fans, eyelash extensions, YY individual lashes.",
+    specs: [["Type", "W shaped premade fan eyelashes"], ["Styles", "2D-8D automatic flowering"], ["Use", "Eyelash extensions, individual lashes"], ["Feature", "YY individual lashes"]],
+    added: 253,
+    popular: false
+  },
+  {
+    id: "microfiber-car-cleaning-towels-30x60cm",
+    name: "1/2/3/6/10pcs 30X60cm Microfiber Car Cleaning Towels Soft Quick Drying for Windows Mirrors Wiping Rags Double Layer Wash Cloth",
+    short: "Microfiber Car Cleaning Towels",
+    price: 3.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4cYUsfl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-car-cleaning-towels-30x60cm/ad-photo.png",
+    desc: "Microfiber car cleaning towels 30x60cm — soft, quick drying, double layer wash cloth for windows and mirrors.",
+    specs: [["Type", "Microfiber car cleaning towels"], ["Size", "30 x 60 cm"], ["Feature", "Soft, quick drying, double layer"], ["Use", "Windows, mirrors, wiping rags"]],
+    added: 254,
+    popular: false
+  }
 
 ];
 
