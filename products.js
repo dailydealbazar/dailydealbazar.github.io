@@ -7717,6 +7717,107 @@ const PRODUCTS = [
     added: 302,
     popular: false
   }
+,
+  {
+    id: "zd-spider-man-4inch-action-figures-green-goblin-venom",
+    name: "ZD Original Spider Man 4inch Action Figures",
+    short: "ZD Spider-Man 4inch Action Figures",
+    price: 7.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2Q0liS3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-spider-man-4inch-action-figures-green-goblin-venom/ad-photo.png",
+    desc: "ZD Original Spider-Man 4 inch action figures — Green Goblin, Doctor Octopus, Venom, Miles, Gwen, Electro, Scarlet Spider 2099 and Rhino toys.",
+    specs: [["Brand", "ZD Original"], ["Size", "4 inch action figures"], ["Characters", "Green Goblin, Doctor Octopus, Venom, Miles, Gwen"], ["Type", "Action figures toys"]],
+    added: 303,
+    popular: false
+  },
+  {
+    id: "kiko-3d-mirror-lip-glaze-waterproof",
+    name: "Original Kiko 3D Mirror Lip Glaze Waterproof",
+    short: "Kiko 3D Mirror Lip Glaze",
+    price: 5.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3yxuNyT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kiko-3d-mirror-lip-glaze-waterproof/ad-photo.png",
+    desc: "Original Kiko 3D mirror lip glaze — waterproof, non-fading and non-stick cup, gentle bean paste color with a fine shiny finish.",
+    specs: [["Brand", "Kiko"], ["Finish", "3D mirror, shiny"], ["Feature", "Waterproof, non-fading, non-stick cup"], ["Color", "Bean paste, charm red"]],
+    added: 304,
+    popular: false
+  },
+  {
+    id: "flexible-spiral-cable-wire-protector-2m-1m",
+    name: "2M/1M Flexible Spiral Cable Wire Protector",
+    short: "Flexible Spiral Cable Wire Protector",
+    price: 3.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4cPqZ3p",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flexible-spiral-cable-wire-protector-2m-1m/ad-photo.png",
+    desc: "Flexible spiral cable wire protector — cable organizer tube that wraps around computer cords and keeps them tidy, in 16mm or 10mm width.",
+    specs: [["Type", "Flexible spiral cable protector"], ["Length", "2M or 1M"], ["Width", "16mm or 10mm"], ["Use", "Computer cord organizer and management"]],
+    added: 305,
+    popular: false
+  },
+  {
+    id: "solid-jacquard-chair-covers-stretch",
+    name: "Solid Jacquard Chair Covers Stretch",
+    short: "Solid Jacquard Chair Covers Stretch",
+    price: 15.62,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c34S7DD5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solid-jacquard-chair-covers-stretch/ad-photo.png",
+    desc: "Solid jacquard chair covers — stretch covers for wedding, dining room, office and banquet chairs (housse de chaise).",
+    specs: [["Type", "Stretch jacquard chair cover"], ["Pattern", "Solid jacquard"], ["Use", "Wedding, dining room, office, banquet"], ["Fit", "Stretch fit"]],
+    added: 306,
+    popular: false
+  }
 
 ];
 
