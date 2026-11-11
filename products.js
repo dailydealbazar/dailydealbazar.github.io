@@ -7313,6 +7313,107 @@ const PRODUCTS = [
     added: 286,
     popular: false
   }
+,
+  {
+    id: "pixar-cars-1-55-die-cast-dinoco-42-race-car",
+    name: "Pixar Cars 1:55 Die-Cast Dinoco #42 Race Car Toy",
+    short: "Pixar Cars Dinoco #42 Die-Cast Car",
+    price: 4.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3RbXSXl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pixar-cars-1-55-die-cast-dinoco-42-race-car/ad-photo.png",
+    desc: "Pixar Cars 1:55 scale die-cast toy race car — blue Dinoco #42 car with Disney Pixar Cars 3 branding, about 7.5cm long.",
+    specs: [["Type", "1:55 scale die-cast toy car"], ["Character", "Dinoco #42 race car"], ["Brand", "Disney Pixar Cars"], ["Length", "About 7.5cm"], ["Material", "Die-cast metal body"]],
+    added: 287,
+    popular: false
+  },
+  {
+    id: "one-way-mirror-window-privacy-film",
+    name: "One-Way Mirror Window Privacy Film One Way Mirror Film",
+    short: "One-Way Mirror Window Privacy Film",
+    price: 5.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3E1p0Ib",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-way-mirror-window-privacy-film/ad-photo.png",
+    desc: "One-way mirror window privacy film — static cling, no glue; mirror effect outdoors for daytime privacy, blocks sun and reduces heat. Colours: black, blue, silver, brown.",
+    specs: [["Type", "One-way mirror window film"], ["Install", "Static cling, no glue"], ["Colours", "Black, blue, silver, brown"], ["Effect", "Daytime privacy; mirror effect reverses at night"]],
+    added: 288,
+    popular: false
+  },
+  {
+    id: "bp15-volvo-vcm-battery-8v-750mah",
+    name: "BP15 Volvo VCM Battery 8V 750mAh for Volvo XC90 XC60",
+    short: "BP15 Volvo VCM Battery 8V 750mAh",
+    price: 22.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3ZvfwxH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bp15-volvo-vcm-battery-8v-750mah/ad-photo.png",
+    desc: "BP15 replacement battery for Volvo VCM (On Call) — 8.0V, 750mAh, model 31450445. Fits Volvo XC90, XC60, XC40, V90, V60 and S90.",
+    specs: [["Model", "BP15 (31450445)"], ["Voltage", "8.0V"], ["Capacity", "750mAh"], ["Fits", "Volvo XC90, XC60, XC40, V90, V60, S90"], ["Use", "Volvo VCM / On Call battery"]],
+    added: 289,
+    popular: false
+  },
+  {
+    id: "22tips-semi-cured-gel-nail-stickers",
+    name: "22Tips Semi-Cured Gel Nail Stickers for Women",
+    short: "22Tips Semi-Cured Gel Nail Stickers",
+    price: 0.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2ynbCb9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/22tips-semi-cured-gel-nail-stickers/ad-photo.png",
+    desc: "22-tips semi-cured gel nail stickers — peel-and-stick gel nail wraps in pink, purple and green designs (YB-4001, YB-4007, YB-4031, YB-4049 and more).",
+    specs: [["Type", "Semi-cured gel nail stickers"], ["Count", "22 tips"], ["Designs", "YB-4001, YB-4007, YB-4031, YB-4049 and more"], ["Colours", "Pink, purple, green and more"]],
+    added: 290,
+    popular: false
+  }
 
 ];
 
