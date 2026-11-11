@@ -6606,6 +6606,107 @@ const PRODUCTS = [
     added: 258,
     popular: false
   }
+,
+  {
+    id: "ur-sugar-jelly-gel-polish-15ml",
+    name: "UR SUGAR 15ml Jelly Milky White Translucent Color Gel Polish Semi Permanent UV Gel Nail Art Soak Off Gel Varnish Latest Fashion",
+    short: "UR SUGAR Jelly Gel Polish",
+    price: 5.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4byJ5V9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ur-sugar-jelly-gel-polish-15ml/ad-photo.png",
+    desc: "UR SUGAR jelly milky white translucent color gel polish — semi permanent UV gel nail art, soak off gel varnish.",
+    specs: [["Type", "Jelly gel polish, 15ml"], ["Finish", "Milky white translucent"], ["Use", "Semi permanent UV gel nail art"], ["Removal", "Soak off"]],
+    added: 259,
+    popular: false
+  },
+  {
+    id: "adjustable-drawer-organizers-6-12-pack",
+    name: "6/8/10/12-Pack Adjustable Drawer Organizers, Clear Expandable Dresser Organizers for Storing Clothes Kitchen Utensils",
+    short: "Adjustable Drawer Organizers",
+    price: 29.98,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c40w97t9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-drawer-organizers-6-12-pack/ad-photo.png",
+    desc: "Adjustable drawer organizers — clear expandable dresser organizers for storing clothes and kitchen utensils.",
+    specs: [["Type", "Adjustable drawer organizer"], ["Packs", "6/8/10/12-pack"], ["Material", "Clear expandable"], ["Use", "Clothes, kitchen utensils storage"]],
+    added: 260,
+    popular: false
+  },
+  {
+    id: "ortizan-bluetooth-speaker-40w-portable",
+    name: "Ortizan Bluetooth Speakers 40W Enhanced Bass Portable Outdoor Wireless Speaker 30Hrs IP7 Waterproof Shower Speaker Bluetooth 5.3",
+    short: "Ortizan Bluetooth Speaker 40W",
+    price: 54.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4BEYF2J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ortizan-bluetooth-speaker-40w-portable/ad-photo.png",
+    desc: "Ortizan Bluetooth speaker 40W — enhanced bass portable outdoor wireless speaker, 30 hours playtime, IP7 waterproof, Bluetooth 5.3.",
+    specs: [["Power", "40W, enhanced bass"], ["Playtime", "Up to 30 hours"], ["Rating", "IP7 waterproof"], ["Bluetooth", "Bluetooth 5.3"]],
+    added: 261,
+    popular: false
+  },
+  {
+    id: "genshin-impact-fatui-harbinger-blind-box",
+    name: "New Original Genshin Impact Fatui Harbinger Series Trendy Blind Box Toys Q Version Figures Model Decoration Toys Surprise Gifts",
+    short: "Genshin Fatui Blind Box",
+    price: 13.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4PEml0x",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/genshin-impact-fatui-harbinger-blind-box/ad-photo.png",
+    desc: "Genshin Impact Fatui Harbinger series blind box — Q version figures, model decoration toys, surprise gifts.",
+    specs: [["Type", "Blind box figures, Q version"], ["Series", "Fatui Harbinger"], ["Use", "Model decoration, surprise gifts"], ["Brand", "Genshin Impact"]],
+    added: 262,
+    popular: false
+  }
 
 ];
 
