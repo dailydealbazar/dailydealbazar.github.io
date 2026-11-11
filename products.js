@@ -3582,6 +3582,107 @@ const PRODUCTS = [
     added: 138,
     popular: false
   }
+,
+  {
+    id: "zaroy-knee-high-women-boots-winter-warm-snow",
+    name: "ZAROY Knee High Women Boots Winter Warm Snow Boots",
+    short: "ZAROY Knee High Women Boots Winter Warm Snow Boots",
+    price: 43.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4NFVZbD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zaroy-knee-high-women-boots-winter-warm-snow/ad-photo.png",
+    desc: "ZAROY knee-high women's boots — warm winter snow boots.",
+    specs: [["Brand", "ZAROY"], ["Type", "Knee-high women's winter snow boots"], ["Season", "Winter"], ["Use", "Snow / cold weather"]],
+    added: 139,
+    popular: false
+  },
+  {
+    id: "seametal-car-windshield-snow-cover",
+    name: "SEAMETAL Car Windshield Snow Cover Winter Waterproof Windscreen Snow Shield",
+    short: "SEAMETAL Car Windshield Snow Cover Winter Waterproof Windscreen Snow Shield",
+    price: 12.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3QIEolt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seametal-car-windshield-snow-cover/ad-photo.png",
+    desc: "SEAMETAL car windshield snow cover — waterproof windscreen snow shield for winter.",
+    specs: [["Brand", "SEAMETAL"], ["Type", "Car windshield snow cover"], ["Feature", "Waterproof windscreen snow shield"], ["Season", "Winter"]],
+    added: 140,
+    popular: false
+  },
+  {
+    id: "universal-car-seat-cover-cushion-plush-winter-warm",
+    name: "Universal Car Seat Cover Cushion Anti-slip Front Chair Seat Breathable Pad Winter Warm",
+    short: "Universal Car Seat Cover Cushion Anti-slip Front Chair Seat Breathable Pad Winter Warm",
+    price: 6.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4e6Qgzt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-car-seat-cover-cushion-plush-winter-warm/ad-photo.png",
+    desc: "Universal car seat cover cushion — anti-slip front chair seat pad, breathable and winter warm.",
+    specs: [["Type", "Universal front car seat cover cushion"], ["Feature", "Anti-slip, breathable pad"], ["Season", "Winter warm"], ["Fit", "Universal front chair seat"]],
+    added: 141,
+    popular: false
+  },
+  {
+    id: "snow-ski-boots-bag-helmet-carry-shoulder-bag",
+    name: "Snow Ski Boots Bag Ice-Skating Helmet Carry Shoulder Bag Roller Skate Helmet Storage Bag",
+    short: "Snow Ski Boots Bag Ice-Skating Helmet Carry Shoulder Bag Roller Skate Helmet Storage Bag",
+    price: 27.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4DrMXJ1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snow-ski-boots-bag-helmet-carry-shoulder-bag/ad-photo.png",
+    desc: "Snow ski boots bag — carry shoulder bag for ski boots, ice skates and helmet storage.",
+    specs: [["Size", "45 x 25 x 39 cm (M)"], ["Material", "600D waterproof nylon"], ["Weight", "~480-490 g"], ["Use", "Ski boots, ice skates and helmet carry bag"]],
+    added: 142,
+    popular: false
+  }
 
 ];
 
