@@ -3784,6 +3784,107 @@ const PRODUCTS = [
     added: 146,
     popular: false
   }
+,
+  {
+    id: "locle-moon-ms95-ms99-ski-helmet-visor-spare-lens",
+    name: "LOCLE MOON MS95 MS99 Ski Helmet Visor Spare Lens UV Protection",
+    short: "LOCLE Ski Helmet Visor Spare Lens",
+    price: 25.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c39Tgwr5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/locle-moon-ms95-ms99-ski-helmet-visor-spare-lens/ad-photo.png",
+    desc: "LOCLE MOON MS95 MS99 ski helmet visor spare lens with UV protection — a replacement visor lens ONLY (helmet not included). Portal price $25.14 (page variants $10.48–$20.97).",
+    specs: [["Type", "Ski helmet visor spare lens (lens only, helmet not included)"], ["Fit", "LOCLE MOON MS95 / MS99 helmets"], ["Protection", "UV protection"], ["Note", "Portal price $25.14; page variants $10.48–$20.97"]],
+    added: 147,
+    popular: false
+  },
+  {
+    id: "funny-snowball-maker-clip-kids-snowflake-duck",
+    name: "Funny Snowball Maker Clip For Kids Snowflake Duck Shape Clip Tongs Outdoor Sand Snow Ball Mold Toys",
+    short: "Funny Snowball Maker Clip for Kids",
+    price: 4.54,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3VTvUxz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-snowball-maker-clip-kids-snowflake-duck/ad-photo.png",
+    desc: "Funny snowball maker clip for kids — snowflake duck shape clip tongs, an outdoor snow ball mold toy (also works for sand).",
+    specs: [["Type", "Snowball maker clip / snow mold toy"], ["Shape", "Snowflake duck"], ["Use", "Outdoor snow play / sand play"], ["Age", "Kids"]],
+    added: 148,
+    popular: false
+  },
+  {
+    id: "super-bright-led-headlamp-rechargeable-usb-ipx4",
+    name: "Super Bright LED Headlamp Rechargeable USB Charging IPX4 Waterproof 4 Lighting Modes",
+    short: "Super Bright LED Headlamp Rechargeable",
+    price: 4.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3hD2BFv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/super-bright-led-headlamp-rechargeable-usb-ipx4/ad-photo.png",
+    desc: "Super bright LED headlamp (2-pack, as shown in the seller's main photo) — rechargeable with USB charging, IPX4 waterproof, 4 lighting modes.",
+    specs: [["Pack", "2-pack (as shown in seller photo)"], ["Light", "Super bright LED headlamp"], ["Power", "Rechargeable, USB charging"], ["Waterproof", "IPX4"], ["Modes", "4 lighting modes"]],
+    added: 149,
+    popular: false
+  },
+  {
+    id: "personalized-custom-name-pattern-water-bottle-flask",
+    name: "Personalized Custom Name Pattern Water Bottle Stainless Steel Vacuum Insulated Flask Portable Travel Thermos Engraved Gift",
+    short: "Personalized Custom Name Water Bottle Flask",
+    price: 15.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3eTI3N9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-custom-name-pattern-water-bottle-flask/ad-photo.png",
+    desc: "Personalized custom name pattern water bottle — stainless steel vacuum insulated flask, portable travel thermos with engraved gift design, keeps drinks hot/cold 6–12 hours.",
+    specs: [["Capacity", "500ml / 1000ml"], ["Material", "Stainless steel, vacuum insulated"], ["Insulation", "Keeps drinks hot/cold 6–12 hours"], ["Feature", "Personalized custom name pattern, engraved"]],
+    added: 150,
+    popular: false
+  }
 
 ];
 
