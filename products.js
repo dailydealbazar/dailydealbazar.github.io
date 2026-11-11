@@ -5294,6 +5294,107 @@ const PRODUCTS = [
     added: 206,
     popular: false
   }
+,
+  {
+    id: "jbl-clip-5-portable-speaker",
+    name: "JBL Clip 5 Portable Speaker",
+    short: "JBL Clip 5 Portable Speaker",
+    price: 41.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4kfdFh5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jbl-clip-5-portable-speaker/ad-photo.png",
+    desc: "JBL Clip 5 portable speaker — clip-on portable speaker for outdoor and everyday use.",
+    specs: [["Type", "Portable Bluetooth speaker"], ["Playtime", "10 hours"], ["Rating", "IP67 waterproof and dustproof"], ["Model", "Clip 5"]],
+    added: 207,
+    popular: false
+  },
+  {
+    id: "lenovo-fascia-gun-n2",
+    name: "Lenovo Fascia Gun N2",
+    short: "Lenovo Fascia Gun N2",
+    price: 31.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3kuEKVt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-fascia-gun-n2/ad-photo.png",
+    desc: "Lenovo Fascia Gun N2 — portable fascia massage gun for muscle relief at home and on the go.",
+    specs: [["Type", "Smart massage gun"], ["Display", "Digital display"], ["Heads", "6 massage heads"], ["Weight", "500 g"]],
+    added: 208,
+    popular: false
+  },
+  {
+    id: "big-roller-abs-workout-wheel",
+    name: "Big Roller For ABS Workout Wheel Core Abdominal Home Gym Muscle Device",
+    short: "Big Roller For ABS Workout Wheel",
+    price: 24.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4ePZHaf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/big-roller-abs-workout-wheel/ad-photo.png",
+    desc: "Big roller ABS workout wheel — core abdominal home gym muscle device for home workouts.",
+    specs: [["Type", "AB workout wheel"], ["Size", "300 × 180 mm"], ["Axle", "Built-in thickened steel pipe"], ["Noise", "Quiet movement"]],
+    added: 209,
+    popular: false
+  },
+  {
+    id: "summer-two-way-water-gun-prank-toy",
+    name: "Summer Two-Way Water Gun Prank Toy Small Pistol Outdoor Adult Child",
+    short: "Summer Two-Way Water Gun Prank Toy",
+    price: 4.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3rqVPYT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/summer-two-way-water-gun-prank-toy/ad-photo.png",
+    desc: "Summer two-way water gun prank toy — small pistol style water gun for outdoor fun, adults and children.",
+    specs: [["Type", "Two-way water gun"], ["Shooting", "Front trigger fires backwards, rear trigger fires forward"], ["Size", "15.5 × 13.5 × 3.5 cm"], ["Style", "Small pistol prank toy"]],
+    added: 210,
+    popular: false
+  }
 
 ];
 
