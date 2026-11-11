@@ -4791,6 +4791,107 @@ const PRODUCTS = [
     added: 186,
     popular: false
   }
+,
+  {
+    id: "kdulit-rechargeable-bike-lighting-front-rear-lights",
+    name: "KDULIT Rechargeable Bike Lighting Front/Rear Lights (three modes, for bicycle/MTB/road bike)",
+    short: "KDULIT Rechargeable Bike Lights",
+    price: 2.98,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3KwuL15",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdulit-rechargeable-bike-lighting-front-rear-lights/ad-photo.png",
+    desc: "KDULIT rechargeable bike lights — front and rear lights with three modes, for bicycle, MTB and road bikes. Front/rear visibility for dark winter rides.",
+    specs: [["Type", "Rechargeable bike lights, front and rear"], ["Modes", "Headlight 3 modes, tail light 6 modes"], ["Charging", "USB rechargeable, Type-C charging port"], ["Battery", "230 mAh / 350 mAh lithium-ion"]],
+    added: 187,
+    popular: false
+  },
+  {
+    id: "mobile-phone-speaker-charging-port-cleaning-set-dust-plug",
+    name: "Mobile Phone Speaker Charging Port Cleaning Set Dust Plug for iPhone 16/15/14, Headphone Cleaning Kit, Brush for Samsung Xiaomi",
+    short: "Phone Speaker & Charging Port Cleaning Set",
+    price: 1.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4t1zvkF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mobile-phone-speaker-charging-port-cleaning-set-dust-plug/ad-photo.png",
+    desc: "Mobile phone speaker and charging port cleaning set with dust plug, headphone cleaning kit and brush — for iPhone 16/15/14, Samsung and Xiaomi.",
+    specs: [["Type", "Mobile phone speaker and charging port cleaning set"], ["Includes", "Dust plug, headphone cleaning kit, brush"], ["Fits", "iPhone 16/15/14, Samsung, Xiaomi"], ["Use", "Phone ports, keyboard gaps, shower heads and more"]],
+    added: 188,
+    popular: false
+  },
+  {
+    id: "luncay-soft-memory-foam-3d-sleep-mask-light-blocking",
+    name: "LUNCAY Soft Memory Foam 3D Sleep Mask, Light Blocking Eye Sleeping Mask (travel eye shade, for women and men)",
+    short: "LUNCAY Soft Memory Foam 3D Sleep Mask",
+    price: 2.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4Nd1jh9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/luncay-soft-memory-foam-3d-sleep-mask-light-blocking/ad-photo.png",
+    desc: "LUNCAY soft memory foam 3D sleep mask — light blocking eye sleeping mask, travel eye shade for women and men. (Soft foam mask — not electric, no steam; different from the shop's Electric Steam Eye Mask.)",
+    specs: [["Type", "Soft memory foam 3D sleep mask, light blocking"], ["Size", "20 cm × 8 cm, depth 1.5 cm"], ["Fit", "Closer fit on the nose, zero eye pressure"], ["Use", "Night sleep, office nap, travel eyeshade"]],
+    added: 189,
+    popular: false
+  },
+  {
+    id: "cable-organizer-cable-management-wire-winder-tape-velcro",
+    name: "1/5M Cable Organizer, Cable Management Wire Winder Tape, Self-Adhesive Velcro Nylon Wire Organizer for PC/phone/mouse cord",
+    short: "Cable Organizer Wire Winder Tape",
+    price: 2.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3qyEWsX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cable-organizer-cable-management-wire-winder-tape-velcro/ad-photo.png",
+    desc: "Cable organizer — cable management wire winder tape, self-adhesive Velcro nylon wire organizer for PC, phone and mouse cords.",
+    specs: [["Type", "Cable organizer, cable management wire winder tape"], ["Material", "Self-adhesive Velcro nylon"], ["Length", "1 m / 5 m"], ["Use", "PC, phone and mouse cords"]],
+    added: 190,
+    popular: false
+  }
 
 ];
 
