@@ -5091,6 +5091,108 @@ const PRODUCTS = [
     added: 198,
     popular: false
   }
+,
+  {
+    id: "mini-hatching-dinosaur-egg-toy",
+    name: "10/20/60pcs Mini Hatching Dinosaur Egg Toy Colorful Cracked Eggs Children Funny Toys",
+    short: "Mini Hatching Dinosaur Egg Toy",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3DdTDp9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-hatching-dinosaur-egg-toy/ad-photo.png",
+    desc: "Mini hatching dinosaur egg toy — colorful cracked eggs, funny toys for kids, festival party favors and gifts.",
+    specs: [["Type", "Mini hatching dinosaur egg toy"], ["Pieces", "10 / 20 / 60 pcs"], ["Use", "Children's party favors / gifts"]],
+    added: 199,
+    popular: false
+  },
+  {
+    id: "allpowers-volix-p300-portable-power-station",
+    name: "ALLPOWERS VOLIX P300 Portable Power Station 256Wh LiFePO4 Battery 300W (Peak 600W) AC Output",
+    short: "ALLPOWERS VOLIX P300 Power Station",
+    price: 113.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c30MeTNd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/allpowers-volix-p300-portable-power-station/ad-photo.png",
+    desc: "ALLPOWERS VOLIX P300 portable power station — 300W AC output (peak 600W) for outdoor camping, travel and home use.",
+    specs: [["Type", "Portable power station"], ["Output", "300W AC (peak 600W)"], ["Use", "Outdoor camping, travel, home use"]],
+    added: 200,
+    popular: false
+  },
+  {
+    id: "phone-tripod-octopus-mini-tripod",
+    name: "Tripod For Phone Mobile Camera Holder Clip Smartphone Monopod Octopus Mini Tripod",
+    short: "Phone Tripod Octopus Mini Tripod",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c30a00sJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phone-tripod-octopus-mini-tripod/ad-photo.png",
+    desc: "Octopus mini tripod for phone — mobile camera holder with clip, smartphone monopod stand.",
+    specs: [["Type", "Octopus mini tripod for phone"], ["Use", "Phone / camera holder, clip, monopod stand"]],
+    added: 201,
+    popular: false
+  }
+,
+  {
+    id: "pandatour-camping-igt-gas-stove",
+    name: "Pandatour Camping IGT Gas Stove Easy Equiped 0.5-Unit Portable Hiking Stove High Effi Ciency 6500W High Firepower Burner",
+    short: "Pandatour Camping IGT Gas Stove",
+    price: 22.77,
+    oldPrice: 24.76,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3JKOwoR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pandatour-camping-igt-gas-stove/ad-photo.png",
+    desc: "Pandatour camping IGT gas stove — 0.5-unit portable hiking stove with 6500W high firepower burner for outdoor cooking.",
+    specs: [["Type", "IGT gas stove, 0.5-unit"], ["Power", "6500W high firepower burner"], ["Use", "Camping / hiking outdoor cooking"]],
+    added: 202,
+    popular: false
+  }
 
 ];
 
