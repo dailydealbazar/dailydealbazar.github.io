@@ -84,7 +84,7 @@ body{background:#f4f6fa}
 <div class="panel"><h2>ℹ️ Ginti Kaise Hoti Hai</h2>
 <p class="dash-note">• <b>Total / Today</b> — alag visitors, 1 IP = 1. Ek hi banda baar baar aaye to bhi 1 hi gina jayega.</p>
 <p class="dash-note">• <b>Kahan Se Aaye</b> — banda kis jagah se click kar ke aaya: YouTube, Google, Facebook, ya seedha (Direct).</p>
-<p class="dash-note">• <b>Live Now</b> — abhi khule hue tabs.</p>
+<p class="dash-note">• <b>Live Now</b> — abhi khule hue tabs; 45 second se zyada purana tab nahi gina jata, is liye band hote hi number gir jata hai.</p>
 <p class="dash-note">• Note: YouTube app se aane walon mein se kuch "Direct" dikh sakte hain, kyun ke app hamesha pata nahi batata.</p>
 </div>
 </section>
@@ -136,10 +136,10 @@ body{background:#f4f6fa}
     var total = uniqAll;
     var today = uniqDays[todayStr()] || 0;
     var clicks = (stats.days && stats.days[todayStr()] && stats.days[todayStr()].buyClicks) || 0;
-    var live = 0, nowMs = Date.now();
+    var live = 0, nowMs = Date.now() + serverOffset;
     Object.keys(presence || {}).forEach(function (k) {
       var ts = (presence[k] && presence[k].ts) || 0;
-      if (nowMs - ts < 60000) live++;
+      if (nowMs - ts < 45000) live++;
     });
     $("liveNow").textContent = fmt(live);
     $("totalVisits").textContent = fmt(total);
@@ -160,12 +160,13 @@ body{background:#f4f6fa}
       return '<div class="b"><b>' + fmt(x.v) + '</b><i style="height:' + h + 'px"></i><span>' + x.label + '</span></div>';
     }).join("");
   }
-  var stats = {}, presence = {}, uniqAll = 0, uniqDays = {};
+  var stats = {}, presence = {}, uniqAll = 0, uniqDays = {}, serverOffset = 0;
   try {
     if (!firebase.apps.length) firebase.initializeApp(CFG);
     var db = firebase.database();
     db.ref("ddb/stats").on("value", function (s) { stats = s.val() || {}; render(stats, presence); });
     db.ref("ddb/presence").on("value", function (s) { presence = s.val() || {}; render(stats, presence); });
+    db.ref(".info/serverTimeOffset").on("value", function (s) { serverOffset = s.val() || 0; render(stats, presence); });
     db.ref("ddb/uniq/all").on("value", function (s) { uniqAll = s.numChildren(); render(stats, presence); });
     db.ref("ddb/uniq/days").on("value", function (s) {
       uniqDays = {};
