@@ -6808,6 +6808,107 @@ const PRODUCTS = [
     added: 266,
     popular: false
   }
+,
+  {
+    id: "heavy-duty-iron-coat-hooks-24pcs",
+    name: "24pcs (8 Hooks 16 Screws) Heavy-Duty Iron Coat Hooks, Anti-Rust Wall Mounted for Home Office Industrial, Multiple Styles Available",
+    short: "Heavy-Duty Iron Coat Hooks 24pcs",
+    price: 4.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3TyjdSB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heavy-duty-iron-coat-hooks-24pcs/ad-photo.png",
+    desc: "Heavy-duty iron coat hooks — 24pcs (8 hooks, 16 screws), anti-rust, wall mounted for home or office.",
+    specs: [["Type", "Heavy-duty iron coat hooks"], ["Pack", "24pcs (8 hooks, 16 screws)"], ["Mount", "Wall mounted, anti-rust"]],
+    added: 267,
+    popular: false
+  },
+  {
+    id: "gemerry-yy-shaped-eyelash-w-shape-lashes",
+    name: "Gemerry YY Shaped Eyelash 3D 4D 5D 6D 8D W Shape Lashes Premade Fans Eyelash Extension Brazilian Volume Bloom Salons Makeup",
+    short: "Gemerry YY W Shape Lashes",
+    price: 1.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3ksDSwj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gemerry-yy-shaped-eyelash-w-shape-lashes/ad-photo.png",
+    desc: "Gemerry YY shaped W lashes — 3D to 8D premade fans, eyelash extension for volume and bloom.",
+    specs: [["Type", "YY shaped W lashes"], ["Style", "3D/4D/5D/6D/8D premade fans"], ["Use", "Eyelash extension, salons"]],
+    added: 268,
+    popular: false
+  },
+  {
+    id: "magnetic-leather-card-wallet-magsafe",
+    name: "Magnetic Attraction Zipper Leather Card Slot Wallet for iPhone 18 Samsung Galaxy Google Xiaomi Phone MagSafe Magnetic Phone Bag",
+    short: "MagSafe Magnetic Leather Wallet",
+    price: 9.30,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3Vpraw3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-leather-card-wallet-magsafe/ad-photo.png",
+    desc: "Magnetic leather card wallet — zipper card slot, MagSafe magnetic, for iPhone, Samsung, Galaxy, Google and Xiaomi phones.",
+    specs: [["Type", "Magnetic leather card wallet"], ["Feature", "MagSafe magnetic, zipper card slot"], ["Compatibility", "iPhone, Samsung, Galaxy, Google, Xiaomi"]],
+    added: 269,
+    popular: false
+  },
+  {
+    id: "lcd-drawing-tablet-kids",
+    name: "6.5/8.5/10/12 Inch LCD Drawing Tablet for Kids, Rechargeable Erasable Board with Pen, Travel Educational Toy Gift for Boys Girls",
+    short: "LCD Drawing Tablet for Kids",
+    price: 4.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3FsGOyP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lcd-drawing-tablet-kids/ad-photo.png",
+    desc: "LCD drawing tablet for kids — rechargeable erasable board with pen, 6.5 to 12 inch, travel educational toy gift.",
+    specs: [["Type", "LCD drawing tablet"], ["Sizes", "6.5/8.5/10/12 inch"], ["Feature", "Rechargeable, erasable board with pen"]],
+    added: 270,
+    popular: false
+  }
 
 ];
 
