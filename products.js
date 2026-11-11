@@ -7919,6 +7919,107 @@ const PRODUCTS = [
     added: 310,
     popular: false
   }
+,
+  {
+    id: "hanlin-glide-jerkbait-75-90-120-150mm",
+    name: "Hanlin Glide Jerkbait 75/90/120/150mm Popular Pike Hard Jerk Bait Crankbait",
+    short: "Hanlin Glide Jerkbait 75/90/120/150mm",
+    price: 4.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3eFAToT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hanlin-glide-jerkbait-75-90-120-150mm/ad-photo.png",
+    desc: "Hanlin glide jerkbait in 75, 90, 120 and 150mm — popular pike hard jerk bait crankbait, muskie lure wobbler bass tackle.",
+    specs: [["Type", "Glide jerkbait"], ["Sizes", "75, 90, 120, 150mm"], ["Target", "Pike, muskie, bass"], ["Feature", "Hard crankbait wobbler"]],
+    added: 311,
+    popular: false
+  },
+  {
+    id: "phatoil-100ml-fragrance-oils-aromatherapy",
+    name: "PHATOIL 100ml Fragrance Oils for Aromatherapy & Diffuser",
+    short: "PHATOIL 100ml Fragrance Oils",
+    price: 9.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-personal-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4SBKl6n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/phatoil-100ml-fragrance-oils-aromatherapy/ad-photo.png",
+    desc: "PHATOIL 100ml fragrance oils for aromatherapy and diffusers — strawberry, cherry, coconut and vanilla scents, also for candle making.",
+    specs: [["Type", "Fragrance oils"], ["Volume", "100ml"], ["Scents", "Strawberry, cherry, coconut, vanilla"], ["Use", "Aromatherapy, diffuser, candle making"]],
+    added: 312,
+    popular: false
+  },
+  {
+    id: "ohuhu-honolulu-b-marker-pen-set",
+    name: "Ohuhu Honolulu B Marker Pen Set Color Markers Alcohol Art Markers",
+    short: "Ohuhu Honolulu B Marker Pen Set",
+    price: 26.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4SHanHz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ohuhu-honolulu-b-marker-pen-set/ad-photo.png",
+    desc: "Ohuhu Honolulu B marker pen set — color alcohol art markers, refillable dual tips for sketching, drawing and manga school supplies.",
+    specs: [["Brand", "Ohuhu"], ["Type", "Alcohol art markers"], ["Tips", "Dual tips, refillable"], ["Use", "Sketching, drawing, manga"]],
+    added: 313,
+    popular: false
+  },
+  {
+    id: "cenrr-998000pa-car-vacuum-cleaner",
+    name: "CENRR 998000PA Car Vacuum Cleaner Powerful Portable HandHeld Vacuum",
+    short: "CENRR 998000PA Car Vacuum Cleaner",
+    price: 39.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4MReUfN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cenrr-998000pa-car-vacuum-cleaner/ad-photo.png",
+    desc: "CENRR 998000PA car vacuum cleaner — powerful portable handheld wireless vacuum cleaner for cars.",
+    specs: [["Brand", "CENRR"], ["Suction", "998000PA"], ["Type", "Portable handheld vacuum"], ["Power", "Wireless"]],
+    added: 314,
+    popular: false
+  }
 
 ];
 
