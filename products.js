@@ -4892,6 +4892,106 @@ const PRODUCTS = [
     added: 190,
     popular: false
   }
+,
+  {
+    id: "bicycle-pattern-cycling-socks",
+    name: "Bicycle Pattern Cycling Socks",
+    short: "Bicycle Pattern Cycling Socks",
+    price: 10.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Cqs8UJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-pattern-cycling-socks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-pattern-cycling-socks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-pattern-cycling-socks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-pattern-cycling-socks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-pattern-cycling-socks/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-pattern-cycling-socks/ad-photo.png",
+    desc: "Bicycle pattern cycling socks — sports socks with a bicycle print, for cycling and outdoor sports. (Cycling socks — different from the shop's heated socks and wool socks.)",
+    specs: [["Type", "Bicycle pattern cycling socks"], ["Colour", "White, bicycle print"], ["Use", "Cycling, sports and outdoor activities"]],
+    added: 191,
+    popular: false
+  },
+  {
+    id: "mini-magnetic-chess-set-folding-magnetic-plastic-chessboard",
+    name: "Mini Magnetic Chess Set — Folding Magnetic Plastic Chessboard Board Game, Portable Kid Toy / Portable Outdoor Game",
+    short: "Mini Magnetic Chess Set",
+    price: 3.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3pMOtNH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-chess-set-folding-magnetic-plastic-chessboard/ad-photo.png",
+    desc: "Mini magnetic chess set — folding magnetic plastic chessboard board game, portable kid toy and portable outdoor game.",
+    specs: [["Type", "Mini magnetic chess set, folding board game"], ["Board", "Folding magnetic plastic chessboard"], ["Size", "13 cm × 6.5 cm (folded board)"], ["Pieces", "Magnetic black and white pieces"]],
+    added: 192,
+    popular: false
+  },
+  {
+    id: "18650-battery-charger-1-2-4-slots-usb-charger",
+    name: "18650 Battery Charger, 1/2/4 slots USB charger for 3.7V rechargeable lithium batteries",
+    short: "18650 Battery Charger (1/2/4 Slots)",
+    price: 2.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3NboECr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/18650-battery-charger-1-2-4-slots-usb-charger/ad-photo.png",
+    desc: "18650 battery charger — 1/2/4 slots USB charger for 3.7V rechargeable lithium batteries.",
+    specs: [["Type", "18650 battery charger, USB charger"], ["Slots", "1 / 2 / 4 slots"], ["Compatible", "10440, 14500, 16340, 16650, 14650, 18350, 18500, 18650"], ["Indicator", "Red = charging, green = charging completed"]],
+    added: 193,
+    popular: false
+  },
+  {
+    id: "kojic-acid-face-cream-80g",
+    name: "Kojic Acid Face Cream, 80g",
+    short: "Kojic Acid Face Cream (80g)",
+    price: 4.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3qpoIYr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kojic-acid-face-cream-80g/ad-photo.png",
+    desc: "Kojic acid face cream, 80g. (Different from the shop's LAIKOU Japan Sakura Skincare Set — this is a single Kojic acid face cream.)",
+    specs: [["Type", "Kojic acid face cream"], ["Size", "80 g (2.82 oz)"], ["Ingredients", "Arbutin, Collagen, Niacinamide, Vitamin C & E"], ["Use", "Face and neck, after cleansing"]],
+    added: 194,
+    popular: false
+  }
 
 ];
 
