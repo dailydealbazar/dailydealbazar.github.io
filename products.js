@@ -4591,6 +4591,106 @@ const PRODUCTS = [
     added: 178,
     popular: false
   }
+,
+  {
+    id: "split-style-hand-warmer-magnetic-suction-lcd-display",
+    name: "Split Style Hand Warmer with Magnetic Suction and LCD Display",
+    short: "Split Hand Warmer with LCD Display",
+    price: 25.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c2I720E3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/split-style-hand-warmer-magnetic-suction-lcd-display/ad-photo.png",
+    desc: "Split-style hand warmer with magnetic suction and LCD display — pink/beige two-piece design. (Different from the shop's Magnetic 2 In 1 Hand Warmer 10000mAh — this is the split LCD-display model.)",
+    specs: [["Type", "Split-style hand warmer, magnetic suction, LCD display"], ["Heat", "Up to 60°C, dual magnetic attraction"], ["Design", "Split two-piece design, pink/beige"], ["Seller", "Shop1104434217 Store, 91.63%"]],
+    added: 179,
+    popular: false
+  },
+  {
+    id: "ugreen-studio-pro-48db-anc-wireless-headphones",
+    name: "UGREEN Studio Pro 48dB ANC Wireless Headphones Over Ear Bluetooth Earphones",
+    short: "UGREEN Studio Pro ANC Headphones",
+    price: 54.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3YFQHcj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-studio-pro-48db-anc-wireless-headphones/ad-photo.png",
+    desc: "UGREEN Studio Pro over-ear wireless Bluetooth headphones with 48dB active noise cancelling.",
+    specs: [["Type", "Over-ear wireless Bluetooth headphones"], ["ANC", "48dB hybrid active noise cancelling, 4 modes"], ["Audio", "Hi-Res Audio, LDAC"], ["Battery", "120H playtime (ANC off), 80H (ANC on)"]],
+    added: 180,
+    popular: false
+  },
+  {
+    id: "hiby-r1-hifi-audio-music-player-mp3-usb-dac",
+    name: "HiBy R1 HiFi Audio Music Player MP3 USB DAC WiFi Bluetooth 5.1 DSD256 PCM384kHz/32bit X1600E CS43131 MSEB Web Radio",
+    short: "HiBy R1 HiFi Music Player",
+    price: 78.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3aZUZBv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r1-hifi-audio-music-player-mp3-usb-dac/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r1-hifi-audio-music-player-mp3-usb-dac/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r1-hifi-audio-music-player-mp3-usb-dac/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r1-hifi-audio-music-player-mp3-usb-dac/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r1-hifi-audio-music-player-mp3-usb-dac/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r1-hifi-audio-music-player-mp3-usb-dac/ad-photo.png",
+    desc: "HiBy R1 HiFi audio music player — MP3 player with USB DAC, WiFi, Bluetooth 5.1, DSD256 and PCM384kHz/32bit audio.",
+    specs: [["Type", "HiFi audio music player, MP3 with USB DAC"], ["Audio", "DSD256, PCM384kHz/32bit, CS43131 DAC"], ["Connectivity", "WiFi, Bluetooth 5.1, 3.5mm headphone out, MSEB"], ["Battery", "Up to 15 hours playback, 400+ hours standby"]],
+    added: 181,
+    popular: false
+  },
+  {
+    id: "wireless-controller-ps5-ps5-pro-slim-pc-rgb-led",
+    name: "Wireless Controller for PlayStation 5 PS5/PS5 Pro/Slim/PC, RGB LED, Dual Vibration, Programmable, Turbo",
+    short: "Wireless Controller for PS5",
+    price: 25.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4MeXeZh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-controller-ps5-ps5-pro-slim-pc-rgb-led/ad-photo.png",
+    desc: "Wireless controller for PlayStation 5, PS5 Pro, Slim and PC — RGB LED, dual vibration, programmable buttons and turbo.",
+    specs: [["Type", "Wireless controller for PS5 / PS5 Pro / Slim / PC"], ["Features", "RGB 9 colors, dual-vibration motors, turbo"], ["Macro", "Customizable macro function, 24 buttons"], ["Audio", "Built-in speaker, 3.5mm stereo audio jack"]],
+    added: 182,
+    popular: false
+  }
 
 ];
 
