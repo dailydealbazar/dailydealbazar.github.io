@@ -4490,6 +4490,107 @@ const PRODUCTS = [
     added: 174,
     popular: false
   }
+,
+  {
+    id: "paqin-99-level-massage-gun-fascia-deep-muscle-relax",
+    name: "PAQIN 99 Level Massage Gun Fascia Deep Muscle Relax",
+    short: "PAQIN 99-Level Massage Gun",
+    price: 21.62,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3drAUPz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-99-level-massage-gun-fascia-deep-muscle-relax/ad-photo.png",
+    desc: "PAQIN 99-level fascia massage gun for deep muscle relaxation. (Different from the shop's Booster Massage Gun LS — this is the PAQIN model with 99 levels at $21.62.)",
+    specs: [["Type", "99-level fascia massage gun, deep muscle relaxation"], ["Brand", "PAQIN"], ["Speed", "Up to 3200 rev/min, smart LCD touch screen"], ["Seller", "DAQI Beautylife Store, 87.21%"]],
+    added: 175,
+    popular: false
+  },
+  {
+    id: "r09-smart-ring-heart-rate-blood-oxygen-5atm",
+    name: "R09 Smart Ring Men Women with Charging Case, Heart Rate Blood Oxygen, Skin Temperature Monitor, 5ATM Waterproof For Android IOS",
+    short: "R09 Smart Ring with Charging Case",
+    price: 35.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3DJp4mj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/r09-smart-ring-heart-rate-blood-oxygen-5atm/ad-photo.png",
+    desc: "R09 smart ring with charging case — heart rate, blood oxygen and skin temperature monitoring, 5ATM waterproof, for Android and iOS.",
+    specs: [["Sensors", "Heart rate, blood oxygen, skin temperature"], ["Tracking", "Sleep and sport-mode tracking"], ["Waterproof", "5ATM"], ["Battery", "5–7 days standby, 1.5H charging, with charging case; sizes 7–13, Silver/Gold/Black"]],
+    added: 176,
+    popular: false
+  },
+  {
+    id: "kpop-idol-card-protective-sleeve-hd-transparent",
+    name: "500-1PCS HD Transparent Kpop Idol Card Protective Sleeve, waterproof card protectors for K-pop/photocards and board games",
+    short: "Kpop Idol Card Protective Sleeves",
+    price: 2.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4SvsKCB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kpop-idol-card-protective-sleeve-hd-transparent/ad-photo.png",
+    desc: "HD transparent waterproof card protective sleeves — 500 pieces, for K-pop photocards and board games.",
+    specs: [["Type", "HD transparent card protective sleeves"], ["Sizes", "56 × 87 mm and 63.5 × 88 mm, 0.1 mm thick, HARD"], ["Pack", "500 pieces"], ["Use", "K-pop photocards and board games"]],
+    added: 177,
+    popular: false
+  },
+  {
+    id: "motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p",
+    name: "3 Inch Motorcycle Dashcam, waterproof, Front 720P & Rear 480P, loop recording, night vision, G-sensor, rated -20°C to 70°C",
+    short: "3 Inch Motorcycle Dashcam",
+    price: 51.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c42my1sx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-dashcam-3-inch-waterproof-front-720p-rear-480p/ad-photo.png",
+    desc: "3-inch waterproof motorcycle dashcam — front 720P and rear 480P cameras, loop recording, night vision and G-sensor, rated -20°C to 70°C.",
+    specs: [["Display", "3 inch, 120° wide-angle lens, split screen preview"], ["Cameras", "Front 720P, rear 480P"], ["Features", "Loop recording, night vision, G-sensor, emergency collision auto-lock"], ["Rating", "Host IP65, lens IP67 waterproof, rated -20°C to 70°C"]],
+    added: 178,
+    popular: false
+  }
 
 ];
 
