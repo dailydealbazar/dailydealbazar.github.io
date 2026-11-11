@@ -6303,6 +6303,107 @@ const PRODUCTS = [
     added: 246,
     popular: false
   }
+,
+  {
+    id: "jcd-750w-heat-gun-soldering-station",
+    name: "JCD 750W Heat Gun Digital Display Micro Rework Soldering Station Hot Air Gun for Welding Repair Tool Hair Dryer 8858",
+    short: "JCD 750W Heat Gun",
+    price: 29.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c31NXGJH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-750w-heat-gun-soldering-station/ad-photo.png",
+    desc: "JCD 750W heat gun with digital display — micro rework soldering station hot air gun for welding repair.",
+    specs: [["Type", "750W heat gun"], ["Display", "Digital display"], ["Use", "Micro rework soldering station, hot air gun for welding repair"], ["Power", "750W"]],
+    added: 247,
+    popular: false
+  },
+  {
+    id: "mast-pro2-tattoo-cartridge-needles",
+    name: "Mast Pro2 Tattoo Cartridge Needles 20pcs Disposable Art Makeup Needle RL/RS/RM/M for Permanent Makeup or Body Art Tattoo",
+    short: "Mast Pro2 Tattoo Cartridge Needles",
+    price: 23.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4SE1byT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mast-pro2-tattoo-cartridge-needles/ad-photo.png",
+    desc: "Mast Pro2 tattoo cartridge needles, 20pcs disposable — for permanent makeup or body art tattoo.",
+    specs: [["Type", "Tattoo cartridge needles, 20pcs"], ["Use", "Permanent makeup or body art tattoo"], ["Feature", "Disposable"], ["Sizes", "RL/RS/RM/M"]],
+    added: 248,
+    popular: false
+  },
+  {
+    id: "powerful-air-blower-turbo-jet-110000rpm",
+    name: "Powerful Air Blower 110000Rpm 4 Gear Adjustable Turbo Jet Blower with LED Light Battery Display Cordless Compressed Air Duster",
+    short: "Powerful Air Blower Turbo Jet",
+    price: 30.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3BJHTpz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/powerful-air-blower-turbo-jet-110000rpm/ad-photo.png",
+    desc: "Powerful 110000rpm turbo jet air blower — 4 gear adjustable, LED light, battery display, cordless compressed air duster.",
+    specs: [["Type", "Turbo jet air blower"], ["Speed", "110000 RPM"], ["Feature", "4 gear adjustable, LED light, battery display"], ["Use", "Cordless compressed air duster"]],
+    added: 249,
+    popular: false
+  },
+  {
+    id: "velvet-ribbon-wedding-party-decoration",
+    name: "6-38mm Velvet Ribbon Wedding Party Decoration Handmade Gift Wrapping Hair Bowknot DIY Christmas",
+    short: "Velvet Ribbon Wedding Decoration",
+    price: 2.68,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4bd4Nsx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/velvet-ribbon-wedding-party-decoration/ad-photo.png",
+    desc: "Velvet ribbon 6-38mm — wedding party decoration, handmade gift wrapping, hair bowknot, DIY Christmas.",
+    specs: [["Type", "Velvet ribbon, 6-38mm"], ["Use", "Wedding party decoration, gift wrapping, hair bowknot"], ["Feature", "Handmade, DIY Christmas"], ["Material", "Velvet"]],
+    added: 250,
+    popular: false
+  }
 
 ];
 
