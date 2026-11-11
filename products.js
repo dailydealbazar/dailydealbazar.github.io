@@ -5496,6 +5496,107 @@ const PRODUCTS = [
     added: 214,
     popular: false
   }
+,
+  {
+    id: "tp4056-lithium-battery-charger-module",
+    name: "2/5PCS 5V 1A Micro/Type-c/Mini 18650 TP4056 Lithium Battery Charger Module Charging Board With Protection Dual Functions Li-ion",
+    short: "TP4056 Lithium Battery Charger Module",
+    price: 1.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4UaFscr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tp4056-lithium-battery-charger-module/ad-photo.png",
+    desc: "TP4056 lithium battery charger module — 5V 1A charging board with protection, for 18650 Li-ion batteries.",
+    specs: [["Type", "TP4056 lithium battery charger module"], ["Input", "5V 1A, Micro / Type-C / Mini"], ["Battery", "18650 Li-ion"], ["Protection", "Dual functions, with protection"]],
+    added: 215,
+    popular: false
+  },
+  {
+    id: "stainless-steel-pry-tools-phone-screen-opener",
+    name: "6/1Pcs Stainless Steel Blade Soft Ultra Thin Pry For Phones Tablet Screen Battery Opening Tools for Samsung iPhone iPad Opener",
+    short: "Stainless Steel Pry Tools Phone Opener",
+    price: 1.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4MOpqGn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-pry-tools-phone-screen-opener/ad-photo.png",
+    desc: "Stainless steel pry tools — soft ultra thin blades for opening phone and tablet screens and batteries.",
+    specs: [["Material", "Stainless steel blade"], ["Type", "Soft ultra thin pry tools"], ["Use", "Phone, tablet screen and battery opening"], ["Fits", "Samsung, iPhone, iPad"]],
+    added: 216,
+    popular: false
+  },
+  {
+    id: "elastic-jacquard-sofa-cover-stretch-couch",
+    name: "Elastic Jacquard Fabric Sofa Cover Stretch Couch Cover Sectional L Shape Sofa Slipcover Corner Case for Living Room 1/2/3/4 Seat",
+    short: "Elastic Jacquard Sofa Cover",
+    price: 29.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4aH0Mix",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elastic-jacquard-sofa-cover-stretch-couch/ad-photo.png",
+    desc: "Elastic jacquard sofa cover — stretch couch cover, sectional L shape slipcover for the living room.",
+    specs: [["Material", "Elastic jacquard fabric"], ["Type", "Stretch couch cover, sectional L shape"], ["Seats", "1 / 2 / 3 / 4 seat"], ["Use", "Living room sofa slipcover"]],
+    added: 217,
+    popular: false
+  },
+  {
+    id: "dental-floss-picks-50pcs-deep-cleaning",
+    name: "50pcs Dental Floss, Deep Cleaning Dental Floss For Proper Oral Care, Portable Disposable Dental Floss Picks For Travel Daily Life",
+    short: "Dental Floss Picks 50pcs",
+    price: 23.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4nrXLPh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-floss-picks-50pcs-deep-cleaning/ad-photo.png",
+    desc: "Dental floss picks — 50pcs deep cleaning disposable floss picks, portable for travel and daily life.",
+    specs: [["Count", "50 pcs"], ["Type", "Disposable dental floss picks"], ["Use", "Deep cleaning, proper oral care"], ["Portable", "Travel and daily life"]],
+    added: 218,
+    popular: false
+  }
 
 ];
 
