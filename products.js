@@ -6001,6 +6001,107 @@ const PRODUCTS = [
     added: 234,
     popular: false
   }
+,
+  {
+    id: "massage-ball-fascia-ball-muscle-relaxation",
+    name: "Massage Ball Fascia Ball Muscle Relaxation Massage Yoga Fitness Shoulder Neck Foot Foot Foot Massage Hard Neck Membrane Meridian",
+    short: "Massage Ball Fascia Ball",
+    price: 2.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2z9DDYL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/massage-ball-fascia-ball-muscle-relaxation/ad-photo.png",
+    desc: "Massage ball fascia ball for muscle relaxation — yoga, fitness, shoulder, neck and foot massage.",
+    specs: [["Type", "Fascia massage ball"], ["Use", "Muscle relaxation, yoga, fitness"], ["Areas", "Shoulder, neck, foot"], ["Size", "6 cm (2.36 in)"]],
+    added: 235,
+    popular: false
+  },
+  {
+    id: "type-c-wireless-lavalier-microphone",
+    name: "Type-C Port Professional Wireless Lavalier Microphone for Smartphones, Computers, Tablets, Plug and Play",
+    short: "Type-C Wireless Lavalier Microphone",
+    price: 5.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4orwFWJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-wireless-lavalier-microphone/ad-photo.png",
+    desc: "Professional wireless lavalier microphone with Type-C port — plug and play for smartphones, computers and tablets.",
+    specs: [["Type", "Wireless lavalier microphone"], ["Port", "Type-C"], ["Battery", "8 hours total (two mics, 4 h each)"], ["Compatibility", "Type-C devices only, not iPhone Lightning"]],
+    added: 236,
+    popular: false
+  },
+  {
+    id: "food-thermometer-tp300-digital-kitchen",
+    name: "Food Thermometer TP300 Digital Kitchen Water Oil Thermometer for Meat Cooking Food Probe BBQ Electronic Oven Kitchen Tools",
+    short: "Food Thermometer TP300",
+    price: 4.52,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3SeZUb5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-thermometer-tp300-digital-kitchen/ad-photo.png",
+    desc: "TP300 digital kitchen food thermometer — water, oil and meat cooking probe for BBQ and electronic ovens.",
+    specs: [["Type", "TP300 digital food thermometer"], ["Use", "Meat cooking, water, oil, BBQ"], ["Probe", "Food probe thermometer"], ["Accuracy", "±1°C/°F, resolution 0.1°C/°F"]],
+    added: 237,
+    popular: false
+  },
+  {
+    id: "crochet-yarn-91-color-5-strands",
+    name: "91 Color 5Strands Crochet Yarn For Knitting Milk Cotton Yarn Soft Warm Knitted Line Thread Handmade Needlework DIY Cotton Thread",
+    short: "Crochet Yarn 91 Color 5 Strands",
+    price: 1.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3q3JGyB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crochet-yarn-91-color-5-strands/ad-photo.png",
+    desc: "91-color 5-strand crochet yarn — milk cotton yarn for knitting and handmade needlework.",
+    specs: [["Type", "Crochet yarn, 5 strands"], ["Colors", "91 colors"], ["Material", "Milk cotton yarn"], ["Use", "Knitting, handmade needlework"]],
+    added: 238,
+    popular: false
+  }
 
 ];
 
