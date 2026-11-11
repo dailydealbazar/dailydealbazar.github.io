@@ -3179,6 +3179,107 @@ const PRODUCTS = [
     added: 122,
     popular: false
   }
+,
+  {
+    id: "sanrio-hello-kitty-gemini-diy-music-box-building-blocks",
+    name: "Sanrio Hello Kitty Gemini DIY Music Box Building Blocks",
+    short: "Sanrio Hello Kitty Gemini DIY Music Box Building Blocks",
+    price: 46.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3gP6xJD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-hello-kitty-gemini-diy-music-box-building-blocks/ad-photo.png",
+    desc: "Sanrio Hello Kitty Gemini DIY music box building block set — build a cute Hello Kitty music box that plays a tune.",
+    specs: [["Theme", "Sanrio Hello Kitty Gemini"], ["Type", "DIY music box building blocks"], ["Brand", "Sanrio"]],
+    added: 123,
+    popular: false
+  },
+  {
+    id: "usb-powered-laser-stroboscopic-party-lights",
+    name: "USB Powered Laser Stroboscopic Party Lights DJ Disco Projectors",
+    short: "USB Powered Laser Stroboscopic Party Lights DJ Disco Projectors",
+    price: 21.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c32w7ceL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-powered-laser-stroboscopic-party-lights/ad-photo.png",
+    desc: "USB powered laser stroboscopic party lights — DJ disco projector for parties, with colourful laser effects.",
+    specs: [["Power", "USB powered"], ["Type", "Laser stroboscopic party light"], ["Use", "DJ / disco projector"]],
+    added: 124,
+    popular: false
+  },
+  {
+    id: "rechargeable-heated-socks-3-heat-levels",
+    name: "Rechargeable Heated Socks 3 Heat Levels 2200mAh Batteries",
+    short: "Rechargeable Heated Socks 3 Heat Levels 2200mAh Batteries",
+    price: 21.30,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4dlF7H9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-heated-socks-3-heat-levels/ad-photo.png",
+    desc: "Rechargeable heated socks with 3 heat levels and 2200mAh batteries — warm feet for cold winter days outdoors.",
+    specs: [["Battery", "2200mAh rechargeable"], ["Heat levels", "3 levels"], ["Type", "Heated socks"]],
+    added: 125,
+    popular: false
+  },
+  {
+    id: "monster-airclip-ac235-ear-clip-earbuds",
+    name: "Monster AirClip AC235 Ear Clip Earbuds Bluetooth 6.0 AI Translating",
+    short: "Monster AirClip AC235 Ear Clip Earbuds Bluetooth 6.0 AI Translating",
+    price: 21.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3gglFLv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monster-airclip-ac235-ear-clip-earbuds/ad-photo.png",
+    desc: "Monster AirClip AC235 ear clip earbuds with Bluetooth 6.0 and AI translating — clip-on fit, hands-free listening.",
+    specs: [["Bluetooth", "6.0"], ["Type", "Ear clip earbuds"], ["Feature", "AI translating"], ["Model", "AirClip AC235"]],
+    added: 126,
+    popular: false
+  }
 
 ];
 
