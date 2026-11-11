@@ -6505,6 +6505,107 @@ const PRODUCTS = [
     added: 254,
     popular: false
   }
+,
+  {
+    id: "kf-concept-mc-uv-protection-filter",
+    name: "K&F CONCEPT MC UV Protection Filter Ultra Slim Multi Coated HD 37mm 43mm 46mm 49mm 52mm 55mm 58mm 62mm 67mm 72mm 77mm 82mm",
+    short: "K&F CONCEPT MC UV Filter",
+    price: 10.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4UEz3IJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf-concept-mc-uv-protection-filter/ad-photo.png",
+    desc: "K&F CONCEPT MC UV protection filter — ultra slim, multi coated HD lens filter for camera lenses.",
+    specs: [["Type", "MC UV protection filter"], ["Coating", "Multi-coated HD, ultra slim"], ["Sizes", "37mm-82mm (12 sizes)"], ["Use", "Camera lens protection"]],
+    added: 255,
+    popular: false
+  },
+  {
+    id: "sonoff-airguard-co2-air-quality-monitor",
+    name: "SONOFF AirGuard CO2 Matter Over WiFi Air Quality Monitor SAWF-08P Temperature Humidity Meter Sound & Light Alarm Historical Data",
+    short: "SONOFF AirGuard CO2 Monitor",
+    price: 45.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4Vt48mF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-airguard-co2-air-quality-monitor/ad-photo.png",
+    desc: "SONOFF AirGuard CO2 air quality monitor — Matter over WiFi, temperature and humidity meter, sound & light alarm, historical data.",
+    specs: [["Type", "CO2 air quality monitor"], ["Connectivity", "Matter over WiFi"], ["Features", "Temperature & humidity meter"], ["Alarm", "Sound & light alarm"]],
+    added: 256,
+    popular: false
+  },
+  {
+    id: "portable-disposable-dental-floss-box",
+    name: "1/2/5/10 Box Portable Disposable Dental Floss Plastic Toothpick High-tension Dental Floss Stick Dental Floss Box Oral Care",
+    short: "Portable Dental Floss Box",
+    price: 2.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3llAbsj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-disposable-dental-floss-box/ad-photo.png",
+    desc: "Portable disposable dental floss box — high-tension dental floss sticks with plastic toothpick, oral care.",
+    specs: [["Type", "Disposable dental floss box"], ["Options", "1/2/5/10 box"], ["Feature", "High-tension dental floss stick"], ["Use", "Oral care, interdental cleaning"]],
+    added: 257,
+    popular: false
+  },
+  {
+    id: "60w-pd-usb-c-fast-charger-cable",
+    name: "1pcs-5pcs 60W PD USB-C to USB C Fast Charger Cable for Apple iPhone 17 Pro Max 16 15 Plus 14 13 12 11 X XS Type C Quick Charging",
+    short: "60W PD USB-C Charger Cable",
+    price: 2.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c36KBoOb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/60w-pd-usb-c-fast-charger-cable/ad-photo.png",
+    desc: "60W PD USB-C to USB-C fast charger cable — quick charging cable for iPhone.",
+    specs: [["Type", "60W PD USB-C to USB-C cable"], ["Power", "60W PD fast charging"], ["Fits", "iPhone 17/16/15/14/13/12/11/X/XS"], ["Packs", "1-5 pcs"]],
+    added: 258,
+    popular: false
+  }
 
 ];
 
