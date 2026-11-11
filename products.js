@@ -5395,6 +5395,107 @@ const PRODUCTS = [
     added: 210,
     popular: false
   }
+,
+  {
+    id: "tenwish-diffusion-cloth-photography-studio",
+    name: "Tenwish 1.5x1m/2m/3m Diffusion Cloth Nylon Silk Seamless White Fabric for Light Modifier Strobe Softbox Photography Studio",
+    short: "Tenwish Diffusion Cloth Photography Studio",
+    price: 6.91,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4ePtxd9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tenwish-diffusion-cloth-photography-studio/ad-photo.png",
+    desc: "Tenwish diffusion cloth — seamless white nylon silk fabric for light modifiers and strobe softbox photography studios.",
+    specs: [["Material", "Nylon silk"], ["Sizes", "1.5×1 m / 2 m / 3 m"], ["Use", "Light modifier for strobe softbox"], ["Colour", "Seamless white"]],
+    added: 211,
+    popular: false
+  },
+  {
+    id: "mosquito-repellent-fragrance-balm",
+    name: "Mosquito Repellent Fragrance Is Cute, Easy to Hang, Cool, Soothing, Quickly Relieves Itching, and Easy to Carry",
+    short: "Mosquito Repellent Fragrance Balm",
+    price: 2.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c309Chwr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-repellent-fragrance-balm/ad-photo.png",
+    desc: "Mosquito repellent fragrance — cute, easy to hang and carry, cool and soothing, quickly relieves itching.",
+    specs: [["Type", "Mosquito repellent fragrance"], ["Style", "Hangable, easy to carry"], ["Effect", "Cooling and soothing, relieves itching"], ["Size", "4 × 3.5 × 5 cm"]],
+    added: 212,
+    popular: false
+  },
+  {
+    id: "oil-spray-bottle-bbq-cooking",
+    name: "200/300/500ml Oil Spray Bottle BBQ Cooking Olive Oil Sprayer Plastic Baking Oil Spray Empty Bottle Vinegar Bottle Or Oil brush",
+    short: "Oil Spray Bottle BBQ Cooking",
+    price: 2.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3DJuVM7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-bottle-bbq-cooking/ad-photo.png",
+    desc: "Oil spray bottle — BBQ cooking olive oil sprayer, plastic baking oil spray bottle for kitchen use.",
+    specs: [["Capacity", "200 / 300 / 500 ml"], ["Use", "BBQ cooking olive oil sprayer"], ["Material", "Plastic"], ["Type", "Oil spray bottle, vinegar bottle or oil brush"]],
+    added: 213,
+    popular: false
+  },
+  {
+    id: "camera-cover-slider-webcam-cover",
+    name: "Camera Cover Cache Slider Web Camera Cover iPad PC Macbook Sticker Web Camera Cover Universal Phone Notebook Computer",
+    short: "Camera Cover Slider Webcam Cover",
+    price: 0.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3hFTsST",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/camera-cover-slider-webcam-cover/ad-photo.png",
+    desc: "Camera cover slider — universal webcam cover sticker for phone, notebook, laptop, iPad, PC and MacBook.",
+    specs: [["Type", "Slider webcam cover"], ["Size", "18.5 × 9 mm"], ["Thickness", "0.027 inch super slim"], ["Fits", "Phone, notebook, laptop, iPad, PC, MacBook"]],
+    added: 214,
+    popular: false
+  }
 
 ];
 
