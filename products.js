@@ -8020,6 +8020,107 @@ const PRODUCTS = [
     added: 314,
     popular: false
   }
+,
+  {
+    id: "enchen-ms003-compact-foil-shaver",
+    name: "ENCHEN MS003 Compact Foil Shaver With POP-UP Precision Trimmer",
+    short: "ENCHEN MS003 Compact Foil Shaver",
+    price: 10.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3qNNqjH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-ms003-compact-foil-shaver/ad-photo.png",
+    desc: "ENCHEN MS003 compact foil shaver with POP-UP precision trimmer, Type-C charging with indicator and 7000RPM strong motor.",
+    specs: [["Type", "Compact foil shaver"], ["Motor", "7000RPM"], ["Charging", "Type-C"], ["Trimmer", "POP-UP precision trimmer"]],
+    added: 315,
+    popular: false
+  },
+  {
+    id: "ajazz-ak820-pro-mechanical-keyboard",
+    name: "Ajazz AK820 Pro 75% Gasket-mounted Mechanical Keyboard with TFT Screen",
+    short: "Ajazz AK820 Pro Mechanical Keyboard",
+    price: 70.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4tTZT31",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-ak820-pro-mechanical-keyboard/ad-photo.png",
+    desc: "Ajazz AK820 Pro 75% gasket-mounted Bluetooth 5.1/2.4G wireless/wired mechanical keyboard with TFT screen for Mac/Win.",
+    specs: [["Layout", "75% gasket-mounted"], ["Connection", "Bluetooth 5.1 / 2.4G / wired"], ["Display", "TFT screen"], ["Compatibility", "Mac / Windows"]],
+    added: 316,
+    popular: false
+  },
+  {
+    id: "wancle-electric-burr-coffee-grinder",
+    name: "Wancle Electric Burr Coffee Grinder Adjustable Burr Mill",
+    short: "Wancle Electric Burr Coffee Grinder",
+    price: 55.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4UOj2zt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wancle-electric-burr-coffee-grinder/ad-photo.png",
+    desc: "Wancle electric burr coffee grinder — adjustable burr mill, coffee bean grinding with 28 precise grind settings, 220V/120V.",
+    specs: [["Type", "Electric burr coffee grinder"], ["Grind settings", "28 precise settings"], ["Burr", "Flat metal burrs"], ["Voltage", "220V / 120V"]],
+    added: 317,
+    popular: false
+  },
+  {
+    id: "adjustable-aluminum-laptop-stand",
+    name: "Adjustable Aluminum Laptop Stand - 6-Level Height, Foldable & Portable",
+    short: "Adjustable Aluminum Laptop Stand",
+    price: 8.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c32ETEp1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-aluminum-laptop-stand/ad-photo.png",
+    desc: "Adjustable aluminum laptop stand — 6-level height, foldable and portable design for 8-16 inch laptops, enhanced ventilation and heat dissipation.",
+    specs: [["Material", "Aluminum"], ["Height", "6-level adjustable"], ["Laptops", "8-16 inches"], ["Design", "Foldable, portable"]],
+    added: 318,
+    popular: false
+  }
 
 ];
 
