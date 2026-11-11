@@ -3885,6 +3885,107 @@ const PRODUCTS = [
     added: 150,
     popular: false
   }
+,
+  {
+    id: "naturehike-sleeping-bag-liner-128g-ultralight",
+    name: "Naturehike Sleeping Bag Liner 128g Ultralight",
+    short: "Naturehike Sleeping Bag Liner 128g",
+    price: 30.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4VXjyCB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/naturehike-sleeping-bag-liner-128g-ultralight/ad-photo.png",
+    desc: "Naturehike sleeping bag liner, 128g ultralight — a liner accessory ONLY (not a full sleeping bag; the shop's Naturehike Sleeping Bag LW180 is a separate full bag).",
+    specs: [["Type", "Sleeping bag liner (accessory, NOT a full sleeping bag)"], ["Weight", "128g / 4.5 oz ultralight"], ["Size", "210 × 80/60 cm; storage bag 15 × 6 cm"], ["Fabric", "Fleece-like, skin-friendly, machine washable"]],
+    added: 151,
+    popular: false
+  },
+  {
+    id: "hcalory-8kw-bluetooth-diesel-heater-hc2-h",
+    name: "Hcalory 8KW Bluetooth Diesel Heater HC2-H Portable Parking Heater for Cars RVs Trucks and Boats",
+    short: "Hcalory 8KW Bluetooth Diesel Heater HC2-H",
+    price: 192.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2RCmyZh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hcalory-8kw-bluetooth-diesel-heater-hc2-h/ad-photo.png",
+    desc: "Hcalory 8KW Bluetooth diesel heater HC2-H — a portable parking heater for cars, RVs, trucks and boats, with Bluetooth control.",
+    specs: [["Type", "8KW Bluetooth diesel heater, portable parking heater"], ["Use", "Cars, RVs, trucks, boats"], ["Control", "Smart APP (10m), remote (30m), LCD panel"], ["Fuel use", "0.12–0.46 L/H; combustion efficiency ≥95%"]],
+    added: 152,
+    popular: false
+  },
+  {
+    id: "essager-thin-wireless-power-bank-5000mah-20w-magsafe",
+    name: "Essager Thin Wireless Power Bank 5000mAh 20W Magnetic MagSafe for iPhone 17/16",
+    short: "Essager Thin Wireless Power Bank 5000mAh",
+    price: 35.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4BMCKRH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-thin-wireless-power-bank-5000mah-20w-magsafe/ad-photo.png",
+    desc: "Essager thin wireless power bank, 5000mAh, 20W — magnetic MagSafe charging for iPhone 17/16.",
+    specs: [["Capacity", "5000mAh"], ["Output", "PD 20W wireless charging"], ["Thickness", "8mm ultra-slim metal design"], ["Feature", "Charges two devices at once (wireless + wired)"]],
+    added: 153,
+    popular: false
+  },
+  {
+    id: "russian-tactical-cotton-jacket-graphene-thermal-winter-parka",
+    name: "Russian-Tactical Cotton Jacket Windproof Waterproof Graphene Thermal Cold-Resistant to -40°C Winter Army Parka",
+    short: "Russian-Tactical Cotton Jacket -40°C Parka",
+    price: 50.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3y0lKX9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/russian-tactical-cotton-jacket-graphene-thermal-winter-parka/ad-photo.png",
+    desc: "Russian-tactical cotton jacket — windproof, waterproof, graphene thermal, cold-resistant to -40°C, a winter army parka.",
+    specs: [["Type", "Cotton winter jacket / army parka"], ["Protection", "Windproof, waterproof, graphene thermal"], ["Cold rating", "Cold-resistant to -40°C"], ["Sizes", "S–3XL (size chart in photos)"]],
+    added: 154,
+    popular: false
+  }
 
 ];
 
