@@ -4992,6 +4992,105 @@ const PRODUCTS = [
     added: 194,
     popular: false
   }
+,
+  {
+    id: "vib-fishing-lure-jerkbait-hard-wobblers",
+    name: "VIB Fishing Lure Jerkbait Hard Wobblers",
+    short: "VIB Fishing Lure Jerkbait",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4aDbSe3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vib-fishing-lure-jerkbait-hard-wobblers/ad-photo.png",
+    desc: "VIB fishing lure jerkbait hard wobblers — hard bait lure for fishing.",
+    specs: [["Type", "VIB fishing lure jerkbait hard wobblers"], ["Brand", "WATERBOY"], ["Use", "Fishing"]],
+    added: 195,
+    popular: false
+  },
+  {
+    id: "winter-intelligent-heated-vest-25-zones",
+    name: "Winter Intelligent Heated Vest 25 Heating Zones",
+    short: "Winter Intelligent Heated Vest 25 Zones",
+    price: 11.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c31DpbkF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-intelligent-heated-vest-25-zones/ad-photo.png",
+    desc: "Winter intelligent heated vest — 25 heating zones, 4-zone control. (Different from the shop's Smart Heated Vest 26 Zones and USB Heating Vest — this is a 25-zone vest.)",
+    specs: [["Type", "Winter intelligent heated vest"], ["Heating zones", "25 heating zones"], ["Control", "4 switches, 3-gear temperature control"], ["Power", "USB (power bank not included)"]],
+    added: 196,
+    popular: false
+  },
+  {
+    id: "anime-gengar-onesies-flannel-romper",
+    name: "Anime Gengar Onesies Flannel Romper",
+    short: "Anime Gengar Onesies Flannel Romper",
+    price: 12.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2INAdnp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-gengar-onesies-flannel-romper/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-gengar-onesies-flannel-romper/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-gengar-onesies-flannel-romper/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-gengar-onesies-flannel-romper/photo-4.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-gengar-onesies-flannel-romper/ad-photo.png",
+    desc: "Anime Gengar onesies flannel romper — baby/toddler flannel romper, sizes 3M–3T.",
+    specs: [["Type", "Anime Gengar onesies flannel romper"], ["Material", "Flannel"], ["Sizes", "3M–3T"], ["Age", "Baby / toddler"]],
+    added: 197,
+    popular: false
+  },
+  {
+    id: "miyoo-mini-plus-retro-handheld-game-console",
+    name: "MIYOO Mini Plus Portable Retro Handheld Game Console",
+    short: "MIYOO Mini Plus Retro Handheld Game Console",
+    price: 54.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3Un4QX9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/miyoo-mini-plus-retro-handheld-game-console/ad-photo.png",
+    desc: "MIYOO Mini Plus portable retro handheld game console.",
+    specs: [["Type", "Portable retro handheld game console"], ["Brand", "MIYOO"], ["Screen", "3.5-inch IPS, 640×480 resolution"]],
+    added: 198,
+    popular: false
+  }
 
 ];
 
