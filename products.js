@@ -7414,6 +7414,107 @@ const PRODUCTS = [
     added: 290,
     popular: false
   }
+,
+  {
+    id: "deep-muscle-massage-gun-fascia-relaxor",
+    name: "Deep Muscle Massage Gun Fascia Relaxor",
+    short: "Deep Muscle Massage Gun Fascia Relaxor",
+    price: 56.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c43enyW3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/deep-muscle-massage-gun-fascia-relaxor/ad-photo.png",
+    desc: "Deep muscle massage gun for fascia relaxation — black carbon-fibre percussion massager with 6 massage heads, LCD touch display, 30 speed gears and a 55mm brushless motor.",
+    specs: [["Heads", "6 massage heads"], ["Speeds", "30 gears, 1800–3200 RPM"], ["Battery", "4–6 hours; 2–3h fast charge"], ["Motor", "55mm brushless motor, 12–15mm amplitude"]],
+    added: 291,
+    popular: false
+  },
+  {
+    id: "fishtrip-long-shank-fishing-hooks",
+    name: "FishTrip Long Shank Fishing Hooks",
+    short: "FishTrip Long Shank Fishing Hooks",
+    price: 2.68,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3gyDe3H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishtrip-long-shank-fishing-hooks/ad-photo.png",
+    desc: "FishTrip long shank baitholder fishing hooks — red carbon steel hooks with barbed sharp tips, closed eye and two barbs. Size 10 / 25 pcs variant available.",
+    specs: [["Brand", "FishTrip"], ["Material", "Carbon steel"], ["Design", "Long shank baitholder, two barbs"], ["Tip", "Barbed sharp tip, closed eye"]],
+    added: 292,
+    popular: false
+  },
+  {
+    id: "cartoon-barbapapa-plush-toys",
+    name: "Cartoon Barbapapa Plush Toys",
+    short: "Cartoon Barbapapa Plush Toys",
+    price: 6.29,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3gsRG8R",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-barbapapa-plush-toys/ad-photo.png",
+    desc: "Cartoon Barbapapa plush toys — soft stuffed plush dolls of the Barbapapa family in pink, black, red, yellow, blue and green.",
+    specs: [["Type", "Plush toy"], ["Characters", "Barbapapa family"], ["Colours", "Pink, black, red, yellow, blue, green"], ["Material", "Soft plush fabric"]],
+    added: 293,
+    popular: false
+  },
+  {
+    id: "oil-spray-cooking-olive-oil-dispenser-glass",
+    name: "Oil Spray Cooking Olive Oil Dispenser Glass Bottle",
+    short: "Oil Spray Cooking Olive Oil Dispenser Glass",
+    price: 5.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3wywu6T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oil-spray-cooking-olive-oil-dispenser-glass/ad-photo.png",
+    desc: "Glass oil spray bottle for cooking — refillable olive oil dispenser with a fine mist spray for salads, grilling, baking and air frying. Sizes 200, 300 and 500 ml.",
+    specs: [["Type", "Glass oil spray dispenser"], ["Sizes", "200 ml, 300 ml, 500 ml"], ["Opening", "1.35-inch wide bottle opening, easy refill"], ["Nozzle", "Silicone nozzles, no oil dripping"]],
+    added: 294,
+    popular: false
+  }
 
 ];
 
