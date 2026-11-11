@@ -7010,6 +7010,107 @@ const PRODUCTS = [
     added: 274,
     popular: false
   }
+,
+  {
+    id: "neck-bladeless-fan-mini-portable",
+    name: "Mini Portable Neck Bladeless Fan 5 Gear Wind Power Adjustable with Digital Display",
+    short: "Neck Bladeless Fan Mini Portable",
+    price: 11.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3pG6A2F",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neck-bladeless-fan-mini-portable/ad-photo.png",
+    desc: "Mini portable neck bladeless fan — 5 gear wind power adjustable, 10,000 high speed motor, cool wind circulates 720 degrees.",
+    specs: [["Type", "Neck bladeless fan"], ["Gears", "5 gear wind power adjustable"], ["Motor", "10,000 high speed motor"], ["Display", "Electroplating key display, battery level"]],
+    added: 275,
+    popular: false
+  },
+  {
+    id: "ergonomic-contour-facial-brush",
+    name: "Ergonomic Contour Facial Brush Lymphatic Face Brush for Face & Body",
+    short: "Ergonomic Contour Facial Brush",
+    price: 5.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4EoIn7t",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ergonomic-contour-facial-brush/ad-photo.png",
+    desc: "Ergonomic contour facial brush — lymphatic face brush for face & body, soft natural bristles, simple to clean and care.",
+    specs: [["Type", "Lymphatic contour face brush"], ["Use", "Face & body"], ["Bristles", "Soft natural bristles"], ["Design", "Ergonomic, comfortable grip handle"]],
+    added: 276,
+    popular: false
+  },
+  {
+    id: "impossible-wooden-puzzle-iq-tangram",
+    name: "Impossible Wooden Puzzle IQ Tangram Brain Teaser Wooden Puzzle Game",
+    short: "Impossible Wooden Puzzle IQ Tangram",
+    price: 7.40,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3lxff6n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impossible-wooden-puzzle-iq-tangram/ad-photo.png",
+    desc: "Impossible wooden puzzle IQ tangram — interlocking wooden pieces, brain teaser puzzle game.",
+    specs: [["Type", "Wooden IQ tangram puzzle"], ["Material", "Wooden"], ["Size", "14.7x14.7x0.8cm (square board)"], ["Pieces", "Interlocking wooden pieces"]],
+    added: 277,
+    popular: false
+  },
+  {
+    id: "6pcs-satin-hair-scrunchies",
+    name: "6Pcs Satin Hair Scrunchies Elastic Hair Ties for Women",
+    short: "6Pcs Satin Hair Scrunchies",
+    price: 3.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3A9wWlh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6pcs-satin-hair-scrunchies/ad-photo.png",
+    desc: "6pcs satin hair scrunchies — soft elastic hair ties, 9cm diameter.",
+    specs: [["Type", "Satin hair scrunchies"], ["Quantity", "6 pieces"], ["Size", "9cm (3.54in) diameter"], ["Material", "Satin"]],
+    added: 278,
+    popular: false
+  }
 
 ];
 
