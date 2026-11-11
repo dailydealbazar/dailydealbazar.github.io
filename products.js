@@ -5597,6 +5597,107 @@ const PRODUCTS = [
     added: 218,
     popular: false
   }
+,
+  {
+    id: "suyarun-urea-foot-cream",
+    name: "SUYARUN 60% Urea Foot Cream for Cracked Heels & Dry Skin - Intensive Moisturizing Treatment, Callus Remover, Diabetic Foot Care",
+    short: "SUYARUN Urea Foot Cream",
+    price: 3.98,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3ZLWdrh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-urea-foot-cream/ad-photo.png",
+    desc: "SUYARUN 60% urea foot cream — intensive moisturizing treatment for cracked heels and dry skin.",
+    specs: [["Urea", "60%"], ["Use", "Cracked heels & dry skin"], ["Type", "Intensive moisturizing foot cream"], ["Care", "Callus remover, diabetic foot care"]],
+    added: 219,
+    popular: false
+  },
+  {
+    id: "abbree-tactical-antenna-walkie-talkie",
+    name: "ABBREE CS Tactical Antenna SMA-Female Dual Band VHF UHF 144/430Mhz Foldable For Walkie Talkie Baofeng UV-21 UV-5R QuanSheng K5",
+    short: "ABBREE Tactical Antenna",
+    price: 6.29,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4E5EyJH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-tactical-antenna-walkie-talkie/ad-photo.png",
+    desc: "ABBREE CS tactical antenna — foldable dual band VHF/UHF antenna for walkie talkies.",
+    specs: [["Connector", "SMA-Female"], ["Band", "Dual band VHF / UHF 144 / 430 MHz"], ["Type", "Foldable tactical antenna"], ["Fits", "Baofeng UV-21, UV-5R, QuanSheng K5"]],
+    added: 220,
+    popular: false
+  },
+  {
+    id: "silica-gel-desiccant-beads",
+    name: "Blue/Orange Indicating Silica Gel Desiccant Beads, Reusable Moisture Absorber for Storage, Closets, Electronics, 3D Printer Filament",
+    short: "Silica Gel Desiccant Beads",
+    price: 7.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3GZv627",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silica-gel-desiccant-beads/ad-photo.png",
+    desc: "Indicating silica gel desiccant beads — reusable moisture absorber for storage, closets and electronics.",
+    specs: [["Type", "Indicating silica gel desiccant beads"], ["Colour", "Blue / orange indicating"], ["Use", "Storage, closets, electronics, 3D printer filament"], ["Reusable", "Yes"]],
+    added: 221,
+    popular: false
+  },
+  {
+    id: "makita-bl1830-battery-18v-8000mah",
+    name: "For Makita BL1830 Battery 18V 8000mAh Battery BL1830 BL1815 BL1860 BL1840 Tool Rechargeable Battery With 6A Charger",
+    short: "Makita BL1830 Battery 18V",
+    price: 31.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c44gEVYb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makita-bl1830-battery-18v-8000mah/ad-photo.png",
+    desc: "Makita BL1830 battery — 18V 8000mAh rechargeable tool battery with 6A charger.",
+    specs: [["Voltage", "18V"], ["Capacity", "8000mAh"], ["Fits", "BL1830, BL1815, BL1860, BL1840"], ["Charger", "6A charger included"]],
+    added: 222,
+    popular: false
+  }
 
 ];
 
