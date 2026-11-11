@@ -6102,6 +6102,106 @@ const PRODUCTS = [
     added: 238,
     popular: false
   }
+,
+  {
+    id: "geeboon-220w-tc22-soldering-station",
+    name: "GEEBOON 220W TC22 Soldering Station Compatible with 115/210/245/T12 Soldering Tip Color Curve Display Soldering Rework Station",
+    short: "GEEBOON 220W TC22 Soldering Station",
+    price: 73.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4CEtogR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeboon-220w-tc22-soldering-station/ad-photo.png",
+    desc: "220W TC22 soldering station with color curve display — compatible with 115/210/245/T12 soldering tips, for soldering rework.",
+    specs: [["Type", "220W TC22 soldering station"], ["Tips", "Compatible with 115/210/245/T12 soldering tips"], ["Display", "Color curve display"], ["Use", "Soldering rework station"]],
+    added: 239,
+    popular: false
+  },
+  {
+    id: "dr-pen-ultima-m8s-derma-pen",
+    name: "Dr. Pen Ultima M8S Wireless Professional Derma Pen with 12 Needle Microneedle Anti Backflow Micro Pen 0.25 MM Needle Length",
+    short: "Dr. Pen Ultima M8S Derma Pen",
+    price: 69.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4kZdy7H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dr-pen-ultima-m8s-derma-pen/ad-photo.png",
+    desc: "Wireless professional derma pen with 12-needle microneedle — anti-backflow micro pen, 0.25 mm needle length.",
+    specs: [["Type", "Wireless professional derma pen"], ["Needle", "12-needle microneedle, 0.25 mm needle length"], ["Feature", "Anti-backflow micro pen"], ["Power", "Wireless"]],
+    added: 240,
+    popular: false
+  },
+  {
+    id: "airfryer-silicone-basket-reusable",
+    name: "Airfryer Silicone Basket Reusable Baking Tray Silicone Mold for AirFryer Pizza Fried Chicken Basket",
+    short: "Airfryer Silicone Basket",
+    price: 5.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3ggXWJd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airfryer-silicone-basket-reusable/ad-photo.png",
+    desc: "Reusable silicone airfryer basket — baking tray and silicone mold for pizza, fried chicken and more.",
+    specs: [["Type", "Reusable silicone basket"], ["Use", "Airfryer baking tray / silicone mold"], ["Foods", "Pizza, fried chicken"], ["Material", "Silicone"]],
+    added: 241,
+    popular: false
+  },
+  {
+    id: "silicone-suction-phone-holder-mat",
+    name: "Silicone Suction Phone Holder Mat Multifunctional Suction Cup Wall Stand Square Anti-Slip Single-Sided Case Mount Back Sticker",
+    short: "Silicone Suction Phone Holder Mat",
+    price: 1.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c31CyhSJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-suction-phone-holder-mat/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-suction-phone-holder-mat/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-suction-phone-holder-mat/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-suction-phone-holder-mat/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-suction-phone-holder-mat/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-suction-phone-holder-mat/ad-photo.png",
+    desc: "Silicone suction phone holder mat — multifunctional suction cup wall stand, anti-slip single-sided case mount back sticker.",
+    specs: [["Type", "Silicone suction phone holder mat"], ["Mount", "Suction cup wall stand"], ["Feature", "Anti-slip, single-sided case mount"], ["Use", "Back sticker mount"]],
+    added: 242,
+    popular: false
+  }
 
 ];
 
