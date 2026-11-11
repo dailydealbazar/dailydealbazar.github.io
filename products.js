@@ -7111,6 +7111,107 @@ const PRODUCTS = [
     added: 278,
     popular: false
   }
+,
+  {
+    id: "home-electric-guasha-cupping-massager",
+    name: "Home Electric Guasha Cupping Massager Electric Scraping Cupping Machine",
+    short: "Home Electric Guasha Cupping Massager",
+    price: 31.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3MV2foj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-electric-guasha-cupping-massager/ad-photo.png",
+    desc: "Home electric guasha cupping massager — electric scraping and cupping massage machine for home use.",
+    specs: [["Type", "Electric guasha cupping massager"], ["Massage heads", "10 massage heads"], ["Heating", "Fast heat, adjustable intensity"], ["Levels", "6 gear levels — suction + heating"], ["Display", "Gear display with power light"]],
+    added: 279,
+    popular: false
+  },
+  {
+    id: "classic-building-block-base-plate",
+    name: "Classic Building Block Base Plate Building Blocks Baseplate for Building Bricks",
+    short: "Classic Building Block Base Plate",
+    price: 5.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2uIQbVN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-building-block-base-plate/ad-photo.png",
+    desc: "Classic building block base plate — road-style baseplate for building bricks and blocks, DIY city scenes.",
+    specs: [["Type", "Building block base plate"], ["Designs", "Straight, curve & crossroads road plates"], ["Material", "Flexible, firm insert — bending not easy to break"], ["Use", "DIY city / little mayor scenes"]],
+    added: 280,
+    popular: false
+  },
+  {
+    id: "essager-usb-bluetooth-receiver-aux-adapter",
+    name: "ESSAGER USB Bluetooth Receiver Aux Adapter Bluetooth 5.0 Car Audio Receiver",
+    short: "Essager USB Bluetooth Receiver Aux Adapter",
+    price: 4.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4U5zYgB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-usb-bluetooth-receiver-aux-adapter/ad-photo.png",
+    desc: "ESSAGER USB Bluetooth receiver aux adapter — add Bluetooth 5.0 audio to your car, speaker, or home stereo.",
+    specs: [["Type", "USB Bluetooth receiver aux adapter"], ["Bluetooth", "Bluetooth 5.0"], ["Connection", "USB power + 3.5mm aux"], ["Use", "Add Bluetooth to your car"]],
+    added: 281,
+    popular: false
+  },
+  {
+    id: "home-decor-bulldog-figurine-key-storage",
+    name: "Home Decor Bulldog Figurine Key Storage Statue Bulldog Sculpture Ornament",
+    short: "Home Decor Bulldog Figurine Key Storage",
+    price: 43.26,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2wHe5af",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/home-decor-bulldog-figurine-key-storage/ad-photo.png",
+    desc: "Home decor bulldog figurine with key storage — bulldog statue ornament with an open-mouth compartment and gold tray on its back.",
+    specs: [["Type", "Bulldog figurine key storage"], ["Storage", "Open-mouth compartment + gold tray on back"], ["Colours", "Grey, black, green, orange"], ["Use", "Entryway key, watch & jewellery storage"]],
+    added: 282,
+    popular: false
+  }
 
 ];
 
