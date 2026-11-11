@@ -7212,6 +7212,107 @@ const PRODUCTS = [
     added: 282,
     popular: false
   }
+,
+  {
+    id: "m1911-water-gun-pistol-toy",
+    name: "M1911 Water Gun Pistol Toy Summer Water Gun for Kids",
+    short: "M1911 Water Gun Pistol Toy",
+    price: 3.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c40kpZRp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/m1911-water-gun-pistol-toy/ad-photo.png",
+    desc: "M1911-style toy water gun pistol — one-button shooting summer water toy in non-toxic ABS with about a 100cc water tank. A toy for kids, not a real firearm.",
+    specs: [["Type", "Toy water pistol (M1911 style)"], ["Material", "Non-toxic ABS"], ["Size", "12.5 x 3.5cm"], ["Water tank", "About 100cc"], ["Colours", "Blue and grey"]],
+    added: 283,
+    popular: false
+  },
+  {
+    id: "venalisa-cat-eye-nail-gel-polish",
+    name: "VENALISA Cat Eye Nail Gel Polish Glitter Gel Polish",
+    short: "VENALISA Cat Eye Nail Gel Polish",
+    price: 5.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3rmAzRt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/venalisa-cat-eye-nail-gel-polish/ad-photo.png",
+    desc: "VENALISA cat-eye gel nail polish — glitter cat-eye shades in a wide range of colours, gel polish bottle with silver cap.",
+    specs: [["Type", "Cat-eye gel nail polish"], ["Brand", "VENALISA"], ["Finish", "Glitter cat-eye shades"], ["Shades", "5616, 5618, 5641, 5651 and more"]],
+    added: 284,
+    popular: false
+  },
+  {
+    id: "2-pack-towels-strong-water-absorption",
+    name: "2 Pack Towels Strong Water Absorption Striped Bath Towels",
+    short: "2-Pack Towels Strong Water Absorption",
+    price: 5.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3NtBqPN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-pack-towels-strong-water-absorption/ad-photo.png",
+    desc: "2-pack striped towels with strong water absorption — green and grey striped bath towels, 72 x 33cm.",
+    specs: [["Type", "2-pack striped towels"], ["Size", "72 x 33cm"], ["Colours", "Green and grey stripes"], ["Feature", "Strong water absorption"]],
+    added: 285,
+    popular: false
+  },
+  {
+    id: "bucklos-bicycle-grips-mtb",
+    name: "BUCKLOS Bicycle Grips MTB Handlebar Grips Lock On",
+    short: "BUCKLOS Bicycle Grips MTB",
+    price: 7.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3L2Gocr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bucklos-bicycle-grips-mtb/ad-photo.png",
+    desc: "BUCKLOS MTB bicycle grips — lock-on handlebar grips with aluminium alloy lock ring, rubber with high-strength plastic lining, 33mm x 130mm.",
+    specs: [["Type", "MTB handlebar grips (lock-on)"], ["Brand", "BUCKLOS"], ["Size", "33mm x 130mm"], ["Weight", "110.8g"], ["Thickness", "About 4-5mm"], ["Material", "Rubber + high-strength plastic lining"], ["Locking", "Aluminium alloy lock ring"], ["Colours", "Black, red, blue, purple, orange, green, brown"]],
+    added: 286,
+    popular: false
+  }
 
 ];
 
