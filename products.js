@@ -4390,6 +4390,106 @@ const PRODUCTS = [
     added: 170,
     popular: false
   }
+,
+  {
+    id: "250w-pd-car-charger-qc3-0-fast-charge-one-to-six",
+    name: "250W PD Car Charger QC3.0 Fast Charge One to Six Car Cigarette Lighter Plug, 5 Port Car Charger, Flash Charge with Digital Display",
+    short: "250W PD Car Charger QC3.0",
+    price: 3.91,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4P3yPFv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/250w-pd-car-charger-qc3-0-fast-charge-one-to-six/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/250w-pd-car-charger-qc3-0-fast-charge-one-to-six/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/250w-pd-car-charger-qc3-0-fast-charge-one-to-six/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/250w-pd-car-charger-qc3-0-fast-charge-one-to-six/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/250w-pd-car-charger-qc3-0-fast-charge-one-to-six/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/250w-pd-car-charger-qc3-0-fast-charge-one-to-six/ad-photo.png",
+    desc: "250W PD car charger with QC3.0 fast charge — one-to-six car cigarette lighter plug with 5 ports and a digital display, flash charge.",
+    specs: [["Type", "5-port car charger — USB ×4 + PD ×1, one-to-six cigarette lighter plug"], ["Power", "250W PD, QC3.0 fast charge"], ["Display", "Digital display, flash charge"], ["Seller", "For Your Love Car Store, 87.45%"]],
+    added: 171,
+    popular: false
+  },
+  {
+    id: "vector-double-layer-anti-fog-magnetic-ski-goggles",
+    name: "VECTOR Brand Double Layer Anti Fog Magnetic Absorption Cylindrical Ski Goggles for Men Women",
+    short: "VECTOR Anti-Fog Ski Goggles",
+    price: 19.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4S8azsx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vector-double-layer-anti-fog-magnetic-ski-goggles/ad-photo.png",
+    desc: "VECTOR double-layer anti-fog ski goggles with magnetic absorption cylindrical lens, for men and women.",
+    specs: [["Type", "Double-layer anti-fog cylindrical ski goggles, magnetic absorption lens"], ["Lens", "Magnetic quick-removal lens; 5 lens colours, light transmittance 8.4–30%"], ["Fit", "Higher nasal sponge pad, designed for Asian face shape"], ["Seller", "VECTOR official store, 94.7%"]],
+    added: 172,
+    popular: false
+  },
+  {
+    id: "protective-bumper-dji-avata-2-drone-propeller-guard",
+    name: "Protective Bumper for DJI Avata 2 Drone Propeller Guard, Anti-Collision (GRWIBEOU)",
+    short: "DJI Avata 2 Propeller Bumper",
+    price: 6.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3oODosB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/protective-bumper-dji-avata-2-drone-propeller-guard/ad-photo.png",
+    desc: "Protective bumper propeller guard for the DJI Avata 2 drone — anti-collision protection (GRWIBEOU).",
+    specs: [["Type", "Propeller guard / protective bumper for DJI Avata 2"], ["Protection", "Anti-collision, high elastic EVA strip"], ["Size", "Packing size 18 × 8 cm"], ["Brand", "GRWIBEOU"]],
+    added: 173,
+    popular: false
+  },
+  {
+    id: "osmo-pocket-3-case-pu-storage-pouch-bag",
+    name: "Osmo Pocket 3 Case, Perfect Fit Portable PU Storage Pouch Bag for DJI Osmo Pocket 3 Creator Combo Accessories",
+    short: "Osmo Pocket 3 Case PU Pouch",
+    price: 5.40,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c43yxvH9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/osmo-pocket-3-case-pu-storage-pouch-bag/ad-photo.png",
+    desc: "Portable PU storage pouch bag, perfect fit for the DJI Osmo Pocket 3 and its Creator Combo accessories.",
+    specs: [["Type", "PU storage pouch bag / protective case"], ["Size", "23 × 14 × 7.5 cm"], ["Fit", "Perfect fit for DJI Osmo Pocket 3 Creator Combo accessories"], ["Features", "Wrist strap, zip closure, mesh pocket"]],
+    added: 174,
+    popular: false
+  }
 
 ];
 
