@@ -6202,6 +6202,107 @@ const PRODUCTS = [
     added: 242,
     popular: false
   }
+,
+  {
+    id: "mint-dental-floss-stick",
+    name: "Mint Dental Floss Stick — Home Portable Disposable Care Dental Floss Stick, Oral Care, Deep Cleaning, Interdental Cleaning",
+    short: "Mint Dental Floss Stick",
+    price: 2.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3vFdsdp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mint-dental-floss-stick/ad-photo.png",
+    desc: "Mint dental floss sticks — home portable disposable oral care, deep cleaning and interdental cleaning.",
+    specs: [["Type", "Mint dental floss stick"], ["Count", "750 count"], ["Feature", "Deep cleaning, interdental cleaning"], ["Flavor", "Mint"]],
+    added: 243,
+    popular: false
+  },
+  {
+    id: "urea-cream-foot-hand-maximum-strength",
+    name: "Urea Cream for Feet Plus Salicylic Acid Foot Cream and Hand Cream Maximum Strength with Hyaluronic Acid, Tea Tree",
+    short: "Urea Cream Foot & Hand",
+    price: 3.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c34DU88B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/urea-cream-foot-hand-maximum-strength/ad-photo.png",
+    desc: "Maximum strength urea foot and hand cream with salicylic acid, hyaluronic acid and tea tree.",
+    specs: [["Type", "60% urea cream stick, hand and foot"], ["Formula", "60% urea + 2% salicylic acid"], ["Size", "40 g (1.41 oz)"], ["Ingredients", "Hyaluronic acid, tea tree"]],
+    added: 244,
+    popular: false
+  },
+  {
+    id: "6-layers-safety-razor-set",
+    name: "6-Layers Safety Razor Set High Quality Men Razor Sharp Stainless Steel Shaving Changeable Shaver Head Blade",
+    short: "6-Layers Safety Razor Set",
+    price: 3.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4dlyKwF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-layers-safety-razor-set/ad-photo.png",
+    desc: "6-layers safety razor set — sharp stainless steel shaving razor with changeable shaver head blade.",
+    specs: [["Type", "6-layers safety razor set"], ["Material", "Stainless steel"], ["Feature", "Changeable shaver head blade, floating cutter head"], ["Length", "14.2 cm (5.59 in)"]],
+    added: 245,
+    popular: false
+  },
+  {
+    id: "aloe-vera-color-changing-lipstick",
+    name: "Aloe Vera Color-Changing Lipstick Long-Lasting, Moisturizing, Temperature-Activated Lip Balm, Fade-Resistant Nourishing Lip Care",
+    short: "Aloe Vera Color-Changing Lipstick",
+    price: 2.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c45F1pef",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aloe-vera-color-changing-lipstick/ad-photo.png",
+    desc: "Aloe vera color-changing lipstick — long-lasting, moisturizing, temperature-activated lip balm, fade-resistant nourishing lip care.",
+    specs: [["Type", "Aloe vera color-changing lipstick"], ["Pack", "2 pcs"], ["Feature", "Temperature-activated color change"], ["Effect", "Long-lasting, moisturizing"]],
+    added: 246,
+    popular: false
+  }
 
 ];
 
