@@ -6707,6 +6707,107 @@ const PRODUCTS = [
     added: 262,
     popular: false
   }
+,
+  {
+    id: "8bitdo-ultimate-2c-wireless-gaming-controller",
+    name: "8BitDo - New Ultimate 2C Wireless Gaming Controller for PC, Windows 10, 11, Steam Deck, Raspberry Pi, Android",
+    short: "8BitDo Ultimate 2C Controller",
+    price: 27.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3CYWyST",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8bitdo-ultimate-2c-wireless-gaming-controller/ad-photo.png",
+    desc: "8BitDo Ultimate 2C wireless gaming controller — for PC, Windows 10/11, Steam Deck, Raspberry Pi and Android.",
+    specs: [["Type", "Wireless gaming controller"], ["Platforms", "PC, Windows 10/11, Steam Deck, Android"], ["Compatibility", "Raspberry Pi"]],
+    added: 263,
+    popular: false
+  },
+  {
+    id: "kids-outdoor-rocket-foot-pump-launcher",
+    name: "Kids Outdoor Rocket Foot Pump Outdoor Air Pressing Soaring Rocket Suit Jumps Air Powered Rocket Launcher Game Children Toy Gifts",
+    short: "Rocket Foot Pump Launcher",
+    price: 4.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3b1uQht",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-outdoor-rocket-foot-pump-launcher/ad-photo.png",
+    desc: "Kids outdoor rocket foot pump launcher — air powered soaring rocket suit, press the pump and the rocket jumps.",
+    specs: [["Type", "Air powered rocket launcher"], ["Power", "Foot pump"], ["Use", "Outdoor kids toy"]],
+    added: 264,
+    popular: false
+  },
+  {
+    id: "precision-edge-kitchen-knife-sharpener",
+    name: "Precision Edge Professional Kitchen Knife Sharpener - Tungsten and Diamond Ceramic Whetstone for All Blades, Including Garden Scissors",
+    short: "Precision Edge Knife Sharpener",
+    price: 4.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4bc8A6x",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/precision-edge-kitchen-knife-sharpener/ad-photo.png",
+    desc: "Precision Edge professional kitchen knife sharpener — tungsten and diamond ceramic whetstone for all blades, including garden scissors.",
+    specs: [["Type", "Kitchen knife sharpener"], ["Material", "Tungsten and diamond ceramic"], ["Use", "All blades, garden scissors"]],
+    added: 265,
+    popular: false
+  },
+  {
+    id: "jof-4-strands-fishing-line",
+    name: "JOF 4 Strands Fishing Line 300/100M Braided PE Fishing Strong Fishing Line Multifilament Durable Fishing Line Tool",
+    short: "JOF 4 Strands Fishing Line",
+    price: 3.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2v8ojqR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jof-4-strands-fishing-line/ad-photo.png",
+    desc: "JOF 4 strands fishing line — braided PE multifilament line, strong and durable, 300/100M.",
+    specs: [["Type", "Braided PE fishing line"], ["Strands", "4 strands"], ["Length", "300/100M"], ["Material", "Multifilament PE"]],
+    added: 266,
+    popular: false
+  }
 
 ];
 
