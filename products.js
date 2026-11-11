@@ -7616,6 +7616,107 @@ const PRODUCTS = [
     added: 298,
     popular: false
   }
+,
+  {
+    id: "diy-mosquito-net-for-bed-window-home-textile",
+    name: "DIY Mosquito Net for Bed Window Home Textile",
+    short: "DIY Mosquito Net for Bed Window",
+    price: 2.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3JbawnV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-mosquito-net-for-bed-window-home-textile/ad-photo.png",
+    desc: "DIY mosquito net for bed and window — self-adhesive mesh screen curtain that keeps insects and flies out of the home, indoors and in the garden.",
+    specs: [["Type", "Self-adhesive mesh mosquito net"], ["Use", "Bed, window, indoor, garden"], ["Feature", "Anti-insect and fly screen"], ["Fit", "DIY — cut to fit"]],
+    added: 299,
+    popular: false
+  },
+  {
+    id: "takara-tomy-beyxs-gyro-x-toy",
+    name: "Takara Tomy Beyxs Entire Series Gyro X Toy",
+    short: "Takara Tomy Beyxs Gyro X Toy",
+    price: 4.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4BsrmYP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/takara-tomy-beyxs-gyro-x-toy/ad-photo.png",
+    desc: "Takara Tomy Beyxs entire series Gyro X toy — spinning top toy from the UX and BX series (UX17, BX23, BX26, UX06, UX08, UX11, CX05, CX07, CX08).",
+    specs: [["Brand", "Takara Tomy Beyxs"], ["Series", "UX17, BX23, BX26, UX06, UX08, UX11, CX05, CX07, CX08"], ["Type", "Gyro X spinning top toy"]],
+    added: 300,
+    popular: false
+  },
+  {
+    id: "500-100-round-headed-cotton-swabs",
+    name: "500/100 Round Headed Cotton Swabs",
+    short: "500/100 Round Headed Cotton Swabs",
+    price: 2.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c31epQRz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/500-100-round-headed-cotton-swabs/ad-photo.png",
+    desc: "500/100 round headed cotton swabs — double round headed swabs on bamboo sticks, with precision pointed tips for cosmetic and nail tools.",
+    specs: [["Pack", "500 or 100 pieces"], ["Head", "Double round head, precision pointed"], ["Material", "Bamboo sticks"], ["Use", "Cosmetic and nail tools"]],
+    added: 301,
+    popular: false
+  },
+  {
+    id: "vothoon-pu-leather-protective-case-apple-airtag",
+    name: "Vothoon PU Leather Protective Case for Apple Airtag",
+    short: "Vothoon PU Leather Protective Case for Apple AirTag",
+    price: 3.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3VbN4ix",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vothoon-pu-leather-protective-case-apple-airtag/ad-photo.png",
+    desc: "Vothoon PU leather protective case for Apple AirTag locator tracker — anti-lost durable cover with a keychain for everyday carry.",
+    specs: [["Material", "PU leather"], ["Fit", "Apple AirTag locator tracker"], ["Feature", "Keychain, anti-lost design"], ["Use", "Durable protective cover"]],
+    added: 302,
+    popular: false
+  }
 
 ];
 
