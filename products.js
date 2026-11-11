@@ -4188,6 +4188,107 @@ const PRODUCTS = [
     added: 162,
     popular: false
   }
+,
+  {
+    id: "patuopro-cordless-electric-air-pump-makita-18v",
+    name: "PATUOPRO Cordless Electric Air Pump for Makita 18V Battery",
+    short: "PATUOPRO Cordless Electric Air Pump",
+    price: 50.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c31Q1EzD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/patuopro-cordless-electric-air-pump-makita-18v/ad-photo.png",
+    desc: "PATUOPRO cordless electric air pump — air compressor for car, bicycle and motorcycle tyres, designed for Makita 18V batteries; package shown in photos includes 2 batteries, charger, 12V car adapter and air nozzles.",
+    specs: [["Type", "Cordless electric air pump / tyre inflator"], ["Power", "Makita 18V battery"], ["Size", "6.50 x 8.07 inch (165 x 205 mm)"], ["Features", "Smart digital display, LED light, copper wire motor, 12V car adapter"]],
+    added: 163,
+    popular: false
+  },
+  {
+    id: "lenovo-smart-camera-glasses",
+    name: "Lenovo Smart Camera Glasses",
+    short: "Lenovo Smart Camera Glasses",
+    price: 63.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3BCOSUR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-smart-camera-glasses/ad-photo.png",
+    desc: "Lenovo smart camera glasses — HD video, Bluetooth calls and AI voice assistant, for outdoor activity recording and cycling.",
+    specs: [["Type", "Smart camera glasses with AI voice assistant"], ["Camera", "8MP HD camera, 2K photos, 1080p video recording"], ["Features", "AI smart translation (150+ languages), Bluetooth 5.3, Wi-Fi transfer"], ["Use", "Outdoor activity recording, cycling, music"]],
+    added: 164,
+    popular: false
+  },
+  {
+    id: "homefish-electric-shoe-dryer-deodorizer-uv",
+    name: "HOMEFISH Electric Shoe Dryer Deodorizer with Heat And UV Light",
+    short: "HOMEFISH Electric Shoe Dryer",
+    price: 12.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3HN1Lmr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-electric-shoe-dryer-deodorizer-uv/ad-photo.png",
+    desc: "HOMEFISH electric shoe dryer deodorizer with heat and UV light — sterilising, foldable, for shoes and socks.",
+    specs: [["Type", "Electric shoe dryer deodorizer"], ["Features", "Heat and UV light, sterilising, foldable, 360° circulation heat"], ["Use", "Shoes and socks; drying, dehumidification, deodorization"], ["Seller", "Stone's Store, 99.83%"]],
+    added: 165,
+    popular: false
+  },
+  {
+    id: "abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639",
+    name: "ABBREE Walkie Talkie Wireless Bluetooth Microphone Speaker MIC AR-639",
+    short: "ABBREE Walkie Talkie Bluetooth Mic",
+    price: 35.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3d8nwYf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abbree-walkie-talkie-bluetooth-microphone-speaker-ar-639/ad-photo.png",
+    desc: "ABBREE walkie talkie wireless Bluetooth microphone speaker MIC — waterproof, for Baofeng UV-21 / Quansheng, model AR-639, IP67, USB-C.",
+    specs: [["Type", "Walkie talkie Bluetooth microphone speaker"], ["Model", "AR-639, IP67 waterproof, floats on water"], ["Features", "Type-C charger, 360° rotating clip, 5.5 x 7.6 x 2.8 cm"], ["Compatibility", "Baofeng UV-21, Quansheng"]],
+    added: 166,
+    popular: false
+  }
 
 ];
 
