@@ -3381,6 +3381,106 @@ const PRODUCTS = [
     added: 130,
     popular: false
   }
+,
+  {
+    id: "8-teeth-ice-gripper-snow-crampons",
+    name: "8 Teeth Ice Gripper For Shoes Snow Crampons Anti-slip Ice Gripper Hiking Cleats",
+    short: "8 Teeth Ice Gripper For Shoes Snow Crampons Anti-slip Ice Gripper Hiking Cleats",
+    price: 5.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3PIG227",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-teeth-ice-gripper-snow-crampons/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-teeth-ice-gripper-snow-crampons/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-teeth-ice-gripper-snow-crampons/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-teeth-ice-gripper-snow-crampons/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-teeth-ice-gripper-snow-crampons/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-teeth-ice-gripper-snow-crampons/ad-photo.png",
+    desc: "8-teeth ice gripper snow crampons for shoes — anti-slip cleats for hiking on snow and ice.",
+    specs: [["Teeth", "8 teeth"], ["Type", "Snow crampons / ice gripper"], ["Use", "Hiking"], ["Feature", "Anti-slip"]],
+    added: 131,
+    popular: false
+  },
+  {
+    id: "capybara-doll-pinch-pendant-squeeze-toy",
+    name: "Capybara Doll Pinch Pendant Squeeze Spit Bubble Decompression Toy",
+    short: "Capybara Doll Pinch Pendant Squeeze Spit Bubble Decompression Toy",
+    price: 3.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4F3wyZp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/capybara-doll-pinch-pendant-squeeze-toy/ad-photo.png",
+    desc: "Capybara doll pinch pendant — squeeze it and it spits a bubble, a fun decompression toy. Note: some reviews say the bubble does not always inflate and the toy can break quickly.",
+    specs: [["Type", "Pinch pendant squeeze toy"], ["Feature", "Spits bubble"], ["Use", "Decompression / stress relief"]],
+    added: 132,
+    popular: false
+  },
+  {
+    id: "xteink-x3-x4-pro-e-book-reader",
+    name: "XTEINK X3 X4 Pro E-Book Reader Magnetic Lightweight 4.3 Inches Ultrathin 16GB",
+    short: "XTEINK X3 X4 Pro E-Book Reader Magnetic Lightweight 4.3 Inches Ultrathin 16GB",
+    price: 93.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c44uA9bh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xteink-x3-x4-pro-e-book-reader/ad-photo.png",
+    desc: "XTEINK X3 / X4 Pro e-book reader — magnetic, lightweight and ultrathin with a 4.3-inch screen and 16GB storage.",
+    specs: [["Screen", "4.3\" E Ink display, 220 ppi"], ["Storage", "16GB"], ["Battery", "1100mAh"], ["Size", "5.9mm thin, 74g"], ["Design", "Magnetic, lightweight, ultrathin"]],
+    added: 133,
+    popular: false
+  },
+  {
+    id: "k52-ai-mobile-cooler-magnetic-back-clip",
+    name: "K52 AI Mobile Cooler Magnetic Back-clip Ice Cooling Radiator Digital Display RGB Light",
+    short: "K52 AI Mobile Cooler Magnetic Back-clip Ice Cooling Radiator Digital Display RGB Light",
+    price: 8.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4q6UZPD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/k52-ai-mobile-cooler-magnetic-back-clip/ad-photo.png",
+    desc: "K52 AI mobile cooler — magnetic back-clip ice cooling radiator with digital display and RGB light for your phone.",
+    specs: [["Type", "Magnetic back-clip phone cooler"], ["Cooling", "Ice cooling radiator"], ["Display", "Digital display"], ["Light", "RGB light"]],
+    added: 134,
+    popular: false
+  }
 
 ];
 
