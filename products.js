@@ -6909,6 +6909,107 @@ const PRODUCTS = [
     added: 270,
     popular: false
   }
+,
+  {
+    id: "yofidra-220bar-brushless-car-washer-gun",
+    name: "YOFIDRA 220Bar Brushless High Pressure Car Washer Gun 3 Gear Electric Washing Water Wash Spray Gun For Makita 21V Battery Pin",
+    short: "YOFIDRA 220Bar Car Washer Gun",
+    price: 63.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3RSoB59",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-220bar-brushless-car-washer-gun/ad-photo.png",
+    desc: "YOFIDRA 220Bar brushless high pressure car washer gun — 3 gear electric washing spray gun, for Makita 21V battery pin.",
+    specs: [["Type", "Brushless high pressure car washer gun"], ["Pressure", "220Bar"], ["Gears", "3 gear electric"], ["Battery", "For Makita 21V battery pin"]],
+    added: 271,
+    popular: false
+  },
+  {
+    id: "ryet-3d-printed-bicycle-saddle",
+    name: "2024 RYET 3D Printed Bicycle Saddle 120g Carbon Cushion 250x140mm Bike Seating for MTB Gravel Road Bike Seat Cycling Accessories",
+    short: "RYET 3D Printed Bicycle Saddle",
+    price: 31.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2vBNeDp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ryet-3d-printed-bicycle-saddle/ad-photo.png",
+    desc: "RYET 3D printed bicycle saddle — 120g carbon cushion, 250x140mm, bike seating for MTB, gravel and road bikes.",
+    specs: [["Type", "3D printed bicycle saddle"], ["Weight", "120g carbon cushion"], ["Size", "250x140mm"], ["Use", "MTB, gravel, road bike"]],
+    added: 272,
+    popular: false
+  },
+  {
+    id: "lilycute-129-colors-nail-gel-polish",
+    name: "LILYCUTE 129 Colors 7ML Nail Gel Polish Nail Supplies Vernis Semi Permanent Nail Art Manicure Soak Off LED UV Gel Nail Varnishes",
+    short: "LILYCUTE 129 Colors Nail Gel Polish",
+    price: 2.93,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3Qzijll",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lilycute-129-colors-nail-gel-polish/ad-photo.png",
+    desc: "LILYCUTE nail gel polish — 129 colors, 7ML, semi permanent soak off LED UV gel for nail art manicure.",
+    specs: [["Type", "Nail gel polish"], ["Colors", "129 colors"], ["Size", "7ML"], ["Finish", "Semi permanent, soak off LED UV gel"]],
+    added: 273,
+    popular: false
+  },
+  {
+    id: "binnune-bw06-bluetooth-gaming-headset",
+    name: "BINNUNE BW06 Bluetooth Headsets Gamer with Mic for PS5 PS4 PC Mac Playstation Wireless 2.4GHz Gaming Headphone with Microphone",
+    short: "BINNUNE BW06 Gaming Headset",
+    price: 31.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3xmxDwB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/binnune-bw06-bluetooth-gaming-headset/ad-photo.png",
+    desc: "BINNUNE BW06 Bluetooth gaming headset with mic — wireless 2.4GHz, for PS5, PS4, PC, Mac and PlayStation.",
+    specs: [["Type", "Bluetooth gaming headset"], ["Connection", "Wireless 2.4GHz"], ["Mic", "Built-in microphone"], ["Compatibility", "PS5, PS4, PC, Mac, PlayStation"]],
+    added: 274,
+    popular: false
+  }
 
 ];
 
