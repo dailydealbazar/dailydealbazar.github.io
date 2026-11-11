@@ -3481,6 +3481,107 @@ const PRODUCTS = [
     added: 134,
     popular: false
   }
+,
+  {
+    id: "copozz-winter-ski-helmet",
+    name: "COPOZZ Winter Ski Helmet One-piece Adult Universal Snow Helmet with RECCO Reflector",
+    short: "COPOZZ Winter Ski Helmet One-piece Adult Universal Snow Helmet with RECCO Reflector",
+    price: 87.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3d9Q1mB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/copozz-winter-ski-helmet/ad-photo.png",
+    desc: "COPOZZ winter ski helmet — one-piece adult universal snow helmet with RECCO reflector, CE certified.",
+    specs: [["Type", "One-piece adult snow / ski helmet"], ["Safety", "CE certified"], ["Reflector", "RECCO reflector"], ["Buckle", "FIDLOCK quick-release magnetic buckle"]],
+    added: 135,
+    popular: false
+  },
+  {
+    id: "ho-scale-locomotives-set-mdwd-model-railway-train",
+    name: "HO Scale Locomotives Set, MDWD Model Railway Train 1:87",
+    short: "HO Scale Locomotives Set, MDWD Model Railway Train 1:87",
+    price: 15.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4sLiGXl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ho-scale-locomotives-set-mdwd-model-railway-train/ad-photo.png",
+    desc: "HO scale locomotives set — MDWD model railway train in 1:87 scale.",
+    specs: [["Scale", "HO 1:87"], ["Type", "Model railway locomotive set"], ["Models", "DDT Plymouth, Porter Hustler, 0-4-0 tank loco, US GP-20, Union Pacific FP-7, Fat Boy steam"], ["Age", "14+"]],
+    added: 136,
+    popular: false
+  },
+  {
+    id: "40cm-rgb-atmosphere-table-lamp-monitor-light-bar",
+    name: "40CM RGB Atmosphere Table Lamp, Computer Monitor Light Bar",
+    short: "40CM RGB Atmosphere Table Lamp, Computer Monitor Light Bar",
+    price: 11.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4rBhKcB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40cm-rgb-atmosphere-table-lamp-monitor-light-bar/ad-photo.png",
+    desc: "40 cm RGB atmosphere table lamp — double-sided computer monitor light bar with RGB lighting, five eye-care modes and touch control.",
+    specs: [["Length", "40 cm"], ["Light", "RGB atmosphere lighting"], ["Design", "Double-sided, asymmetric light source — no screen glare"], ["Modes", "Five eye-care modes"], ["Control", "Touch to switch colors, long press for brightness"]],
+    added: 137,
+    popular: false
+  },
+  {
+    id: "winter-thermal-gloves-waterproof-work-safety",
+    name: "1Pair Winter Thermal Gloves Waterproof Work Safety Glove Anti-Slip Grip Rubber Garden Gloves",
+    short: "1Pair Winter Thermal Gloves Waterproof Work Safety Glove Anti-Slip Grip Rubber Garden Gloves",
+    price: 3.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c32xQUzZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/winter-thermal-gloves-waterproof-work-safety/ad-photo.png",
+    desc: "ELESESAFE W-G-02 winter thermal gloves — waterproof work and garden gloves with cashmere lining and foam latex palm grip. Non-heated glove; a different item from the -40C winter work gloves already on the shop. Note: the wrist part is not coated and not waterproof.",
+    specs: [["Model", "ELESESAFE W-G-02"], ["Lining", "Cashmere lining"], ["Coating", "Double-layer latex, full coated"], ["Grip", "Foam latex palm, anti-slip"], ["Use", "Garden / work gloves"]],
+    added: 138,
+    popular: false
+  }
 
 ];
 
