@@ -69,8 +69,8 @@ body{background:#f4f6fa}
 
 <section class="cards">
 <div class="card live"><h3>🔴 Live Now</h3><div class="num" id="liveNow">0</div><div class="cap">log abhi site par hain</div></div>
-<div class="card"><h3>👥 Total Visits</h3><div class="num" id="totalVisits">0</div><div class="cap">ab tak ke total page visits</div></div>
-<div class="card"><h3>📅 Today</h3><div class="num" id="todayVisits">0</div><div class="cap">aaj ke visits</div></div>
+<div class="card"><h3>👥 Total Visitors</h3><div class="num" id="totalVisits">0</div><div class="cap">ab tak ke alag visitors (1 IP = 1)</div></div>
+<div class="card"><h3>📅 Today</h3><div class="num" id="todayVisits">0</div><div class="cap">aaj ke alag visitors (1 IP = 1)</div></div>
 <div class="card"><h3>🛒 Buy Now Clicks — Today</h3><div class="num" id="todayClicks">0</div><div class="cap">aaj Buy Now par clicks</div></div>
 </section>
 
@@ -80,7 +80,17 @@ body{background:#f4f6fa}
 </section>
 
 <section class="panels">
-<div class="panel"><h2>📊 Last 7 Days</h2><div class="bars7" id="bars7"></div><p class="dash-note">Har bar = us din ke visits.</p></div>
+<div class="panel"><h2>🔗 Kahan Se Aaye</h2><div id="topSources"><p class="dash-note">Abhi tak koi data nahi — pehla visitor aate hi yahan dikhega.</p></div></div>
+<div class="panel"><h2>ℹ️ Ginti Kaise Hoti Hai</h2>
+<p class="dash-note">• <b>Total / Today</b> — alag visitors, 1 IP = 1. Ek hi banda baar baar aaye to bhi 1 hi gina jayega.</p>
+<p class="dash-note">• <b>Kahan Se Aaye</b> — banda kis jagah se click kar ke aaya: YouTube, Google, Facebook, ya seedha (Direct).</p>
+<p class="dash-note">• <b>Live Now</b> — abhi khule hue tabs.</p>
+<p class="dash-note">• Note: YouTube app se aane walon mein se kuch "Direct" dikh sakte hain, kyun ke app hamesha pata nahi batata.</p>
+</div>
+</section>
+
+<section class="panels">
+<div class="panel"><h2>📊 Last 7 Days</h2><div class="bars7" id="bars7"></div><p class="dash-note">Har bar = us din ke alag visitors (1 IP = 1).</p></div>
 <div class="panel"><h2>🛡️ Site &amp; Ads Status</h2><div id="siteStatus"></div>
 <p class="dash-note">AdSense: site review mein hai (<b>Getting ready</b>) — approval ke baad ads dikhne lagenge. <a href="https://adsense.google.com/" target="_blank" rel="noopener">AdSense kholo →</a></p>
 <p class="dash-note">GA4 reports: <a href="https://analytics.google.com/" target="_blank" rel="noopener">Google Analytics kholo →</a></p>
@@ -110,7 +120,7 @@ body{background:#f4f6fa}
     return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
   };
   function topList(obj, label) {
-    var arr = Object.keys(obj || {}).map(function (k) { return { k: k, v: (obj[k].pageviews || 0) }; });
+    var arr = Object.keys(obj || {}).map(function (k) { return { k: k, v: ((obj[k] && (obj[k].pageviews || obj[k].sessions)) || 0) }; });
     arr.sort(function (a, b) { return b.v - a.v; });
     return arr.slice(0, 8);
   }
@@ -123,8 +133,8 @@ body{background:#f4f6fa}
     }).join("");
   }
   function render(stats, presence) {
-    var total = (stats.total && stats.total.pageviews) || 0;
-    var today = (stats.days && stats.days[todayStr()] && stats.days[todayStr()].pageviews) || 0;
+    var total = uniqAll;
+    var today = uniqDays[todayStr()] || 0;
     var clicks = (stats.days && stats.days[todayStr()] && stats.days[todayStr()].buyClicks) || 0;
     var live = 0, nowMs = Date.now();
     Object.keys(presence || {}).forEach(function (k) {
@@ -137,11 +147,12 @@ body{background:#f4f6fa}
     $("todayClicks").textContent = fmt(clicks);
     renderList($("topCountries"), topList(stats.countries), function (k) { return k; });
     renderList($("topPages"), topList(stats.pages), function (k) { return k === "home" ? "Home" : k; });
+    renderList($("topSources"), topList(stats.sources), function (k) { return k; });
     var days = [];
     for (var i = 6; i >= 0; i--) {
       var d = new Date(); d.setDate(d.getDate() - i);
       var key = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
-      days.push({ key: key, label: d.toLocaleDateString("en-GB", { day: "2-digit", month: "short" }), v: (stats.days && stats.days[key] && stats.days[key].pageviews) || 0 });
+      days.push({ key: key, label: d.toLocaleDateString("en-GB", { day: "2-digit", month: "short" }), v: uniqDays[key] || 0 });
     }
     var dmax = Math.max.apply(null, days.map(function (x) { return x.v; }).concat([1]));
     $("bars7").innerHTML = days.map(function (x) {
@@ -149,12 +160,18 @@ body{background:#f4f6fa}
       return '<div class="b"><b>' + fmt(x.v) + '</b><i style="height:' + h + 'px"></i><span>' + x.label + '</span></div>';
     }).join("");
   }
-  var stats = {}, presence = {};
+  var stats = {}, presence = {}, uniqAll = 0, uniqDays = {};
   try {
     if (!firebase.apps.length) firebase.initializeApp(CFG);
     var db = firebase.database();
     db.ref("ddb/stats").on("value", function (s) { stats = s.val() || {}; render(stats, presence); });
     db.ref("ddb/presence").on("value", function (s) { presence = s.val() || {}; render(stats, presence); });
+    db.ref("ddb/uniq/all").on("value", function (s) { uniqAll = s.numChildren(); render(stats, presence); });
+    db.ref("ddb/uniq/days").on("value", function (s) {
+      uniqDays = {};
+      s.forEach(function (daySnap) { uniqDays[daySnap.key] = daySnap.numChildren(); });
+      render(stats, presence);
+    });
   } catch (e) {}
   /* Clock — ticks every second so the page visibly stays live. */
   setInterval(function () {
