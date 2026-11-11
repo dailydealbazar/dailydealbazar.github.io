@@ -5799,6 +5799,107 @@ const PRODUCTS = [
     added: 226,
     popular: false
   }
+,
+  {
+    id: "round-magnetic-cable-plug-type-c",
+    name: "2022 New Round Magnetic Cable plug Type C Micro USB C Plugs Fast Charging Phone Microusb Type-C Magnet Charger Plug",
+    short: "Round Magnetic Cable Plug Type C",
+    price: 0.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4DKxHJZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/round-magnetic-cable-plug-type-c/ad-photo.png",
+    desc: "Round magnetic cable plug — Type-C / Micro USB fast charging phone magnet charger plug.",
+    specs: [["Type", "Round magnetic cable plug"], ["Connectors", "Type-C / Micro USB"], ["Charging", "Fast charging"], ["Use", "Phone magnet charger plug"]],
+    added: 227,
+    popular: false
+  },
+  {
+    id: "digital-infrared-thermometer-oximeter",
+    name: "Digital Infrared Thermometer Forehead Body Non-Contact Fever Thermometers Or Medical Portable Finger Pulse Oximeter Blood Oxygen",
+    short: "Digital Infrared Thermometer & Pulse Oximeter",
+    price: 5.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3gbj0Kj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-infrared-thermometer-oximeter/ad-photo.png",
+    desc: "Digital infrared thermometer — forehead/body non-contact fever thermometer, plus medical portable finger pulse oximeter for blood oxygen.",
+    specs: [["Type", "Digital infrared thermometer"], ["Mode", "Forehead / body, non-contact"], ["Also", "Finger pulse oximeter, blood oxygen"], ["Use", "Fever thermometer, medical"]],
+    added: 228,
+    popular: false
+  },
+  {
+    id: "type-c-spring-cable-66w-100w",
+    name: "66W 100W Type C TO Type C Cable For iPhone 15 Huawei Xiaomi Samsung Car Spring Cable 6A Short Fast Charging USB C Cable",
+    short: "66W/100W Type-C Spring Cable",
+    price: 4.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3a6cZKX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-spring-cable-66w-100w/ad-photo.png",
+    desc: "66W/100W Type-C to Type-C spring cable — 6A short fast charging USB-C cable for car and phone.",
+    specs: [["Power", "66W / 100W"], ["Connectors", "Type-C to Type-C"], ["Cable", "Car spring cable, 6A, short"], ["Fits", "iPhone 15, Huawei, Xiaomi, Samsung"]],
+    added: 229,
+    popular: false
+  },
+  {
+    id: "air-fryer-paper-liners-50-packs",
+    name: "50 Packs of Non Stick Paper Lined with Air Fryer for Baking and Microwave Ovens Easy To Clean and Separate for Healthier Cooking",
+    short: "Air Fryer Paper Liners 50 Packs",
+    price: 4.02,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4XnQWlv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/air-fryer-paper-liners-50-packs/ad-photo.png",
+    desc: "50 packs of non-stick paper liners for air fryer — for baking and microwave ovens, easy to clean and separate.",
+    specs: [["Packs", "50 packs"], ["Type", "Non-stick paper liners"], ["Use", "Air fryer, baking, microwave ovens"], ["Care", "Easy to clean, separate"]],
+    added: 230,
+    popular: false
+  }
 
 ];
 
