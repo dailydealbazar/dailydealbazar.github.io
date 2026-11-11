@@ -5698,6 +5698,107 @@ const PRODUCTS = [
     added: 222,
     popular: false
   }
+,
+  {
+    id: "high-pressure-steam-cleaner-2500w",
+    name: "2500W High Pressure Steam Cleaner High Temperature Washing Machine for Home Air Conditioner Kitchen Hood Car Floor Cleaning Use, Basic Mechanical 1600W",
+    short: "High Pressure Steam Cleaner 2500W",
+    price: 44.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4pfKHZ5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-pressure-steam-cleaner-2500w/ad-photo.png",
+    desc: "2500W high pressure steam cleaner — high temperature washing machine for home, air conditioner, kitchen hood, car and floor cleaning.",
+    specs: [["Power", "2500W"], ["Type", "High pressure steam cleaner"], ["Use", "Home, air conditioner, kitchen hood, car, floor"], ["Version", "Basic mechanical 1600W"]],
+    added: 223,
+    popular: false
+  },
+  {
+    id: "433mhz-wireless-light-switch",
+    name: "433mhz Wireless Light Switch 110V 220V 230V Self-generating Wireless Switch No Battery Required Self-Powered Waterproof Remote",
+    short: "433MHz Wireless Light Switch",
+    price: 7.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4kc90Kj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/433mhz-wireless-light-switch/ad-photo.png",
+    desc: "433MHz wireless light switch — self-generating, no battery required, self-powered waterproof remote switch.",
+    specs: [["Frequency", "433MHz"], ["Voltage", "110V / 220V / 230V"], ["Battery", "No battery required, self-generating"], ["Waterproof", "Yes"]],
+    added: 224,
+    popular: false
+  },
+  {
+    id: "hearing-aid-rechargeable-seniors",
+    name: "Hearing Aid, Rechargeable for Seniors, Noise Reduction, 5-Level Volume Adjustment, Clear Sound, with Charging Case",
+    short: "Hearing Aid Rechargeable for Seniors",
+    price: 30.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c33wj4rl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hearing-aid-rechargeable-seniors/ad-photo.png",
+    desc: "Rechargeable hearing aid for seniors — noise reduction, 5-level volume adjustment, clear sound, with charging case.",
+    specs: [["Type", "Rechargeable hearing aid"], ["Noise reduction", "Yes"], ["Volume", "5-level adjustment"], ["Charging", "Charging case included"]],
+    added: 225,
+    popular: false
+  },
+  {
+    id: "baseus-70w-fast-charger",
+    name: "Baseus 70W Fast Charger Type C USB Charger Support QC PD PPS 65W Portable Charger For iPhone 17 16 15 Macbook Air Laptop Charger",
+    short: "Baseus 70W Fast Charger",
+    price: 26.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4kmpCyr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-70w-fast-charger/ad-photo.png",
+    desc: "Baseus 70W fast charger — Type-C USB charger supporting QC, PD and PPS 65W, for iPhone and MacBook Air.",
+    specs: [["Power", "70W"], ["Ports", "Type-C USB"], ["Protocols", "QC, PD, PPS 65W"], ["Fits", "iPhone 17 / 16 / 15, MacBook Air, laptop"]],
+    added: 226,
+    popular: false
+  }
 
 ];
 
