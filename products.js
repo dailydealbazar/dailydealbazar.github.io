@@ -4289,6 +4289,107 @@ const PRODUCTS = [
     added: 166,
     popular: false
   }
+,
+  {
+    id: "heated-gloves-hand-warmer-electric-thermal-waterproof",
+    name: "Heated Gloves Hand Warmer Electric Thermal Gloves Waterproof",
+    short: "Heated Gloves Electric Thermal",
+    price: 26.78,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4Fz24HZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-gloves-hand-warmer-electric-thermal-waterproof/ad-photo.png",
+    desc: "Heated gloves hand warmer — electric thermal gloves, waterproof, for snowboard, cycling, motorcycle, ski and outdoor winter use. A different pair from the ROCKBROS and LEOSOXS heated gloves already on the shop (Stone's / Sanke Rescue).",
+    specs: [["Type", "Electric heated thermal gloves, waterproof"], ["Heating", "Up to 50°C, with USB cable + AA battery case ×2"], ["Features", "Ten-finger touchscreen, TPU protective shell, anti-slip silicone, waterproof battery compartment zipper"], ["Use", "Snowboard, cycling, motorcycle, ski, outdoor winter"]],
+    added: 167,
+    popular: false
+  },
+  {
+    id: "waterproof-snow-boots-large-size-50-51-plush-lined",
+    name: "Waterproof Snow Boots Large Size 50/51 for Men And Women Lightweight Plush Lined Warm Shoes",
+    short: "Waterproof Snow Boots Large Size",
+    price: 24.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3gv92VD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-snow-boots-large-size-50-51-plush-lined/ad-photo.png",
+    desc: "Waterproof snow boots in large sizes 50/51 — lightweight, plush lined and warm, for men and women.",
+    specs: [["Type", "Waterproof snow boots, plush lined"], ["Sizes", "Large sizes 50/51"], ["Features", "Lightweight, warm plush lining"], ["Use", "Men and women, winter snow"]],
+    added: 168,
+    popular: false
+  },
+  {
+    id: "240w-type-c-elbow-adapter-fast-charging-90-degree",
+    name: "240W Type C Adapter Fast Charging 90° Elbow Bracket Adapter Type-C Male to USB-C Female Converter",
+    short: "240W Type-C Elbow Adapter",
+    price: 2.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4e9muzD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/240w-type-c-elbow-adapter-fast-charging-90-degree/ad-photo.png",
+    desc: "240W Type-C elbow adapter — fast charging 90° elbow bracket adapter, Type-C male to USB-C female converter, for iPhone 17, 16, 15 and Samsung.",
+    specs: [["Type", "Type-C male to USB-C female elbow adapter"], ["Power", "240W fast charging"], ["Design", "90° elbow bracket, built-in phone stand (adapter + stand two-in-one)"], ["Compatibility", "iPhone 17, 16, 15, Samsung; phones 4.7–6.9 in"]],
+    added: 169,
+    popular: false
+  },
+  {
+    id: "scvcn-outdoor-cycling-sunglasses-uv400",
+    name: "SCVCN New Outdoor Cycling Sunglasses Men Women MTB Driving Bike Glasses Sports Climbing Protective Glasses UV400",
+    short: "SCVCN Cycling Sunglasses UV400",
+    price: 6.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4PtQqE7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-outdoor-cycling-sunglasses-uv400/ad-photo.png",
+    desc: "SCVCN outdoor cycling sunglasses — UV400 protective glasses for men and women, for MTB, driving, cycling, sports climbing and running.",
+    specs: [["Type", "Outdoor cycling / sports sunglasses"], ["Protection", "UV400, PC frame and high-definition lens, lightweight, impact-resistant"], ["Use", "MTB, driving, cycling, sports climbing, running, day and night"], ["Seller", "SCVCN Sports Protective Glasses Store, 93.2%"]],
+    added: 170,
+    popular: false
+  }
 
 ];
 
