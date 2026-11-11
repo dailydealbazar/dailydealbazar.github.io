@@ -4087,6 +4087,107 @@ const PRODUCTS = [
     added: 158,
     popular: false
   }
+,
+  {
+    id: "xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip",
+    name: "XIWANGFIRE Rechargeable Hands-Free LED Headlamp with Hat Clip",
+    short: "XIWANGFIRE Hands-Free LED Headlamp",
+    price: 4.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3eMOxVl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiwangfire-rechargeable-hands-free-led-headlamp-hat-clip/ad-photo.png",
+    desc: "XIWANGFIRE rechargeable hands-free LED headlamp — waterproof keychain magnet headlight with hat clip for night running, camping and emergency work. (Different from the Netherlands LED headlamp: this one is head-mounted / hat-clip, hands-free.)",
+    specs: [["Type", "Hands-free LED headlamp / headlight with hat clip"], ["Features", "Rechargeable, waterproof, keychain magnet, 7-mode lighting, 35 g"], ["Use", "Night running, camping, emergency work"], ["Design", "Hat clip + keychain magnet, hands-free"]],
+    added: 159,
+    popular: false
+  },
+  {
+    id: "womens-one-piece-ski-suit-waterproof-windproof-snowsuit",
+    name: "2026 New Womens One Piece Ski Suit Waterproof Windproof Snowsuit",
+    short: "Womens One Piece Ski Suit",
+    price: 21.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4Uv9dEJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-one-piece-ski-suit-waterproof-windproof-snowsuit/ad-photo.png",
+    desc: "2026 new womens one piece ski suit — waterproof windproof snowsuit for winter outdoor snowboarding, with belt and gloves, polyester, sizes S–XXXL.",
+    specs: [["Type", "Womens one piece ski suit / snowsuit"], ["Features", "Waterproof, windproof, with belt and gloves"], ["Material", "Polyester"], ["Sizes", "S–XXXL; yellow, black, white, pink, navy"]],
+    added: 160,
+    popular: false
+  },
+  {
+    id: "32-bit-gba-game-cartridge-zelda",
+    name: "32-bit GBA Game Cartridge Game Card Zelda",
+    short: "32-bit GBA Game Cartridge (Zelda)",
+    price: 7.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3d0z4sJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/32-bit-gba-game-cartridge-zelda/ad-photo.png",
+    desc: "32-bit GBA game cartridge game card — Link To The Past / Awakening DX / Minish Cap, USA/EUR version, works on GBA / NDS / NDSLL, includes game card and box.",
+    specs: [["Type", "32-bit GBA game cartridge / game card"], ["Games", "Link To The Past, Awakening DX, Minish Cap"], ["Version", "USA/EUR version"], ["Compatibility", "GBA, NDS, NDSLL"]],
+    added: 161,
+    popular: false
+  },
+  {
+    id: "hitozon-wireless-lapel-microphone-type-c",
+    name: "HITOZON Wireless Lapel Microphone Type-C Noise-Cancelling",
+    short: "HITOZON Wireless Lapel Microphone",
+    price: 6.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3uRMGYP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hitozon-wireless-lapel-microphone-type-c/ad-photo.png",
+    desc: "HITOZON wireless lapel microphone — noise-cancelling, for vlogs, interviews and live streaming, Type-C, one-click pairing.",
+    specs: [["Type", "Wireless lapel microphone, omnidirectional condenser"], ["Features", "Noise-cancelling, one-click pairing"], ["Battery", "5-hour battery life"], ["Range", "30 m, Type-C connector"]],
+    added: 162,
+    popular: false
+  }
 
 ];
 
