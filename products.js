@@ -3986,6 +3986,107 @@ const PRODUCTS = [
     added: 154,
     popular: false
   }
+,
+  {
+    id: "baofeng-mini-5-two-way-radio",
+    name: "BAOFENG MINI 5 Two Way Radio 2200mAh Bluetooth Dual PTT",
+    short: "BAOFENG MINI 5 Two Way Radio",
+    price: 34.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4T50tgF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baofeng-mini-5-two-way-radio/ad-photo.png",
+    desc: "BAOFENG MINI 5 two way radio — 2200mAh Li-ion battery, Bluetooth programming, dual PTT, long-distance portable ham radio.",
+    specs: [["Type", "Two way radio / portable ham radio (5R MINI)"], ["Battery", "2200mAh Li-ion"], ["Features", "Bluetooth app programming, dual PTT, 1.44\" screen"], ["Bands", "Multi-band FM/AM, 999 channels, Type-C charging"]],
+    added: 155,
+    popular: false
+  },
+  {
+    id: "roller-skate-shoe-lifter-ski-boot-strap",
+    name: "Roller Skate Shoe Lifter Ski Boot Strap",
+    short: "Ski Boot Strap / Skate Shoe Lifter",
+    price: 4.26,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3vlOtwn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/roller-skate-shoe-lifter-ski-boot-strap/ad-photo.png",
+    desc: "Portable ski boot strap / inline skate carrying strap — a winter skiing accessory for carrying skates and ski boots.",
+    specs: [["Type", "Ski boot / inline skate carrying strap"], ["Use", "Carrying roller skates, ice skates, ski boots"], ["Size", "51 cm long, 12 cm handle, 2.5 cm wide"], ["Colours", "Orange, red, blue, black"]],
+    added: 156,
+    popular: false
+  },
+  {
+    id: "tolex-ski-bag-waterproof-ski-organizer",
+    name: "Tolex Ski Bag Waterproof Ski Organizer Carrying Bag",
+    short: "Tolex Ski Bag Waterproof Organizer",
+    price: 19.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Jxw4QF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tolex-ski-bag-waterproof-ski-organizer/ad-photo.png",
+    desc: "Tolex ski bag — waterproof ski organizer carrying bag for skis and snowboards, protective ski luggage for skiing travel.",
+    specs: [["Type", "Waterproof ski organizer carrying bag"], ["Use", "Skis and snowboards, skiing travel"], ["Size", "185 × 33 cm (78.83 × 12.99 in)"], ["Protection", "Waterproof, protective ski luggage"]],
+    added: 157,
+    popular: false
+  },
+  {
+    id: "car-wash-wiper-snow-scraper-silicone-blade",
+    name: "Car Wash Wiper Snow Scraper Flexible Silicone Blade",
+    short: "Snow Scraper Silicone Blade Squeegee",
+    price: 9.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3UfQ4eF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-wash-wiper-snow-scraper-silicone-blade/ad-photo.png",
+    desc: "Car wash wiper snow scraper — flexible silicone blade water squeegee, a scratch-free auto dry tool for vehicles.",
+    specs: [["Type", "Snow scraper / water squeegee, flexible silicone blade"], ["Use", "Snow removal and scratch-free car washing"], ["Size", "30 × 6 cm"], ["Design", "Auto dry tool, scratch-free cleaning"]],
+    added: 158,
+    popular: false
+  }
 
 ];
 
