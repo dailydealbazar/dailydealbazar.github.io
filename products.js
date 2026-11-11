@@ -3683,6 +3683,107 @@ const PRODUCTS = [
     added: 142,
     popular: false
   }
+,
+  {
+    id: "thickened-cashmere-like-4d-cloud-insole",
+    name: "Thickened Cashmere-Like 4D Cloud Insole Warm Fleece-Lined Winter Insole",
+    short: "Thickened Cashmere-Like 4D Cloud Insole",
+    price: 2.86,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4cEQtEn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thickened-cashmere-like-4d-cloud-insole/ad-photo.png",
+    desc: "Thickened cashmere-like 4D cloud insole — warm fleece-lined winter insole, a footwear accessory (not a shoe).",
+    specs: [["Type", "Warm fleece-lined winter insole"], ["Material", "Cashmere-like 4D cloud"], ["Feature", "Thickened, warm"], ["Use", "Footwear accessory (not a shoe)"]],
+    added: 143,
+    popular: false
+  },
+  {
+    id: "alloy-car-model-1-64-sliding-sports-car",
+    name: "Alloy Car Model 1:64 Sliding Sports Car Racing Car Children's Small Toy Car Christmas Toy Gift",
+    short: "Alloy Car Model 1:64 Sliding Sports Car",
+    price: 3.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4pD5cV1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-car-model-1-64-sliding-sports-car/ad-photo.png",
+    desc: "Alloy car model 1:64 — sliding sports car racing car, a children's small toy car and Christmas toy gift.",
+    specs: [["Scale", "1:64"], ["Material", "Alloy"], ["Type", "Sliding sports car / racing car toy"], ["Use", "Children's toy / Christmas gift"]],
+    added: 144,
+    popular: false
+  },
+  {
+    id: "portable-cob-led-flashlight-usb-rechargeable-work-light",
+    name: "Portable COB LED Flashlight USB Rechargeable Work Light Magnetic Lanterna Hanging Lamp with Built-in Battery Camping Torch",
+    short: "Portable COB LED Flashlight USB Rechargeable Work Light",
+    price: 5.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4lDE8sn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-cob-led-flashlight-usb-rechargeable-work-light/ad-photo.png",
+    desc: "Portable COB LED flashlight — USB rechargeable work light with magnetic hanging lamp and built-in battery, a camping torch.",
+    specs: [["Light", "COB LED"], ["Power", "USB rechargeable, built-in battery"], ["Feature", "Magnetic, hanging lamp"], ["Use", "Work light / camping torch"]],
+    added: 145,
+    popular: false
+  },
+  {
+    id: "car-jump-starter-cable-clamps-booster-ec5",
+    name: "Car Jump Starter Cable with Clamps Booster Cable EC5 Plug Connector Prevent Reverse Charge Module",
+    short: "Car Jump Starter Cable with Clamps Booster EC5",
+    price: 4.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c34IAnzN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-jump-starter-cable-clamps-booster-ec5/ad-photo.png",
+    desc: "Car jump starter cable with clamps — booster cable with EC5 plug connector and prevent-reverse-charge module. Portal price $4.57 (page shows a $3.88 variant without PCB).",
+    specs: [["Connector", "EC5 plug"], ["Feature", "Prevent reverse charge module"], ["Type", "Booster cable with clamps"], ["Note", "Portal price $4.57; page variant without PCB $3.88"]],
+    added: 146,
+    popular: false
+  }
 
 ];
 
