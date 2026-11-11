@@ -5900,6 +5900,107 @@ const PRODUCTS = [
     added: 230,
     popular: false
   }
+,
+  {
+    id: "6a-type-c-to-type-c-charging-cable",
+    name: "6A Type C To Type C Mobile Phone Charging Cable Universal High Power Charger USB Cord 6A USB C Cable for Xiaomi iPhone Samsung",
+    short: "6A Type C to Type C Charging Cable",
+    price: 3.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3PA1hOJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6a-type-c-to-type-c-charging-cable/ad-photo.png",
+    desc: "6A Type-C to Type-C mobile phone charging cable — universal high power charger USB cord for Xiaomi, iPhone and Samsung.",
+    specs: [["Type", "6A Type-C to Type-C cable"], ["Power", "Universal high power charging"], ["Length", "1.5 m (5 feet)"], ["Fits", "Xiaomi, iPhone, Samsung"]],
+    added: 231,
+    popular: false
+  },
+  {
+    id: "heated-knee-massager-3-in-1",
+    name: "1Pc/2Pcs Heated Knee Massager, 3-in-1 Heated Knee, Elbow, and Shoulder Support Wrap, Vibrating Knee Heating Pad, 3 Adjustable Vibration and Heating Modes, Heating Pad for Knee, Elbow, Shoulder, and Leg Relaxation",
+    short: "Heated Knee Massager 3-in-1",
+    price: 26.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3mSFuIj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-knee-massager-3-in-1/ad-photo.png",
+    desc: "3-in-1 heated knee, elbow and shoulder support wrap — vibrating knee heating pad with 3 adjustable vibration and heating modes.",
+    specs: [["Type", "3-in-1 heated knee, elbow, shoulder wrap"], ["Modes", "3 adjustable vibration and heating modes"], ["Use", "Knee, elbow, shoulder, leg relaxation"], ["Size", "51 x 28.5 cm"]],
+    added: 232,
+    popular: false
+  },
+  {
+    id: "glass-film-iphone-screen-protector",
+    name: "Glass Film For iPhone 18 17 16 15 Pro Max Screen Protector For iPhone 11 12 13 14 15 Pro Tempered Glass IPhone13 Mini 16 Plus",
+    short: "Glass Film iPhone Screen Protector",
+    price: 4.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3fJi0Ib",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glass-film-iphone-screen-protector/ad-photo.png",
+    desc: "Tempered glass film screen protector for iPhone — fits iPhone 18/17/16/15 Pro Max and iPhone 11/12/13/14/15 Pro.",
+    specs: [["Type", "Tempered glass screen protector"], ["Fits", "iPhone 18/17/16/15 Pro Max, 11/12/13/14/15 Pro"], ["Material", "Tempered glass, 9H hardness"], ["Use", "Screen protection"]],
+    added: 233,
+    popular: false
+  },
+  {
+    id: "food-vacuum-storage-bags-roll",
+    name: "Food Vacuum Storage Packaging Bags for Vacuum Sealer Meat Fruit Vegetable Sous Vide Cooking Bag 12/15/20/25/28cm 500cm/roll",
+    short: "Food Vacuum Storage Bags Roll",
+    price: 5.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3JB2mCn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/food-vacuum-storage-bags-roll/ad-photo.png",
+    desc: "Food vacuum storage packaging bags for vacuum sealer — meat, fruit and vegetable, sous vide cooking, 500 cm roll.",
+    specs: [["Type", "Food vacuum storage packaging bags"], ["Sizes", "12/15/20/25/28 cm, 500 cm roll"], ["Use", "Vacuum sealer, sous vide cooking"], ["Material", "7-layer coextrusion film, BPA-free"]],
+    added: 234,
+    popular: false
+  }
 
 ];
 
