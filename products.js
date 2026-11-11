@@ -3280,6 +3280,107 @@ const PRODUCTS = [
     added: 126,
     popular: false
   }
+,
+  {
+    id: "portable-projector-4k-wifi6-android-11",
+    name: "Portable Projector 4K Supported WiFi 6 Bluetooth 5 Auto Keystone Android 11 Smart Home Theater",
+    short: "Portable Projector 4K Supported WiFi 6 Bluetooth 5 Auto Keystone Android 11 Smart Home Theater",
+    price: 66.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3Hf6RYL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-projector-4k-wifi6-android-11/ad-photo.png",
+    desc: "Portable smart home theater projector — 4K supported, WiFi 6, Bluetooth 5, auto keystone and Android 11 for movies at home.",
+    specs: [["Resolution", "4K supported"], ["WiFi", "WiFi 6"], ["Bluetooth", "Bluetooth 5"], ["Keystone", "Auto keystone"], ["System", "Android 11"]],
+    added: 127,
+    popular: false
+  },
+  {
+    id: "magnetic-phone-case-iphone-black-love-heart",
+    name: "Magnetic Phone Case for iPhone Wireless Charging Black Love Heart Cover",
+    short: "Magnetic Phone Case for iPhone Wireless Charging Black Love Heart Cover",
+    price: 2.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3DPLqor",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-phone-case-iphone-black-love-heart/ad-photo.png",
+    desc: "Magnetic phone case for iPhone with a black love heart design — supports wireless charging.",
+    specs: [["Type", "Magnetic phone case"], ["Design", "Black love heart"], ["Charging", "Wireless charging compatible"]],
+    added: 128,
+    popular: false
+  },
+  {
+    id: "travel-thermal-coffee-mug-tumbler-304-steel",
+    name: "Travel Thermal Coffee Mug Tumbler 304 Stainless Steel Insulated Cup Leakproof",
+    short: "Travel Thermal Coffee Mug Tumbler 304 Stainless Steel Insulated Cup Leakproof",
+    price: 8.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4N1Rnjv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-thermal-coffee-mug-tumbler-304-steel/ad-photo.png",
+    desc: "Travel thermal coffee mug tumbler in 304 stainless steel — insulated and leakproof for coffee on the go.",
+    specs: [["Material", "304 stainless steel"], ["Type", "Insulated tumbler"], ["Feature", "Leakproof"]],
+    added: 129,
+    popular: false
+  },
+  {
+    id: "yoga-mat-storage-mesh-bag",
+    name: "Yoga Mat Storage Mesh Bag Breathable Oxford Fabric Black with Shoulder Strap",
+    short: "Yoga Mat Storage Mesh Bag Breathable Oxford Fabric Black with Shoulder Strap",
+    price: 1.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4kZleKx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yoga-mat-storage-mesh-bag/ad-photo.png",
+    desc: "Yoga mat storage mesh bag in breathable Oxford fabric with a shoulder strap — bag only, yoga mat NOT included.",
+    specs: [["Type", "Yoga mat storage bag"], ["Material", "Breathable Oxford fabric"], ["Size", "65 x 13 cm"], ["Carry", "Shoulder strap"], ["Includes", "Bag only — yoga mat not included"]],
+    added: 130,
+    popular: false
+  }
 
 ];
 
