@@ -7818,6 +7818,107 @@ const PRODUCTS = [
     added: 306,
     popular: false
   }
+,
+  {
+    id: "tempered-glass-cover-apple-watch-11-10-9-8-7",
+    name: "Tempered Glass+Cover For Apple Watch 11 10 9 8 7 46mm 42mm PC Bumper Screen Protector Case",
+    short: "Tempered Glass Cover for Apple Watch",
+    price: 3.22,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4rTVmm7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tempered-glass-cover-apple-watch-11-10-9-8-7/ad-photo.png",
+    desc: "Tempered glass plus cover for Apple Watch 11, 10, 9, 8, 7 — PC bumper screen protector case for iWatch Series 7, 6, 5, 4 and SE3 in 46mm, 42mm, 44mm, 40mm and 45mm.",
+    specs: [["Type", "Tempered glass + PC bumper case"], ["Fit", "Apple Watch 11/10/9/8/7, 46mm, 42mm"], ["Series", "Series 7, 6, 5, 4, SE3"], ["Feature", "Screen protector case"]],
+    added: 307,
+    popular: false
+  },
+  {
+    id: "baseus-ep10-pro-anc-earbuds",
+    name: "Baseus EP10 Pro ANC Earbuds Wireless Bluetooth 6.0 Earphones",
+    short: "Baseus EP10 Pro ANC Earbuds",
+    price: 30.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3Z05Uj9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-ep10-pro-anc-earbuds/ad-photo.png",
+    desc: "Baseus EP10 Pro ANC earbuds — wireless Bluetooth 6.0 earphones with 50dB realtime adaptive noise cancellation, 6 microphones, Hi-Res LDAC and IP55.",
+    specs: [["Brand", "Baseus"], ["ANC", "50dB realtime adaptive"], ["Bluetooth", "6.0"], ["Feature", "6 mic, Hi-Res LDAC, IP55"]],
+    added: 308,
+    popular: false
+  },
+  {
+    id: "taba-squishy-stress-balls-cube-ocean",
+    name: "Taba Squishy Stress Balls Cube - Ocean Sensory Fidget Toy",
+    short: "Taba Squishy Stress Balls Cube Ocean",
+    price: 5.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3QxdLCF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/taba-squishy-stress-balls-cube-ocean/ad-photo.png",
+    desc: "Taba squishy stress balls cube — ocean sensory fidget toy, slow rise squishy for kids and adults to squeeze and relax.",
+    specs: [["Type", "Squishy stress balls cube"], ["Theme", "Ocean sensory fidget toy"], ["Feature", "Slow rise"], ["Use", "Kids and adults, squeeze and relax"]],
+    added: 309,
+    popular: false
+  },
+  {
+    id: "mini-garlic-grinder-press-kitchen",
+    name: "1 Pack Mini Garlic Grinder Creative Garlic Press Kitchen",
+    short: "Mini Garlic Grinder Press Kitchen",
+    price: 4.62,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2QM08VD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-garlic-grinder-press-kitchen/ad-photo.png",
+    desc: "Mini garlic grinder — creative garlic press for manual garlic mashing, a green kitchen gadget.",
+    specs: [["Type", "Mini garlic grinder"], ["Feature", "Manual garlic press and masher"], ["Use", "Kitchen gadget"], ["Colors", "Green, Rose Red"]],
+    added: 310,
+    popular: false
+  }
 
 ];
 
