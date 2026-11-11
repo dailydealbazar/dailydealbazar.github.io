@@ -3077,6 +3077,108 @@ const PRODUCTS = [
     added: 118,
     popular: false
   }
+,
+  {
+    id: "heated-underwear-52-areas-winter-thermal",
+    name: "Heated Underwear 52 Areas Winter Thermal Underwear Women Men Heating Jacket",
+    short: "Heated Underwear 52 Areas Winter Thermal",
+    price: 56.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c34ffz0L",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heated-underwear-52-areas-winter-thermal/ad-photo.png",
+    desc: "Heated winter thermal underwear with 52 heating areas — warm base layer for women and men in cold weather.",
+    specs: [["Heating areas", "52 areas"], ["Heating levels", "3 levels (35°C / 45°C / 55°C)"], ["Type", "Winter thermal underwear"], ["For", "Women & men"]],
+    added: 119,
+    popular: false
+  },
+  {
+    id: "vintage-mechanical-steam-car-building-blocks-1331pcs",
+    name: "Creative 1331Pcs Vintage Mechanical Steam Car Building Blocks",
+    short: "Vintage Mechanical Steam Car Building Blocks 1331Pcs",
+    price: 39.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c31ZuPv9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-mechanical-steam-car-building-blocks-1331pcs/ad-photo.png",
+    desc: "Creative vintage mechanical steam car building block set — 1331 pieces to build a detailed retro steam car model.",
+    specs: [["Pieces", "1331 pcs"], ["Theme", "Vintage mechanical steam car"], ["Type", "Building blocks"], ["Size", "439 × 138 × 179 mm"]],
+    added: 120,
+    popular: false
+  },
+  {
+    id: "magnetic-2-in-1-hand-warmer-10000mah",
+    name: "Magnetic 2 In1 Hand Warmer 10000mAh Fast Heating 3 Heat Settings Portable Pocket Warmer Power Bank",
+    short: "Magnetic 2 In 1 Hand Warmer 10000mAh",
+    price: 29.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3zrhFuT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/photo-7.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-2-in-1-hand-warmer-10000mah/ad-photo.png",
+    desc: "Magnetic 2-in-1 hand warmer with 10000mAh power bank — fast heating, 3 heat settings, portable pocket warmer that also charges your phone.",
+    specs: [["Battery", "10000mAh"], ["Heat settings", "3 levels (40°C / 50°C / 60°C)"], ["Type", "2-in-1 hand warmer + power bank"], ["Heating", "3s fast heating"]],
+    added: 121,
+    popular: false
+  },
+  {
+    id: "lens-anti-fog-ski-goggles",
+    name: "Lens Anti-Fog Ski Goggles for Men Women",
+    short: "Lens Anti-Fog Ski Goggles for Men Women",
+    price: 20.78,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2uHdUuP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lens-anti-fog-ski-goggles/ad-photo.png",
+    desc: "Lens anti-fog ski goggles for men and women — clear vision on the slopes in cold, snowy conditions.",
+    specs: [["Type", "Anti-fog ski goggles"], ["Brand", "Lens"], ["For", "Men & women"]],
+    added: 122,
+    popular: false
+  }
 
 ];
 
