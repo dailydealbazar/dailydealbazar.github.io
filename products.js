@@ -4691,6 +4691,106 @@ const PRODUCTS = [
     added: 182,
     popular: false
   }
+,
+  {
+    id: "paqin-ma-007-portable-fascial-massage-gun-led-touch-screen",
+    name: "PAQIN MA-007 Portable Fascial Massage Gun Electric Percussion Pistol Massager Body Relaxation With LED Touch Screen 5 Speeds 6 Massage Heads 3000 mAh",
+    short: "PAQIN MA-007 Massage Gun",
+    price: 22.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3q7fxeB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paqin-ma-007-portable-fascial-massage-gun-led-touch-screen/ad-photo.png",
+    desc: "PAQIN MA-007 portable fascial massage gun — electric percussion pistol massager with LED touch screen, 6 speed levels and 6 massage heads. (Different from the shop's Booster Massage Gun LS and PAQIN 99-Level gun — this is the MA-007 model with LED touch screen.)",
+    specs: [["Type", "Portable fascial massage gun, electric percussion pistol massager"], ["Controls", "LED touch screen, 6 speed levels (1800–3200 RPM)"], ["Heads", "6 massage heads (spherical, flat, U-shaped, cone)"], ["Noise", "Under 44dB, ultra-quiet operation"]],
+    added: 183,
+    popular: false
+  },
+  {
+    id: "scvcn-kids-protective-glasses-sports-sunglasses-uv400",
+    name: "SCVCN Kids Protective Glasses Sports Sunglasses UV400 Boy Baseball Glasses Cycling Outdoor Eyewear Run",
+    short: "SCVCN Kids Protective Glasses",
+    price: 7.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3AVcFhd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/scvcn-kids-protective-glasses-sports-sunglasses-uv400/ad-photo.png",
+    desc: "SCVCN kids protective sports sunglasses with UV400 — for boys, baseball, cycling and outdoor running. (Kids version — different from the shop's adult SCVCN Cycling Sunglasses.)",
+    specs: [["Type", "Kids protective sports sunglasses"], ["Lens", "UV400"], ["Use", "Baseball, cycling, outdoor running"], ["Size", "Frame width 128mm, lens height 46.5mm, leg length 126mm"]],
+    added: 184,
+    popular: false
+  },
+  {
+    id: "personalised-daddy-me-building-block-photo-gift",
+    name: "Personalised Daddy & Me Building Block Photo Gift / Custom Brick Style Photo Frame For Dad — Unique Christmas/Birthday Gift",
+    short: "Daddy & Me Building Block Photo Gift",
+    price: 5.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3UwNNmf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalised-daddy-me-building-block-photo-gift/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalised-daddy-me-building-block-photo-gift/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalised-daddy-me-building-block-photo-gift/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalised-daddy-me-building-block-photo-gift/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalised-daddy-me-building-block-photo-gift/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalised-daddy-me-building-block-photo-gift/ad-photo.png",
+    desc: "Personalised Daddy & Me building block photo gift — custom brick-style photo frame for dad, a unique Christmas or birthday gift.",
+    specs: [["Type", "Personalised building block photo gift, brick-style photo frame"], ["Size", "9 cm × 6.5 cm (3.55 × 2.56 in)"], ["For", "Dad — Christmas / birthday gift"], ["Note", "Custom photo printed on brick-style frame; slight ink residue possible (seller note)"]],
+    added: 185,
+    popular: false
+  },
+  {
+    id: "womens-silicone-anti-slip-pilates-yoga-socks",
+    name: "1/5 Pair Women's Silicone Anti Slip Pilates Yoga Socks — Sweat Absorbing Breathable Casual Dance Fitness All Season Sports Socks",
+    short: "Women's Anti-Slip Pilates Yoga Socks",
+    price: 3.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4qJxcbz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-silicone-anti-slip-pilates-yoga-socks/ad-photo.png",
+    desc: "Women's silicone anti-slip Pilates yoga socks — sweat absorbing, breathable, for dance and fitness, all seasons.",
+    specs: [["Type", "Women's silicone anti-slip Pilates yoga socks"], ["Features", "Sweat absorbing, breathable, silicone anti-slip grip dots"], ["Use", "Pilates, yoga, dance, fitness"], ["Pack", "1 or 5 pairs"]],
+    added: 186,
+    popular: false
+  }
 
 ];
 
