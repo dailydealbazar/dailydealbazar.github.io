@@ -8222,6 +8222,107 @@ const PRODUCTS = [
     added: 322,
     popular: false
   }
+,
+  {
+    id: "bosecxting-pro-tws-earphones-hifi",
+    name: "Original BOSECXTING Pro True Wireless Bluetooth Earphones Headphones HiFi Sound Low Latency Noise Reduction Earbuds for With Mic",
+    short: "BOSECXTING Pro TWS Earphones HiFi",
+    price: 20.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3OXKgUB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bosecxting-pro-tws-earphones-hifi/ad-photo.png",
+    desc: "BOSECXTING Pro true wireless Bluetooth earphones — HiFi sound, low latency, noise reduction earbuds with mic.",
+    specs: [["Type", "True wireless Bluetooth earphones"], ["Sound", "HiFi"], ["Latency", "Low latency"], ["Mic", "Built-in mic"]],
+    added: 323,
+    popular: false
+  },
+  {
+    id: "jaiyorl-shiatsu-massager-pillow-heating",
+    name: "Manufacturer Direct Electric Shiatsu Head Neck Cervical Traction Body Massager Car Back Pillow with Heating Vibrating Massage",
+    short: "JAIYORL Shiatsu Massager Pillow Heating",
+    price: 63.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c42QZNgj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jaiyorl-shiatsu-massager-pillow-heating/ad-photo.png",
+    desc: "Electric Shiatsu massager pillow for head, neck and cervical traction — heating and vibrating massage for body and car back.",
+    specs: [["Type", "Electric Shiatsu massager pillow"], ["Area", "Head, neck, cervical"], ["Features", "Heating, vibrating"], ["Use", "Body and car back massage"]],
+    added: 324,
+    popular: false
+  },
+  {
+    id: "timemore-chestnut-c5-c5esp-manual-coffee-grinder",
+    name: "TIMEMORE Chestnut C5/C5ESP Manual Coffee Grinder Portable Espresso Grinder, 42mm S2C Burrs, 25g Capacity, Fine Adjustment",
+    short: "TIMEMORE Chestnut C5/C5ESP Manual Coffee Grinder",
+    price: 82.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4MrodUT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-chestnut-c5-c5esp-manual-coffee-grinder/ad-photo.png",
+    desc: "TIMEMORE Chestnut C5/C5ESP manual coffee grinder — portable espresso grinder with 42mm S2C burrs, 25g capacity and fine adjustment.",
+    specs: [["Burrs", "42mm S2C"], ["Capacity", "25g"], ["Adjustment", "Fine adjustment"], ["Type", "Portable manual espresso grinder"]],
+    added: 325,
+    popular: false
+  },
+  {
+    id: "hagibis-usb-a-to-usb-c-adapter-10gbps-60w",
+    name: "Hagibis USB A Male to USB C Female Adapter 10Gbps High-Speed Data Transfer 60W Fast Charging Converter Plug for Macbook Tablet",
+    short: "Hagibis USB A to USB C Adapter 10Gbps 60W",
+    price: 4.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3zmntAn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-a-to-usb-c-adapter-10gbps-60w/ad-photo.png",
+    desc: "Hagibis USB A male to USB C female adapter — 10Gbps high-speed data transfer, 60W fast charging converter plug for Macbook and tablet.",
+    specs: [["Speed", "10Gbps data transfer"], ["Charging", "60W fast charging"], ["Connector", "USB A male to USB C female"], ["Use", "Macbook, tablet"]],
+    added: 326,
+    popular: false
+  }
 
 ];
 
