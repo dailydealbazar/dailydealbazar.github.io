@@ -8121,6 +8121,107 @@ const PRODUCTS = [
     added: 318,
     popular: false
   }
+,
+  {
+    id: "digital-children-camera-mini-printer-2-8inch",
+    name: "Digital Children Camera For Photography Mini Printer Portable Thermal Instant Print Photo Kids Camera 2.8inch HD Video Toy Gifts",
+    short: "Digital Children Camera with Printer",
+    price: 35.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3uz0NUj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-children-camera-mini-printer-2-8inch/ad-photo.png",
+    desc: "Digital children camera for photography with mini printer — portable thermal instant print photo kids camera, 2.8 inch HD video toy gift.",
+    specs: [["Display", "2.8 inch HD"], ["Printer", "Thermal instant print"], ["Video", "HD video"], ["Type", "Portable kids camera"]],
+    added: 319,
+    popular: false
+  },
+  {
+    id: "kutou-replacement-earpads-sony-wh-1000xm3",
+    name: "KUTOU Replacement Earpads for Sony WH-1000XM3",
+    short: "KUTOU Replacement Earpads Sony WH-1000XM3",
+    price: 7.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4m4bjWB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kutou-replacement-earpads-sony-wh-1000xm3/ad-photo.png",
+    desc: "KUTOU replacement earpads for Sony WH-1000XM3 headphones — soft cushioned ear pads for a comfortable fit.",
+    specs: [["Compatibility", "Sony WH-1000XM3"], ["Type", "Replacement earpads"], ["Material", "Soft cushion"], ["Brand", "KUTOU"]],
+    added: 320,
+    popular: false
+  },
+  {
+    id: "360pcs-face-acne-patch-invisible",
+    name: "360pcs Face Acne Patch Invisible Skin Care Pimple Acne Patches Anti-inflammatory Healing Absorbing Spot Sticker Covering Acne",
+    short: "360pcs Face Acne Patch Invisible",
+    price: 2.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3gOYzLh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/360pcs-face-acne-patch-invisible/ad-photo.png",
+    desc: "360pcs invisible face acne patches — skin care pimple patches, anti-inflammatory healing, absorbing spot sticker covering for acne.",
+    specs: [["Count", "360 pieces"], ["Type", "Invisible acne patch"], ["Care", "Anti-inflammatory healing"], ["Use", "Absorbing spot sticker"]],
+    added: 321,
+    popular: false
+  },
+  {
+    id: "succebuy-ultrasonic-cleaner-2l-30l",
+    name: "SucceBuy 2L 3L 6L 10L 22L 30L Ultrasonic Cleaner Stainless Steel Portable Cleaning Washing Machine Ultrasound Home Appliance",
+    short: "SucceBuy Ultrasonic Cleaner 2L-30L",
+    price: 45.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3hCssyX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-ultrasonic-cleaner-2l-30l/ad-photo.png",
+    desc: "SucceBuy ultrasonic cleaner — stainless steel portable cleaning washing machine, ultrasound home appliance, available in 2L, 3L, 6L, 10L, 22L and 30L sizes.",
+    specs: [["Type", "Ultrasonic cleaner"], ["Material", "Stainless steel"], ["Sizes", "2L / 3L / 6L / 10L / 22L / 30L"], ["Design", "Portable cleaning machine"]],
+    added: 322,
+    popular: false
+  }
 
 ];
 
