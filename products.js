@@ -7515,6 +7515,107 @@ const PRODUCTS = [
     added: 294,
     popular: false
   }
+,
+  {
+    id: "childrens-math-exercise-book",
+    name: "Children's Math Exercise Book",
+    short: "Children's Math Exercise Book",
+    price: 5.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4qcvp15",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/childrens-math-exercise-book/ad-photo.png",
+    desc: "Children's math exercise book for daily practice — addition and subtraction within 10, 20, 50 and 100, with 144 pages of thick paper for clear printing.",
+    specs: [["Pages", "144 pages"], ["Size", "180 × 260 mm"], ["Levels", "Within 10, 20, 50 and 100"], ["Paper", "Thick paper, clear printing"]],
+    added: 295,
+    popular: false
+  },
+  {
+    id: "50color-dye-resistant-laundry-cloth",
+    name: "50 Color Dye Resistant Laundry Cloth",
+    short: "50 Color Dye Resistant Laundry Cloth",
+    price: 5.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3RJIheB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/50color-dye-resistant-laundry-cloth/ad-photo.png",
+    desc: "50 colour-catching laundry sheets — dye-resistant cloth for the washing machine that absorbs loose dye from dark and bright clothes, keeping light colours safe.",
+    specs: [["Pieces", "50 sheets"], ["Size", "14 × 10 cm"], ["Use", "Colour-catching sheet for the washing machine"], ["Dosage", "1–2 light loads, 2–3 medium, 3–4 dark loads"]],
+    added: 296,
+    popular: false
+  },
+  {
+    id: "adjustable-action-camera-accessories-kit",
+    name: "Adjustable Action Camera Accessories Kit",
+    short: "Adjustable Action Camera Accessories Kit",
+    price: 3.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3tCYZiP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-action-camera-accessories-kit/ad-photo.png",
+    desc: "Adjustable action camera accessories kit — head strap mount and chest strap mount with quick release design, anti-slip straps and adjustable fit for cycling, skiing, surfing and paragliding.",
+    specs: [["Kit", "Head strap + chest strap mount"], ["Design", "Quick release mount"], ["Fit", "Adjustable anti-slip straps"], ["Use", "Cycling, skiing, surfing, paragliding"]],
+    added: 297,
+    popular: false
+  },
+  {
+    id: "2-in1-eyebrow-pencil-professional-cosmetics",
+    name: "2-in-1 Eyebrow Pencil Professional Cosmetics",
+    short: "2-in-1 Eyebrow Pencil Professional Cosmetics",
+    price: 2.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c42zTKlv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-in1-eyebrow-pencil-professional-cosmetics/ad-photo.png",
+    desc: "2-in-1 eyebrow pencil with a built-in brush — professional cosmetics pencil for natural, long-lasting brows in 5 shades (101–105).",
+    specs: [["Type", "2-in-1 eyebrow pencil with brush"], ["Shades", "101, 102, 103, 104, 105"], ["Size", "14.27 cm long, 0.98 cm wide"], ["Finish", "Natural, long-lasting brow colour"]],
+    added: 298,
+    popular: false
+  }
 
 ];
 
