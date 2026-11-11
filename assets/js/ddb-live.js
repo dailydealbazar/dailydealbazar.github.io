@@ -118,6 +118,7 @@
         pres.update({ ts: firebase.database.ServerValue.TIMESTAMP, page: location.pathname.replace(/^\//, "") || "index.html" }).catch(function () {});
       }, 20000);
       window.addEventListener("beforeunload", function () { try { pres.remove(); } catch (e) {} });
+      window.addEventListener("pagehide", function () { try { pres.remove(); } catch (e) {} });
     } catch (e) {}
 
     /* Buy Now clicks (affiliate links). */
