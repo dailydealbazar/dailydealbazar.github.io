@@ -12052,6 +12052,107 @@ const PRODUCTS = [
     added: 474,
     popular: false
   }
+,
+  {
+    id: "weihe-10cm-35g-vib-fishing-lure",
+    name: "WEIHE 10cm/35g VIB Fishing Lure Metal Spoon with Body Vibration For Bass Pike Perch Salmon Trout Pike Fishing Gear",
+    short: "WEIHE 10cm/35g VIB Fishing Lure",
+    price: 4.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c45gFuen",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weihe-10cm-35g-vib-fishing-lure/ad-photo.png",
+    desc: "WEIHE 10cm/35g VIB fishing lure — metal spoon with body vibration for bass, pike, perch, salmon and trout.",
+    specs: [["Type", "VIB fishing lure, metal spoon with body vibration (per title)"], ["Size", "10 cm / 35 g (per title)"], ["Target", "Bass, pike, perch, salmon, trout (per title)"]],
+    added: 475,
+    popular: false
+  },
+  {
+    id: "fingerprint-unlock-glass-pixel-9-pro",
+    name: "Fingerprint Unlock Glass for Google Pixel 9 Pro 5G Tempered Glass Protective Film Compatible with 9 Pro/Ten Pixel 9 Pro XL Protect Screen Glass",
+    short: "Fingerprint Unlock Glass Pixel 9 Pro",
+    price: 4.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c391TgRp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fingerprint-unlock-glass-pixel-9-pro/ad-photo.png",
+    desc: "Fingerprint unlock tempered glass for Google Pixel 9 Pro — protective film compatible with Pixel 9 Pro and Pixel 9 Pro XL.",
+    specs: [["Type", "Fingerprint unlock tempered glass, protective film (per title)"], ["Compatible", "Google Pixel 9 Pro, Pixel 9 Pro XL (per title)"], ["Use", "Screen protection (per title)"]],
+    added: 476,
+    popular: false
+  },
+  {
+    id: "jujutsu-kaisen-anime-brick-toys",
+    name: "Jujutsu Kaisen Anime Brick Toys Building Blocks",
+    short: "Jujutsu Kaisen Anime Brick Toys",
+    price: 2.85,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3KdFnOb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jujutsu-kaisen-anime-brick-toys/ad-photo.png",
+    desc: "Jujutsu Kaisen anime brick toys — building blocks.",
+    specs: [["Type", "Anime brick toys, building blocks (per title)"], ["Theme", "Jujutsu Kaisen (per title)"]],
+    added: 477,
+    popular: false
+  },
+  {
+    id: "g23-titanium-labret-stud-jewelry",
+    name: "G23 Titanium Labret Stud Jewelry Piercing Surgical Steel Lip Stud Ear Cartilage Conch, Tragus, Daith, Nose Ring, Septum, Nipple",
+    short: "G23 Titanium Labret Stud Jewelry",
+    price: 3.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3GkhbvD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g23-titanium-labret-stud-jewelry/ad-photo.png",
+    desc: "G23 titanium labret stud jewelry — surgical steel piercing stud for lip, ear cartilage, conch, tragus, daith, nose, septum and nipple.",
+    specs: [["Material", "G23 titanium, surgical steel (per title)"], ["Type", "Labret stud jewelry, piercing (per title)"], ["Gauge", "1.2 mm (per photo)"], ["Use", "Lip, ear cartilage, conch, tragus, daith, nose, septum, nipple (per title)"]],
+    added: 478,
+    popular: false
+  }
 
 ];
 
