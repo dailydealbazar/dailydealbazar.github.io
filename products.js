@@ -9329,6 +9329,107 @@ const PRODUCTS = [
     added: 366,
     popular: false
   }
+,
+  {
+    id: "pd-120w-type-c-spring-cable",
+    name: "PD 120W Type C To Type C Cable 5A Fast Charge USB C Spring Car Charger Cable",
+    short: "PD 120W Type C Spring Cable",
+    price: 3.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3UI3yW3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pd-120w-type-c-spring-cable/ad-photo.png",
+    desc: "PD 120W Type-C to Type-C spring cable — 5A fast charge USB-C spring car charger cable.",
+    specs: [["Type", "Type-C to Type-C spring cable"], ["Power", "PD 120W, 5A fast charge"], ["Length", "Up to 1.8M stretched (per photo)"], ["Connector", "Type-C, gold connectors"]],
+    added: 367,
+    popular: false
+  },
+  {
+    id: "rgb-led-strip-lights",
+    name: "RGB Led Strip Lights 5m 10m 20m 30m with APP Control",
+    short: "RGB LED Strip Lights",
+    price: 3.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2zmhlqR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgb-led-strip-lights/ad-photo.png",
+    desc: "RGB LED strip lights — 5m, 10m, 20m, 30m lengths, with APP control.",
+    specs: [["Type", "RGB LED strip lights"], ["Length", "5m / 10m / 20m / 30m"], ["Control", "APP + IR remote control"], ["Feature", "RGB colour lighting"]],
+    added: 368,
+    popular: false
+  },
+  {
+    id: "sanrio-kuromi-hand-towel",
+    name: "1/4 Pcs Soft Thick Sanrio Kuromi Hand Towel Super Absorbent Coral Velvet Hanging Towel for Kitchen Bathroom Cute Home Decor",
+    short: "Sanrio Kuromi Hand Towel",
+    price: 3.93,
+    oldPrice: 4.18,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c34k0pl5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanrio-kuromi-hand-towel/ad-photo.png",
+    desc: "Soft thick Sanrio Kuromi hand towel — super absorbent coral velvet hanging towel for kitchen and bathroom.",
+    specs: [["Type", "Sanrio Kuromi hand towel"], ["Material", "Coral velvet"], ["Feature", "Super absorbent, hanging"], ["Use", "Kitchen / bathroom decor"]],
+    added: 369,
+    popular: false
+  },
+  {
+    id: "dollhouse-mini-plates-dishes",
+    name: "5Pcs 1/12 Dollhouse Mini Plates Dishes Model Dollhouse Simulation Kitchen Decoration Dolls House Accessories Pretend Play Toys",
+    short: "Dollhouse Mini Plates Dishes",
+    price: 3.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4lD3gjl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-plates-dishes/ad-photo.png",
+    desc: "5-piece 1/12 scale dollhouse mini plates and dishes — simulation kitchen decoration, pretend play toys.",
+    specs: [["Type", "Dollhouse mini plates & dishes"], ["Scale", "1/12"], ["Quantity", "5 pcs"], ["Size", "3.4cm diameter, 1.7cm high (per photo)"]],
+    added: 370,
+    popular: false
+  }
 
 ];
 
