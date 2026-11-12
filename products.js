@@ -8323,6 +8323,107 @@ const PRODUCTS = [
     added: 326,
     popular: false
   }
+,
+  {
+    id: "huiqibao-electric-pulse-water-gun-flame-sensor",
+    name: "HUIQIBAO Electric Pulse Water Gun Simulated Flame Sensor Light Fully Automatic Fights Toy Water Pistol Outdoor Beach Toys Adult",
+    short: "HUIQIBAO Electric Pulse Water Gun Flame Sensor",
+    price: 11.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3d6O0TH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huiqibao-electric-pulse-water-gun-flame-sensor/ad-photo.png",
+    desc: "HUIQIBAO electric pulse TOY water gun — simulated flame sensor light, fully automatic water pistol for outdoor beach play. A toy, not a real weapon.",
+    specs: [["Type", "Electric pulse toy water gun"], ["Light", "Simulated flame sensor light"], ["Mode", "Fully automatic"], ["Use", "Outdoor beach toy"]],
+    added: 327,
+    popular: false
+  },
+  {
+    id: "self-adhesive-leather-repair-patch-tape-10-300cm",
+    name: "10-300cm Self Adhesive Leather Repair Patch Tape Self-Adhesive House DIY Fix For Sofa Moto Car Seat Bag Home Sheets Patches",
+    short: "Self Adhesive Leather Repair Patch Tape 10-300cm",
+    price: 2.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3ax8ro3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/self-adhesive-leather-repair-patch-tape-10-300cm/ad-photo.png",
+    desc: "Self-adhesive leather repair patch tape (10-300cm) — DIY fix for sofa, car seat, moto seat, bag and home sheets.",
+    specs: [["Size", "10-300cm"], ["Type", "Self-adhesive repair patch"], ["Use", "Sofa, car seat, moto seat, bag"], ["Fix", "DIY leather repair"]],
+    added: 328,
+    popular: false
+  },
+  {
+    id: "xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d",
+    name: "XIUSUZAKI U-Shaped YY 3D 4D 5D Eyelash Extensions New Style U Lashes Extension Mink Premade Volume Fans Individual False Lashes",
+    short: "XIUSUZAKI U-Shaped YY Eyelash Extensions 3D 4D 5D",
+    price: 1.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3rftR0x",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiusuzaki-u-shaped-yy-eyelash-extensions-3d-4d-5d/ad-photo.png",
+    desc: "XIUSUZAKI U-shaped YY 3D/4D/5D eyelash extensions — mink premade volume fans, individual false lashes.",
+    specs: [["Shape", "U-shaped YY"], ["Style", "3D 4D 5D"], ["Type", "Mink premade volume fans"], ["Use", "Individual false lashes"]],
+    added: 329,
+    popular: false
+  },
+  {
+    id: "bicycle-brake-mineral-oil-60ml-bleed-kit",
+    name: "Bicycle Brake Mineral Oil 60ML Bike Hydraulic Disc Brake Oil Bleed Kit For SHIMANO TEKTRO SRAM NUTT Series Brake Repair Tools",
+    short: "Bicycle Brake Mineral Oil 60ml Bleed Kit",
+    price: 4.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3wFe8UJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bicycle-brake-mineral-oil-60ml-bleed-kit/ad-photo.png",
+    desc: "Bicycle brake mineral oil 60ml with bleed kit — for SHIMANO, TEKTRO, SRAM and NUTT series hydraulic disc brakes.",
+    specs: [["Volume", "60ml"], ["Type", "Mineral oil + bleed kit"], ["Fits", "SHIMANO, TEKTRO, SRAM, NUTT"], ["Use", "Hydraulic disc brake repair"]],
+    added: 330,
+    popular: false
+  }
 
 ];
 
