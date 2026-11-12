@@ -14671,6 +14671,107 @@ const PRODUCTS = [
     added: 578,
     popular: false
   }
+,
+  {
+    id: "one-piece-bento-lunch-box",
+    name: "One Piece Boy Girl Bento Lunch Box Portable Food Boxes Microwave Lunch Boxes Anime Print Picnic Case Children Food Container New",
+    short: "One Piece Bento Lunch Box",
+    price: 3.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3Mqvmbv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/one-piece-bento-lunch-box/ad-photo.png",
+    desc: "One Piece bento lunch box for kids.",
+    specs: [["Type", "Bento lunch box, portable food boxes, microwave (per title)"], ["Use", "Anime print picnic case, children food container (per title)"]],
+    added: 579,
+    popular: false
+  },
+  {
+    id: "mini-simulation-beverage-can-resin-charms",
+    name: "10Pcs Mini Simulation Beverage Can Resin Charms Colorful Imitation Drink Bottle Pendants DIY Earring Keychain Jewelry Making Supplies",
+    short: "Mini Simulation Beverage Can Resin Charms",
+    price: 4.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3t3d9KL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-simulation-beverage-can-resin-charms/ad-photo.png",
+    desc: "10 pcs mini simulation beverage can resin charms.",
+    specs: [["Type", "Mini simulation beverage can resin charms, 10 pcs (per title)"], ["Use", "DIY earring, keychain, jewelry making pendants (per title)"]],
+    added: 580,
+    popular: false
+  },
+  {
+    id: "homefish-smart-automatic-sensor-foam-dispenser",
+    name: "HOMEFISH Smart Automatic Sensor Foam Dispenser Touchless Infrared Soap Dispenser Type-C Charging High Capacity",
+    short: "HOMEFISH Smart Automatic Sensor Foam Dispenser",
+    price: 25.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4k5jXaj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-smart-automatic-sensor-foam-dispenser/ad-photo.png",
+    desc: "HOMEFISH smart automatic sensor foam dispenser.",
+    specs: [["Type", "Touchless infrared foam/soap dispenser, Type-C charging (per title)"], ["Feature", "Smart automatic sensor, high capacity (per title)"]],
+    added: 581,
+    popular: false
+  },
+  {
+    id: "electric-kettle-glass-avenido-av1310",
+    name: "Electric Kettle Glass 1,7 Liters Temperature Control Rotating Base Keep Warm 2200 W Avenido Av1310",
+    short: "Electric Kettle Glass Avenido Av1310",
+    price: 42.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3o0Eqs7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-kettle-glass-avenido-av1310/ad-photo.png",
+    desc: "Electric glass kettle, 1.7 liters, temperature control.",
+    specs: [["Type", "Electric glass kettle, 1.7 liters, 2200 W (per title)"], ["Feature", "Temperature control, rotating base, keep warm (per title)"]],
+    added: 582,
+    popular: false
+  }
 
 ];
 
