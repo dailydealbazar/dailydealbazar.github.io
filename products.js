@@ -9733,6 +9733,107 @@ const PRODUCTS = [
     added: 382,
     popular: false
   }
+,
+  {
+    id: "homezo-snowball-maker-tool-with-handle",
+    name: "Winter Snow Toys Kit, Homezo Snowball Maker Tool, Snowball Maker, Snowball Maker Tool, Snow Play Toys for Kids, with Handle",
+    short: "Homezo Winter Snow Toys Kit — Snowball Maker Tool",
+    price: 4.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c40NwlWX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homezo-snowball-maker-tool-with-handle/ad-photo.png",
+    desc: "Homezo winter snow toys kit — snowball maker tool with handle for snow play, fun for kids.",
+    specs: [["Type", "Snowball maker tool"], ["Use", "Snow play toys for kids"], ["Feature", "Handle grip, 38 cm long (per photo)"], ["Kit", "Winter snow toys kit, random color (per photo)"]],
+    added: 383,
+    popular: false
+  },
+  {
+    id: "hunthouse-musky-buster-jerkbait-fishing-lure",
+    name: "Hunthouse Musky Buster Jerkbait Fishing Lure 115mm/32g 145mm/55g Slow Sinking Loud Sound Vib Vibration For Sea Bass Pike LW129",
+    short: "Hunthouse Musky Buster Jerkbait Fishing Lure",
+    price: 5.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3eddL4b",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hunthouse-musky-buster-jerkbait-fishing-lure/ad-photo.png",
+    desc: "Hunthouse Musky Buster jerkbait fishing lure — 115mm/32g and 145mm/55g, slow sinking with loud sound vibration for sea bass and pike.",
+    specs: [["Type", "Fishing lure (jerkbait)"], ["Size", "115mm/32g, 145mm/55g"], ["Action", "Slow sinking, loud sound vib vibration, VMC hooks (per photo)"], ["Target", "Sea bass, pike"]],
+    added: 384,
+    popular: false
+  },
+  {
+    id: "giant-cycling-glasses-uv400-anti-fog",
+    name: "GIANT Cycling Glasses UV400 Anti Fog REVO Lenses HD Clarity MTB/Road Bike sunglasses men and women",
+    short: "GIANT Cycling Glasses UV400 Anti Fog REVO",
+    price: 10.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3f3kP8L",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/giant-cycling-glasses-uv400-anti-fog/ad-photo.png",
+    desc: "GIANT cycling glasses with UV400 anti-fog REVO lenses and HD clarity for MTB and road bike, men and women.",
+    specs: [["Type", "Cycling glasses"], ["Lens", "UV400 anti-fog REVO lenses, HD clarity"], ["Use", "MTB / road bike"], ["For", "Men and women"]],
+    added: 385,
+    popular: false
+  },
+  {
+    id: "shahe-digital-table-readout-linear-scale-dro",
+    name: "Shahe 0-150mm/0-200mm/0-300mm Digital Table Readout Linear Scale DRO Magnetic Remote External Display For Bridgeport Mill Lathe",
+    short: "Shahe Digital Table Readout Linear Scale DRO",
+    price: 28.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4TbeyoP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/shahe-digital-table-readout-linear-scale-dro/ad-photo.png",
+    desc: "Shahe digital table readout linear scale DRO — magnetic remote external display for Bridgeport mill and lathe.",
+    specs: [["Type", "Digital table readout linear scale"], ["Range", "0–150mm / 0–200mm / 0–300mm; resolution 0.01mm, accuracy ±0.06mm (per photo)"], ["Display", "Magnetic remote external display, 5-key (per photo)"], ["Use", "Bridgeport mill / lathe"]],
+    added: 386,
+    popular: false
+  }
 
 ];
 
