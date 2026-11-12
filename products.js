@@ -14772,6 +14772,107 @@ const PRODUCTS = [
     added: 582,
     popular: false
   }
+,
+  {
+    id: "tangzu-waner-2-jade-dragon",
+    name: "Tangzu Waner 2 Jade Dragon Edition 10mm PET Single Dynamic Driver In-Ear Headphones, with Silicone Storage Bag",
+    short: "Tangzu Waner 2 Jade Dragon Earphones",
+    price: 31.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4Wd57WL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-jade-dragon/ad-photo.png",
+    desc: "Tangzu Waner 2 Jade Dragon Edition in-ear headphones.",
+    specs: [["Type", "In-ear headphones, 10mm PET single dynamic driver (per title)"], ["Includes", "Silicone storage bag (per title)"]],
+    added: 583,
+    popular: false
+  },
+  {
+    id: "baseus-140w-gan-charger",
+    name: "Baseus 140W GaN Charger PD Charger USB C Charger Fast Charge For Macbook Tablet Phone Charger For iPhone 17 16 15 14",
+    short: "Baseus 140W GaN Charger",
+    price: 46.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4TgWSrt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-140w-gan-charger/ad-photo.png",
+    desc: "Baseus 140W GaN fast charger, USB-C.",
+    specs: [["Type", "140W GaN charger, PD, USB-C (per title)"], ["Use", "Fast charge for MacBook, tablet, phone (per title)"]],
+    added: 584,
+    popular: false
+  },
+  {
+    id: "snoopy-woodstock-automatic-umbrella",
+    name: "Snoopy Woodstock cartoon creative automatic umbrella two-dimensional animation peripheral transparent 3 folding umbrella gift",
+    short: "Snoopy Woodstock Automatic Umbrella",
+    price: 11.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3BNA1RN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snoopy-woodstock-automatic-umbrella/ad-photo.png",
+    desc: "Snoopy Woodstock cartoon automatic umbrella.",
+    specs: [["Type", "Automatic umbrella, 3 folding, transparent (per title)"], ["Design", "Snoopy Woodstock cartoon (per title)"]],
+    added: 585,
+    popular: false
+  },
+  {
+    id: "4k-8mp-hd-wifi-ptz-camera",
+    name: "4K 8MP HD Wifi PTZ Camera Outdoor 4MP Dual Lens Dual Screen AI Auto Tracking IP Camera CCTV Audio Video Surveillance P2P iCSee",
+    short: "4K 8MP HD Wifi PTZ Camera",
+    price: 41.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3CN1jaj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4k-8mp-hd-wifi-ptz-camera/ad-photo.png",
+    desc: "4K 8MP HD Wifi PTZ outdoor security camera.",
+    specs: [["Type", "Wifi PTZ camera, 4K 8MP, dual lens, dual screen (per title)"], ["Feature", "AI auto tracking, CCTV audio/video surveillance (per title)"]],
+    added: 586,
+    popular: false
+  }
 
 ];
 
