@@ -9632,6 +9632,107 @@ const PRODUCTS = [
     added: 378,
     popular: false
   }
+,
+  {
+    id: "aneng-xl830l-multimeter",
+    name: "ANENG XL830L LCD Backlight Multimeter 1999 Counts 600V AC/DC Voltage DC 10A Current Resistance Diode HFE Detector with Data Hold",
+    short: "ANENG XL830L Multimeter",
+    price: 8.43,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c367GPLv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aneng-xl830l-multimeter/ad-photo.png",
+    desc: "ANENG XL830L digital multimeter with LCD backlight — 1999 counts, 600V AC/DC voltage, DC 10A current, resistance, diode and HFE detection with data hold.",
+    specs: [["Type", "Digital multimeter"], ["Display", "LCD with backlight"], ["Range", "1999 counts, 600V AC/DC, 0–2MΩ resistance"], ["Features", "DC 10A current, diode, hFE triode, data hold, on-off beep (per photo)"]],
+    added: 379,
+    popular: false
+  },
+  {
+    id: "3-5mm-lavalier-microphone",
+    name: "3.5mm Mini Portable Lavalier Microphone For PC Laptop Type C Lapel Clip-on Microphone For Smart Phone USB Professional Micro Mic",
+    short: "3.5mm Mini Portable Lavalier Microphone",
+    price: 2.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3AyIbxD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-5mm-lavalier-microphone/ad-photo.png",
+    desc: "Mini portable wired lavalier microphone — 3.5mm lapel clip-on mic for PC, laptop and smartphone.",
+    specs: [["Type", "Mini lavalier microphone"], ["Connector", "3.5mm (USB and Type-C also shown in photo)"], ["Cable", "1.5m shielded cable (per photo)"], ["Form", "Clip-on lapel mic, omnidirectional"]],
+    added: 380,
+    popular: false
+  },
+  {
+    id: "fangtuosi-1750mm-selfie-stick-tripod",
+    name: "FANGTUOSI 1750mm Wireless Selfie Stick Tripod Stand Foldable Monopod With Led Light For Smartphones Balance Steady Shooting Live",
+    short: "FANGTUOSI 1750mm Selfie Stick Tripod",
+    price: 21.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3GQanmR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fangtuosi-1750mm-selfie-stick-tripod/ad-photo.png",
+    desc: "FANGTUOSI 1750mm wireless selfie stick tripod — foldable monopod with LED light for smartphones, steady shooting and live.",
+    specs: [["Type", "Wireless selfie stick tripod"], ["Length", "1.75 m"], ["Feature", "LED selfie light, 3-color fill light (per photo)"], ["Extras", "Detachable remote, 360° rotation, aluminum alloy (per photo)"]],
+    added: 381,
+    popular: false
+  },
+  {
+    id: "retroscaler-mini-blueretro-receiver-adapter",
+    name: "RetroScaler Mini Blueretro Receiver Adapter for PS1 PS One PS2 Compatible with 8bitdo PS4 PS5 Xbox Series X Wireless Controller",
+    short: "RetroScaler Mini Blueretro Receiver Adapter",
+    price: 18.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3W9HnvN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler-mini-blueretro-receiver-adapter/ad-photo.png",
+    desc: "RetroScaler Mini Blueretro receiver adapter for PS1/PS2 — compatible with 8bitdo, PS4, PS5 and Xbox wireless controllers.",
+    specs: [["Type", "Wireless controller receiver adapter"], ["Compatibility", "PS1 / PS2 Slim / PS2 Fat / PS One (per photo)"], ["Works with", "PS3, PS4, PS5, Xbox One/Series X|S, Switch, 8bitdo (per photo)"], ["Latency", "Almost zero latency, 6ms (per photo)"]],
+    added: 382,
+    popular: false
+  }
 
 ];
 
