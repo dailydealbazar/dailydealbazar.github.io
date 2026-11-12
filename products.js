@@ -13365,6 +13365,107 @@ const PRODUCTS = [
     added: 526,
     popular: false
   }
+,
+  {
+    id: "cotton-linen-pants",
+    name: "Autumn Winter New 9 Colors Men's Solid Color Cotton Linen Pants Autumn Streetwear Fashion Casual Solid Color Loose Trousers",
+    short: "Autumn Winter New 9 Colors Men's Solid Color Cotton Linen Pants",
+    price: 12.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3Dlv3lh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-linen-pants/ad-photo.png",
+    desc: "Autumn winter cotton linen pants.",
+    specs: [["Fabric", "Cotton linen (per title)"], ["Colors", "9 colors (per title)"], ["Fit", "Loose, casual (per title)"], ["Season", "Autumn / winter (per title)"]],
+    added: 527,
+    popular: false
+  },
+  {
+    id: "snail-trap",
+    name: "[High-Quality Snail Trap] Durable High-Quality Snail & Slug Trap - Safe Plastic Cage for Vegetables and Flowers",
+    short: "High-Quality Snail Trap",
+    price: 4.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3r5eZEx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/snail-trap/ad-photo.png",
+    desc: "High-quality snail trap.",
+    specs: [["Type", "Snail & slug trap (per title)"], ["Material", "Safe plastic cage (per title)"], ["Use", "Vegetables and flowers (per title)"]],
+    added: 528,
+    popular: false
+  },
+  {
+    id: "syringe-set-blunt-needles",
+    name: "14/10pcs Syringe Set with Blunt Needles, Various Size1ml,3ml,5ml,10ml,20ml,60ml,Plastic, for Refilling, Measuring, Scientific",
+    short: "14/10pcs Syringe Set with Blunt Needles",
+    price: 2.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c39aXPW3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/syringe-set-blunt-needles/ad-photo.png",
+    desc: "14/10pcs syringe set with blunt needles.",
+    specs: [["Sizes", "1ml / 3ml / 5ml / 10ml / 20ml / 60ml (per title)"], ["Pack", "14 / 10 pcs (per title)"], ["Use", "Refilling, measuring, scientific (per title)"]],
+    added: 529,
+    popular: false
+  },
+  {
+    id: "pig-mane-brushes",
+    name: "10 Pig Mane Brushes, Suitable for Art, Handicrafts, Plastering, Painting, Glue Application, Wooden Handles",
+    short: "10 Pig Mane Brushes",
+    price: 5.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c31bj4Wn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pig-mane-brushes/ad-photo.png",
+    desc: "10 pig mane brushes.",
+    specs: [["Pack", "10 brushes (per title)"], ["Bristle", "Pig mane (per title)"], ["Handle", "Wooden (per title)"], ["Use", "Art, handicrafts, plastering, painting, glue (per title)"]],
+    added: 530,
+    popular: false
+  }
 
 ];
 
