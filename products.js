@@ -8727,6 +8727,107 @@ const PRODUCTS = [
     added: 342,
     popular: false
   }
+,
+  {
+    id: "magic-emery-sponge-brush-wipe-eraser-cleaner",
+    name: "Magic Emery Sponge Brush Wipe Eraser Cleaner Kitchen Bath Rust Strong Decontamination Cleaning Tools With Handle Household Tools",
+    short: "Magic Emery Sponge Brush Wipe Eraser Cleaner",
+    price: 4.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3hEHEI7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magic-emery-sponge-brush-wipe-eraser-cleaner/ad-photo.png",
+    desc: "Magic emery sponge brush — wipe eraser cleaner for kitchen and bath, strong decontamination with handle for household cleaning.",
+    specs: [["Type", "Emery sponge brush"], ["Use", "Kitchen & bath"], ["Feature", "Strong decontamination"], ["Handle", "With handle"]],
+    added: 343,
+    popular: false
+  },
+  {
+    id: "13-joints-figure-articulate-movable-dummy-doll",
+    name: "1PCS 13 Joints Figure Articulate Movable Dummy Doll Diy Assembly Toy 3D Printed Action Figure Stop Motion Animation Dummy",
+    short: "13 Joints Figure Articulate Movable Dummy Doll",
+    price: 2.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3yrAY9v",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/13-joints-figure-articulate-movable-dummy-doll/ad-photo.png",
+    desc: "13-joints articulated dummy doll — DIY assembly toy, 3D printed action figure for stop motion animation play.",
+    specs: [["Joints", "13 movable joints"], ["Type", "DIY assembly toy"], ["Material", "3D printed figure"], ["Use", "Stop motion animation"]],
+    added: 344,
+    popular: false
+  },
+  {
+    id: "short-cat6-rj45-network-lan-cable-20-30-50cm",
+    name: "20cm 30cm 50cm Short CAT 6 RJ45 Network Lan Cable Ethernet Patch Cord",
+    short: "Short CAT 6 RJ45 Network Lan Cable 20-50cm",
+    price: 0.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3LoZ7k3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/short-cat6-rj45-network-lan-cable-20-30-50cm/ad-photo.png",
+    desc: "Short CAT 6 RJ45 network LAN cable — ethernet patch cord in 20cm, 30cm and 50cm lengths.",
+    specs: [["Type", "CAT 6 RJ45"], ["Lengths", "20cm / 30cm / 50cm"], ["Use", "Ethernet patch cord"], ["Connector", "RJ45"]],
+    added: 345,
+    popular: false
+  },
+  {
+    id: "nose-hair-trimmer-rechargeable-electric-pocket",
+    name: "Nose Hair Trimmer Rechargeable Electric Nose Hair Remover Men Eyebrow Hair Shaving Razor Mini Pocket Portable Nose Hair Clipper",
+    short: "Nose Hair Trimmer Rechargeable Electric Pocket",
+    price: 4.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-personal-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4nnim0X",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nose-hair-trimmer-rechargeable-electric-pocket/ad-photo.png",
+    desc: "Rechargeable electric nose hair trimmer — mini pocket portable nose hair clipper for men, also for eyebrow hair.",
+    specs: [["Type", "Electric nose hair trimmer"], ["Power", "Rechargeable"], ["Size", "Mini pocket portable"], ["Use", "Nose & eyebrow hair"]],
+    added: 346,
+    popular: false
+  }
 
 ];
 
