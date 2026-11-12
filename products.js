@@ -14873,6 +14873,107 @@ const PRODUCTS = [
     added: 586,
     popular: false
   }
+,
+  {
+    id: "personalized-cute-name-stamp",
+    name: "Personalized Cute Name Stamp Waterproof Clothing Label for Kids Self Ink Stamp for Kindergarten School Bags Custom Stamp",
+    short: "Personalized Cute Name Stamp",
+    price: 3.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c381zYPv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/personalized-cute-name-stamp/ad-photo.png",
+    desc: "Personalized cute name stamp, self-ink, waterproof clothing label for kids.",
+    specs: [["Type", "Self-ink name stamp, waterproof clothing label (per title)"], ["Use", "Kindergarten, school bags, kids' clothing (per title)"]],
+    added: 587,
+    popular: false
+  },
+  {
+    id: "poker-custom-text-beer-bottle-opener",
+    name: "Poker Custom Text Beer Bottle Opener Personalized Name Card Beer Opener Stainless Steel Engraving Customized Text Bottle Opener",
+    short: "Poker Custom Text Beer Bottle Opener",
+    price: 2.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4exK0s3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poker-custom-text-beer-bottle-opener/ad-photo.png",
+    desc: "Poker custom text beer bottle opener, stainless steel, engraved.",
+    specs: [["Type", "Beer bottle opener, stainless steel, engraved (per title)"], ["Design", "Poker, personalized name card (per title)"]],
+    added: 588,
+    popular: false
+  },
+  {
+    id: "maze-training-book",
+    name: "Maze Training Book, Used to Improve Concentration, a Puzzle Game Designed to Enhance Students' Thinking and Attention, an Intellectual Development Toy, a Fun Holiday Gift, a Maze Game Book",
+    short: "Maze Training Book",
+    price: 3.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c45LOdUr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maze-training-book/ad-photo.png",
+    desc: "Maze training book, puzzle game to improve concentration.",
+    specs: [["Type", "Maze game book, puzzle game (per title)"], ["Use", "Improve concentration and thinking, intellectual development toy (per title)"]],
+    added: 589,
+    popular: false
+  },
+  {
+    id: "colour-dictionary-taisho-showa-era-color-manual",
+    name: "Colour Dictionary Taisho Showa Era Color Manual Notebook CMYK Color Latest Second Edition Art Book Drawing Reference Book",
+    short: "Colour Dictionary Taisho Showa Era Color Manual",
+    price: 16.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c41eQLcn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/colour-dictionary-taisho-showa-era-color-manual/ad-photo.png",
+    desc: "Colour dictionary, Taisho Showa era color manual, CMYK art reference book.",
+    specs: [["Type", "Color manual notebook, CMYK, second edition (per title)"], ["Use", "Art book, drawing reference (per title)"]],
+    added: 590,
+    popular: false
+  }
 
 ];
 
