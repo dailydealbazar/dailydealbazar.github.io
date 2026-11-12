@@ -8424,6 +8424,107 @@ const PRODUCTS = [
     added: 330,
     popular: false
   }
+,
+  {
+    id: "sun-1080p-visual-ear-camera-ear-wax-cleaner",
+    name: "1080P Visual Ear Camera Ear Mouth Check 2M Pixels Camera Ear Wax Cleaner Camera for Ears Nose Skin Support 90° Rotating Heads",
+    short: "SUNUO 1080P Visual Ear Camera Ear Wax Cleaner",
+    price: 40.29,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3HtNglp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sun-1080p-visual-ear-camera-ear-wax-cleaner/ad-photo.png",
+    desc: "SUNUO 1080P visual ear camera — 2M pixels ear wax cleaner camera for ears, nose and skin, with 90° rotating heads.",
+    specs: [["Resolution", "1080P"], ["Camera", "2M pixels"], ["Heads", "90° rotating"], ["Use", "Ears, nose, skin check"]],
+    added: 331,
+    popular: false
+  },
+  {
+    id: "4wd-rc-car-buggy-off-road-1-12-1-16",
+    name: "1:12 / 1:16 4WD RC Car 2.4G Radio Control Car Buggy Off-Road Remote Control Cars Trucks Boys Toys for Children",
+    short: "4WD RC Car Buggy Off-Road 1:12 / 1:16",
+    price: 39.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3Q0mxwr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4wd-rc-car-buggy-off-road-1-12-1-16/ad-photo.png",
+    desc: "1:12 / 1:16 4WD RC car buggy — 2.4G radio control off-road remote control car for children.",
+    specs: [["Scale", "1:12 / 1:16"], ["Drive", "4WD"], ["Control", "2.4G radio control"], ["Type", "Off-road buggy"]],
+    added: 332,
+    popular: false
+  },
+  {
+    id: "topk-4inch-usb-mini-portable-fan-3-speeds",
+    name: "TOPK 4Inch USB Mini Portable Fan for Camping,3 Speeds Quiet Desk Table Personal Fan,360°Adjustment Standing Fans for Room Home",
+    short: "TOPK 4Inch USB Mini Portable Fan 3 Speeds",
+    price: 9.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2QlFCDv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-4inch-usb-mini-portable-fan-3-speeds/ad-photo.png",
+    desc: "TOPK 4-inch USB mini portable fan — 3 speeds, quiet desk table fan with 360° adjustment, for camping and home.",
+    specs: [["Size", "4 inch"], ["Power", "USB"], ["Speeds", "3 speeds"], ["Adjustment", "360°"]],
+    added: 333,
+    popular: false
+  },
+  {
+    id: "elitaone-carbon-bicycle-seat-post-135g",
+    name: "ELITAONE Carbon Bicycle Seat Post 135g Lightweight 27.2/30.9/31.6mm Unidirectional Matte Road And MTB Bike Seatpost 63C",
+    short: "ELITAONE Carbon Bicycle Seat Post 135g",
+    price: 33.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3SgIigX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/elitaone-carbon-bicycle-seat-post-135g/ad-photo.png",
+    desc: "ELITAONE carbon bicycle seat post — 135g lightweight, unidirectional matte carbon, for road and MTB bikes.",
+    specs: [["Weight", "135g"], ["Sizes", "27.2 / 30.9 / 31.6mm"], ["Material", "Unidirectional carbon"], ["Finish", "Matte"]],
+    added: 334,
+    popular: false
+  }
 
 ];
 
