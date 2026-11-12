@@ -3,7 +3,17 @@
    Never breaks the page: every step is guarded. No personal data is collected. */
 (function () {
   try {
-    if (location.hostname !== "dailydealbazar.github.io") return;
+    if (location.hostname !== "dailydealbazar.github.io" && location.hostname !== "dailydealbazar.work.gd") return;
+    /* Bot filter — AI crawlers, search bots aur headless agents ko visitor count nahi karna.
+       Sirf asli insaan gine jayenge; robots ki alag pehchan ddb/bots mein likhi jati hai. */
+    function isBot(ua) {
+      try {
+        if (navigator.webdriver) return true;
+      } catch (e) {}
+      var s = (ua || (navigator.userAgent || "")).toLowerCase();
+      return /bot|crawl|spider|slurp|scraper|headless|phantom|googlebot|bingbot|duckduckbot|baiduspider|yandexbot|sogou|exabot|facebot|ia_archiver|applebot|facebookexternalhit|twitterbot|linkedinbot|msnbot|ahrefsbot|semrushbot|dotbot|mj12bot|rogerbot|amazonbot|gptbot|chatgpt-user|oai-searchbot|claudebot|anthropic-ai|cohere-ai|perplexitybot|bytespider|ccbot|meta-externalagent|adsbot|mediapartners-google|pingdom|uptimerobot|monitor|validator|preview|embedly|whatsapp|telegrambot|discordbot|slackbot/.test(s);
+    }
+    var BOT = isBot();
     if (!window.firebase || !firebase.database) return;
     var CFG = {
       apiKey: "AIzaSyBHPNawUwdK-0DcagTm1IpbDKZwQvZTNQc",
@@ -31,6 +41,22 @@
     try {
       if (!sessionStorage.getItem("ddb_sess")) { sessionStorage.setItem("ddb_sess", "1"); isNewSession = true; }
     } catch (e) { isNewSession = true; }
+
+    /* Robot — sirf alag se note karo (ddb/bots), visitor count mein bilkul nahi. */
+    if (BOT) {
+      try {
+        fetch("https://ipapi.co/json/").then(function (r) { return r.json(); }).then(function (j) {
+          var ip = (j && j.ip) ? String(j.ip) : "";
+          if (!ip) return;
+          var h = iphash(ip);
+          var up = {};
+          up["ddb/bots/all/" + h] = true;
+          up["ddb/bots/days/" + dstr + "/" + h] = true;
+          db.ref().update(up).catch(function () {});
+        }).catch(function () {});
+      } catch (e) {}
+      return;
+    }
 
     function sourceName() {
       try {
