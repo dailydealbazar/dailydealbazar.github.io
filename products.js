@@ -9834,6 +9834,107 @@ const PRODUCTS = [
     added: 386,
     popular: false
   }
+,
+  {
+    id: "silicone-face-brush",
+    name: "Silicone Face Brush",
+    short: "Silicone Face Brush",
+    price: 1.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3FmwvIB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-face-brush/ad-photo.png",
+    desc: "Silicone face brush — soft silicone nose cleaning brush for blackhead cleaning and facial cleansing.",
+    specs: [["Type", "Silicone nose cleaning brush"], ["Use", "Blackhead cleaning, facial cleansing"], ["Feature", "Blackhead needle + fine brush + massage brush (per photo)"], ["Colors", "Pink, mint, yellow, purple (per photo)"]],
+    added: 387,
+    popular: false
+  },
+  {
+    id: "braided-rope-bracelets",
+    name: "Braided Rope Bracelets",
+    short: "Braided Rope Bracelets",
+    price: 3.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3aIXiCf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/braided-rope-bracelets/ad-photo.png",
+    desc: "Braided rope bracelets — multi-layer braided bracelets with magnetic clasp.",
+    specs: [["Type", "Braided rope bracelet"], ["Material", "Braided leather-style straps"], ["Clasp", "Magnetic clasp, multi-layer (per photo)"], ["Colors", "Black, brown (per photo)"]],
+    added: 388,
+    popular: false
+  },
+  {
+    id: "xppen-star-g640-graphics-tablet",
+    name: "XPPen Star G640 Graphics Tablet",
+    short: "XPPen Star G640 Graphics Tablet",
+    price: 28.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3viKrTD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xppen-star-g640-graphics-tablet/ad-photo.png",
+    desc: "XPPen Star G640 graphics tablet — pen tablet for drawing and digital art.",
+    specs: [["Type", "Graphics drawing tablet"], ["Model", "Star G640"], ["Area", "6x4 inch active area, 190x162mm, 2mm thin (per photo)"], ["Pen", "Battery-free pen, 8192 pressure levels, 266 RPS (per photo)"]],
+    added: 389,
+    popular: false
+  },
+  {
+    id: "ilmh-car-hand-tool-set",
+    name: "iLMH Car Hand Tool Set",
+    short: "iLMH Car Hand Tool Set",
+    price: 3.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c40b9zmn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-car-hand-tool-set/ad-photo.png",
+    desc: "iLMH 5-piece car trim removal tool set — pry tools plus fastener remover for car interior trim.",
+    specs: [["Type", "Car trim removal tool set"], ["Kit", "5-piece pry tool set + fastener remover (per photo)"], ["Sizes", "5.06–9.06in pry tools, 225mm fastener remover (per photo)"], ["Use", "Car interior trim / panel removal"]],
+    added: 390,
+    popular: false
+  }
 
 ];
 
