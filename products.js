@@ -9228,6 +9228,107 @@ const PRODUCTS = [
     added: 362,
     popular: false
   }
+,
+  {
+    id: "ice-compress-high-speed-cooling-handheld-fan",
+    name: "Ice compress high-speed cooling fan handheld fans USB Rechargeable portable mini fan Folding style for Travel,Camping,Outdoor",
+    short: "Ice Compress High-Speed Cooling Handheld Fan",
+    price: 22.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3XLJuCr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-compress-high-speed-cooling-handheld-fan/ad-photo.png",
+    desc: "Ice compress high-speed cooling fan — handheld, USB rechargeable, portable mini fan, folding style, for travel, camping and outdoor.",
+    specs: [["Type", "Handheld cooling fan"], ["Feature", "Ice compress high-speed cooling"], ["Charging", "USB rechargeable"], ["Battery", "5200mAh (per photo)"]],
+    added: 363,
+    popular: false
+  },
+  {
+    id: "120m-fluorocarbon-coating-fishing-line",
+    name: "120M Fluorocarbon Coating Fishing Line 0.20mm-0.60mm 7.15LB-45LB Carbon Fiber Leader Line Fishing Lure Wire Sinking Line Japan",
+    short: "120M Fluorocarbon Coating Fishing Line",
+    price: 3.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3VSxssX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120m-fluorocarbon-coating-fishing-line/ad-photo.png",
+    desc: "120M fluorocarbon coating fishing line — 0.20mm-0.60mm, 7.15LB-45LB, carbon fiber leader line, sinking line.",
+    specs: [["Type", "Fluorocarbon fishing line"], ["Length", "120M"], ["Diameter", "0.14mm–0.50mm (per size chart)"], ["Strength", "4.13LB–34.32LB (per size chart)"]],
+    added: 364,
+    popular: false
+  },
+  {
+    id: "1000pcs-nylon-cable-ties-self-locking",
+    name: "1000/100Pcs Nylon Cable Ties Self-locking Cord Ties Straps Adjustable Cables Fastening Loop Home Office Wire Zip Ties Wholesale",
+    short: "1000Pcs Nylon Cable Ties Self-Locking",
+    price: 3.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3z3QD4T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000pcs-nylon-cable-ties-self-locking/ad-photo.png",
+    desc: "1000-piece nylon cable ties — self-locking cord ties, adjustable straps for fastening cables, for home and office wire management.",
+    specs: [["Type", "Nylon cable ties"], ["Quantity", "1000 / 100 pcs"], ["Feature", "Self-locking, adjustable"], ["Use", "Home / office wire fastening"]],
+    added: 365,
+    popular: false
+  },
+  {
+    id: "double-sided-adhesive-monster-tape",
+    name: "Ultra-strong Double Sided Adhesive Monster Tape Home Appliance Waterproof Wall Stickers Home Improvement Resistant Tapes",
+    short: "Double Sided Adhesive Monster Tape",
+    price: 3.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3UEldZd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/double-sided-adhesive-monster-tape/ad-photo.png",
+    desc: "Ultra-strong double sided adhesive monster tape — waterproof wall stickers, for home appliances and home improvement.",
+    specs: [["Type", "Double sided adhesive tape"], ["Feature", "Ultra-strong, waterproof"], ["Use", "Home appliance / wall mounting"], ["Size", "3cm wide, 5m long (per photo)"]],
+    added: 366,
+    popular: false
+  }
 
 ];
 
