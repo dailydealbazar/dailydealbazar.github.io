@@ -13763,6 +13763,107 @@ const PRODUCTS = [
     added: 542,
     popular: false
   }
+,
+  {
+    id: "baseus-100w-fast-charger",
+    name: "Baseus 100W Fast Charger Type C USB Charger Support QC PD PPS Portable Charger For iPhone 17 16 15 14 Macbook Air Laptop Charger",
+    short: "Baseus 100W Fast Charger",
+    price: 32.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c45NBa6J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-fast-charger/ad-photo.png",
+    desc: "Baseus 100W fast charger with Type-C USB, QC/PD/PPS.",
+    specs: [["Type", "100W fast charger, Type-C USB (per title)"], ["Feature", "QC / PD / PPS, portable (per title)"]],
+    added: 543,
+    popular: false
+  },
+  {
+    id: "vdd-rivoli-sew-on-rhinestones",
+    name: "VDD Rivoli Multiple Colors Top Quality K9 Glass Sew On Rhinestones Crystal FlatBack Sewing Stones For DIY Garment Wedding Dress",
+    short: "VDD Rivoli Sew-On Rhinestones",
+    price: 4.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4FXlViF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vdd-rivoli-sew-on-rhinestones/ad-photo.png",
+    desc: "VDD Rivoli K9 glass sew-on rhinestones for DIY garments.",
+    specs: [["Type", "K9 glass sew-on rhinestones, flatback (per title)"], ["Use", "DIY garment / wedding dress (per title)"]],
+    added: 544,
+    popular: false
+  },
+  {
+    id: "ramypoket-foldable-walking-pad",
+    name: "RAMYPOKET Foldable Walking Pad with 9% Incline Silent Motor Smart APP Three Window Display 1–8KM/H Speed 120KG Capacity Treadmill for Home Office",
+    short: "RAMYPOKET Foldable Walking Pad",
+    price: 108.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3IuvqeR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ramypoket-foldable-walking-pad/ad-photo.png",
+    desc: "RAMYPOKET foldable walking pad with incline and smart APP.",
+    specs: [["Type", "Foldable walking pad, 9% incline (per title)"], ["Feature", "Silent motor, smart APP, 1-8KM/H, 120KG capacity (per title)"]],
+    added: 545,
+    popular: false
+  },
+  {
+    id: "quick-attach-fishing-rod-clip",
+    name: "2pcs Quick-Attach Fishing Rod Clip - Tool-Free 1-Hand Holder for 2-Piece Freshwater Rods, Secure Grip Tackle Organizer",
+    short: "2pcs Quick-Attach Fishing Rod Clip",
+    price: 3.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Xl6TcR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-attach-fishing-rod-clip/ad-photo.png",
+    desc: "Quick-attach fishing rod clip, tool-free one-hand holder.",
+    specs: [["Type", "Quick-attach fishing rod clip, tool-free (per title)"], ["Use", "1-hand holder for 2-piece freshwater rods (per title)"]],
+    added: 546,
+    popular: false
+  }
 
 ];
 
