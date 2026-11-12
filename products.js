@@ -12456,6 +12456,107 @@ const PRODUCTS = [
     added: 490,
     popular: false
   }
+,
+  {
+    id: "traceless-invisible-elastic-belt",
+    name: "Traceless Invisible Elastic Belt Women's Belt Jeans Pants Men's Elastic Belt",
+    short: "Traceless Invisible Elastic Belt",
+    price: 3.43,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c359E1L9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/traceless-invisible-elastic-belt/ad-photo.png",
+    desc: "Traceless invisible elastic belt — women's and men's elastic belt for jeans and pants.",
+    specs: [["Type", "Elastic belt, traceless invisible (per title)"], ["Fit", "Women's and men's, for jeans and pants (per title)"], ["Style", "Invisible, traceless (per title)"], ["Size", "Suitable for pants 60-95 cm; width 3 cm (per photo 2)"]],
+    added: 491,
+    popular: false
+  },
+  {
+    id: "fashion-vintage-square-polarized-sunglasses",
+    name: "Fashion Vintage Square Polarized Sunglasses Men Women Driving Fishing Luxury Brand Designer Sun Glasses Driver's Eyewear UV400",
+    short: "Fashion Vintage Square Polarized Sunglasses",
+    price: 4.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4BvtoaJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fashion-vintage-square-polarized-sunglasses/ad-photo.png",
+    desc: "Fashion vintage square polarized sunglasses — men's and women's driving and fishing eyewear with UV400 protection.",
+    specs: [["Type", "Square polarized sunglasses (per title)"], ["UV Protection", "UV400 (per title)"], ["Use", "Driving, fishing (per title)"], ["Size", "Frame 143 mm, lens 56 mm, temple 138 mm (per photo 5)"]],
+    added: 492,
+    popular: false
+  },
+  {
+    id: "funny-old-man-ski-mask-balaclava",
+    name: "Funny Old Man Ski Mask Realistic Balaclava Winter Thermal 3D Printed Stretch Skiing Snowboarding Outdoor Cycling Full Face Mask",
+    short: "Funny Old Man Ski Mask Balaclava",
+    price: 6.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3htETrN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/funny-old-man-ski-mask-balaclava/ad-photo.png",
+    desc: "Funny old man ski mask — realistic 3D printed full face balaclava, winter thermal stretch mask for skiing, snowboarding and cycling.",
+    specs: [["Type", "3D printed full face ski mask, balaclava (per title)"], ["Design", "Funny old man realistic face (per title)"], ["Size", "One size fits all; 41 x 23 cm; cooling fabric (per photo 5)"], ["Use", "Skiing, snowboarding, outdoor cycling (per title)"]],
+    added: 493,
+    popular: false
+  },
+  {
+    id: "backstreet-boys-millennium-tour-music-vintage-tshirt",
+    name: "Backstreet Boys Millennium Tour Music Vintage Tshirt Men Women Hipster Popular Tops Summer Fashion Streetwear Unisex Tees Gift",
+    short: "Backstreet Boys Millennium Tour Music Vintage Tshirt",
+    price: 13.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4Mmz3Np",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/backstreet-boys-millennium-tour-music-vintage-tshirt/ad-photo.png",
+    desc: "Backstreet Boys Millennium Tour music vintage tshirt — men's and women's unisex summer fashion streetwear tee.",
+    specs: [["Type", "Unisex vintage T-shirt (per title)"], ["Theme", "Backstreet Boys Millennium Tour (per title)"], ["Season", "Summer fashion streetwear (per title)"], ["Colors", "White, black, pink variants (per photos)"]],
+    added: 494,
+    popular: false
+  }
 
 ];
 
