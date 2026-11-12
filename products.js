@@ -12759,6 +12759,107 @@ const PRODUCTS = [
     added: 502,
     popular: false
   }
+,
+  {
+    id: "21-heated-vest-zones-electric-heated-jackets",
+    name: "21 Heated Vest Zones Electric Heated Jackets",
+    short: "21 Heated Vest Zones Electric Heated Jackets",
+    price: 18.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3ItFC8L",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/21-heated-vest-zones-electric-heated-jackets/ad-photo.png",
+    desc: "21 heated vest zones electric heated jackets.",
+    specs: [["Heating zones", "21 (per title/photo 1)"], ["Switches", "4 (per photo 1)"], ["Temperature", "3-gear adjustment, up to 50°C (per photo 1)"], ["Power", "USB (per photo 1)"]],
+    added: 503,
+    popular: false
+  },
+  {
+    id: "vintage-korean-style-patchwork-skirt",
+    name: "Vintage Korean Style Patchwork Skirt",
+    short: "Vintage Korean Style Patchwork Skirt",
+    price: 18.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4tEQUPv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-korean-style-patchwork-skirt/ad-photo.png",
+    desc: "Vintage Korean style patchwork skirt.",
+    specs: [["Type", "Patchwork skirt (per title)"], ["Style", "Vintage Korean style (per title)"], ["Design", "Pleated mini skirt, black with white stripe hem trim (per photos)"], ["Shown with", "Black long-sleeve crop top (per photos)"]],
+    added: 504,
+    popular: false
+  },
+  {
+    id: "aossviao-2026-spaghetti-strap-top",
+    name: "AOSSVIAO 2026 Spaghetti Strap Top",
+    short: "AOSSVIAO 2026 Spaghetti Strap Top",
+    price: 7.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3IoFPqb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aossviao-2026-spaghetti-strap-top/ad-photo.png",
+    desc: "AOSSVIAO 2026 spaghetti strap top.",
+    specs: [["Type", "Spaghetti strap top (per title)"], ["Brand", "AOSSVIAO (per title)"], ["Colors", "Beige, grey, black, red, green, blue, white, pink (per photo 3)"], ["Fabric", "Satin-look smooth fabric (per photos)"]],
+    added: 505,
+    popular: false
+  },
+  {
+    id: "mujer-lace-slip-mini-dress",
+    name: "MUJER Lace Slip Mini Dress",
+    short: "MUJER Lace Slip Mini Dress",
+    price: 12.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c45SbGpV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mujer-lace-slip-mini-dress/ad-photo.png",
+    desc: "MUJER lace slip mini dress.",
+    specs: [["Type", "Lace slip mini dress (per title)"], ["Brand", "MUJER (per photo 1)"], ["Detail", "Lace trim, asymmetric hem (per photos)"], ["Color", "Brown satin (per photos)"]],
+    added: 506,
+    popular: false
+  }
 
 ];
 
