@@ -14974,6 +14974,105 @@ const PRODUCTS = [
     added: 590,
     popular: false
   }
+,
+  {
+    id: "aluminum-alloy-carabiner-d-ring",
+    name: "Aluminum Alloy Carabiner D Ring Outdoor Clip Hook 2.3 inch Spring Snap Clip for Camping Hiking Backpack Keychain Dog Leash DIY Gear",
+    short: "Aluminum Alloy Carabiner D Ring",
+    price: 2.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3f9kvaj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aluminum-alloy-carabiner-d-ring/ad-photo.png",
+    desc: "Aluminum alloy carabiner D ring, spring snap clip for camping and hiking.",
+    specs: [["Type", "Aluminum alloy carabiner D ring, spring snap clip (per title)"], ["Use", "Camping, hiking, backpack, keychain, dog leash, DIY gear (per title)"]],
+    added: 591,
+    popular: false
+  },
+  {
+    id: "4-piece-silicone-caulking-tool-set",
+    name: "4-Piece Silicone Caulking Tool Set - Versatile, Easy Clean-up, & Professional Sealant Spreading",
+    short: "4-Piece Silicone Caulking Tool Set",
+    price: 3.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3SLnHrd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-piece-silicone-caulking-tool-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-piece-silicone-caulking-tool-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-piece-silicone-caulking-tool-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-piece-silicone-caulking-tool-set/photo-4.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-piece-silicone-caulking-tool-set/ad-photo.png",
+    desc: "4-piece silicone caulking tool set, versatile sealant spreading.",
+    specs: [["Type", "Silicone caulking tool set, 4 pieces (per title)"], ["Use", "Sealant spreading, easy clean-up (per title)"]],
+    added: 592,
+    popular: false
+  },
+  {
+    id: "podofo-automotive-evap-smoke-machine-leak-detector",
+    name: "Podofo Automotive EVAP Smoke Machine Leak Detector Pipe Smoking Generator Diagnostic Tool for Car Repair",
+    short: "Podofo Automotive EVAP Smoke Machine Leak Detector",
+    price: 52.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c351M97H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-automotive-evap-smoke-machine-leak-detector/ad-photo.png",
+    desc: "Podofo automotive EVAP smoke machine leak detector, diagnostic tool for car repair.",
+    specs: [["Type", "EVAP smoke machine leak detector, diagnostic tool (per title)"], ["Use", "Car repair, pipe leak detection (per title)"]],
+    added: 593,
+    popular: false
+  },
+  {
+    id: "7-in-1-multifunctional-pen",
+    name: "7 in 1 Multifunctional Pen Touch Screen Stylus Capacitive Pen with Screwdriver Ruler Levelgauge Refillable Ballpoint Pencil Tool",
+    short: "7-in-1 Multifunctional Pen",
+    price: 2.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3r1rKLv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-in-1-multifunctional-pen/ad-photo.png",
+    desc: "7-in-1 multifunctional pen with stylus, screwdriver, ruler and level.",
+    specs: [["Type", "Multifunctional pen, stylus, screwdriver, ruler, level (per title)"], ["Use", "Touch screen stylus, ballpoint, pencil tool (per title)"]],
+    added: 594,
+    popular: false
+  }
 
 ];
 
