@@ -85,6 +85,8 @@ body{background:#f4f6fa}
 <p class="dash-note">• <b>Total / Today</b> — alag visitors, 1 IP = 1. Ek hi banda baar baar aaye to bhi 1 hi gina jayega.</p>
 <p class="dash-note">• <b>Kahan Se Aaye</b> — banda kis jagah se click kar ke aaya: YouTube, Google, Facebook, ya seedha (Direct).</p>
 <p class="dash-note">• <b>Live Now</b> — abhi khule hue tabs; 45 second se zyada purana tab nahi gina jata, is liye band hote hi number gir jata hai.</p>
+<p class="dash-note">• <b>Robots nahi gine jate</b> — AI crawlers (Googlebot, GPTBot waghera), headless agents aur uptime monitors ko visitor count mein nahi gina jata; wo alag se neeche "Bots ignored" mein dikhte hain.</p>
+<p class="dash-note" id="botLine">🤖 Bots ignored — aaj: 0, total: 0.</p>
 <p class="dash-note">• Note: YouTube app se aane walon mein se kuch "Direct" dikh sakte hain, kyun ke app hamesha pata nahi batata.</p>
 </div>
 </section>
@@ -145,6 +147,9 @@ body{background:#f4f6fa}
     $("totalVisits").textContent = fmt(total);
     $("todayVisits").textContent = fmt(today);
     $("todayClicks").textContent = fmt(clicks);
+    var botsToday = botsDays[todayStr()] || 0;
+    var bl = $("botLine");
+    if (bl) bl.textContent = "🤖 Bots ignored — aaj: " + fmt(botsToday) + ", total: " + fmt(botsAll) + ". Robot/AI crawler count nahi hote, sirf asli insaan gine jate hain.";
     renderList($("topCountries"), topList(stats.countries), function (k) { return k; });
     renderList($("topPages"), topList(stats.pages), function (k) { return k === "home" ? "Home" : k; });
     renderList($("topSources"), topList(stats.sources), function (k) { return k; });
@@ -160,7 +165,7 @@ body{background:#f4f6fa}
       return '<div class="b"><b>' + fmt(x.v) + '</b><i style="height:' + h + 'px"></i><span>' + x.label + '</span></div>';
     }).join("");
   }
-  var stats = {}, presence = {}, uniqAll = 0, uniqDays = {}, serverOffset = 0;
+    var stats = {}, presence = {}, uniqAll = 0, uniqDays = {}, serverOffset = 0, botsAll = 0, botsDays = {};
   try {
     if (!firebase.apps.length) firebase.initializeApp(CFG);
     var db = firebase.database();
@@ -171,6 +176,12 @@ body{background:#f4f6fa}
     db.ref("ddb/uniq/days").on("value", function (s) {
       uniqDays = {};
       s.forEach(function (daySnap) { uniqDays[daySnap.key] = daySnap.numChildren(); });
+      render(stats, presence);
+    });
+    db.ref("ddb/bots/all").on("value", function (s) { botsAll = s.numChildren(); render(stats, presence); });
+    db.ref("ddb/bots/days").on("value", function (s) {
+      botsDays = {};
+      s.forEach(function (daySnap) { botsDays[daySnap.key] = daySnap.numChildren(); });
       render(stats, presence);
     });
   } catch (e) {}
