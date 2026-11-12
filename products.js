@@ -10137,6 +10137,107 @@ const PRODUCTS = [
     added: 398,
     popular: false
   }
+,
+  {
+    id: "xgody-gimbal-3-pro-projector",
+    name: "Xgody Gimbal 3 Pro Projector 4K Wifi6 Android Mini Beamer 300 Ansi Dual Wifi Bt5.4 1280*720P Home Theater Outdoor Portable Projector",
+    short: "Xgody Gimbal 3 Pro Projector",
+    price: 65.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4OkgMqL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xgody-gimbal-3-pro-projector/ad-photo.png",
+    desc: "Xgody Gimbal 3 Pro projector — 300 ANSI lumens, 4K-supported WiFi 6 Android mini beamer for home theater and outdoor use.",
+    specs: [["Type", "Xgody Gimbal 3 Pro projector"], ["Resolution", "1280x720P native, 4K supported (per title)"], ["Connectivity", "WiFi 6, Bluetooth 5.4 (per title)"], ["Features", "Android 14 built-in apps, auto vertical & 4P/4D keystone, 180° bracket base, 40–130\" screen (per photos)"]],
+    added: 399,
+    popular: false
+  },
+  {
+    id: "lungfish-guitar-instrument-cable",
+    name: "Lungfish Guitar Instrument Cable, 6.35mm TRS Stereo Audio Cable Male to Male for Electric Guitar, Bass Guitar, Electric Mandolin",
+    short: "Lungfish Guitar Instrument Cable",
+    price: 7.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3vMvhJh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lungfish-guitar-instrument-cable/ad-photo.png",
+    desc: "Lungfish 6.35mm TRS stereo guitar instrument cable — male to male audio cable for electric guitar, bass guitar and electric mandolin.",
+    specs: [["Type", "6.35mm TRS stereo guitar instrument cable"], ["Connectors", "6.35mm male to male, gold-plated (per photo-4)"], ["Design", "Three-section dual-channel stereo; 15000+ bend test, tangle-free (per photos 2, 4)"], ["Use", "Electric guitar, bass guitar, electric mandolin; universal 6.5mm devices (per photo-3)"]],
+    added: 400,
+    popular: false
+  },
+  {
+    id: "gomrvr-head-strap-meta-quest-3s",
+    name: "GOMRVR Head Strap for Meta Quest 3S Elite Head Strap Replacement Enhanced Support Improve Comfort-Virtual for VR Accessories",
+    short: "GOMRVR Head Strap for Meta Quest 3S",
+    price: 22.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3dVnPyf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomrvr-head-strap-meta-quest-3s/ad-photo.png",
+    desc: "GOMRVR elite head strap replacement for Meta Quest 3S — enhanced support and improved comfort for VR.",
+    specs: [["Type", "Elite head strap replacement for Meta Quest 3S"], ["Features", "Enhanced support, improved comfort (per title)"], ["Note", "No charging function (per photo-3)"], ["Includes", "Black facial interface + grey carry case (per photos 5–6)"]],
+    added: 401,
+    popular: false
+  },
+  {
+    id: "huikai-3-in-1-rugged-case-samsung",
+    name: "Case For Samsung Galaxy S26 Ultra S25 Edge S24 S23 A16 A56 Body 3 in 1 Shockproof Heavy Duty Anti-Scratch Rugged Kickstand Cover",
+    short: "HUIKAI 3-in-1 Rugged Case for Samsung",
+    price: 6.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3qRWjX9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/huikai-3-in-1-rugged-case-samsung/ad-photo.png",
+    desc: "HUIKAI 3-in-1 rugged shockproof phone case with kickstand — heavy duty anti-scratch cover for Samsung Galaxy phones.",
+    specs: [["Type", "3-in-1 shockproof rugged phone case with kickstand"], ["Compatibility", "Samsung Galaxy S26 Ultra / S25 Edge / S24 / S23 / A16 / A56 (per title)"], ["Protection", "Military-grade drop protection, 16FT drop height, 30000+ drop tested (per photo-4)"], ["Design", "Soft & hard combination — hard PC bumper + soft rubber cover, cooling material; 1.5/2.5mm camera bezels; landscape kickstand, wireless-charging compatible (per photos 2–5)"]],
+    added: 402,
+    popular: false
+  }
 
 ];
 
