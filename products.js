@@ -15376,6 +15376,107 @@ const PRODUCTS = [
     added: 606,
     popular: false
   }
+,
+  {
+    id: "g40-led-solar-string-lights",
+    name: "G40 LED Solar String Lights",
+    short: "G40 LED Solar String Lights",
+    price: 27.68,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4sv8tb5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/g40-led-solar-string-lights/ad-photo.png",
+    desc: "G40 LED solar string lights with shatterproof bulbs for patio, camper and garden decor.",
+    specs: [["Length", "7.6M / 18M / 30M (per title)"], ["Type", "G40 LED solar string lights, shatterproof bulb (per title)"], ["Use", "Patio, camper, garden decor (per title)"]],
+    added: 607,
+    popular: false
+  },
+  {
+    id: "15-20-stages-shower-water-filter",
+    name: "15/20 Stages High Output Shower Water Filter to Remove Heavy Metals Chlorine Fluoride Filtered Soften Hard Water for Shower Head",
+    short: "15/20 Stages Shower Water Filter",
+    price: 40.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c30j20kL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/15-20-stages-shower-water-filter/ad-photo.png",
+    desc: "15/20 stages high output shower water filter that removes heavy metals, chlorine and fluoride and softens hard water.",
+    specs: [["Stages", "15/20 stages high output (per title)"], ["Removes", "Heavy metals, chlorine, fluoride (per title)"], ["Use", "Shower head water filter, softens hard water (per title)"]],
+    added: 608,
+    popular: false
+  },
+  {
+    id: "hexagonal-yoga-roller",
+    name: "Yoga Roller Round EVA Foam Cylinder Hexagonal Roller for Pilates Exercise Enhanced Home Workouts Diameter 9.5cm Length 29.7cm",
+    short: "Hexagonal Yoga Roller",
+    price: 8.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3HCZzF9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hexagonal-yoga-roller/ad-photo.png",
+    desc: "Round EVA foam cylinder hexagonal yoga roller for Pilates exercise and enhanced home workouts.",
+    specs: [["Type", "Round EVA foam cylinder, hexagonal roller (per title)"], ["Size", "Diameter 9.5cm, Length 29.7cm (per title)"], ["Use", "Pilates exercise, home workouts (per title)"]],
+    added: 609,
+    popular: false
+  },
+  {
+    id: "solar-led-outdoor-wall-light",
+    name: "Solar LED Outdoor Light Solar Lighting Sensor Lamp Streetlights Exterior Garden Decoration Garland Waterproof Solar Wall Light",
+    short: "Solar LED Outdoor Wall Light",
+    price: 5.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3EFTkN5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-led-outdoor-wall-light/ad-photo.png",
+    desc: "Solar LED outdoor light with sensor lamp for streetlights, exterior garden decoration and wall lighting.",
+    specs: [["Type", "Solar LED outdoor light, sensor lamp (per title)"], ["Use", "Streetlights, exterior garden decoration, wall light (per title)"]],
+    added: 610,
+    popular: false
+  }
 
 ];
 
