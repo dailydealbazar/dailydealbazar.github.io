@@ -9531,6 +9531,107 @@ const PRODUCTS = [
     added: 374,
     popular: false
   }
+,
+  {
+    id: "2026-mini-massage-gun-fascia-machine",
+    name: "2026 Mini Massage Gun Fascia Machine Muscle Relaxation Vibrating Gun Portable Rod Massage Neck Body Fascia Gun Rechargeable",
+    short: "2026 Mini Massage Gun Fascia Machine",
+    price: 5.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3Dl2trv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2026-mini-massage-gun-fascia-machine/ad-photo.png",
+    desc: "2026 mini fascia massage gun — portable rod massager for neck and body muscle relaxation, rechargeable.",
+    specs: [["Type", "Mini fascia massage gun"], ["Use", "Neck and body muscle relaxation"], ["Form", "Portable rod, rechargeable (per title)"], ["Motion", "Vibrating gun"]],
+    added: 375,
+    popular: false
+  },
+  {
+    id: "portable-protein-shaker-600ml-fitness-bottle",
+    name: "Portable 1pc Protein Shaker 600ml Fitness Bottle with Wire Whisk Ball for Fitness Enthusiasts Athletes Perfect For Outdoor Gym",
+    short: "Portable Protein Shaker 600ml Fitness Bottle",
+    price: 6.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3H8TTBD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-protein-shaker-600ml-fitness-bottle/ad-photo.png",
+    desc: "Portable 600ml protein shaker fitness bottle with wire whisk ball — for fitness enthusiasts and athletes, perfect for outdoor gym.",
+    specs: [["Type", "Protein shaker fitness bottle"], ["Capacity", "600 ml"], ["Feature", "Wire whisk ball"], ["Use", "Fitness, outdoor gym"]],
+    added: 376,
+    popular: false
+  },
+  {
+    id: "220ml-usb-mini-aroma-diffuser-humidifier",
+    name: "220ML USB Mini Aroma Diffuser Machine Air Humidifier LED Light Power-Off Protect Home Car Ultrasonic Mute Mist Maker Diffuser",
+    short: "220ML USB Mini Aroma Diffuser Humidifier",
+    price: 4.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3KvIKmT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/220ml-usb-mini-aroma-diffuser-humidifier/ad-photo.png",
+    desc: "220ml USB mini aroma diffuser and air humidifier with LED light and power-off protection — for home and car.",
+    specs: [["Type", "USB mini aroma diffuser / humidifier"], ["Capacity", "220 ml"], ["Feature", "LED light, power-off protection (per title)"], ["Use", "Home / car"]],
+    added: 377,
+    popular: false
+  },
+  {
+    id: "wireless-headphones-bluetooth-5-4-ear-hook",
+    name: "Wireless Headphones Bluetooth 5.4 Ear Hook Earphones with Microphone Handsfree HD Call Noise Cancelling Headset for Driving",
+    short: "Wireless Headphones Bluetooth 5.4 Ear Hook",
+    price: 3.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c39mvRVV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-headphones-bluetooth-5-4-ear-hook/ad-photo.png",
+    desc: "Wireless Bluetooth 5.4 ear-hook earphones with microphone — hands-free HD calls with noise cancelling, for driving.",
+    specs: [["Type", "Ear-hook Bluetooth headphones"], ["Bluetooth", "5.4"], ["Feature", "Microphone, hands-free HD call, noise cancelling (per title)"], ["Use", "Driving"]],
+    added: 378,
+    popular: false
+  }
 
 ];
 
