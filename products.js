@@ -11347,6 +11347,107 @@ const PRODUCTS = [
     added: 446,
     popular: false
   }
+,
+  {
+    id: "adjustable-bed-phone-holder-stand",
+    name: "Adjustable Bed Phone Holder Stand for 4.7-12.9 Inch Phone Tablet, Foldable Metal Arm Desk Clamp, 360° Viewing",
+    short: "Adjustable Bed Phone Holder Stand",
+    price: 15.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3DNM0oL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/adjustable-bed-phone-holder-stand/ad-photo.png",
+    desc: "Adjustable bed phone holder stand — foldable metal arm desk clamp for 4.7–12.9 inch phones and tablets, 360° viewing.",
+    specs: [["Type", "Adjustable bed phone holder stand (per title)"], ["Fit", "4.7–12.9 inch phone / tablet (per title)"], ["Mount", "Foldable metal arm desk clamp, 360° viewing (per title)"], ["Weight", "Approx. 331.5 g (per photo)"]],
+    added: 447,
+    popular: false
+  },
+  {
+    id: "wireless-bluetooth-keyboard-mouse-combo",
+    name: "Wireless Bluetooth Keyboard Mouse Combo Compatible with Various Systems for Tablets And Phones with Bluetooth Function",
+    short: "Wireless Bluetooth Keyboard Mouse Combo",
+    price: 17.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3Vy6KM7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-bluetooth-keyboard-mouse-combo/ad-photo.png",
+    desc: "Wireless Bluetooth keyboard and mouse combo — compatible with tablets and phones with Bluetooth function.",
+    specs: [["Type", "Wireless Bluetooth keyboard + mouse combo (per title)"], ["Compatibility", "Various systems, tablets and phones with Bluetooth (per title)"], ["Connection", "Bluetooth (per title)"]],
+    added: 448,
+    popular: false
+  },
+  {
+    id: "homefish-5-speed-professional-hair-dryer",
+    name: "HOMEFISH 5-Speed Professional Hair Dryer, Salon-Grade High Power, Hot Cold Air Negative Ionic Blow Dryer",
+    short: "HOMEFISH 5-Speed Professional Hair Dryer",
+    price: 34.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3jUV7BH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/homefish-5-speed-professional-hair-dryer/ad-photo.png",
+    desc: "HOMEFISH 5-speed professional hair dryer — salon-grade high power, hot and cold air, negative ionic blow dryer.",
+    specs: [["Speeds", "5 speeds (per title)"], ["Power", "2000W (per photo)"], ["Type", "Salon-grade high power, hot / cold air, negative ionic (per title)"], ["Brand", "HOMEFISH (per title)"]],
+    added: 449,
+    popular: false
+  },
+  {
+    id: "1pc-selfie-stick-wireless-with-tripod",
+    name: "1PC Selfie Stick Wireless Selfie Stick With Tripod Stand Selfie Stick, Remote Control, Phone Holder And Built-In Tripod",
+    short: "1PC Selfie Stick Wireless with Tripod",
+    price: 6.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3aIP1w3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1pc-selfie-stick-wireless-with-tripod/ad-photo.png",
+    desc: "Wireless selfie stick with tripod stand — remote control, phone holder and built-in tripod.",
+    specs: [["Type", "Wireless selfie stick with tripod stand (per title)"], ["Features", "Remote control, phone holder, built-in tripod (per title)"], ["Max length", "680 mm (per photo)"], ["Qty", "1 pc (per title)"]],
+    added: 450,
+    popular: false
+  }
 
 ];
 
