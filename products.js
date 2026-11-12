@@ -10945,6 +10945,106 @@ const PRODUCTS = [
     added: 430,
     popular: false
   }
+,
+  {
+    id: "tbestt-5d-w-shape-matte-black-eyelashes",
+    name: "TBestt Matte Black 5D W Shape Eyelashes Extensions Premade Volume Lash Faux Natural Professional 3D W Cilios Lashes",
+    short: "TBestt 5D W Shape Matte Black Eyelashes",
+    price: 2.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2RvvcWP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tbestt-5d-w-shape-matte-black-eyelashes/ad-photo.png",
+    desc: "TBestt matte black 5D W shape false eyelashes — premade volume lash extensions, faux natural, professional 3D W cilios lashes.",
+    specs: [["Type", "Matte black 5D W shape false eyelashes (per title)"], ["Style", "Premade volume lash, faux natural (per title)"], ["Use", "Eyelash extensions, professional (per title)"]],
+    added: 431,
+    popular: false
+  },
+  {
+    id: "bamboo-double-ended-cotton-swabs-500pcs",
+    name: "500pcs Bamboo Double-Ended Cotton Swabs - Gentle for Ears & Makeup, Unscented",
+    short: "500pcs Bamboo Double-Ended Cotton Swabs",
+    price: 4.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4ePQMuF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bamboo-double-ended-cotton-swabs-500pcs/ad-photo.png",
+    desc: "500pcs bamboo double-ended cotton swabs — gentle for ears & makeup, unscented.",
+    specs: [["Type", "Bamboo double-ended cotton swabs (per title)"], ["Qty", "500 pcs (per title)"], ["Use", "Gentle for ears & makeup, unscented (per title)"]],
+    added: 432,
+    popular: false
+  },
+  {
+    id: "dji-fpv-connector-flexible-cable",
+    name: "For DJI HD MI FPV Connector Flexible Cable Micro HD to Mini HD Female 90/270 Degree FFC 20pin hdmi-compatible Flat Ribbon Cable",
+    short: "DJI FPV Connector Flexible Cable",
+    price: 0.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3hnBo99",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-fpv-connector-flexible-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-fpv-connector-flexible-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-fpv-connector-flexible-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-fpv-connector-flexible-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-fpv-connector-flexible-cable/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-fpv-connector-flexible-cable/ad-photo.png",
+    desc: "For DJI HD MI FPV connector flexible cable — micro HD to mini HD female 90/270 degree FFC 20-pin HDMI-compatible flat ribbon cable.",
+    specs: [["Type", "HDMI FPV connector flexible cable, micro HD to mini HD female (per title)"], ["Angles", "90 / 270 degree (per title)"], ["Interface", "FFC 20-pin flat ribbon cable (per title)"]],
+    added: 433,
+    popular: false
+  },
+  {
+    id: "tungsten-steel-nail-drill-bits",
+    name: "Hot New Tungsten steel Nail Drill Bits Pedicure Carbide Milling Cutter for Nail Files Manicure Cutter Nail Art Tool",
+    short: "Tungsten Steel Nail Drill Bits",
+    price: 2.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3aVZwPt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tungsten-steel-nail-drill-bits/ad-photo.png",
+    desc: "Hot new tungsten steel nail drill bits — pedicure carbide milling cutter for nail files, manicure cutter, nail art tool.",
+    specs: [["Type", "Tungsten steel nail drill bits, carbide milling cutter (per title)"], ["Use", "Pedicure / manicure nail files, nail art tool (per title)"]],
+    added: 434,
+    popular: false
+  }
 
 ];
 
