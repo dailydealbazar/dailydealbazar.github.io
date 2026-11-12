@@ -15073,6 +15073,107 @@ const PRODUCTS = [
     added: 594,
     popular: false
   }
+,
+  {
+    id: "geeetech-10kg-3d-pla-filament",
+    name: "GEEETECH 10Kg In One Box Matte/PETG/Silk PLA/TPU/ABS 3D PLA Filament 1.75mm Spool Wire For 3D Printer Material,Safety",
+    short: "GEEETECH 10Kg 3D PLA Filament",
+    price: 88.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3cGTbwT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geeetech-10kg-3d-pla-filament/ad-photo.png",
+    desc: "GEEETECH 10kg 3D PLA filament spool, 1.75mm, for 3D printers.",
+    specs: [["Type", "3D PLA filament, 1.75mm spool, 10kg in one box (per title)"], ["Use", "3D printer material, matte/PETG/silk PLA/TPU/ABS (per title)"]],
+    added: 595,
+    popular: false
+  },
+  {
+    id: "rfid-smart-card-reader-x7",
+    name: "New Rfid Smart Card Reader X7 125khz Badge Copier 13.56mhz Nfc Decoder Duplicator Ic Id Chip Tag Clone Ntag213 215 Key Writer",
+    short: "RFID Smart Card Reader X7",
+    price: 40.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4tu6u3t",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-smart-card-reader-x7/ad-photo.png",
+    desc: "RFID smart card reader X7, 125kHz badge copier and 13.56MHz NFC decoder.",
+    specs: [["Type", "RFID smart card reader X7, badge copier, NFC decoder (per title)"], ["Use", "IC/ID chip tag clone, Ntag213/215 key writer (per title)"]],
+    added: 596,
+    popular: false
+  },
+  {
+    id: "100-mx-motorcycle-goggles",
+    name: "100 MX Motorcycle Goggles Motocross Glasses Off-road Sunglasses For Man MTB ATV Mask Windproof Protection Cycling Racing",
+    short: "100 MX Motorcycle Goggles",
+    price: 4.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c388domX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100-mx-motorcycle-goggles/ad-photo.png",
+    desc: "100 MX motorcycle goggles, motocross glasses, windproof off-road protection.",
+    specs: [["Type", "Motorcycle goggles, motocross glasses, off-road (per title)"], ["Use", "MTB, ATV, cycling, racing, windproof protection (per title)"]],
+    added: 597,
+    popular: false
+  },
+  {
+    id: "led-flying-ufo-spinner-flyorb-hover-ball",
+    name: "1R- LED Flying UFO Spinner Fingertip, Upgrade Flight Helicopter Gyro Flyorb Hover Ball, Mini Drone Aircraft Toy, Christmas Gift",
+    short: "LED Flying UFO Spinner Flyorb Hover Ball",
+    price: 4.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2yAsrI3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-flying-ufo-spinner-flyorb-hover-ball/ad-photo.png",
+    desc: "LED flying UFO spinner fingertip gyro Flyorb hover ball, mini drone toy.",
+    specs: [["Type", "LED flying UFO spinner, gyro Flyorb hover ball (per title)"], ["Use", "Fingertip flight toy, Christmas gift (per title)"]],
+    added: 598,
+    popular: false
+  }
 
 ];
 
