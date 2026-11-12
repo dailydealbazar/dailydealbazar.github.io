@@ -14267,6 +14267,107 @@ const PRODUCTS = [
     added: 562,
     popular: false
   }
+,
+  {
+    id: "cosplay-roronoa-zoro-katana-sword",
+    name: "Cosplay Roronoa Zoro Katana Sword PU Trafalgar Sword Law Role Playing Yuki Samurai prop Party toy Sword 72cm",
+    short: "Cosplay Roronoa Zoro Katana Sword",
+    price: 18.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3ABhNGf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cosplay-roronoa-zoro-katana-sword/ad-photo.png",
+    desc: "PU cosplay prop katana sword, 72cm — not a sharp blade.",
+    specs: [["Type", "PU cosplay prop sword, 72cm (per title)"], ["Use", "Role playing, party toy (per title)"]],
+    added: 563,
+    popular: false
+  },
+  {
+    id: "1000-pcs-custom-stickers",
+    name: "1000 PCS Custom Stickers Customize Logo Label Sticker Personalized Stickers Packaging Labels Design Your Own Sticker",
+    short: "1000 PCS Custom Stickers",
+    price: 18.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3S4fsk3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/1000-pcs-custom-stickers/ad-photo.png",
+    desc: "1000 PCS custom logo label stickers — design your own.",
+    specs: [["Type", "Custom logo label stickers, 1000 pcs (per title)"], ["Use", "Packaging labels, personalized stickers (per title)"]],
+    added: 564,
+    popular: false
+  },
+  {
+    id: "diy-diamond-painting-storage-box",
+    name: "DIY Diamond Painting Embroidery Storage Box, Nail Art Jewelry Rhinestone Mosaic Storage Container, Multifunctional Storage Box",
+    short: "DIY Diamond Painting Storage Box",
+    price: 1.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3BglFfN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/diy-diamond-painting-storage-box/ad-photo.png",
+    desc: "DIY diamond painting and craft storage box.",
+    specs: [["Type", "Multifunctional storage box (per title)"], ["Use", "Diamond painting embroidery, nail art, jewelry rhinestone mosaic storage (per title)"]],
+    added: 565,
+    popular: false
+  },
+  {
+    id: "3300ft-electric-dog-training-collar",
+    name: "3300Ft Electric Dog Training Collar Remote Control Waterproof Pet Behavior For 5-120lbs Puppy With Shock Vibration",
+    short: "3300Ft Electric Dog Training Collar",
+    price: 42.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c31aGaDl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3300ft-electric-dog-training-collar/ad-photo.png",
+    desc: "3300Ft electric dog training collar with remote control.",
+    specs: [["Type", "Electric dog training collar, remote control, waterproof (per title)"], ["Use", "Pet behavior training, 5-120lbs puppies (per title)"]],
+    added: 566,
+    popular: false
+  }
 
 ];
 
