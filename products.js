@@ -13864,6 +13864,107 @@ const PRODUCTS = [
     added: 546,
     popular: false
   }
+,
+  {
+    id: "lubluelu-v8-hot-water-carpet-cleaner",
+    name: "Lubluelu V8 800W Hot Water Carpet Cleaner 60°C Deep Clean Pet Stains 15kPa Strong Suction 5M Long Power Cord 1.75L Tank",
+    short: "Lubluelu V8 Carpet Cleaner",
+    price: 89.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2vvYj4f",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lubluelu-v8-hot-water-carpet-cleaner/ad-photo.png",
+    desc: "Lubluelu 800W hot water carpet cleaner.",
+    specs: [["Type", "800W hot water carpet cleaner (per title)"], ["Feature", "60°C deep clean, 15kPa suction, 1.75L tank (per title)"]],
+    added: 547,
+    popular: false
+  },
+  {
+    id: "silicone-band-for-apple-watch",
+    name: "Silicone Band For Apple Watch straps 49mm 40mm 44 mm 45mm 46mm 42mm 41mm 38mm sports bracelet iWatch series 10 9 8 3 SE ultra 2",
+    short: "Silicone Band for Apple Watch",
+    price: 3.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2yB5RL5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-band-for-apple-watch/ad-photo.png",
+    desc: "Silicone sports band for Apple Watch.",
+    specs: [["Type", "Silicone band for Apple Watch (per title)"], ["Feature", "Sports bracelet, fits 38-49mm (per title)"]],
+    added: 548,
+    popular: false
+  },
+  {
+    id: "ilife-a30-pro-robot-vacuum-cleaner",
+    name: "ILIFE A30 Pro Robot Vacuum Cleaner with Automatic Self-Emptying Station, 10000Pa Strong Suction, LDS Navigation, 180min Runtime, 2-in-1 Mop and Sweep, APP Control, Home Floor Carpet Clean",
+    short: "ILIFE A30 Pro Robot Vacuum",
+    price: 153.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4smW7J5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilife-a30-pro-robot-vacuum-cleaner/ad-photo.png",
+    desc: "ILIFE robot vacuum with self-emptying station.",
+    specs: [["Type", "Robot vacuum with self-emptying station (per title)"], ["Feature", "10000Pa suction, LDS navigation, 180min runtime (per title)"]],
+    added: 549,
+    popular: false
+  },
+  {
+    id: "portable-luggage-scale",
+    name: "Portable Scale Digital LCD Display 110lb/50kg Electronic Luggage Hanging Suitcase Travel Weighs Baggage Bag Weight Balance Tools",
+    short: "Portable Luggage Scale",
+    price: 5.93,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3uuY8M7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-luggage-scale/ad-photo.png",
+    desc: "Portable digital luggage scale, 110lb/50kg.",
+    specs: [["Type", "Portable digital luggage scale, 110lb/50kg (per title)"], ["Feature", "LCD display, hanging suitcase scale (per title)"]],
+    added: 550,
+    popular: false
+  }
 
 ];
 
