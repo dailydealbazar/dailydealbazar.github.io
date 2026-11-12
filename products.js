@@ -10339,6 +10339,107 @@ const PRODUCTS = [
     added: 406,
     popular: false
   }
+,
+  {
+    id: "silicone-dust-plugs-type-c",
+    name: "Silicone Dust Plugs Type C Charging Port Protector Stopper Cap Cover for Iphone 16 15 Pro Max 16 15 Plus Samsung Anti-Dust Plug",
+    short: "Silicone Dust Plugs Type C",
+    price: 1.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3rBPI31",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-dust-plugs-type-c/ad-photo.png",
+    desc: "Silicone dust plugs for Type-C charging ports — protector stopper caps that keep dust out of iPhone and Samsung phones.",
+    specs: [["Type", "Silicone Type-C dust plug / charging-port protector"], ["Quantity", "20 pieces, black & white (per main photo)"], ["Compatibility", "Applies ONLY to devices with a USB-C port; iPhone 16 / 15 Pro Max / 16 / 15 Plus, Samsung (per title/main photo)"], ["Protection", "Waterproof, dustproof; protects from liquids, sand, dust, dirt, lint; reduces collisions (per photos 2, 5)"], ["Material", "Soft and elastic, wear-resistant and durable, not easy to scratch and wear (per photo-6)"]],
+    added: 407,
+    popular: false
+  },
+  {
+    id: "microfiber-cleaning-cloths",
+    name: "Microfiber Cleaning Cloths Premium Cloths for Phone Cleaning Glasses Lenses Screens and More",
+    short: "Microfiber Cleaning Cloths",
+    price: 1.86,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3WSLInZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-cleaning-cloths/ad-photo.png",
+    desc: "Premium microfiber cleaning cloths — for phones, glasses, lenses, screens and more.",
+    specs: [["Type", "Microfiber cleaning cloths"], ["Colours", "Black, grey and white (per photos 1-3)"], ["Use", "Phone screens, camera lens, glasses (per photos 4-6)"], ["Material", "Microfiber, premium cloths (per title)"]],
+    added: 408,
+    popular: false
+  },
+  {
+    id: "annafris-w-shape-eyelash-extensions",
+    name: "ANNAFRIS W Shape Eyelash Extensions 3D Premade Volume Fan W Style YY High Quality Natural Faux Mink Individual Lashes Supplies",
+    short: "ANNAFRIS W Shape Eyelash Extensions",
+    price: 3.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3H67hyJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-w-shape-eyelash-extensions/ad-photo.png",
+    desc: "ANNAFRIS W shape eyelash extensions — 3D premade volume fan, W style YY, high quality natural faux mink lashes.",
+    specs: [["Type", "W shape eyelash extensions, premade volume fan"], ["Style", "3D premade volume fan, W style YY; W-shaped mesh weave, three roots in a cluster, more dense (per title/photo-3)"], ["Curl", "Stable curl — keeps stable for more than two years; 80°C high-temperature test, no obvious warpage (per photos 2, 4)"], ["Use", "Remove individual line from the bottom; grab one with tweezers and lift it up slightly (per main photo/photo-2)"]],
+    added: 409,
+    popular: false
+  },
+  {
+    id: "2-4g-wireless-mouse",
+    name: "2.4G Wireless Mouse 2.4Ghz Gaming Mouse 6D Optical Wireless Mouse Slim Mini Noiseless Mice DPI1600 for Macbook PC Laptop",
+    short: "2.4G Wireless Mouse",
+    price: 5.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4W2ib4r",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2-4g-wireless-mouse/ad-photo.png",
+    desc: "2.4G wireless gaming mouse — 6D optical, slim mini, noiseless, DPI1600, for Macbook, PC and laptop.",
+    specs: [["Type", "2.4G wireless optical mouse"], ["Connection", "Advanced 2.4GHz wireless transmission; USB receiver stores inside the mouse (per photos 4-5)"], ["Features", "6D optical, slim mini, noiseless, DPI1600; new-generation chip, fast response (per title/photo-2)"], ["Size", "116 × 75 × 40mm; ergonomic mini and portable design (per photo-6)"], ["Compatibility", "Macbook, PC, laptop (per title)"]],
+    added: 410,
+    popular: false
+  }
 
 ];
 
