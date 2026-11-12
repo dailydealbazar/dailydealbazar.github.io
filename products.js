@@ -9430,6 +9430,107 @@ const PRODUCTS = [
     added: 370,
     popular: false
   }
+,
+  {
+    id: "ugreen-usb-c-to-usb-c-cable-pd100w",
+    name: "UGREEN USB C to USB C Cable PD100W USB Type C Charging Cable for MacBook Pro iPad Pro 2020 Samsung S20 S10 Quick Charger USB",
+    short: "UGREEN USB C to USB C Cable PD100W",
+    price: 7.02,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4WFMAX5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-c-to-usb-c-cable-pd100w/ad-photo.png",
+    desc: "UGREEN USB-C to USB-C cable with PD 100W fast charging — quick charger cable for MacBook Pro, iPad Pro and Samsung phones.",
+    specs: [["Type", "USB-C to USB-C charging cable"], ["Power", "PD 100W fast charging, QC4.0/3.0"], ["Data", "480Mbps, USB 2.0 (per photo)"], ["Use", "MacBook Pro / iPad Pro / Samsung phones"]],
+    added: 371,
+    popular: false
+  },
+  {
+    id: "sata-to-usb-3-0-2-0-cable-adapter",
+    name: "SATA to USB 3.0 / 2.0 Cable Up to 6 Gbps for 2.5 Inch External HDD SSD Hard Drive SATA 3 22 Pin Adapter USB 3.0 to Sata III Cord",
+    short: "SATA to USB 3.0 / 2.0 Cable Adapter",
+    price: 3.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c404nqfl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sata-to-usb-3-0-2-0-cable-adapter/ad-photo.png",
+    desc: "SATA to USB 3.0 / 2.0 cable adapter — up to 6 Gbps for 2.5 inch external HDD and SSD hard drives.",
+    specs: [["Type", "SATA to USB 3.0 / 2.0 cable adapter"], ["Speed", "Up to 6 Gbps"], ["Fits", "2.5 inch HDD / SSD, SATA 3 22-pin"], ["Feature", "UASP transmission, driver free (per photo)"]],
+    added: 372,
+    popular: false
+  },
+  {
+    id: "dyson-v11-v15-washable-filter",
+    name: "For Dyson V11 Animal / V11 Torque Drive V15 Detect Accessories Washable Filter Cyclone Vacuum Cleaner Replacement Spare Parts",
+    short: "Dyson V11/V15 Washable Filter",
+    price: 6.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2IZbiof",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-v11-v15-washable-filter/ad-photo.png",
+    desc: "Washable filter accessories for Dyson V11 Animal, V11 Torque Drive and V15 Detect — cyclone vacuum cleaner replacement spare parts.",
+    specs: [["Type", "Washable filter accessories"], ["Fits", "Dyson V11 Animal / V11 Torque Drive / V15 Detect"], ["Size", "6.7cm diameter, 9cm high (per photo)"], ["Use", "Cyclone vacuum cleaner replacement spare parts"]],
+    added: 373,
+    popular: false
+  },
+  {
+    id: "honeywell-ptm7950-phase-change-pad",
+    name: "Honeywell PTM7950 Phase Change Pad 8.5W/mk Thermal Grease Material Laptop/CPU/GPU Heatsink Cooling Thermal Pad",
+    short: "Honeywell PTM7950 Phase Change Pad",
+    price: 4.98,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4TtGrkL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/honeywell-ptm7950-phase-change-pad/ad-photo.png",
+    desc: "Honeywell PTM7950 phase change pad — 8.5 W/mK thermal pad for laptop, CPU and GPU heatsink cooling.",
+    specs: [["Type", "Phase change thermal pad"], ["Conductivity", "8.5 W/mK"], ["Sizes", "80x80 / 80x160 / 40x80 / 40x40 / 31x50 / 20x20 mm (per photo)"], ["Phase change", "At 45°C, 0.2mm thick (per photo)"]],
+    added: 374,
+    popular: false
+  }
 
 ];
 
