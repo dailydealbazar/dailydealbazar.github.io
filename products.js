@@ -13663,6 +13663,106 @@ const PRODUCTS = [
     added: 538,
     popular: false
   }
+,
+  {
+    id: "meuyag-selfie-stick-tripod",
+    name: "MEUYAG Selfie Stick Tripod with 1708mm Long Monopod Fill Light, Bluetooth Remote, 360° Rotation, 1/4 Interface, for mobile phone",
+    short: "MEUYAG Selfie Stick Tripod",
+    price: 16.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3RedtGf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meuyag-selfie-stick-tripod/ad-photo.png",
+    desc: "MEUYAG selfie stick tripod with fill light and Bluetooth remote.",
+    specs: [["Type", "Selfie stick tripod, 1708mm monopod (per title)"], ["Feature", "Fill light, Bluetooth remote, 360° rotation (per title)"]],
+    added: 539,
+    popular: false
+  },
+  {
+    id: "notebook-port-plug-protector",
+    name: "16Pcs/set Universal Anti Dustproof Notebook Port Plug Silicone Protector USB Elastic Laptop Computer Cover Stopper",
+    short: "Universal Notebook Port Plug Protector",
+    price: 1.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4mkNsWJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/notebook-port-plug-protector/ad-photo.png",
+    desc: "Universal anti-dustproof notebook port plug protectors, 16 pcs.",
+    specs: [["Type", "Universal anti-dustproof notebook port plug, silicone (per title)"], ["Use", "USB / laptop port covers, 16 pcs (per title)"]],
+    added: 540,
+    popular: false
+  },
+  {
+    id: "kinera-celest-wyvern-earphones",
+    name: "Kinera Celest Wyvern Black 10mm LCP Diaphragm Dynamic Driver In-Ear Monitors HiFi Earphone",
+    short: "Kinera Celest Wyvern Earphones",
+    price: 28.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3ROZqfp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kinera-celest-wyvern-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kinera-celest-wyvern-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kinera-celest-wyvern-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kinera-celest-wyvern-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kinera-celest-wyvern-earphones/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kinera-celest-wyvern-earphones/ad-photo.png",
+    desc: "Kinera Celest Wyvern Black HiFi in-ear monitors.",
+    specs: [["Type", "10mm LCP dynamic driver in-ear monitors (per title)"], ["Feature", "HiFi earphone, Celest Wyvern Black (per title)"]],
+    added: 541,
+    popular: false
+  },
+  {
+    id: "devaso-head-strap-playstation-vr2",
+    name: "DEVASO Adjustable Head Strap for PlayStation VR2, Enhanced Support and Comfort in VR Headset Compatible with PS5 VR2",
+    short: "DEVASO Head Strap for PlayStation VR2",
+    price: 22.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3rXDENl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devaso-head-strap-playstation-vr2/ad-photo.png",
+    desc: "DEVASO adjustable head strap for PlayStation VR2.",
+    specs: [["Type", "Adjustable head strap for PlayStation VR2 (per title)"], ["Feature", "Enhanced support and comfort (per title)"]],
+    added: 542,
+    popular: false
+  }
 
 ];
 
