@@ -12254,6 +12254,107 @@ const PRODUCTS = [
     added: 482,
     popular: false
   }
+,
+  {
+    id: "silicone-makeup-brush-cleaning-bowl",
+    name: "Silicone Makeup Brush Cleaning Bowl Makeup Brushes Cleaning Tools Pad Scrubber",
+    short: "Silicone Makeup Brush Cleaning Bowl",
+    price: 8.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3cg4YEf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-makeup-brush-cleaning-bowl/ad-photo.png",
+    desc: "Silicone makeup brush cleaning bowl — makeup brush cleaning tools pad scrubber.",
+    specs: [["Type", "Silicone makeup brush cleaning bowl, pad scrubber (per title)"], ["Use", "Makeup brush cleaning tools (per title)"]],
+    added: 483,
+    popular: false
+  },
+  {
+    id: "mg90s-9g-metal-gear-servo",
+    name: "MG90S 9g Metal Gear Servo Micro Servo for RC Helicopter Airplane Boat / Robot Parts / 360 Continuous Rotation",
+    short: "MG90S 9g Metal Gear Servo",
+    price: 14.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c45u7pi3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mg90s-9g-metal-gear-servo/ad-photo.png",
+    desc: "MG90S 9g metal gear micro servo — for RC helicopter, airplane, boat and robot parts, 360 continuous rotation.",
+    specs: [["Type", "MG90S 9g metal gear micro servo (per title)"], ["Weight", "9 g (per title)"], ["Use", "RC helicopter, airplane, boat, robot parts (per title)"], ["Rotation", "360 continuous rotation (per title)"]],
+    added: 484,
+    popular: false
+  },
+  {
+    id: "gobass-slider-jerkbait",
+    name: "GOBASS High Quality Slider Jerkbait Treble Hook Flaky Bait for Bass Top Water Fishing Lures",
+    short: "GOBASS Slider Jerkbait",
+    price: 2.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3OV5GU7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gobass-slider-jerkbait/ad-photo.png",
+    desc: "GOBASS high quality slider jerkbait — treble hook flaky bait for bass top water fishing lures.",
+    specs: [["Type", "Slider jerkbait, treble hook flaky bait (per title)"], ["Target", "Bass, top water (per title)"], ["Brand", "GOBASS (per title)"]],
+    added: 485,
+    popular: false
+  },
+  {
+    id: "toocki-100w-usb-c-to-type-c-cable",
+    name: "Toocki 100W USB C to Type C Cable Fast Charging USB-C Cable 5A Braided Data Charger Cable for iPhone 15 MacBook Phone Tablet",
+    short: "Toocki 100W USB C to Type C Cable",
+    price: 2.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3HOFoiJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-100w-usb-c-to-type-c-cable/ad-photo.png",
+    desc: "Toocki 100W USB-C to Type-C cable — fast charging 5A braided data charger cable.",
+    specs: [["Type", "USB-C to Type-C fast charging cable, 5A braided (per title)"], ["Power", "100 W (per title)"], ["Use", "iPhone 15, MacBook, phone, tablet (per title)"]],
+    added: 486,
+    popular: false
+  }
 
 ];
 
