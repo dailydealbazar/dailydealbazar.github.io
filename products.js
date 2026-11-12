@@ -11146,6 +11146,107 @@ const PRODUCTS = [
     added: 438,
     popular: false
   }
+,
+  {
+    id: "hoco-4-pack-anti-lost-device-airtags",
+    name: "HOCO 4 Pack Anti Lost Device Airtags",
+    short: "HOCO 4 Pack Anti Lost Device Airtags",
+    price: 37.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4Cgq5aF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-4-pack-anti-lost-device-airtags/ad-photo.png",
+    desc: "HOCO 4-pack anti-lost device AirTags — tracker devices with protective cases, not just a case for an AirTag.",
+    specs: [["Type", "4-pack anti-lost device AirTags (per title)"], ["Feature", "Anti-lost tracking device with protective cases (per hunter)"], ["Qty", "4 pack (per title)"]],
+    added: 439,
+    popular: false
+  },
+  {
+    id: "ulanzi-mt85-automatic-phone-tripod",
+    name: "Ulanzi MT85 Automatic Phone Tripod Magsafe Dual-Side Magnet with 10m Wireless Control for Outdoor Travel Selfie Stick Livestream",
+    short: "Ulanzi MT85 Automatic Phone Tripod",
+    price: 29.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4TP6Ton",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-mt85-automatic-phone-tripod/ad-photo.png",
+    desc: "Ulanzi MT85 automatic phone tripod — MagSafe dual-side magnet, 10m wireless control, for outdoor travel, selfie stick and livestream.",
+    specs: [["Type", "Automatic phone tripod, MagSafe dual-side magnet (per title)"], ["Control", "10m wireless control (per title)"], ["Use", "Outdoor travel, selfie stick, livestream (per title)"], ["Specs", "Load capacity 1 kg; max height 1.48 m; 7-section extension (per photo)"]],
+    added: 440,
+    popular: false
+  },
+  {
+    id: "tangzu-wanersg-ii-red-lion-earphones",
+    name: "TANGZU WanerSG II Red Lion Single Dynamic Driver In-Ear Monitors with Ergonnmic & Safe Earmold Design",
+    short: "TANGZU WanerSG II Red Lion In-Ear Monitors",
+    price: 27.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c443dXUf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-wanersg-ii-red-lion-earphones/ad-photo.png",
+    desc: "TANGZU WanerSG II Red Lion in-ear monitors — single dynamic driver, ergonomic and safe earmold design.",
+    specs: [["Type", "Single dynamic driver in-ear monitors (per title)"], ["Design", "Ergonomic & safe earmold design (per title)"], ["Model", "WanerSG II Red Lion (per title)"]],
+    added: 441,
+    popular: false
+  },
+  {
+    id: "70mai-a810s-4k-dash-cam",
+    name: "70mai A810S 4K Dash Cam 4K+1080P HDR IMX678 Supercapacitor Voice Control Wi-Fi 6 GPS ADAS APP 4G LTE Remote Control Car Camera",
+    short: "70mai A810S 4K Dash Cam",
+    price: 141.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4srhUFt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/70mai-a810s-4k-dash-cam/ad-photo.png",
+    desc: "70mai A810S 4K dash cam — 4K+1080P HDR, IMX678 sensor, supercapacitor, voice control, Wi-Fi 6, GPS, ADAS, app and 4G LTE remote control.",
+    specs: [["Type", "4K dash cam, 4K+1080P HDR (per title)"], ["Sensor", "IMX678, supercapacitor (per title)"], ["Feature", "Voice control, Wi-Fi 6, GPS, ADAS, APP, 4G LTE (per title)"]],
+    added: 442,
+    popular: false
+  }
 
 ];
 
