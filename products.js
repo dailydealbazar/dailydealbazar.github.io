@@ -11953,6 +11953,105 @@ const PRODUCTS = [
     added: 470,
     popular: false
   }
+,
+  {
+    id: "heart-rate-monitor-replacement-strap",
+    name: "1Pc Heart Rate Monitor Replacement Strap Compatible with Polar H7 H9 H10 Coospo Wahoo Tick Garmin Magene Sensor Band Belt",
+    short: "Heart Rate Monitor Replacement Strap",
+    price: 5.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4onCJX9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/heart-rate-monitor-replacement-strap/ad-photo.png",
+    desc: "Heart rate monitor replacement strap — compatible with Polar H7, H9, H10, Coospo, Wahoo Tick, Garmin and Magene sensor bands.",
+    specs: [["Type", "Heart rate monitor replacement strap (per title)"], ["Compatible", "Polar H7, H9, H10, Coospo, Wahoo Tick, Garmin, Magene (per title)"], ["Weight", "Main device + strap only 49 g (per photo)"]],
+    added: 471,
+    popular: false
+  },
+  {
+    id: "rubber-maggots-fishing-bait-set",
+    name: "Rubber Maggots Fishing Bait Set with Hooks Versatile Grub Lures for Bass Trout Crappie Bluegill Ideal for Freshwater Fishing",
+    short: "Rubber Maggots Fishing Bait Set",
+    price: 3.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4t0UWqR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rubber-maggots-fishing-bait-set/ad-photo.png",
+    desc: "Rubber maggots fishing bait set with hooks — versatile grub lures for bass, trout, crappie and bluegill, ideal for freshwater fishing.",
+    specs: [["Type", "Rubber maggots fishing bait set with hooks (per title)"], ["Target", "Bass, trout, crappie, bluegill (per title)"], ["Water", "Freshwater fishing (per title)"], ["Size", "2.5 cm / 0.98 inch long, 1 cm / 0.39 inch wide (per photo)"]],
+    added: 472,
+    popular: false
+  },
+  {
+    id: "porsche-911-gt3-rs-alloy-mini-car-model",
+    name: "1:36 Porsche 911 GT3 RS Alloy Mini Car Model Racing Diecasts Metal Toy Sports Simulation Collection Pull Back Childrens Gifts",
+    short: "Porsche 911 GT3 RS Alloy Mini Car Model",
+    price: 8.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4eqQzwx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/porsche-911-gt3-rs-alloy-mini-car-model/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/porsche-911-gt3-rs-alloy-mini-car-model/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/porsche-911-gt3-rs-alloy-mini-car-model/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/porsche-911-gt3-rs-alloy-mini-car-model/photo-4.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/porsche-911-gt3-rs-alloy-mini-car-model/ad-photo.png",
+    desc: "1:36 Porsche 911 GT3 RS alloy mini car model — racing diecast metal toy with pull-back, sports simulation collection.",
+    specs: [["Scale", "1:36 (per title)"], ["Type", "Alloy diecast metal toy car, pull back (per title)"], ["Model", "Porsche 911 GT3 RS (per title)"]],
+    added: 473,
+    popular: false
+  },
+  {
+    id: "toocki-usb-type-c-35-jack-earphone-adapter",
+    name: "Toocki USB Type C 3.5 Jack Earphone Adapter USB C to 3.5mm Headphones AUX Audio Cable For Huawei P30 Xiaomi Mi 10 9 Es",
+    short: "Toocki USB Type C 3.5 Jack Earphone Adapter",
+    price: 4.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2ycpzF5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-usb-type-c-35-jack-earphone-adapter/ad-photo.png",
+    desc: "Toocki USB Type-C to 3.5mm earphone adapter — USB-C to 3.5mm headphones AUX audio cable.",
+    specs: [["Type", "USB Type-C to 3.5mm earphone adapter, AUX audio cable (per title)"], ["Connector", "USB Type-C to 3.5mm jack (per title)"]],
+    added: 474,
+    popular: false
+  }
 
 ];
 
