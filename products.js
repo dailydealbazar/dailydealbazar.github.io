@@ -14469,6 +14469,107 @@ const PRODUCTS = [
     added: 570,
     popular: false
   }
+,
+  {
+    id: "high-speed-memory-card",
+    name: "High-speed Memory Card 1GB 2GB 4GB 8GB 16GB 32GB 64GB 128GB Mini TF Card Is Used to Monitor the Drone Tachograph",
+    short: "High-speed Memory Card",
+    price: 3.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4pOewF1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-memory-card/ad-photo.png",
+    desc: "High-speed mini TF memory card, 1GB-128GB.",
+    specs: [["Type", "Mini TF memory card, 1GB-128GB (per title)"], ["Use", "Monitor, drone, tachograph (per title)"]],
+    added: 571,
+    popular: false
+  },
+  {
+    id: "yofidra-1500w-12kpa-cordless-vacuum-cleaner",
+    name: "YOFIDRA 1500W 12KPA Electric Cordless Vacuum Cleaner Portable 2IN1 Household Car Cleaning Power Tool For Makita 18V Battery Pin",
+    short: "YOFIDRA 1500W 12KPA Cordless Vacuum Cleaner",
+    price: 44.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3bUWCwX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-1500w-12kpa-cordless-vacuum-cleaner/ad-photo.png",
+    desc: "YOFIDRA 1500W 12KPA cordless vacuum cleaner.",
+    specs: [["Type", "Electric cordless vacuum cleaner, 2IN1 portable (per title)"], ["Use", "Household and car cleaning, Makita 18V battery pin (per title)"]],
+    added: 572,
+    popular: false
+  },
+  {
+    id: "dreame-x60-robot-vacuum-accessory",
+    name: "Dreame X60 Ultra/X60 Master/X60 Max Ultra Robot Vacuums Cleaner Accessory Dust Bag Main Side Brush Hepa Filter Mop Cloths Spare",
+    short: "Dreame X60 Robot Vacuum Accessory",
+    price: 6.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3xdrz67",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dreame-x60-robot-vacuum-accessory/ad-photo.png",
+    desc: "Dreame X60 robot vacuum accessory kit.",
+    specs: [["Type", "Robot vacuum accessory kit — dust bag, main side brush, Hepa filter, mop cloths (per title)"], ["Fits", "Dreame X60 Ultra / X60 Master / X60 Max Ultra (per title)"]],
+    added: 573,
+    popular: false
+  },
+  {
+    id: "universal-laptop-keyboard-silicone-cover",
+    name: "13-14 Inch 15-17 Inch Universal Laptop Notebook Keyboard Silicone Cover Dustproof Protective Waterproof Film",
+    short: "Universal Laptop Keyboard Silicone Cover",
+    price: 2.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3frJxyJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-laptop-keyboard-silicone-cover/ad-photo.png",
+    desc: "Universal laptop keyboard silicone cover, 13-17 inch.",
+    specs: [["Type", "Universal laptop notebook keyboard silicone cover (per title)"], ["Fits", "13-14 inch / 15-17 inch laptops (per title)"]],
+    added: 574,
+    popular: false
+  }
 
 ];
 
