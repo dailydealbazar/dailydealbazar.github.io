@@ -12860,6 +12860,107 @@ const PRODUCTS = [
     added: 506,
     popular: false
   }
+,
+  {
+    id: "terebento-portable-mini-tripod",
+    name: "Terebento Portable Mini Tripod",
+    short: "Terebento Portable Mini Tripod",
+    price: 2.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3XbaXe7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/terebento-portable-mini-tripod/ad-photo.png",
+    desc: "Terebento portable mini tripod.",
+    specs: [["Interface", "1/4 inch (per title)"], ["Size", "13 cm / 5.12 inch, leg 6.5 cm / 2.56 inch (per photo 3)"], ["Fits", "Mobile phone / DJI OSMO Action / GoPro / Insta360 / Yi / SJCAM (per title)"], ["Design", "Foldable legs (per photos)"]],
+    added: 507,
+    popular: false
+  },
+  {
+    id: "womens-fashion-reading-glasses-chain",
+    name: "Women's Fashion Reading Glasses Chain",
+    short: "Women's Fashion Reading Glasses Chain",
+    price: 5.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4OP6Qqn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-fashion-reading-glasses-chain/ad-photo.png",
+    desc: "Women's fashion reading glasses chain.",
+    specs: [["Beads", "4mm color plating (per title)"], ["Brand", "CXQD (per photos)"], ["Use", "Reading glasses / sunglasses cord (per title)"], ["Includes", "Necklace gift (per title)"]],
+    added: 508,
+    popular: false
+  },
+  {
+    id: "universal-led-car-ambient-light-rgb",
+    name: "Universal Led Car Ambient Light RGB",
+    short: "Universal Led Car Ambient Light RGB",
+    price: 42.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2wJgB6T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-led-car-ambient-light-rgb/ad-photo.png",
+    desc: "Universal LED car ambient light RGB.",
+    specs: [["Colors", "RGB 64 / 213 color, acrylic strips (per title)"], ["Control", "Mobile app, Bluetooth connectivity (per photos)"], ["Strips", "110cm + 75cm + 35cm (per photo 1)"], ["Modes", "Symphony, music mode (per photos)"]],
+    added: 509,
+    popular: false
+  },
+  {
+    id: "rechargeable-magnetic-led-selfie-light",
+    name: "1pc Rechargeable Magnetic LED Selfie Light",
+    short: "1pc Rechargeable Magnetic LED Selfie Light",
+    price: 14.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c41WXv8B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-magnetic-led-selfie-light/ad-photo.png",
+    desc: "1pc rechargeable magnetic LED selfie light.",
+    specs: [["LEDs", "120 LEDs (per title)"], ["Battery", "3000mAh (per title)"], ["Modes", "3 modes dimmable, 2800K-7500K (per photos)"], ["Size", "130mm x 66mm (per photo 5)"]],
+    added: 510,
+    popular: false
+  }
 
 ];
 
