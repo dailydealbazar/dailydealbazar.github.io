@@ -10642,6 +10642,107 @@ const PRODUCTS = [
     added: 418,
     popular: false
   }
+,
+  {
+    id: "smallrig-clamp-magic-arm",
+    name: "SmallRig Clamp 9.5\" Adjustable Friction Power Articulating Magic Arm",
+    short: "SmallRig Clamp Magic Arm",
+    price: 10.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4sf4al9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smallrig-clamp-magic-arm/ad-photo.png",
+    desc: "SmallRig clamp magic arm — 9.5 inch adjustable friction power articulating magic arm for cameras and accessories.",
+    specs: [["Type", "9.5 inch adjustable friction power articulating magic arm with clamp (per title)"], ["Brand", "SmallRig"], ["Adjustment", "360° adjustable wingnut; position adjustable to need when shooting (per photo-3)"], ["Load", "Maximum payload 1.5 kg (per photo-3)"], ["Threads", "1/4\"-20 and 3/8\"-16 threaded mounting holes on the back of the clamp (per photo-5)"], ["Opening range", "15 mm – 40 mm, fits any rod 15 to 44 mm (per photo-6)"], ["Compatibility", "Mirrorless camera, flash light, monitor, microphone, tripod, pipe (per photo-2)"]],
+    added: 419,
+    popular: false
+  },
+  {
+    id: "kebidumei-bluetooth-audio-transmitter-receiver",
+    name: "KEBIDUMEI Bluetooth 6.0 Audio Transmitter Receiver 2-in-1 Wireless Adapter",
+    short: "KEBIDUMEI Bluetooth 6.0 Audio Adapter",
+    price: 8.22,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c2u6VZt1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kebidumei-bluetooth-audio-transmitter-receiver/ad-photo.png",
+    desc: "KEBIDUMEI Bluetooth 6.0 audio transmitter receiver — 2-in-1 wireless adapter for transmitting or receiving audio.",
+    specs: [["Type", "Bluetooth 6.0 audio transmitter and receiver, 2-in-1 wireless adapter (per title)"], ["Modes", "Receive mode (RX) and launch/transmit mode (TX) (per photos 4, 5)"], ["Calling", "Hands-free calling — answer, end or reject calls (per photo-2)"], ["Dual connection", "Support connect 2 devices at the same time (per photo-3)"], ["Battery", "About 15.5 hours; about 2 h charge; about 11 h launch (per photo-6)"], ["Use", "Phone, TV, plane, MP3/MP4, Switch; car, speakers, headphones (per photos 1, 4, 5)"]],
+    added: 420,
+    popular: false
+  },
+  {
+    id: "motorcycle-helmet-chin-strap-mount-gopro",
+    name: "Motorcycle Helmet Chin Strap Mount for GoPro",
+    short: "Helmet Chin Strap Mount for GoPro",
+    price: 3.29,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3pvO1B5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motorcycle-helmet-chin-strap-mount-gopro/ad-photo.png",
+    desc: "Motorcycle helmet chin strap mount for GoPro — attaches an action camera to the helmet chin.",
+    specs: [["Type", "Motorcycle helmet chin strap mount for GoPro (per title)"], ["Compatibility", "GoPro action cameras (per title)"], ["Mount", "Chin strap mount for motorcycle helmets (per title)"], ["Buckle", "Elastic buckle replaces overly long straps to prevent straps hitting skin while riding (per photo-5)"], ["Colours", "Black and blue variants (per photo-2)"]],
+    added: 421,
+    popular: false
+  },
+  {
+    id: "ugreen-smart-finder-finetrack-duo",
+    name: "UGREEN Smart Finder FineTrack Duo Tracker Card",
+    short: "UGREEN Smart Finder FineTrack Duo",
+    price: 15.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3OLB8gb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-smart-finder-finetrack-duo/ad-photo.png",
+    desc: "UGREEN Smart Finder FineTrack Duo tracker card — find lost items with a slim tracker card.",
+    specs: [["Type", "Smart finder tracker card, FineTrack Duo (per title)"], ["Brand", "UGREEN"], ["Compatibility", "Works with Apple Find My and Android Find Hub (not usable on both systems at the same time) (per photos 1, 2)"], ["Battery", "Recharge once, use all year — 365 days; USB-C charging (per photo-3)"], ["Find", "Ring to find nearby — tap the app to make the device ring; locate anywhere with directions (per photos 4, 5)"], ["Alerts", "Smart anti-loss alerts when an item is left behind (per photo-6)"]],
+    added: 422,
+    popular: false
+  }
 
 ];
 
