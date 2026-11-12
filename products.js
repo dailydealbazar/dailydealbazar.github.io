@@ -13264,6 +13264,107 @@ const PRODUCTS = [
     added: 522,
     popular: false
   }
+,
+  {
+    id: "mini-tag-gps-tracker",
+    name: "Mini Tag Gps Tracker Android Google Find My Gps Locator Air Tag Car Gps Tracking Device Gps Tracker Bicycle Electronics Security",
+    short: "Mini Tag Gps Tracker",
+    price: 7.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2xhlHXz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-tag-gps-tracker/ad-photo.png",
+    desc: "Mini Tag GPS tracker.",
+    specs: [["Type", "GPS tracker, Air Tag compatible (per title)"], ["Use", "Car / bicycle (per title)"], ["Compat", "Android, Google Find My (per title)"]],
+    added: 523,
+    popular: false
+  },
+  {
+    id: "4-in-1-65w-keychain-charging-cable",
+    name: "1/2PCS 4 in 1 65W Keychain Charging Cable USB C with V/A/W Display Type C for Apple Portable Cord for IPhone/iPad/Samsung/Laptop",
+    short: "1/2PCS 4 in 1 65W Keychain Charging Cable",
+    price: 4.35,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4MFr22n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-65w-keychain-charging-cable/ad-photo.png",
+    desc: "1/2PCS 4 in 1 65W keychain charging cable.",
+    specs: [["Power", "65W (per title)"], ["Type", "4 in 1 keychain charging cable (per title)"], ["Display", "V/A/W display (per title)"], ["Compat", "iPhone / iPad / Samsung / laptop (per title)"]],
+    added: 524,
+    popular: false
+  },
+  {
+    id: "silk-wool-splice-long-sleeve-t-shirt",
+    name: "Silk Wool Splice Long Sleeve T-shirt Women Spring Summer Thin Soft Waxy Fit Solid Color Backing Top",
+    short: "Silk Wool Splice Long Sleeve T-shirt",
+    price: 23.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c37wlI5V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silk-wool-splice-long-sleeve-t-shirt/ad-photo.png",
+    desc: "Silk wool splice long sleeve T-shirt.",
+    specs: [["Fabric", "Silk wool splice (per title)"], ["Fit", "Thin, soft, waxy fit (per title)"], ["Season", "Spring / summer (per title)"]],
+    added: 525,
+    popular: false
+  },
+  {
+    id: "8k-hdmi-2-1-cable-adapter",
+    name: "8K HDMI 2.1 Cable Adapter 90 Degree Right Angle Male to Female Connector 4K 8K HDMI Extender for TV Stick PS4 PS5 Xbox PC Laptop",
+    short: "8K HDMI 2.1 Cable Adapter",
+    price: 1.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c304xIaf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8k-hdmi-2-1-cable-adapter/ad-photo.png",
+    desc: "8K HDMI 2.1 cable adapter.",
+    specs: [["Type", "8K HDMI 2.1 cable adapter, 90 degree right angle (per title)"], ["Ports", "Male to female (per title)"], ["Use", "TV stick / PS4 / PS5 / Xbox / PC / laptop (per title)"]],
+    added: 526,
+    popular: false
+  }
 
 ];
 
