@@ -15174,6 +15174,107 @@ const PRODUCTS = [
     added: 598,
     popular: false
   }
+,
+  {
+    id: "nuotie-1-64-mtvr-mk23-truck-diecast",
+    name: "NUOTIE 1:64 MTVR MK23 Truck Grn Model Toy Diecast Military Replica Detailed Display Collector Enthusiast Xmas Bday Gift Man Boy",
+    short: "NUOTIE 1:64 MTVR MK23 Truck Diecast",
+    price: 21.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3H5BDqT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuotie-1-64-mtvr-mk23-truck-diecast/ad-photo.png",
+    desc: "NUOTIE 1:64 MTVR MK23 diecast military truck model.",
+    specs: [["Type", "1:64 diecast military truck model, MTVR MK23 (per title)"], ["Use", "Detailed display collector model (per title)"]],
+    added: 599,
+    popular: false
+  },
+  {
+    id: "custom-car-motorcycle-team-logo-flag-90x150cm",
+    name: "90x150cm Professional Custom Car Motorcycle Team or Conpany Logo Flag Polyester Printed Decoration Banner Tapestry",
+    short: "Custom Car/Motorcycle/Team Logo Flag 90x150cm",
+    price: 1.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4WTPHDt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-car-motorcycle-team-logo-flag-90x150cm/ad-photo.png",
+    desc: "90x150cm custom logo flag, polyester printed banner.",
+    specs: [["Size", "90x150cm (per title)"], ["Material", "Polyester printed flag/banner (per title)"]],
+    added: 600,
+    popular: false
+  },
+  {
+    id: "5-zipper-slider-nylon-zips",
+    name: "10/30pcs 5# Zipper Slider for Nylon Zips Jacket Bag Purse Pockets Zippers Heads Puller Repair Kit DIY Garment Sewing Accessories",
+    short: "5# Zipper Slider for Nylon Zips",
+    price: 6.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2zrlwH9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5-zipper-slider-nylon-zips/ad-photo.png",
+    desc: "5# zipper slider repair kit for nylon zips.",
+    specs: [["Type", "5# zipper slider for nylon zips (per title)"], ["Use", "Repair kit for jacket, bag, purse, pockets (per title)"]],
+    added: 601,
+    popular: false
+  },
+  {
+    id: "cute-animal-ironing-thermal-transfer-t-shirt-stickers",
+    name: "12Pcs/Lot Cute Animal Ironing Thermal Transfer T-Shirt Stickers Iron On Heat-Adhesive Fusible Patches Kids Clothing",
+    short: "Cute Animal Iron-On T-Shirt Stickers",
+    price: 4.52,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3QbelAx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cute-animal-ironing-thermal-transfer-t-shirt-stickers/ad-photo.png",
+    desc: "Cute animal iron-on thermal transfer T-shirt stickers, 12 pcs.",
+    specs: [["Type", "Iron-on heat-adhesive fusible patches, 12 pcs (per title)"], ["Use", "Kids clothing decoration (per title)"]],
+    added: 602,
+    popular: false
+  }
 
 ];
 
