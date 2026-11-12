@@ -12153,6 +12153,107 @@ const PRODUCTS = [
     added: 478,
     popular: false
   }
+,
+  {
+    id: "otarddolls-vivienne-33cm-reborn-doll",
+    name: "OtardDolls Vivienne 33cm Reborn Doll Baby Lifelike Christening Gift Painstakingly Hand Painted 100% Full Silicone Baby Doll",
+    short: "OtardDolls Vivienne 33cm Reborn Doll",
+    price: 86.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3X01zRN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/otarddolls-vivienne-33cm-reborn-doll/ad-photo.png",
+    desc: "OtardDolls Vivienne 33cm reborn doll — lifelike christening gift, painstakingly hand-painted, 100% full silicone baby doll.",
+    specs: [["Type", "Reborn doll, 100% full silicone (per title)"], ["Size", "33 cm (per title)"], ["Use", "Lifelike christening gift (per title)"]],
+    added: 479,
+    popular: false
+  },
+  {
+    id: "injora-19-beadlock-wheel-rim",
+    name: "INJORA 1.9 Beadlock Wheel Rim 1/10 Scale RC Wheel Modified King Hub (4Pcs)",
+    short: "INJORA 1.9 Beadlock Wheel Rim",
+    price: 46.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c37sbpUX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-19-beadlock-wheel-rim/ad-photo.png",
+    desc: "INJORA 1.9 beadlock wheel rim — 1/10 scale RC wheel, modified king hub, set of 4.",
+    specs: [["Type", "1.9 beadlock wheel rim, 1/10 scale RC wheel (per title)"], ["Fit", "Modified king hub (per title)"], ["Pack", "4 pcs (per title)"]],
+    added: 480,
+    popular: false
+  },
+  {
+    id: "glycolic-acid-70-30ml",
+    name: "Glycolic Acid 70% 30ml Alpha Hydroxy Acid Peel for Face, Skin Care Treatment",
+    short: "Glycolic Acid 70% 30ml",
+    price: 19.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2wL02o3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/glycolic-acid-70-30ml/ad-photo.png",
+    desc: "Glycolic acid 70% 30ml — alpha hydroxy acid peel for face, skin care treatment.",
+    specs: [["Type", "Glycolic acid 70% peel, alpha hydroxy acid (per title)"], ["Size", "30 ml (per title)"], ["Use", "Face skin care treatment (per title)"]],
+    added: 481,
+    popular: false
+  },
+  {
+    id: "waterproof-servo-20kg-40kg",
+    name: "4X Waterproof Servo 20Kg-40Kg Digital High Torque for RC Model Truck Car Robot Boat",
+    short: "4X Waterproof Servo 20Kg-40Kg",
+    price: 54.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2wt5RVp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-servo-20kg-40kg/ad-photo.png",
+    desc: "4X waterproof servo 20kg-40kg — digital high torque servo for RC model truck, car, robot and boat.",
+    specs: [["Type", "Waterproof digital servo, high torque (per title)"], ["Torque", "20 kg - 40 kg (per title)"], ["Use", "RC model truck, car, robot, boat (per title)"], ["Pack", "4 pcs (per title)"]],
+    added: 482,
+    popular: false
+  }
 
 ];
 
