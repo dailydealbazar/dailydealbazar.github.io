@@ -12961,6 +12961,107 @@ const PRODUCTS = [
     added: 510,
     popular: false
   }
+,
+  {
+    id: "magnisher-soft-baits-lures",
+    name: "Magnisher 20pcs/bag Soft Baits Lures 4.5cm/5.5cm T-tail Quality Silicone Fishing Lures Soft Plastic Paddle Tail Swimbait",
+    short: "Magnisher 20pcs/bag Soft Baits Lures",
+    price: 3.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4NN3LfH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnisher-soft-baits-lures/ad-photo.png",
+    desc: "Magnisher 20pcs/bag soft baits lures.",
+    specs: [["Size", "4.5cm / 0.9g (SBT04A), 5.5cm / 1.6g (SBT04B) (per photo 2)"], ["Type", "T-tail paddle tail swimbait (per title)"], ["Material", "Soft silicone plastic (per title)"], ["Pack", "20 pcs/bag (per title)"]],
+    added: 511,
+    popular: false
+  },
+  {
+    id: "hoduller-swimbait",
+    name: "2024 New Soft Bait 5 size Hoduller Swimbait for Pike Zander Snook Perch Fishing Lures with 3D EYES JIG Head Rig Soft Lure",
+    short: "2024 New Soft Bait 5 size Hoduller Swimbait",
+    price: 5.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c40jKZfH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoduller-swimbait/ad-photo.png",
+    desc: "2024 new soft bait 5 size Hoduller swimbait.",
+    specs: [["Sizes", "5 sizes: 2.7 inch / 2.5g to 6 inch / 30g (per photo 3)"], ["Eyes", "3D eyes (per title)"], ["Rig", "Jig head rig (per title)"], ["Target", "Pike / Zander / Snook / Perch (per title)"]],
+    added: 512,
+    popular: false
+  },
+  {
+    id: "peach-hip-lifting-sports-shorts",
+    name: "Peach Hip Lifting Sports Shorts Women High Waist and Waist Tightening Slimming Running Hip Speed Drying Three Point Tight Pants",
+    short: "Peach Hip Lifting Sports Shorts Women",
+    price: 11.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3PbxBq3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peach-hip-lifting-sports-shorts/ad-photo.png",
+    desc: "Peach hip lifting sports shorts women.",
+    specs: [["Fit", "High waist, waist tightening (per title)"], ["Effect", "Hip lifting, slimming (per title)"], ["Use", "Running / sports (per title)"], ["Colors", "Grey / brown / white / neon green / pink / dark grey (per photos)"]],
+    added: 513,
+    popular: false
+  },
+  {
+    id: "vcds-vagcom-interface",
+    name: "2026 VCDS VAGCOM Interface VCDSCAN HEX V2 Update 26.9 FOR VW For AUDI Skoda Seat Multi-Language Car Autocom Diagnostics Tools",
+    short: "2026 VCDS VAGCOM Interface VCDSCAN HEX V2",
+    price: 25.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3FU6uSf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vcds-vagcom-interface/ad-photo.png",
+    desc: "2026 VCDS VAGCOM interface VCDSCAN HEX V2.",
+    specs: [["Version", "Update 26.9, HEX V2 (per title)"], ["Fits", "VW / Audi / Skoda / Seat (per title)"], ["Language", "Multi-language (per title)"], ["Cable", "2.2 meters (per photo 4)"]],
+    added: 514,
+    popular: false
+  }
 
 ];
 
