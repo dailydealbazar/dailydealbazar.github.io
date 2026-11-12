@@ -11549,6 +11549,106 @@ const PRODUCTS = [
     added: 454,
     popular: false
   }
+,
+  {
+    id: "y-kelin-denture-cleansing-tablets",
+    name: "Y-Kelin Denture Cleansing Tablets 150 Tabs+Denture Box+Denture Brush Tooth FalseSoaking And Cleaning Prosthesis",
+    short: "Y-Kelin Denture Cleansing Tablets",
+    price: 24.62,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3IkKdLz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-cleansing-tablets/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-cleansing-tablets/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-cleansing-tablets/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-cleansing-tablets/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-cleansing-tablets/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-cleansing-tablets/ad-photo.png",
+    desc: "Y-Kelin denture cleansing tablets — 150 tablets with denture box and brush for soaking and cleaning false teeth and prosthesis.",
+    specs: [["Type", "Denture cleansing tablets (per title)"], ["Contents", "150 tabs + denture box + denture brush (per title)"], ["Tablets", "30 tablets per box (per photo)"], ["Use", "Soaking and cleaning false teeth / prosthesis (per title)"]],
+    added: 455,
+    popular: false
+  },
+  {
+    id: "organic-argan-oil",
+    name: "Organic Argan Oil 100% Pure Cold Pressed Virgin Premium Grade For Dry & Damaged Skin, Hair, Face, Body, Scalp & Nails",
+    short: "Organic Argan Oil",
+    price: 10.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4FNXG47",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/organic-argan-oil/ad-photo.png",
+    desc: "Organic argan oil — 100% pure cold pressed virgin premium grade for dry and damaged skin, hair, face, body, scalp and nails.",
+    specs: [["Type", "Organic argan oil, 100% pure cold pressed virgin (per title)"], ["Brand", "FEXMS (per photo)"], ["Size", "100ml (per photo)"], ["Use", "Dry & damaged skin, hair, face, body, scalp & nails (per title)"]],
+    added: 456,
+    popular: false
+  },
+  {
+    id: "jst-ph2-0-connectors",
+    name: "5Sets Mini Micro JST PH2.0 2.0mm Pitch 2/3/4/5/6/7/8 Pin Connectors Female and Male Plug Housing Connector With Wire Cable 26AWG",
+    short: "JST PH2.0 Connectors",
+    price: 1.91,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3Rpiwn1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jst-ph2-0-connectors/ad-photo.png",
+    desc: "Mini micro JST PH2.0 connectors — 2.0mm pitch, 2 to 8 pin female and male plug housings with 26AWG wire cable.",
+    specs: [["Type", "Mini Micro JST PH2.0 connectors, 2.0mm pitch (per title)"], ["Pins", "2/3/4/5/6/7/8 pin female and male plug housing (per title)"], ["Wire", "26AWG cable (per title)"], ["Quantity", "5 sets (per title)"]],
+    added: 457,
+    popular: false
+  },
+  {
+    id: "xod-h800-h880-scooter-hydraulic-disc-brake",
+    name: "XOD H800/H880 Electric Scooter Hydraulic Disc Brake for KUKirin G2 Master G2 MAX G2 PRO2025 Electric Scooter Hydraulic Oil Brak",
+    short: "XOD Electric Scooter Hydraulic Disc Brake",
+    price: 5.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4dy5vYR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xod-h800-h880-scooter-hydraulic-disc-brake/ad-photo.png",
+    desc: "XOD H800/H880 electric scooter hydraulic disc brake — for KUKirin G2 Master, G2 MAX and G2 PRO 2025 scooters.",
+    specs: [["Type", "Electric scooter hydraulic disc brake (per title)"], ["Model", "H800 / H880, double piston (per title/photo)"], ["Fits", "KUKirin G2 Master, G2 MAX, G2 PRO 2025 (per title)"], ["Cable", "200mm connector cable; oil pipe 1350–2150mm (per photo)"]],
+    added: 458,
+    popular: false
+  }
 
 ];
 
