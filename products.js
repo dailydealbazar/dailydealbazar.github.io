@@ -11751,6 +11751,107 @@ const PRODUCTS = [
     added: 462,
     popular: false
   }
+,
+  {
+    id: "3-in-1-electric-lumbar-support-pillow",
+    name: "3-in-1 Electric Lumbar Support Pillow Smart Auto Inflatable Heating Lumbar Support Back Rest Waist Cushion for Home Office Car",
+    short: "Electric Lumbar Support Pillow",
+    price: 42.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3NxllUr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3-in-1-electric-lumbar-support-pillow/ad-photo.png",
+    desc: "3-in-1 electric lumbar support pillow — smart auto-inflatable heating lumbar support back rest waist cushion for home, office and car.",
+    specs: [["Type", "Electric lumbar support pillow, 3-in-1 auto inflatable + heating (per title)"], ["Use", "Back rest waist cushion for home, office, car (per title)"], ["Features", "Smart auto inflatable, heating (per title)"]],
+    added: 463,
+    popular: false
+  },
+  {
+    id: "40k-ultrasonic-cavitation-machine",
+    name: "40K Ultrasonic Cavitation Machine Slimming Machine Body Slimming Anti Cellulite Beauty Instrument Loss Weight Home Beauty Device",
+    short: "40K Ultrasonic Cavitation Machine",
+    price: 106.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3IjNBPV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/40k-ultrasonic-cavitation-machine/ad-photo.png",
+    desc: "40K ultrasonic cavitation machine — body slimming anti-cellulite beauty instrument for home use.",
+    specs: [["Type", "40K ultrasonic cavitation slimming machine (per title)"], ["Use", "Body slimming, anti-cellulite, weight loss home beauty device (per title)"], ["Power", "40K ultrasonic (per title)"]],
+    added: 464,
+    popular: false
+  },
+  {
+    id: "b2-m4-dental-high-speed-handpiece",
+    name: "B2 M4 Dental High Speed Handpiece Dental High Speed Turbine Pneumatic Dental Handpiece with 3 Water Spray Air Rotor",
+    short: "B2 M4 Dental High Speed Handpiece",
+    price: 25.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3uYRjx9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/b2-m4-dental-high-speed-handpiece/ad-photo.png",
+    desc: "B2 M4 dental high speed handpiece — high speed turbine pneumatic dental handpiece with 3 water spray air rotor.",
+    specs: [["Type", "Dental high speed handpiece, turbine, pneumatic (per title)"], ["Connection", "B2 / M4 (per title)"], ["Water spray", "3 water spray, air rotor (per title)"]],
+    added: 465,
+    popular: false
+  },
+  {
+    id: "quick-release-buckle-woven-camera-hand-strap",
+    name: "Quick Release Buckle Woven Camera Hand Strap Adjustable Safety Wrist Strap Belt Grip for Sony Canon Nikon Fujifilm Camera",
+    short: "Woven Camera Hand Strap",
+    price: 3.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4DQCTqF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quick-release-buckle-woven-camera-hand-strap/ad-photo.png",
+    desc: "Quick release buckle woven camera hand strap — adjustable safety wrist strap belt grip for Sony, Canon, Nikon and Fujifilm cameras.",
+    specs: [["Type", "Woven camera hand strap, quick release buckle (per title)"], ["Fit", "Adjustable safety wrist strap belt grip (per title)"], ["Size", "39 cm / 15.35 inch total length, 2 cm wide (per photo)"], ["Load", "Easy to bear 30 kg weight (per photo)"]],
+    added: 466,
+    popular: false
+  }
 
 ];
 
