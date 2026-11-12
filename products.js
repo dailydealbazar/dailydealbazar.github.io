@@ -9030,6 +9030,107 @@ const PRODUCTS = [
     added: 354,
     popular: false
   }
+,
+  {
+    id: "dji-rc-2-neck-lanyard-anti-drop-adjustable",
+    name: "Anti-Drop Adjustable Neck Lanyard for DJI RC 2 Remote Controller Durable Hanging Strap for Mini 5/4/3 Pro Air3 Mavic3 Pro Drone",
+    short: "DJI RC 2 Neck Lanyard Anti-Drop Adjustable",
+    price: 6.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4SfFiOF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dji-rc-2-neck-lanyard-anti-drop-adjustable/ad-photo.png",
+    desc: "Anti-drop adjustable neck lanyard for the DJI RC 2 remote controller — durable hanging strap for Mini 5/4/3 Pro, Air3 and Mavic3 Pro drones.",
+    specs: [["Type", "Neck lanyard for DJI RC 2"], ["Fit", "Mini 5/4/3 Pro, Air3, Mavic3 Pro"], ["Feature", "Anti-drop, adjustable"], ["Use", "Hands-free drone controller carry"]],
+    added: 355,
+    popular: false
+  },
+  {
+    id: "darevie-cycling-jersey-spf50-long-sleeves",
+    name: "DAREVIE Cycling Jersey Small Size SPF 50+ Training Level Men Women Long Sleeves Cycling Jersey Breathable Man Cycling Maillott",
+    short: "DAREVIE Cycling Jersey SPF 50+ Long Sleeves",
+    price: 24.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3zSvfNd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-spf50-long-sleeves/ad-photo.png",
+    desc: "DAREVIE cycling jersey — SPF 50+, training level, long sleeves, breathable, for men and women.",
+    specs: [["Type", "Cycling jersey"], ["Sleeves", "Long sleeves"], ["Sun protection", "SPF 30+ 3D bubble mesh (per photo)"], ["Sizing", "Asian size — check size chart"]],
+    added: 356,
+    popular: false
+  },
+  {
+    id: "solar-owl-statue-garden-light-led-waterproof",
+    name: "Solar Owl Statue Garden Light LED Waterproof Powered Outdoor Decoration for Garden Patio, Animal Owl Shape Solar Led Light",
+    short: "Solar Owl Statue Garden Light LED Waterproof",
+    price: 10.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4c6kCK3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-owl-statue-garden-light-led-waterproof/ad-photo.png",
+    desc: "Solar owl statue garden light — LED, waterproof, solar powered, animal owl shape outdoor decoration for garden and patio.",
+    specs: [["Type", "Solar owl garden light"], ["Power", "Solar powered"], ["Protection", "Waterproof"], ["Use", "Garden / patio decoration"]],
+    added: 357,
+    popular: false
+  },
+  {
+    id: "travel-makeup-bag-waterproof-toiletries-organizer",
+    name: "High Quality Travel Makeup Bag Waterproof Toiletries Organizer Women Neceser Bathroom Hook Wash Pouch Hook Makeup Storage Bag",
+    short: "Travel Makeup Bag Waterproof Toiletries Organizer",
+    price: 5.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3gOoqsr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/travel-makeup-bag-waterproof-toiletries-organizer/ad-photo.png",
+    desc: "High-quality travel makeup bag — waterproof toiletries organizer with hook, wash pouch and makeup storage.",
+    specs: [["Type", "Travel makeup / toiletry bag"], ["Size", "24 cm x 19 cm"], ["Material", "Polyester"], ["Feature", "Waterproof, hanging hook"]],
+    added: 358,
+    popular: false
+  }
 
 ];
 
