@@ -11247,6 +11247,106 @@ const PRODUCTS = [
     added: 442,
     popular: false
   }
+,
+  {
+    id: "lakanaku-camellia-lash-extensions",
+    name: "LAKANAKU Camellia Lash Extensions UJ/UB/UC/LJ/LB/LC Curl Multi Length Fluffy Individual Eyelash Extension",
+    short: "LAKANAKU Camellia Lash Extensions",
+    price: 4.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c425YVrH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lakanaku-camellia-lash-extensions/ad-photo.png",
+    desc: "LAKANAKU Camellia lash extensions — fluffy individual eyelash extensions in UJ/UB/UC/LJ/LB/LC curls and multiple lengths.",
+    specs: [["Type", "Camellia individual eyelash extensions (per title)"], ["Curl", "UJ/UB/UC/LJ/LB/LC curl, multi length (per title)"], ["Brand", "LAKANAKU (per title)"]],
+    added: 443,
+    popular: false
+  },
+  {
+    id: "sleep-cream",
+    name: "Sleep Cream - Deep Moisturizing and Long-Lasting Fragrance, Lily and Chrysanthemum Rosemary, Portable Night Cream",
+    short: "Sleep Cream",
+    price: 3.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2yxNYgT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sleep-cream/ad-photo.png",
+    desc: "Sleep cream — deep moisturizing portable night cream with lily, chrysanthemum and rosemary fragrance.",
+    specs: [["Type", "Portable night cream / sleep balm (per title + photo)"], ["Scent", "Lily, chrysanthemum, rosemary; lavender + chamomile (per title + photo)"], ["Feature", "Deep moisturizing, long-lasting fragrance (per title)"]],
+    added: 444,
+    popular: false
+  },
+  {
+    id: "24pcs-disposable-silicone-earwax-remover",
+    name: "24Pcs Disposable Silicone EarWax Remover Sticky Ear Pick For Kids Olders Adult S/L Ear Cleaner Reusable Adhesive Earpick",
+    short: "24Pcs Disposable Silicone EarWax Remover",
+    price: 2.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3JkAdVh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/24pcs-disposable-silicone-earwax-remover/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/24pcs-disposable-silicone-earwax-remover/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/24pcs-disposable-silicone-earwax-remover/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/24pcs-disposable-silicone-earwax-remover/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/24pcs-disposable-silicone-earwax-remover/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/24pcs-disposable-silicone-earwax-remover/ad-photo.png",
+    desc: "24-piece disposable silicone earwax remover — sticky adhesive ear pick for kids, older people and adults.",
+    specs: [["Type", "Disposable silicone earwax remover, adhesive ear pick (per title)"], ["Qty", "24 pcs (per title)"], ["Size", "S/L (per title)"]],
+    added: 445,
+    popular: false
+  },
+  {
+    id: "professional-ultra-light-spinning-fishing-reel",
+    name: "Professional Ultra Light 1000~7000 5.2:1 Gear Ratio, 26LB Max Drag CNC Metal Spool Spinning Fishing Reel For Freshwater Saltwater",
+    short: "Professional Ultra Light Spinning Fishing Reel",
+    price: 14.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c31fZoUF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/professional-ultra-light-spinning-fishing-reel/ad-photo.png",
+    desc: "Professional ultra light spinning fishing reel — 5.2:1 gear ratio, 26LB max drag, CNC metal spool, for freshwater and saltwater.",
+    specs: [["Gear ratio", "5.2:1 (per title)"], ["Max drag", "26LB, CNC metal spool (per title)"], ["Size range", "1000~7000 (per title)"], ["Use", "Freshwater and saltwater (per title)"]],
+    added: 446,
+    popular: false
+  }
 
 ];
 
