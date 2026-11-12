@@ -11448,6 +11448,107 @@ const PRODUCTS = [
     added: 450,
     popular: false
   }
+,
+  {
+    id: "hand-grip-strengthener-massager-ball",
+    name: "Hand Grip Strengthener & Massager Ball, Adult Therapy Rehab Gym Office Home Exercise Equipment, Soft Foam Stress Relief Gripper",
+    short: "Hand Grip Strengthener & Massager Ball",
+    price: 2.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4Oh5E1z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-grip-strengthener-massager-ball/ad-photo.png",
+    desc: "Hand grip strengthener and massager ball — soft foam stress relief gripper for adult therapy, rehab, gym, office and home exercise.",
+    specs: [["Type", "Hand grip strengthener & massager ball (per title)"], ["Material", "Soft foam (per title)"], ["Use", "Adult therapy, rehab, gym, office, home exercise (per title)"], ["Sizes", "5 cm / 7 cm (per photo)"]],
+    added: 451,
+    popular: false
+  },
+  {
+    id: "8-in-1-electronic-cleaner-kit",
+    name: "8 In1 Electronic Cleaner Kit Screen Cleaner Multifunctional Cleaning Brush for Earphone Keyboard Laptop Phone PC Monitor Camera",
+    short: "8 In1 Electronic Cleaner Kit",
+    price: 5.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c45xsmQP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/8-in-1-electronic-cleaner-kit/ad-photo.png",
+    desc: "8-in-1 electronic cleaner kit — multifunctional screen cleaner and cleaning brush for earphones, keyboards, laptops, phones, PC, monitors and cameras.",
+    specs: [["Type", "8-in-1 electronic cleaner kit (per title)"], ["Use", "Earphone, keyboard, laptop, phone, PC, monitor, camera (per title)"], ["Function", "Screen cleaner, multifunctional cleaning brush (per title)"]],
+    added: 452,
+    popular: false
+  },
+  {
+    id: "watchband-connector-for-apple-watch",
+    name: "Watchband Connector for Apple Watch Ultra 2 49mm 46mm 45mm 44mm 42mm Adapter for IWatch Series 10 9 8 7 6 5 4 22mm Width Straps",
+    short: "Watchband Connector for Apple Watch",
+    price: 2.73,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4OtN7Fl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/watchband-connector-for-apple-watch/ad-photo.png",
+    desc: "Watchband connector adapter for Apple Watch Ultra 2 and iWatch Series 10, 9, 8, 7, 6, 5, 4 — fits 22mm width straps.",
+    specs: [["Type", "Watchband connector adapter (per title)"], ["Fits", "Apple Watch Ultra 2 49mm, 46 / 45 / 44 / 42mm; iWatch Series 10-4 (per title)"], ["Strap width", "22mm (per title)"]],
+    added: 453,
+    popular: false
+  },
+  {
+    id: "universal-electric-toothbrush-case",
+    name: "Universal Electric Toothbrush Case Toothbrush Storage Box Organizer Portable Travel Outdoor Electric Toothbrush Protective Cover",
+    short: "Universal Electric Toothbrush Case",
+    price: 6.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3VnNzEb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/universal-electric-toothbrush-case/ad-photo.png",
+    desc: "Universal electric toothbrush case — portable travel storage box organizer and protective cover for outdoor use.",
+    specs: [["Type", "Universal electric toothbrush case (per title)"], ["Use", "Portable travel, outdoor storage (per title)"], ["Features", "Storage box organizer, protective cover (per title)"], ["Size", "22.5 × 7 × 4 cm (per photo)"]],
+    added: 454,
+    popular: false
+  }
 
 ];
 
