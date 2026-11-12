@@ -8929,6 +8929,107 @@ const PRODUCTS = [
     added: 350,
     popular: false
   }
+,
+  {
+    id: "multifunctional-vegetable-cutter-slicer-grater",
+    name: "Multifunctional Vegetable Cutter Slicer Grater Manual Kitchen Shredder Slicing Tool Household Food Chopping Gadget Mandoline",
+    short: "Multifunctional Vegetable Cutter Slicer Grater",
+    price: 44.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4U7G6lh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/multifunctional-vegetable-cutter-slicer-grater/ad-photo.png",
+    desc: "Multifunctional vegetable cutter — slicer, grater and manual kitchen shredder, a household food chopping gadget and mandoline.",
+    specs: [["Type", "Vegetable cutter / mandoline"], ["Functions", "Slice, grate, shred"], ["Use", "Manual kitchen chopping"], ["Style", "Household gadget"]],
+    added: 351,
+    popular: false
+  },
+  {
+    id: "6-in-1-anti-wrinkle-cream-50g",
+    name: "6-In-1 Anti-Wrinkle Cream. Lifts Firms Smooths Moisturizes. Collagen Vitamin C E Niacinamide Retinol Hyaluronic Acid. 50g",
+    short: "6-In-1 Anti-Wrinkle Cream 50g",
+    price: 6.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2yxej2J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-in-1-anti-wrinkle-cream-50g/ad-photo.png",
+    desc: "6-in-1 anti-wrinkle cream — lifts, firms, smooths and moisturizes, with collagen, vitamin C and E, niacinamide, retinol and hyaluronic acid.",
+    specs: [["Type", "Anti-wrinkle cream"], ["Size", "50g"], ["Key ingredients", "Collagen, vitamin C/E, niacinamide, retinol, hyaluronic acid"], ["Effect", "Lifts, firms, smooths, moisturizes"]],
+    added: 352,
+    popular: false
+  },
+  {
+    id: "darevie-aero-cycling-shoe-covers",
+    name: "DAREVIE AERO Cycling Shoes Covers UCI Length Reduces Wind Resistance Waterproof Anti-Slip MTB Road Cycling Men Cycling Socks",
+    short: "DAREVIE AERO Cycling Shoe Covers",
+    price: 26.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3LUnY1v",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-aero-cycling-shoe-covers/ad-photo.png",
+    desc: "DAREVIE AERO cycling shoe covers — UCI length, reduces wind resistance, waterproof and anti-slip, for MTB and road cycling.",
+    specs: [["Type", "Cycling shoe covers"], ["Length", "UCI length"], ["Protection", "Waterproof, anti-slip"], ["Use", "MTB / road cycling"]],
+    added: 353,
+    popular: false
+  },
+  {
+    id: "dollhouse-mini-french-table-lamp-alarm-clock",
+    name: "Dollhouse Mini French Table Lamp with Alarm Clock, Alloy Steel 1:12 Model Decor, No Power Required for Bedroom/Living Room",
+    short: "Dollhouse Mini French Table Lamp with Alarm Clock",
+    price: 2.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3gwcamj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-mini-french-table-lamp-alarm-clock/ad-photo.png",
+    desc: "Dollhouse mini French table lamp with alarm clock — alloy steel 1:12 model decor, no power required, for bedroom or living room.",
+    specs: [["Type", "Dollhouse miniature table lamp"], ["Scale", "1:12"], ["Material", "Alloy steel"], ["Power", "No power required"]],
+    added: 354,
+    popular: false
+  }
 
 ];
 
