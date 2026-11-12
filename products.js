@@ -14368,6 +14368,107 @@ const PRODUCTS = [
     added: 566,
     popular: false
   }
+,
+  {
+    id: "led-induction-headlamp",
+    name: "1/2/3PCS LED Induction Headlamp Camping Search Light USB Rechargeable Headlight Led Head Torch Work Light With Built-in Battery",
+    short: "LED Induction Headlamp",
+    price: 7.56,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3cUbFkB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-induction-headlamp/ad-photo.png",
+    desc: "LED induction headlamp with built-in battery.",
+    specs: [["Type", "LED induction headlamp, USB rechargeable (per title)"], ["Use", "Camping search light, head torch, work light (per title)"]],
+    added: 567,
+    popular: false
+  },
+  {
+    id: "100000lm-super-bright-flashlight",
+    name: "100000LM Super Bright Flashlight Rechargeable LED Torch Long Range Tactical Lamp for Outdoor Waterproof Camping Fishing Lantern",
+    short: "100000LM Super Bright Flashlight",
+    price: 3.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c42b2rvt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/100000lm-super-bright-flashlight/ad-photo.png",
+    desc: "100000LM super bright rechargeable LED torch.",
+    specs: [["Type", "Rechargeable LED torch, long range tactical lamp (per title)"], ["Use", "Outdoor, waterproof, camping, fishing (per title)"]],
+    added: 568,
+    popular: false
+  },
+  {
+    id: "neon-rope-lights",
+    name: "Neon Rope Lights, Flexible Led Rope Lights Control with App/Remote, Multiple Modes Rope Lights, IP65 Outdoor RGB Led Neon Lights",
+    short: "Neon Rope Lights",
+    price: 35.38,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4r0plXd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neon-rope-lights/ad-photo.png",
+    desc: "Neon rope lights with app/remote control.",
+    specs: [["Type", "Flexible LED rope lights, app/remote control (per title)"], ["Feature", "Multiple modes, IP65 outdoor RGB (per title)"]],
+    added: 569,
+    popular: false
+  },
+  {
+    id: "6-arms-150w-moving-head-light",
+    name: "6 Arms 150W Moving Head Light Beam Laser Strobe Effect DMX Stage Rotating DJ Disco Party Bars Show Full Color LED Beam Lights",
+    short: "6 Arms 150W Moving Head Light",
+    price: 113.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3LYaPL9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/6-arms-150w-moving-head-light/ad-photo.png",
+    desc: "6 arms 150W moving head light for DJ/disco stage.",
+    specs: [["Type", "6 arms 150W moving head light, beam laser strobe (per title)"], ["Feature", "DMX stage rotating, full color LED beam (per title)"]],
+    added: 570,
+    popular: false
+  }
 
 ];
 
