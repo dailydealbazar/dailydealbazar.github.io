@@ -11852,6 +11852,107 @@ const PRODUCTS = [
     added: 466,
     popular: false
   }
+,
+  {
+    id: "golf-ball-picker",
+    name: "8.86 FT Retractable Golf Ball Picker Lightweight Stainless Steel Golf Ball Retriever with Easy Grip Handle Ideal Golf Gift",
+    short: "Golf Ball Picker",
+    price: 10.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3FyCALD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-ball-picker/ad-photo.png",
+    desc: "8.86 FT retractable golf ball picker — lightweight stainless steel golf ball retriever with easy grip handle, ideal golf gift.",
+    specs: [["Length", "8.86 FT retractable (per title)"], ["Material", "Lightweight stainless steel (per title)"], ["Handle", "Easy grip handle (per title)"]],
+    added: 467,
+    popular: false
+  },
+  {
+    id: "guitar-wall-mount-hanger",
+    name: "Versatile Guitar Wall Mount Hanger For Multiple Specifications Electric Classical Folk Guitars Bass Guitars Metal Hook",
+    short: "Guitar Wall Mount Hanger",
+    price: 3.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3tEt5IF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-wall-mount-hanger/ad-photo.png",
+    desc: "Versatile guitar wall mount hanger — metal hook for electric, classical and folk guitars and bass guitars.",
+    specs: [["Type", "Guitar wall mount hanger, metal hook (per title)"], ["Fit", "Electric, classical, folk guitars and bass guitars (per title)"]],
+    added: 468,
+    popular: false
+  },
+  {
+    id: "fishing-lure-kit-16-pcs",
+    name: "Fishing Lure Kit 16 Pcs Sets Trolling Jigging Lure Metal Spoon For Bass Pike Crank Tackle Accessories With Box Wobblers Kit",
+    short: "Fishing Lure Kit 16 Pcs",
+    price: 6.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Kwa7IL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fishing-lure-kit-16-pcs/ad-photo.png",
+    desc: "Fishing lure kit, 16 pcs — trolling and jigging metal spoon lures with box, for bass and pike.",
+    specs: [["Pieces", "16 pcs lure kit with box (per title)"], ["Type", "Metal spoon, trolling and jigging lures (per title)"], ["Target", "Bass, pike (per title)"]],
+    added: 469,
+    popular: false
+  },
+  {
+    id: "evangelion-acrylic-keychain",
+    name: "Eva New Century Evangelion Ikari Shinji Acrylic Keychain Lovely Bag Charms Pendant Gift Key Chain Souvenir Friend Kingring Cute",
+    short: "Evangelion Acrylic Keychain",
+    price: 3.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3yDK2yx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evangelion-acrylic-keychain/ad-photo.png",
+    desc: "Evangelion Ikari Shinji acrylic keychain — lovely bag charm pendant, cute souvenir gift.",
+    specs: [["Type", "Acrylic keychain, bag charm pendant (per title)"], ["Character", "Ikari Shinji, Evangelion (per title)"]],
+    added: 470,
+    popular: false
+  }
 
 ];
 
