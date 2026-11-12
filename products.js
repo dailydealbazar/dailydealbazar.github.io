@@ -10844,6 +10844,107 @@ const PRODUCTS = [
     added: 426,
     popular: false
   }
+,
+  {
+    id: "brother-laminated-tape-231",
+    name: "6/12/18/24mm for Brother Laminated Tape 231 — Compatible TZe-Label Tape tze231 for P-touch PTH110 P710BT H105 Labeling Printer",
+    short: "Brother Laminated Tape 231",
+    price: 2.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4nZHj2x",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/brother-laminated-tape-231/ad-photo.png",
+    desc: "Brother laminated label tape 231 — TZe-231 compatible tape for Brother P-touch PTH110, P710BT and H105 labeling printers, 6/12/18/24mm.",
+    specs: [["Type", "Laminated label tape, TZe-231 compatible (per title)"], ["Widths", "6/12/18/24mm (per title)"], ["Compatibility", "Brother P-touch PTH110, P710BT, H105 (per title)"], ["Use", "Labeling printer tape (per title)"]],
+    added: 427,
+    popular: false
+  },
+  {
+    id: "type-c-tf-reader-zinc-alloy-shell",
+    name: "Type C TF Reader With Zinc Alloy Shell — SD Card Reader with USB C to USB Adapter for Laptop, MacBook, Samsung Galaxy",
+    short: "Type C TF Reader Zinc Alloy Shell",
+    price: 2.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4E2qLrz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-tf-reader-zinc-alloy-shell/ad-photo.png",
+    desc: "Type C TF reader with zinc alloy shell — SD card reader with USB C to USB adapter, for laptop, MacBook and Samsung Galaxy.",
+    specs: [["Type", "Type C TF card reader with zinc alloy shell (per title)"], ["Interface", "USB C to USB adapter (per title)"], ["Compatibility", "Laptop, MacBook, Samsung Galaxy (per title)"], ["Use", "SD / TF card reading, fast transfer (per title)"]],
+    added: 428,
+    popular: false
+  },
+  {
+    id: "microfiber-keyboard-dust-cover-macbook",
+    name: "Microfiber Keyboard Dust Cover for MacBook Pro 15-16 inch Air 15 — Dustproof Protective Cloth, Ultra Thin Waterproof Keyboard Protector",
+    short: "Microfiber Keyboard Dust Cover MacBook",
+    price: 1.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3Z6B7EF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-keyboard-dust-cover-macbook/ad-photo.png",
+    desc: "Microfiber keyboard dust cover for MacBook Pro 15-16 inch and Air 15 — dustproof protective cloth, ultra thin and waterproof.",
+    specs: [["Type", "Microfiber keyboard dust cover / protective cloth (per title)"], ["Compatibility", "MacBook Pro 15-16 inch, Air 15 (per title)"], ["Function", "Dustproof, waterproof keyboard protection (per title)"], ["Material", "Microfiber cloth, ultra thin (per title)"]],
+    added: 429,
+    popular: false
+  },
+  {
+    id: "usb-c-hub-to-4k-hdmi",
+    name: "USB C Hub to 4K HDMI-Compatible USB 3.0 2.0 Type C PD Charging Dock for MacBook iPad Samsung S10 Dex TV Mouse Keyboard U Disk",
+    short: "USB C Hub to 4K HDMI",
+    price: 9.30,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c32DaCo7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-hub-to-4k-hdmi/ad-photo.png",
+    desc: "USB C hub to 4K HDMI-compatible dock — USB 3.0/2.0 and Type C PD charging for MacBook, iPad, Samsung S10 Dex, TV, mouse, keyboard and U disk.",
+    specs: [["Type", "USB C hub to 4K HDMI-compatible dock (per title)"], ["Ports", "USB 3.0 / 2.0, Type C PD charging (per title)"], ["Variants", "6-in-1 / 5-in-1 / 7-in-1 (per listing)"], ["Compatibility", "MacBook, iPad, Samsung S10 Dex, TV, mouse, keyboard, U disk (per title)"]],
+    added: 430,
+    popular: false
+  }
 
 ];
 
