@@ -12658,6 +12658,107 @@ const PRODUCTS = [
     added: 498,
     popular: false
   }
+,
+  {
+    id: "mink-cashmere-sweater",
+    name: "Mink Cashmere Sweater Autumn Winter Warm Knitted Sweater",
+    short: "Mink Cashmere Sweater",
+    price: 32.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4aQg62J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mink-cashmere-sweater/ad-photo.png",
+    desc: "Mink cashmere sweater — autumn winter warm knitted sweater.",
+    specs: [["Type", "Mink cashmere sweater (per title)"], ["Neck", "Turtleneck (per photos)"], ["Colors", "Light camel, black-purple, light blue, haze blue, mint green and more (per photo colour labels)"], ["Season", "Autumn winter (per title)"]],
+    added: 499,
+    popular: false
+  },
+  {
+    id: "chic-ven-woolen-coat",
+    name: "CHIC VEN Woolen Coat Women's Long Winter Coat",
+    short: "CHIC VEN Woolen Coat",
+    price: 121.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3tKziFp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chic-ven-woolen-coat/ad-photo.png",
+    desc: "CHIC VEN woolen coat — women's long winter coat.",
+    specs: [["Type", "Woolen coat (per title)"], ["Brand", "CHIC VEN (per title)"], ["Style", "Oversized double-breasted blazer coat (per photos)"], ["Colors", "Light green, grey, black, brown (per photo 3)"]],
+    added: 500,
+    popular: false
+  },
+  {
+    id: "aiopeson-polo-shirt",
+    name: "AIOPESON Polo Shirt Men's Embroidery Cotton Polo Shirt",
+    short: "AIOPESON Polo Shirt",
+    price: 13.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3MJQEQf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aiopeson-polo-shirt/ad-photo.png",
+    desc: "AIOPESON polo shirt — men's embroidery cotton polo shirt.",
+    specs: [["Type", "Polo shirt (per title)"], ["Brand", "AIOPESON (per title)"], ["Detail", "Giraffe embroidery, sleeve '3' patch (per photos)"], ["Sizes", "XS to 5XL (per photo 2 size table)"]],
+    added: 501,
+    popular: false
+  },
+  {
+    id: "mens-100-superfine-merino-wool-t-shirt",
+    name: "Men's 100% Superfine Merino Wool T-Shirt",
+    short: "Men's 100% Superfine Merino Wool T-Shirt",
+    price: 30.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4KfwTOF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mens-100-superfine-merino-wool-t-shirt/ad-photo.png",
+    desc: "Men's 100% superfine merino wool t-shirt.",
+    specs: [["Type", "T-shirt (per title)"], ["Material", "100% superfine merino wool (per title)"], ["Use", "Travel and outdoor (per photos)"], ["Colors", "Dark grey, burgundy, light grey, blue-grey, green (per photos)"]],
+    added: 502,
+    popular: false
+  }
 
 ];
 
