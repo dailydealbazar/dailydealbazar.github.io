@@ -8626,6 +8626,107 @@ const PRODUCTS = [
     added: 338,
     popular: false
   }
+,
+  {
+    id: "crystal-10-yard-rhinestones-trim-gold-diamond",
+    name: "Crystal 10 Yard Rhinestones Trim Stone Cup Chain Gold Diamond Strass Decorative Applique Crystal Trimmings For Dresses",
+    short: "Crystal 10 Yard Rhinestones Trim Gold Diamond",
+    price: 0.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4VySbaB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-10-yard-rhinestones-trim-gold-diamond/ad-photo.png",
+    desc: "Crystal rhinestones trim — 10-yard stone cup chain, gold diamond strass decorative applique trimming for dresses.",
+    specs: [["Length", "10 yards"], ["Type", "Stone cup chain"], ["Style", "Gold diamond strass"], ["Use", "Dress decoration"]],
+    added: 339,
+    popular: false
+  },
+  {
+    id: "simulated-firing-recoil-electric-water-gun-toy",
+    name: "Simulated Firing and Recoil Electric Water Gun Toys Children Automatic Sensor Lights Water Pistol Summer Outdoor Beach Kids Toy",
+    short: "Simulated Firing Recoil Electric Water Gun Toy",
+    price: 16.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4T1JyA3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/simulated-firing-recoil-electric-water-gun-toy/ad-photo.png",
+    desc: "Simulated firing and recoil electric water gun toy for children — automatic sensor lights water pistol for summer outdoor beach play. A toy, not a real weapon.",
+    specs: [["Type", "Electric water gun toy"], ["Feature", "Simulated firing & recoil"], ["Lights", "Automatic sensor lights"], ["Use", "Summer outdoor beach play"]],
+    added: 340,
+    popular: false
+  },
+  {
+    id: "120w-fast-charge-cable-pd-usb-c-to-usb-c",
+    name: "120W Fast Charge Cable PD Quick Charging High Quality USB C TO USB Type C Cable For iPhone Xiaomi 17 Plus Pro Max Samsung S24",
+    short: "120W Fast Charge Cable PD USB C to USB C",
+    price: 3.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2QwhE5Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/120w-fast-charge-cable-pd-usb-c-to-usb-c/ad-photo.png",
+    desc: "120W fast charge cable — PD quick charging USB C to USB Type C cable for iPhone, Xiaomi and Samsung phones.",
+    specs: [["Power", "120W fast charge"], ["Type", "USB C to USB Type C"], ["Protocol", "PD quick charging"], ["Fits", "iPhone / Xiaomi / Samsung"]],
+    added: 341,
+    popular: false
+  },
+  {
+    id: "rc-repair-tool-aluminium-magnetic-screw-tray",
+    name: "RC Repair Tool Aluminium Alloy Magnetic Screw Tray Plate For Airplane Car Boat Crawler Axial SCX10 D90 D110 Model Repair Tool",
+    short: "RC Repair Tool Aluminium Magnetic Screw Tray",
+    price: 3.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3HMtM0r",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rc-repair-tool-aluminium-magnetic-screw-tray/ad-photo.png",
+    desc: "RC repair tool — aluminium alloy magnetic screw tray plate for airplane, car, boat and crawler model repair.",
+    specs: [["Material", "Aluminium alloy"], ["Type", "Magnetic screw tray"], ["Use", "RC model repair"], ["Fits", "Axial SCX10 / D90 / D110"]],
+    added: 342,
+    popular: false
+  }
 
 ];
 
