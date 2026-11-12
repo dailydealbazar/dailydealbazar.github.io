@@ -14570,6 +14570,107 @@ const PRODUCTS = [
     added: 574,
     popular: false
   }
+,
+  {
+    id: "quest-3-battery-head-strap",
+    name: "10000mAh Battery Comfort Head Strap For Meta Quest 3/3s Replacement Elite Strap PD18W Charging Enhanced Playtime, Carrying Case",
+    short: "Quest 3 Battery Head Strap",
+    price: 32.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3goeaXv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/quest-3-battery-head-strap/ad-photo.png",
+    desc: "10000mAh battery comfort head strap for Meta Quest 3/3s.",
+    specs: [["Type", "Battery head strap, 10000mAh, PD18W charging (per title)"], ["Fits", "Meta Quest 3/3s, with carrying case (per title)"]],
+    added: 575,
+    popular: false
+  },
+  {
+    id: "e88-drone-8k-hd-camera",
+    name: "2026 New E88 Drone 8K HD Camera Aerial Photography 5G WIFI FPV Foldable Quadcopters RC Drone with Hovering For Toys Gifts Kids",
+    short: "E88 Drone 8K HD Camera",
+    price: 33.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4de9Y2f",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/e88-drone-8k-hd-camera/ad-photo.png",
+    desc: "E88 drone with 8K HD camera, foldable quadcopter.",
+    specs: [["Type", "Foldable RC quadcopter drone, 8K HD camera, 5G WiFi FPV (per title)"], ["Use", "Aerial photography, hovering, toys and gifts for kids (per title)"]],
+    added: 576,
+    popular: false
+  },
+  {
+    id: "audio-jack-clip-on-pickup",
+    name: "Audio Jack Clip On Pickup for Acoustic Guitar Mandolin Bouzouki Violin Banjo Ukulele Length 2.5 M Sound Pickup Transducer",
+    short: "Audio Jack Clip On Pickup",
+    price: 4.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3yGtUrZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/audio-jack-clip-on-pickup/ad-photo.png",
+    desc: "Audio jack clip-on pickup transducer, 2.5 m.",
+    specs: [["Type", "Clip-on sound pickup transducer, 2.5 m cable (per title)"], ["Fits", "Acoustic guitar, mandolin, bouzouki, violin, banjo, ukulele (per title)"]],
+    added: 577,
+    popular: false
+  },
+  {
+    id: "11pcs-guitar-strap",
+    name: "11Pcs Guitar Strap for Acoustic / Electric / Bass Guitars & Ukulele Cotton PU Leather Adjustable Length Approx. 33.46 inch to 53.14 inch",
+    short: "11Pcs Guitar Strap",
+    price: 6.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4NJr8Dl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/11pcs-guitar-strap/ad-photo.png",
+    desc: "11 pcs guitar strap, cotton PU leather, adjustable.",
+    specs: [["Type", "Guitar strap, cotton PU leather, adjustable 33.46-53.14 inch (per title)"], ["Fits", "Acoustic / electric / bass guitars and ukulele (per title)"]],
+    added: 578,
+    popular: false
+  }
 
 ];
 
