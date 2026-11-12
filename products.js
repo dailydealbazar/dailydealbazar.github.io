@@ -10238,6 +10238,107 @@ const PRODUCTS = [
     added: 402,
     popular: false
   }
+,
+  {
+    id: "65w-usb-c-charger-gan",
+    name: "65W USB-C Charger GaN Fast Charging PD Type C Cable Mobile Phone Adapter For iPhone 16 Xiaomi Samsung QC 3.0 Wall Charger",
+    short: "65W USB-C Charger GaN",
+    price: 4.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2wUFkPp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/65w-usb-c-charger-gan/ad-photo.png",
+    desc: "65W GaN USB-C fast charger — PD Type-C wall charger with QC 3.0 for iPhone, Xiaomi and Samsung phones.",
+    specs: [["Type", "65W GaN PD wall charger"], ["Charging", "PD Type-C fast charging, QC 3.0 (per title)"], ["Output", "USB 5V=3A; Type-C 5.0V=3A, 9V=2.23A, 12V=1.67A (per photo-6)"], ["Size", "EU 43×26.5×81mm, US 43×26.5×61.5mm; white/black; current/overvoltage/overload/short-circuit protection (per photo-6)"]],
+    added: 403,
+    popular: false
+  },
+  {
+    id: "exfoliating-body-scrubber-set",
+    name: "Exfoliating Body Scrubber Set - Includes Back Scrubber, Bath Glove And Shower Bath Sponge Loofah - Deep Clean And Vitalize",
+    short: "Exfoliating Body Scrubber Set",
+    price: 3.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3Fw8My3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/exfoliating-body-scrubber-set/ad-photo.png",
+    desc: "Exfoliating body scrubber set — back scrubber, bath glove and shower bath sponge loofah for a deep clean.",
+    specs: [["Type", "Exfoliating body scrubber set"], ["Includes", "Back scrubber, bath glove, shower bath sponge loofah (per title)"], ["Sizes", "Back scrubber 29.5in/75cm; glove 7.87×5.11in/20×13cm; loofah 4in/10.16cm (per photo-4)"], ["Care", "Do not bleach; hang to dry; do not dry clean; do not iron (per photo-4)"]],
+    added: 404,
+    popular: false
+  },
+  {
+    id: "ultra-thin-silicone-soft-case-samsung-galaxy",
+    name: "Ultra Thin Silicone Soft Case For Samsung Galaxy S25 S24 S23 S21 FE S22 Ultra Plus A16 A06 A55 A35 A15 A05S A54 A34 A14 A53 A33",
+    short: "Ultra Thin Silicone Soft Case for Samsung Galaxy",
+    price: 2.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3T4IUYL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-silicone-soft-case-samsung-galaxy/ad-photo.png",
+    desc: "Ultra thin silicone soft case for Samsung Galaxy phones — slim, soft-touch protection.",
+    specs: [["Type", "Ultra thin silicone soft phone case"], ["Compatibility", "Samsung Galaxy S25 / S24 / S23 / S21 FE / S22 Ultra Plus / A16 / A06 / A55 / A35 / A15 / A05S / A54 / A34 / A14 / A53 / A33 (per title)"], ["Protection", "Military-grade drop protection, 10FT drop height, 3000+ drop tests, shock-absorbing corners (per photo-3)"], ["Design", "1.0mm raised screen edges, 2.0mm raised camera edges; precise cutouts; sensitive buttons; 100% wireless-charger support (per photos 2, 4–5)"]],
+    added: 405,
+    popular: false
+  },
+  {
+    id: "abonnie-premade-volume-fans-short-stem-russian-eyelash-extension",
+    name: "ABONNIE Premade Volume Fans Short Stem 3d/4d/5d/6d Russian Eyelash Extension Mink Eyelash Extension All Size Lashes Tray",
+    short: "ABONNIE Premade Volume Fans Lashes",
+    price: 2.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3XeKXsf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/abonnie-premade-volume-fans-short-stem-russian-eyelash-extension/ad-photo.png",
+    desc: "ABONNIE premade volume fans — short-stem Russian eyelash extensions, 3D/4D/5D/6D, in an all-size lash tray.",
+    specs: [["Type", "Premade volume fans, short stem"], ["Volume", "3D / 4D / 5D / 6D (per title)"], ["Curl & size", "C/D curl; thickness 0.07/0.10mm; length 8–15mm & mixed (per photo-2)"], ["Use", "Short stem fan; use from the bottom row (per photos 4–5)"]],
+    added: 406,
+    popular: false
+  }
 
 ];
 
