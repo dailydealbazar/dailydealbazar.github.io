@@ -15275,6 +15275,107 @@ const PRODUCTS = [
     added: 602,
     popular: false
   }
+,
+  {
+    id: "popdeer-pd-ja3-5000a-jump-starter",
+    name: "POPDEER PD-JA3 5000A 4-in-1 Jump Starter, 150PSI Air Compressor, 12V USB Powerbank with LCD Display, 10L Gas/8L Diesel",
+    short: "POPDEER PD-JA3 5000A Jump Starter",
+    price: 50.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c35TN9L9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/popdeer-pd-ja3-5000a-jump-starter/ad-photo.png",
+    desc: "POPDEER PD-JA3 5000A 4-in-1 jump starter with air compressor and powerbank.",
+    specs: [["Type", "4-in-1 jump starter, 150PSI air compressor, 12V USB powerbank (per title)"], ["Display", "LCD display (per title)"]],
+    added: 603,
+    popular: false
+  },
+  {
+    id: "bomurphy-diagonal-pliers",
+    name: "Bomurphy Diagonal Pliers Carbon Steel Pliers Electrical Wire Cable Cutters, Wire Snips for Electronics Soft Copper Jewelry",
+    short: "Bomurphy Diagonal Pliers",
+    price: 22.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4pnVrS3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bomurphy-diagonal-pliers/ad-photo.png",
+    desc: "Bomurphy carbon steel diagonal pliers for electrical wire cutting.",
+    specs: [["Type", "Diagonal pliers, carbon steel (per title)"], ["Use", "Electrical wire cable cutting, electronics, soft copper, jewelry (per title)"]],
+    added: 604,
+    popular: false
+  },
+  {
+    id: "telescopic-magnet-picking-tool",
+    name: "Telescopic Magnet Picking Tool for Hard to Reach Areas",
+    short: "Telescopic Magnet Picking Tool",
+    price: 2.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4cdulYP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telescopic-magnet-picking-tool/ad-photo.png",
+    desc: "Telescopic magnet picking tool for hard to reach areas.",
+    specs: [["Type", "Telescopic magnet picking tool (per title)"], ["Use", "Picking up items in hard to reach areas (per title)"]],
+    added: 605,
+    popular: false
+  },
+  {
+    id: "ilmh-high-temperature-wire-harness-cloth-tape",
+    name: "iLMH High Temperature Wire Harness Cloth Tape Automotive Cable Loom Heatproof Fabric Adhesive Tape, Engine Electrical Insulation",
+    short: "iLMH High Temperature Wire Harness Cloth Tape",
+    price: 3.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c42RP0C7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ilmh-high-temperature-wire-harness-cloth-tape/ad-photo.png",
+    desc: "iLMH heatproof cloth tape for automotive wire harnesses.",
+    specs: [["Type", "High temperature wire harness cloth tape (per title)"], ["Use", "Automotive cable loom, engine electrical insulation (per title)"]],
+    added: 606,
+    popular: false
+  }
 
 ];
 
