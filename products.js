@@ -8828,6 +8828,107 @@ const PRODUCTS = [
     added: 346,
     popular: false
   }
+,
+  {
+    id: "mavo-lumicurve-smart-coffee-scale",
+    name: "MAVO Lumicurve Smart Coffee Scale 0.1g Precision Digital Espresso Scale with Timer Flow Rate Display for Pour Over Coffee",
+    short: "MAVO Lumicurve Smart Coffee Scale 0.1g",
+    price: 120.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3FQ3FlV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mavo-lumicurve-smart-coffee-scale/ad-photo.png",
+    desc: "MAVO Lumicurve smart coffee scale — 0.1g precision digital espresso scale with timer and flow rate display for pour over coffee.",
+    specs: [["Type", "Smart coffee scale"], ["Precision", "0.1g"], ["Display", "Timer + flow rate"], ["Use", "Pour over coffee"]],
+    added: 347,
+    popular: false
+  },
+  {
+    id: "smart-interactive-dog-toy-e-tpu-ball",
+    name: "Smart Interactive Dog Toy, E-TPU Toy Ball for Aggressive Chewers, Automatic Moving, Rechargeable Ball for Small/Medium Dogs",
+    short: "Smart Interactive Dog Toy E-TPU Ball",
+    price: 27.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3iGJFRZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/smart-interactive-dog-toy-e-tpu-ball/ad-photo.png",
+    desc: "Smart interactive dog toy — E-TPU toy ball for aggressive chewers, automatic moving, rechargeable, for small and medium dogs.",
+    specs: [["Type", "Interactive toy ball"], ["Material", "E-TPU"], ["Feature", "Automatic moving"], ["Power", "Rechargeable"]],
+    added: 348,
+    popular: false
+  },
+  {
+    id: "golf-finding-glasses-ball-finder",
+    name: "Golf Finding Glasses, Golf Ball Finder Professional Lenses Glasses, Sports Sunglasses Fit for Running Golf Driving",
+    short: "Golf Finding Glasses Ball Finder",
+    price: 4.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4pl8sCR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/golf-finding-glasses-ball-finder/ad-photo.png",
+    desc: "Golf finding glasses — golf ball finder professional lenses glasses, sports sunglasses fit for running, golf and driving.",
+    specs: [["Type", "Golf ball finder glasses"], ["Lens", "Professional finder lenses"], ["Use", "Golf, running, driving"], ["Style", "Sports sunglasses"]],
+    added: 349,
+    popular: false
+  },
+  {
+    id: "sonoff-trvzb-zigbee-thermostatic-radiator-valve",
+    name: "SONOFF TRVZB Zigbee Thermostatic Radiator Valve Smart Home Heating Frost Protection eWeLink App Remote Control Works with Alexa Google Home",
+    short: "SONOFF TRVZB Zigbee Thermostatic Radiator Valve",
+    price: 33.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3GfHUCr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-trvzb-zigbee-thermostatic-radiator-valve/ad-photo.png",
+    desc: "SONOFF TRVZB Zigbee thermostatic radiator valve — smart home heating with frost protection, eWeLink app remote control, works with Alexa and Google Home.",
+    specs: [["Type", "Zigbee thermostatic radiator valve"], ["Control", "eWeLink app"], ["Voice", "Alexa / Google Home"], ["Feature", "Frost protection"]],
+    added: 350,
+    popular: false
+  }
 
 ];
 
