@@ -11045,6 +11045,107 @@ const PRODUCTS = [
     added: 434,
     popular: false
   }
+,
+  {
+    id: "beili-dual-ended-makeup-brush-set",
+    name: "BEILI Dual-ended Makeup Brush Set Professional 12 Pcs Vegan Contour Foundation Powder Eyebrow Bronzer Brushes Cosmetics Kit",
+    short: "BEILI Dual-ended Makeup Brush Set",
+    price: 28.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3cwt2bh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-dual-ended-makeup-brush-set/ad-photo.png",
+    desc: "BEILI dual-ended makeup brush set — professional 12 pcs vegan brush kit: contour, foundation, powder, eyebrow and bronzer brushes.",
+    specs: [["Type", "Dual-ended makeup brush set, 12 pcs (per title)"], ["Style", "Vegan, professional cosmetics kit (per title)"], ["Handle", "Birch handle, aluminum tube (per photo)"], ["Use", "Contour, foundation, powder, eyebrow, bronzer (per title)"]],
+    added: 435,
+    popular: false
+  },
+  {
+    id: "hair-salon-styling-gloves",
+    name: "1Pcs Hair Salon Styling Gloves Double-sided Hair Straightener Perm Curling Hairdressing Heat Resistant Finger Glove",
+    short: "Hair Salon Styling Gloves",
+    price: 4.40,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3j5Ew7v",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hair-salon-styling-gloves/ad-photo.png",
+    desc: "Hair salon styling gloves — double-sided, heat resistant finger glove for hair straightener, perm and curling.",
+    specs: [["Type", "Double-sided hair straightener / perm / curling glove (per title)"], ["Feature", "Heat resistant finger glove (per title)"], ["Size", "22.5 x 8 cm (per photo)"], ["Qty", "1 pc (per title)"]],
+    added: 436,
+    popular: false
+  },
+  {
+    id: "sonoff-s60-wifi-smart-socket",
+    name: "SONOFF S60 EU 16A IPlug Wi-Fi Smart Socket 1-5PCS Overload Protection Smart Scene Remote Control via EWeLink Alexa Google IFTTT",
+    short: "SONOFF S60 Wi-Fi Smart Socket",
+    price: 11.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3PXEaD5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-s60-wifi-smart-socket/ad-photo.png",
+    desc: "SONOFF S60 Wi-Fi smart socket — EU 16A plug (Type F), overload protection, remote control via EWeLink, Alexa, Google and IFTTT.",
+    specs: [["Type", "Wi-Fi smart socket, EU 16A plug (Type F) (per title)"], ["Model", "S60TPF EU 16A (per photo)"], ["Feature", "Overload protection, smart scene (per title)"], ["Control", "EWeLink, Alexa, Google, IFTTT (per title)"]],
+    added: 437,
+    popular: false
+  },
+  {
+    id: "gub-plus-21-motorcycle-bike-phone-holder",
+    name: "GUB PLUS 21 Motorcycle Bike Phone Holder Aluminum Alloy Cell Phone Holder Bracket Rotatable Adjustable Anti-slip Cycling Parts",
+    short: "GUB PLUS 21 Motorcycle Bike Phone Holder",
+    price: 26.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4r4cOdz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gub-plus-21-motorcycle-bike-phone-holder/ad-photo.png",
+    desc: "GUB PLUS 21 motorcycle bike phone holder — aluminum alloy bracket, rotatable, adjustable, anti-slip, for cycling.",
+    specs: [["Type", "Motorcycle / bike phone holder (per title)"], ["Material", "Aluminum alloy (per title)"], ["Size", "8.8 x 12.3 cm; 151 g (per photo)"], ["Feature", "Rotatable, adjustable, anti-slip (per title)"]],
+    added: 438,
+    popular: false
+  }
 
 ];
 
