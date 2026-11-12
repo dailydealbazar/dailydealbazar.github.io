@@ -12557,6 +12557,107 @@ const PRODUCTS = [
     added: 494,
     popular: false
   }
+,
+  {
+    id: "new-motorcycle-jackets-mens-full-body-armor-protection-jackets",
+    name: "New Motorcycle Jackets Men's Full Body Armor Protection Jackets Motocross Enduro Racing Protective Gear",
+    short: "New Motorcycle Jackets Men's Full Body Armor Protection Jackets",
+    price: 30.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4VPtnzp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/new-motorcycle-jackets-mens-full-body-armor-protection-jackets/ad-photo.png",
+    desc: "New motorcycle jackets — men's full body armor protection jackets for motocross and enduro racing.",
+    specs: [["Type", "Full body armor protection jacket (per title)"], ["Protection", "PP hard shell shoulder, chest, arm and elbow protection; breathable mesh (per photo 6)"], ["Use", "Motocross, enduro racing (per title)"], ["Colors", "Orange/black, red/black, black (per photo 1)"]],
+    added: 495,
+    popular: false
+  },
+  {
+    id: "kids-fitness-tracksuits",
+    name: "Kids Fitness Tracksuits Boys Compression Sportswear Set Long Sleeve Top and Leggings",
+    short: "Kids Fitness Tracksuits",
+    price: 12.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3X17hBl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-fitness-tracksuits/ad-photo.png",
+    desc: "Kids fitness tracksuits — boys compression sportswear set, long sleeve top and leggings.",
+    specs: [["Type", "Boys compression sportswear set (per title)"], ["Set", "Long sleeve top and leggings (per title)"], ["Size", "Sizes 22 to 2XL; weight 16-80 kg, height 110-186 cm (per photo 6 size chart)"], ["Style", "Youthful and lively for boys sportswear (per photos)"]],
+    added: 496,
+    popular: false
+  },
+  {
+    id: "car-headlight-taillight-fog-light-lamp-wrap-film",
+    name: "Car Headlight & Taillight & Fog Light Lamp Wrap Film PPF Headlight Film Tint",
+    short: "Car Headlight & Taillight & Fog Light Lamp Wrap Film",
+    price: 6.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3CAeCtz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-headlight-taillight-fog-light-lamp-wrap-film/ad-photo.png",
+    desc: "Car headlight, taillight and fog light lamp wrap film — PPF headlight film tint for cars.",
+    specs: [["Type", "PPF headlight film, lamp wrap film (per title)"], ["Use", "Headlight, taillight, fog light (per title)"], ["Material", "High quality PU material; tear off without trace (per photo 4)"], ["Colors", "Transparent, light blue, tea color, dark black and more (per photos 5-6)"]],
+    added: 497,
+    popular: false
+  },
+  {
+    id: "magnetic-car-phone-holder-stand",
+    name: "Magnetic Car Phone Holder Stand Strong Magnetic Mount with Metal Plate",
+    short: "Magnetic Car Phone Holder Stand",
+    price: 1.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c37DGRWx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-stand/ad-photo.png",
+    desc: "Magnetic car phone holder stand — strong magnetic mount with metal plate for phones.",
+    specs: [["Type", "Magnetic car phone holder stand (per title)"], ["Magnets", "Strong magnetic, four permanent magnets (per photo 2)"], ["Size", "3.3 cm diameter, 0.7 cm thick (per photo 5)"], ["Mount", "3M double-sided adhesive, sticks on any smooth surface (per photo 6)"]],
+    added: 498,
+    popular: false
+  }
 
 ];
 
