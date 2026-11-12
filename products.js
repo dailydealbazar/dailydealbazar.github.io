@@ -13965,6 +13965,106 @@ const PRODUCTS = [
     added: 550,
     popular: false
   }
+,
+  {
+    id: "foot-massager-massage-roller",
+    name: "Foot Massager Massage Roller Yoga Massage Ball Plantar Fascia Roller Muscle Relaxation Care Plastic Manual Foot Massager Rollers",
+    short: "Foot Massager Massage Roller",
+    price: 5.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4ODNtUP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foot-massager-massage-roller/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foot-massager-massage-roller/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foot-massager-massage-roller/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foot-massager-massage-roller/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foot-massager-massage-roller/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foot-massager-massage-roller/ad-photo.png",
+    desc: "Foot massager roller for plantar fascia and muscle relaxation.",
+    specs: [["Type", "Foot massager roller, yoga massage ball (per title)"], ["Use", "Plantar fascia roller, muscle relaxation (per title)"]],
+    added: 551,
+    popular: false
+  },
+  {
+    id: "baseus-45w-gan-charger",
+    name: "Baseus 45W GaN Charger For iPhone 17 16 15 Pro Max Samsung Galaxy Fast Charger Phone Charger USB C Charger Portable PD Charger",
+    short: "Baseus 45W GaN Charger",
+    price: 16.85,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3sASJJV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-45w-gan-charger/ad-photo.png",
+    desc: "Baseus 45W GaN fast charger with USB-C PD.",
+    specs: [["Type", "45W GaN charger, USB-C PD (per title)"], ["Fits", "iPhone 17/16/15 Pro Max, Samsung Galaxy (per title)"]],
+    added: 552,
+    popular: false
+  },
+  {
+    id: "crystal-silicone-tpu-case-samsung-galaxy",
+    name: "Crystal Silicone Soft TPU Case For Samsung Galaxy S26 S25 S24 S23 S22 S21 S20 FE S25 Plus 25 edge Ultra Thin Clear Phone Case",
+    short: "Crystal Silicone TPU Case for Samsung Galaxy",
+    price: 3.86,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3SUM4g3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crystal-silicone-tpu-case-samsung-galaxy/ad-photo.png",
+    desc: "Crystal silicone soft TPU clear phone case for Samsung Galaxy.",
+    specs: [["Type", "Crystal silicone soft TPU case (per title)"], ["Fits", "Samsung Galaxy S26/S25/S24/S23/S22/S21/S20 FE (per title)"]],
+    added: 553,
+    popular: false
+  },
+  {
+    id: "laptop-bag",
+    name: "Laptop Bag For Xiaomi Lenovo Dell Notebook Computer Laptop Sleeve For Macbook Air Pro Retina 13 14 15 15.6 Inch Laptops Case",
+    short: "Laptop Bag",
+    price: 4.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4N0XryJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-bag/ad-photo.png",
+    desc: "Laptop bag and sleeve for 13-15.6 inch laptops.",
+    specs: [["Type", "Laptop bag / sleeve (per title)"], ["Fits", "13/14/15/15.6 inch laptops, MacBook Air/Pro (per title)"]],
+    added: 554,
+    popular: false
+  }
 
 ];
 
