@@ -10440,6 +10440,107 @@ const PRODUCTS = [
     added: 410,
     popular: false
   }
+,
+  {
+    id: "magnetic-luxury-magsafe-phone-cases",
+    name: "Magnetic Luxury Wireless Charge For Magsafe Phone Cases for iPhone 16 Plus 15 14 13 17 18 Pro Max Original Liquid Silicone Cover",
+    short: "Magnetic Luxury MagSafe Phone Cases",
+    price: 6.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c43FspSL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-luxury-magsafe-phone-cases/ad-photo.png",
+    desc: "Magnetic luxury MagSafe phone cases with wireless charging support — original liquid silicone covers for iPhone 16, 15, 14, 13, 17 and 18 Pro Max.",
+    specs: [["Type", "Magnetic MagSafe phone case, original liquid silicone cover"], ["Compatibility", "iPhone 16 Plus / 15 / 14 / 13 / 17 / 18 Pro Max (per title)"], ["Features", "Magnetic, wireless-charge compatible; comprehensive lens protection, all-inclusive protection (per title/photo-4)"], ["Colours", "Grey, brown, lavender, white, blue, black (per photos 1-6)"], ["Material", "Liquid silicone (per title); YCADEN brand print on inner lining (per photos)"]],
+    added: 411,
+    popular: false
+  },
+  {
+    id: "freestyle-libre-blood-glucose-monitor",
+    name: "FreeStyle Libre Blood Glucose Monitor 24-Hour X 15 Day Real-Time Monitoring, Dynamic Blood Glucose Monitoring Sensor",
+    short: "FreeStyle Libre Blood Glucose Monitor",
+    price: 29.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2uDbfkn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/freestyle-libre-blood-glucose-monitor/ad-photo.png",
+    desc: "FreeStyle Libre blood glucose monitor — 24-hour x 15 day real-time monitoring, dynamic blood glucose monitoring sensor.",
+    specs: [["Type", "Blood glucose monitor, dynamic glucose monitoring sensor (AiDEX continuous glucose monitoring system, per photos)"], ["Monitoring", "15 days x 24 hours continuous monitoring; up to 21,600 readings, records every 1 minute (per title/photos 1, 4)"], ["Connection", "Bluetooth connectivity, scan-free transmission (per photos 1, 6)"], ["Use", "No assembly required, just press and wear; one twist and press (per photos 1, 5); IP68 dustproof and waterproof (per photo-1); 3 packaging colours shipped randomly (per photo-3)"]],
+    added: 412,
+    popular: false
+  },
+  {
+    id: "baseus-10000mah-magnetic-power-bank",
+    name: "Baseus 10000mAh Magnetic Power Bank PD 27W, 5000mAh Magnetic Power Bank PD 20W Card-Sized Powerbank For iPhone 17 Samsung",
+    short: "Baseus 10000mAh Magnetic Power Bank",
+    price: 52.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3220s6R",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-magnetic-power-bank/ad-photo.png",
+    desc: "Baseus 10000mAh magnetic power bank PD 27W — card-sized magnetic powerbank for iPhone 17 and Samsung.",
+    specs: [["Type", "Magnetic power bank, card-sized"], ["Capacity", "5000 & 10000mAh (per main photo)"], ["Charging", "15W Max magnetic wireless charging; PD 20W & 27W wired charging (per main photo)"], ["Cooling", "Dual superconducting rapid cooling system, 5 degrees below the standard temperature; AI monitoring chip (per photo-4)"], ["Colours", "Black, Grey, Pink, Titanium; premium aluminium shell, laser engraved texture (per photo-6)"]],
+    added: 413,
+    popular: false
+  },
+  {
+    id: "qi2-25w-magnetic-car-wireless-charger",
+    name: "QI2 25W Magnetic Car Wireless Charger With 63W Car Charger For iPhone 17 16 15 Pro Max Macsafe Car Phone Holder Stand Mount Fast",
+    short: "QI2 25W Magnetic Car Wireless Charger",
+    price: 36.54,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4Leg75Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qi2-25w-magnetic-car-wireless-charger/ad-photo.png",
+    desc: "QI2 25W magnetic car wireless charger with 63W car charger — MagSafe car phone holder stand mount for iPhone 17, 16 and 15 Pro Max.",
+    specs: [["Type", "QI2 magnetic car wireless charger with car charger"], ["Power", "25W Max wireless charging (iPhone 17/16 series, iOS 26 or later); 15W Max (iPhone 15/14/13/12 series); 63W car charger (per photos 1, 3, 6)"], ["Compatibility", "ONLY for iPhone 12–17 series (per photo-1)"], ["Mount", "360° rotation, landscape/portrait; vent mount, unobstructed airflow (per photos 2, 4)"], ["Package", "63W car charger, vent mount, L-shaped USB Type-C cable, cooling fan MagSafe charger (per photo-1); use the included car charger to achieve 25W (per photo-6)"]],
+    added: 414,
+    popular: false
+  }
 
 ];
 
