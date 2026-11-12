@@ -14065,6 +14065,107 @@ const PRODUCTS = [
     added: 554,
     popular: false
   }
+,
+  {
+    id: "tangzu-waner-2-red-lion-bass-edition-earphones",
+    name: "Tangzu Waner 2 Red Lion Bass Edition Dynamic Driver In-Ear Earphones High-Quality Sound Comfortable Wearing Wired Earbuds",
+    short: "Tangzu Waner 2 Red Lion Bass Edition Earphones",
+    price: 39.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4lshF63",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tangzu-waner-2-red-lion-bass-edition-earphones/ad-photo.png",
+    desc: "Tangzu Waner 2 Red Lion Bass Edition dynamic driver in-ear earphones.",
+    specs: [["Type", "Dynamic driver in-ear earphones (per title)"], ["Feature", "Red Lion Bass Edition, comfortable wearing (per title)"]],
+    added: 555,
+    popular: false
+  },
+  {
+    id: "clear-acrylic-display-case",
+    name: "1pc Clear Acrylic Display Case Dustproof Toys Figures Car Trucks Vans Model Box Collection Storage Organizer Countertop Show Box",
+    short: "Clear Acrylic Display Case",
+    price: 21.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3IObUpl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/clear-acrylic-display-case/ad-photo.png",
+    desc: "Clear acrylic dustproof display case for toys and models.",
+    specs: [["Type", "Clear acrylic display case, dustproof (per title)"], ["Use", "Toys / figures / model cars storage and display (per title)"]],
+    added: 556,
+    popular: false
+  },
+  {
+    id: "black-nitrile-disposable-gloves",
+    name: "10/20/50/100PCS Black Nitrile Disposable Gloves for Work Latex Free Home Cleaning Glove Textured Mechanic Tattoo Hair Dye Beauty",
+    short: "Black Nitrile Disposable Gloves",
+    price: 4.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4e7kFbl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/black-nitrile-disposable-gloves/ad-photo.png",
+    desc: "Black nitrile disposable gloves, latex free, textured grip.",
+    specs: [["Type", "Black nitrile disposable gloves, latex free (per title)"], ["Use", "Work / home cleaning / mechanic / tattoo / hair dye (per title)"]],
+    added: 557,
+    popular: false
+  },
+  {
+    id: "gustavo-gravel-road-bike-inner-tube",
+    name: "GUSTAVO Gravel Road Bike Inner Tube 700X35/50c TPU Material Tire 45mm 65mm Length French Valve",
+    short: "GUSTAVO Gravel Road Bike Inner Tube",
+    price: 6.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3mVYGd9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gustavo-gravel-road-bike-inner-tube/ad-photo.png",
+    desc: "GUSTAVO gravel road bike inner tube, TPU, French valve.",
+    specs: [["Type", "Gravel road bike inner tube, TPU (per title)"], ["Size", "700X35/50c, 45mm/65mm French valve (per title)"]],
+    added: 558,
+    popular: false
+  }
 
 ];
 
