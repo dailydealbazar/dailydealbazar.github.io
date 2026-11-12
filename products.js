@@ -10541,6 +10541,107 @@ const PRODUCTS = [
     added: 414,
     popular: false
   }
+,
+  {
+    id: "fosi-audio-za3-stereo-power-amplifier",
+    name: "Fosi Audio ZA3 Stereo Power Amplifier TPA3255 Class D HiFi Audio Amp for Passive Bookshelf Speaker With XLR/RCA/Balanced Input",
+    short: "Fosi Audio ZA3 Stereo Power Amplifier",
+    price: 120.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3o6gbyr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-za3-stereo-power-amplifier/ad-photo.png",
+    desc: "Fosi Audio ZA3 stereo power amplifier — TPA3255 Class D HiFi audio amp for passive bookshelf speakers, with XLR/RCA balanced input.",
+    specs: [["Type", "Stereo power amplifier, Class D HiFi audio amp for passive bookshelf speakers"], ["Chip", "TI TPA3255 amp chip; Japanese NCC capacitors, German WIMA capacitors, Japanese Sumida inductor, Japanese ELNA capacitors (per photo-4)"], ["Power", "155W per channel (per hunter report; shop's BT20A is 100W TPA3116D2)"], ["Inputs", "XLR balanced + RCA inputs, XLR/RCA input mode switch; PBTL mono mode support (per photos 2, 3)"], ["Controls", "Power/volume knob, mono/stereo output mode switch, subwoofer out, speaker out, 12V trigger in (per photo-2)"], ["Cooling", "Advanced heat dissipation system, side ventilation plus whole-chassis heat sink (per photo-5)"], ["Connections", "CD/DVD, phone & iPad, laptop & MacBook, computer & Mac, TV & projector via RCA or XLR; sub-out to active subwoofer, speaker out to passive speakers (per photo-6)"]],
+    added: 415,
+    popular: false
+  },
+  {
+    id: "all-size-smart-ring",
+    name: "All Size (6-14) Smart Ring for Women Men Healthy Heart Rate Blood Pressure Monitor Waterproof Take Photo Control Smartring S R09",
+    short: "All Size Smart Ring (6-14)",
+    price: 16.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3cuxcvV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/all-size-smart-ring/ad-photo.png",
+    desc: "All-size smart ring (sizes 6–14) — healthy heart rate and blood pressure monitoring, waterproof, take photo control, Smartring S R09.",
+    specs: [["Type", "Smart ring, Smartring S R09, aluminum alloy (per photo-2)"], ["Sizes", "6-14 (all size)"], ["Functions", "Heart rate and blood pressure monitoring, blood oxygen, sleep monitoring, step count, 100+ sports modes, camera control (per photos 1, 2)"], ["App", "One-click management via APP; women's health companion — menstrual cycle, ovulation period and pregnancy reminders (per photos 2, 5)"], ["Extras", "Hand-gesture instant photo capture; ultra-long battery life; charging case included (per photos 2, 6)"], ["Water resistance", "3ATM waterproof (shop's R09 ring with charging case is 5ATM)"]],
+    added: 416,
+    popular: false
+  },
+  {
+    id: "yyaudlo-hifi-speaker-cables",
+    name: "YYAUDlO One Pair Of HiFi Speaker Cables High-end OCC Speaker Cables For Hi-fi Systems And Banana Plug Speaker Cables",
+    short: "YYAUDlO HiFi Speaker Cables",
+    price: 39.86,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4BvYTTH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yyaudlo-hifi-speaker-cables/ad-photo.png",
+    desc: "YYAUDlO one pair of HiFi speaker cables — high-end OCC speaker cables for hi-fi systems with banana plugs.",
+    specs: [["Type", "One pair of HiFi speaker cables, banana plug"], ["Conductor", "High-end OCC, 8 OFC cores 0.25mm, OFC core 99.9999% (per photo-6)"], ["Plug", "Golden-plated plug, noise reduction process, no loss of detail (per photo-3)"], ["Build", "HiFi nylon suspension net, multi-share organization with strong resilience; direction signs; dual magnetic ring anti-interference (per photos 4, 5)"], ["Use", "For hi-fi systems (per title)"]],
+    added: 417,
+    popular: false
+  },
+  {
+    id: "oneodio-pro-10-over-ear-headphones",
+    name: "OneOdio Pro 10 Over Ear Headphones Hi-Res Studio DJ Headphone Wired Monitor Gaming Headset Hifi Earphone For Phone PC With Mic",
+    short: "OneOdio Pro 10 Over-Ear Headphones",
+    price: 27.54,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c45zY86P",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oneodio-pro-10-over-ear-headphones/ad-photo.png",
+    desc: "OneOdio Pro 10 over-ear headphones — Hi-Res studio DJ headphone, wired monitor gaming headset with mic for phone and PC.",
+    specs: [["Type", "Over-ear headphones, wired monitor / gaming / DJ headset"], ["Audio", "Hi-Res audio; 50mm driver tuned for deep bass (per photo-3)"], ["Connection", "Wired, with mic — for phone and PC (per title); multi-function dual jack design 3.5mm + 6.35mm (per photo-6)"], ["Compatibility", "Smart devices, TV, gaming consoles, DJ media player, audio interface + guitar, electronic keyboard (per photo-6)"], ["Functions", "Studio Live mastering ready; Share Core function — two users can listen at once (per photos 4, 5)"]],
+    added: 418,
+    popular: false
+  }
 
 ];
 
