@@ -10036,6 +10036,107 @@ const PRODUCTS = [
     added: 394,
     popular: false
   }
+,
+  {
+    id: "type-c-2-0-mini-tf-card-reader",
+    name: "Type-C 2.0 Mini TF Card Reader External Storage Black Stretch for Memory Stick USB C 2.0 For Iphone 17 16 Mini TF Card Reader",
+    short: "Type-C 2.0 Mini TF Card Reader",
+    price: 2.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4pbqdaf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-2-0-mini-tf-card-reader/ad-photo.png",
+    desc: "Type-C 2.0 mini TF card reader — external storage card reader for memory stick and TF cards, for iPhone 17/16 and USB-C devices.",
+    specs: [["Type", "Type-C 2.0 mini TF card reader"], ["Capacity", "Supports up to 2TB (per photo)"], ["Use", "Plug and play, no driver — Windows/Mac OS/Linux/Android (per photo)"], ["Note", "Memory card not included (per photo)"]],
+    added: 395,
+    popular: false
+  },
+  {
+    id: "replacement-charging-protection-circuit-board-makita-18v",
+    name: "Replacement Charging Protection Circuit Board with Battery Indicator for Makita 18V Li-ion Battery Protection Board BMS PCB Part",
+    short: "Makita 18V Battery Protection Circuit Board",
+    price: 5.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c40DY4jh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/replacement-charging-protection-circuit-board-makita-18v/ad-photo.png",
+    desc: "Replacement charging protection circuit board with battery indicator — BMS PCB part for Makita 18V Li-ion batteries.",
+    specs: [["Type", "Replacement charging protection circuit board (BMS PCB)"], ["Compatibility", "Makita 18V Li-ion battery (per title)"], ["Feature", "Battery indicator (per title)"], ["Wiring", "5S pack taps 4V/8V/12V/16V (per photo-5 diagram)"]],
+    added: 396,
+    popular: false
+  },
+  {
+    id: "9h-screen-protector-samsung",
+    name: "9H Screen Protector for Samsung A15 A16 A56 A36 A17 A14 A25 A24 A55 A53 A52 A57 A37 A34 A35 Tempered Glass Samsung Galaxy A15",
+    short: "9H Screen Protector for Samsung",
+    price: 3.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4s1NSt9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9h-screen-protector-samsung/ad-photo.png",
+    desc: "9H tempered glass screen protector for Samsung Galaxy A-series phones.",
+    specs: [["Type", "9H tempered glass screen protector"], ["Pack", "1–5 pcs (per photo)"], ["Compatibility", "Samsung Galaxy A15/A16/A56/A36/A35/A55/A54/A52/A51/A57/A37/A25/A34/A17/A14 (per photo-4)"], ["Features", "Anti-fingerprints, high transmittance, zero bubble, case friendly (per photo)"]],
+    added: 397,
+    popular: false
+  },
+  {
+    id: "annafris-premade-volume-fan-yy-w-shaped-lash",
+    name: "ANNAFRIS Premade Volume Fan YY 3D 4D 5D W-Shaped Lash Automatic Flowering W Lashes Extension Natural Soft Full Dense Mink Lash",
+    short: "ANNAFRIS Premade Volume Fan YY W-Shaped Lash",
+    price: 3.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3tcaffz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/annafris-premade-volume-fan-yy-w-shaped-lash/ad-photo.png",
+    desc: "ANNAFRIS premade volume fan YY W-shaped lash extensions — automatic flowering premade fans, natural soft full dense mink lash.",
+    specs: [["Type", "Premade volume fan YY W-shaped lash"], ["Style", "3D–8D variants (per main photo); W-shaped mesh weave, 3 roots per cluster (per photo-4)"], ["Material", "Natural soft full dense mink lash (per title)"], ["Test", "80°C high temperature test — no obvious warpage (per photo-2)"]],
+    added: 398,
+    popular: false
+  }
 
 ];
 
