@@ -10743,6 +10743,107 @@ const PRODUCTS = [
     added: 422,
     popular: false
   }
+,
+  {
+    id: "ovlook-contact-lenses",
+    name: "OVOLOOK 2pcs/Pair Contact Lenses — Big Black Lenses for Eyes, Beauty Pupils, 14.5mm/14.2mm",
+    short: "OVOLOOK Contact Lenses",
+    price: 4.35,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c33Kxc2J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ovlook-contact-lenses/ad-photo.png",
+    desc: "OVOLOOK contact lenses — a pair of big black beauty colour lenses for eyes, 14.5mm / 14.2mm diameter.",
+    specs: [["Type", "2pcs/pair contact lenses, big black beauty pupils (per title)"], ["Diameter", "14.5mm / 14.2mm (per title)"], ["Colour", "Big black lenses (per title)"], ["Pack", "1 pair (2 pcs) (per title)"]],
+    added: 423,
+    popular: false
+  },
+  {
+    id: "skull-palm-telescopic-back-scratcher",
+    name: "Skull Palm Telescopic Back Scratcher Hand Massager with Rubber Handles — Fun Novel Tool for Decompression",
+    short: "Skull Palm Telescopic Back Scratcher",
+    price: 0.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4dMlloR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skull-palm-telescopic-back-scratcher/ad-photo.png",
+    desc: "Skull palm telescopic back scratcher hand massager with rubber handles — a fun, novel tool for decompression.",
+    specs: [["Type", "Telescopic back scratcher hand massager with rubber handles (per title)"], ["Design", "Skull palm grip (per title)"], ["Length", "Telescopic — extends to reach the back (per title)"], ["Use", "Back scratching and hand massage, decompression (per title)"]],
+    added: 424,
+    popular: false
+  },
+  {
+    id: "privacy-screen-protector-iphone-anti-spy",
+    name: "Privacy Screen Protector for iPhone 18/17 Pro Max Anti-Spy Glass — Privacy Film for iPhone 16/15/14/13/12/11 Pro Max",
+    short: "Privacy Screen Protector for iPhone",
+    price: 4.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3OVJpxd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/privacy-screen-protector-iphone-anti-spy/ad-photo.png",
+    desc: "Privacy screen protector for iPhone — anti-spy glass privacy film for iPhone 18/17/16/15/14/13/12/11 Pro Max.",
+    specs: [["Type", "Anti-spy privacy glass screen protector (per title)"], ["Compatibility", "iPhone 18, 17, 16, 15, 14, 13, 12, 11 Pro Max and Pro (per title)"], ["Function", "Privacy film — screen visible only head-on (per title)"], ["Material", "Tempered glass protector (per title)"]],
+    added: 425,
+    popular: false
+  },
+  {
+    id: "nails-art-quartz-grinding-pen",
+    name: "1/5PC Nails Art Quartz Grinding Pen — Nail Cuticle Dead Skin Remover, UV Gel Polish Manicure Stick Files Accessories Tool",
+    short: "Nails Art Quartz Grinding Pen",
+    price: 3.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3fqU5Jd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nails-art-quartz-grinding-pen/ad-photo.png",
+    desc: "Nails art quartz grinding pen — nail cuticle and dead skin remover, manicure stick and file tool.",
+    specs: [["Type", "Quartz grinding pen for nails — cuticle and dead skin remover (per title)"], ["Use", "Manicure — nail files, cuticle care (per title)"], ["Pack", "1 or 5 pcs (per title)"], ["Material", "Quartz grinding (per title)"], ["Length", "13.8 cm; tip 0.6 cm wide, 45° angled tip (per photo-5)"]],
+    added: 426,
+    popular: false
+  }
 
 ];
 
