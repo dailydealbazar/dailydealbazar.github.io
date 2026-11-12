@@ -14166,6 +14166,107 @@ const PRODUCTS = [
     added: 558,
     popular: false
   }
+,
+  {
+    id: "baseus-mini-100w-fast-charger",
+    name: "Baseus Mini 100W Fast Charger USB C Charger Quick Charging For iPhone 17 16 15 Pro Max iPad Xiaomi Fast Charger GaN",
+    short: "Baseus Mini 100W Fast Charger",
+    price: 29.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3xocLO3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-mini-100w-fast-charger/ad-photo.png",
+    desc: "Baseus Mini 100W GaN fast charger.",
+    specs: [["Type", "Mini 100W GaN fast charger, USB-C (per title)"], ["Feature", "Quick charging for iPhone/iPad/Xiaomi (per title)"]],
+    added: 559,
+    popular: false
+  },
+  {
+    id: "vc-crystal-rhinestone-flatback",
+    name: "VC All Size Crystal Rhinestone AB Round Flatback Clothing Shell Beads Wedding Accessories Are Used For Decoration And DIY",
+    short: "VC Crystal Rhinestones",
+    price: 4.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3KBal9Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vc-crystal-rhinestone-flatback/ad-photo.png",
+    desc: "VC crystal rhinestone flatbacks for DIY.",
+    specs: [["Type", "Crystal rhinestone AB round flatback (per title)"], ["Use", "Clothing, wedding accessories, DIY decoration (per title)"]],
+    added: 560,
+    popular: false
+  },
+  {
+    id: "impact-ring-shad-fishing-lure",
+    name: "2023 HOT Impact Ring Shad Fishing Lure Soft 63mm 80mm 97mm Plastics Baits Swimbait Jigging LureBait Perch Lures",
+    short: "Impact Ring Shad Fishing Lure",
+    price: 3.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Y0OJaL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/impact-ring-shad-fishing-lure/ad-photo.png",
+    desc: "Impact Ring Shad soft fishing lure.",
+    specs: [["Type", "Soft plastic swimbait fishing lure, 63/80/97mm (per title)"], ["Feature", "Jigging lure for perch (per title)"]],
+    added: 561,
+    popular: false
+  },
+  {
+    id: "anti-bite-steel-wire-leader",
+    name: "Anti Bite Steel Fishing Line Steel Wire Leader With Swivel Fishing Accessory Lead Core Leash Fishing Wire 15cm 20cm 25cm 30cm",
+    short: "Anti Bite Steel Wire Leader",
+    price: 2.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4Cqvm4x",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anti-bite-steel-wire-leader/ad-photo.png",
+    desc: "Anti-bite steel wire fishing leader.",
+    specs: [["Type", "Anti-bite steel wire leader with swivel (per title)"], ["Feature", "15/20/25/30cm lead core leash (per title)"]],
+    added: 562,
+    popular: false
+  }
 
 ];
 
