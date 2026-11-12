@@ -9935,6 +9935,107 @@ const PRODUCTS = [
     added: 390,
     popular: false
   }
+,
+  {
+    id: "lemorele-200m-wireless-hdmi-transmitter-receiver",
+    name: "Lemorele 200m Wireless HDMI Transmitter and Receiver",
+    short: "Lemorele 200m Wireless HDMI Transmitter and Receiver",
+    price: 35.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c41WKZqX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lemorele-200m-wireless-hdmi-transmitter-receiver/ad-photo.png",
+    desc: "Lemorele 200m wireless HDMI transmitter and receiver — wireless video transmission kit for TV, projector, monitor and live streaming.",
+    specs: [["Type", "Wireless HDMI transmitter + receiver"], ["Resolution", "1080P@60Hz (per photo — main graphic)"], ["Range", "Up to 200m / 656ft, 1TX to 1RX (per photo)"], ["Setup", "1 TX supports up to 4 RXs; 5G Wi-Fi antenna, TuTuPlay app (per photo)"]],
+    added: 391,
+    popular: false
+  },
+  {
+    id: "gisam-1200nm-torque-brushless-impact-wrench",
+    name: "Gisam 1200N.M Torque Brushless Electric Impact Wrench",
+    short: "Gisam 1200N.M Torque Brushless Electric Impact Wrench",
+    price: 45.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3LP4YST",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gisam-1200nm-torque-brushless-impact-wrench/ad-photo.png",
+    desc: "Gisam 1200N.M torque brushless electric impact wrench — cordless impact wrench for car tires and heavy-duty fastening.",
+    specs: [["Type", "Brushless electric impact wrench"], ["Torque", "1200 N.M max torque (per photo)"], ["Speed", "No-load 0–6700 RPM, impact 0–7200 IPM, 4-gear speed (per photo)"], ["Battery", "18V 4.0Ah 598Vf Li-ion, 1/2\" square drive (per photo)"]],
+    added: 392,
+    popular: false
+  },
+  {
+    id: "awithz-portable-spot-welder",
+    name: "AWithZ Portable Spot Welder",
+    short: "AWithZ Portable Spot Welder",
+    price: 31.43,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4soZn5d",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/awithz-portable-spot-welder/ad-photo.png",
+    desc: "AWithZ portable spot welder — handheld spot welding machine for 18650/26650/32650 cylindrical batteries and phone batteries, with replaceable double-ended needles.",
+    specs: [["Type", "Portable spot welder"], ["Weldable", "0.35mm nickel sheet, 0.1–0.35mm (per photo)"], ["Pulse", "Strong dual pulse, 90-level fine tuning (per photo)"], ["Screen", "Intelligent color screen, trigger + preheat, 0°/180° rotation (per photo)"]],
+    added: 393,
+    popular: false
+  },
+  {
+    id: "hganus-slim-50000mah-powerbank-22-5w",
+    name: "Hganus Slim 50000mAh Powerbank 22.5W Fast Charge Portable Powerbank",
+    short: "Hganus Slim 50000mAh Powerbank 22.5W Fast Charge",
+    price: 31.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3SzISS7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hganus-slim-50000mah-powerbank-22-5w/ad-photo.png",
+    desc: "Hganus slim 50000mAh powerbank — 22.5W fast charge portable external battery for iPhone, Xiaomi and Samsung.",
+    specs: [["Type", "Portable power bank"], ["Capacity", "50000mAh (per listing)"], ["Output", "22.5W fast charge, 3 outputs & 2 inputs (per photo)"], ["Protection", "9-fold safety protection (per photo)"]],
+    added: 394,
+    popular: false
+  }
 
 ];
 
