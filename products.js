@@ -13163,6 +13163,107 @@ const PRODUCTS = [
     added: 518,
     popular: false
   }
+,
+  {
+    id: "3d-printed-snake",
+    name: "2026 New 3D Printed Snake",
+    short: "2026 New 3D Printed Snake",
+    price: 3.30,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3JBpmnD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-printed-snake/ad-photo.png",
+    desc: "2026 new 3D printed snake.",
+    specs: [["Type", "3D printed snake (per title)"], ["Year", "2026 new (per title)"]],
+    added: 519,
+    popular: false
+  },
+  {
+    id: "bt21-phone-lanyard",
+    name: "BT21 Phone Lanyard",
+    short: "BT21 Phone Lanyard",
+    price: 2.43,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3oFDDOL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt21-phone-lanyard/ad-photo.png",
+    desc: "BT21 phone lanyard.",
+    specs: [["Type", "Phone lanyard (per title)"], ["Design", "BT21 (per title)"]],
+    added: 520,
+    popular: false
+  },
+  {
+    id: "christmas-ugly-sweater",
+    name: "Christmas Ugly Sweater (3D Printing Muscle Pattern)",
+    short: "Christmas Ugly Sweater",
+    price: 16.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c39dN38f",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/christmas-ugly-sweater/ad-photo.png",
+    desc: "Christmas ugly sweater with 3D printing muscle pattern.",
+    specs: [["Pattern", "3D printing muscle pattern (per title)"], ["Style", "Christmas ugly sweater (per title)"]],
+    added: 521,
+    popular: false
+  },
+  {
+    id: "xt60-connector",
+    name: "XT60 Connector 5/10 Pairs",
+    short: "XT60 Connector 5/10 Pairs",
+    price: 4.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3JxHHMB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-connector/ad-photo.png",
+    desc: "XT60 connector 5/10 pairs.",
+    specs: [["Type", "XT60 connector (per title)"], ["Pack", "5 / 10 pairs (per title)"]],
+    added: 522,
+    popular: false
+  }
 
 ];
 
