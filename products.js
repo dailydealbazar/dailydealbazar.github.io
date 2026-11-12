@@ -13062,6 +13062,107 @@ const PRODUCTS = [
     added: 514,
     popular: false
   }
+,
+  {
+    id: "mudiro-8kw-diesel-heater",
+    name: "12V/24V/240V Mudiro 8KW Diesel Heater with CO Protection (Auto Shut-off & Alarm), Thermostat, TFT Display- for Camping, RV, Tent",
+    short: "Mudiro 8KW Diesel Heater",
+    price: 104.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3UsXThv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mudiro-8kw-diesel-heater/ad-photo.png",
+    desc: "Mudiro 8kW diesel heater with CO protection.",
+    specs: [["Power", "8kW diesel heater (per title)"], ["Voltage", "12V / 24V / 240V (per title)"], ["Safety", "CO protection, auto shut-off & alarm (per title)"], ["Display", "Thermostat, TFT display (per title)"]],
+    added: 515,
+    popular: false
+  },
+  {
+    id: "willshela-black-satin-skirt",
+    name: "Willshela 2024 Black Satin Skirt Woman High Waist Elegant Long Skirts For Women Fashion Summer Midi Skirt Office Women's Skirts",
+    short: "Willshela Black Satin Skirt",
+    price: 16.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c32Z8QmR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/willshela-black-satin-skirt/ad-photo.png",
+    desc: "Willshela 2024 black satin skirt.",
+    specs: [["Style", "High waist, elegant, long (per title)"], ["Fabric", "Black satin (per title)"], ["Fit", "Summer midi skirt (per title)"], ["Use", "Office / fashion (per title)"]],
+    added: 516,
+    popular: false
+  },
+  {
+    id: "succebuy-3-5-8-gal-distiller",
+    name: "SucceBuy 3 5 8 Gal Distiller Moonshine Alcohol Brew Water Wine Essential Oil Brewing Kit Stainless Copper with Pump for Home DIY",
+    short: "SucceBuy 3 5 8 Gal Distiller",
+    price: 87.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3KZv4r1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/succebuy-3-5-8-gal-distiller/ad-photo.png",
+    desc: "SucceBuy 3 5 8 gal distiller brewing kit.",
+    specs: [["Capacity", "3 / 5 / 8 gal (per title)"], ["Material", "Stainless copper (per title)"], ["Use", "Alcohol / water / wine / essential oil brewing (per title)"], ["Includes", "Pump (per title)"]],
+    added: 517,
+    popular: false
+  },
+  {
+    id: "kawaii-axolotl-plush-toy",
+    name: "45cm Kawaii Colorful Newt Plush Toy Stuffed Cute Axolotl Salamander Fuzzy Plush Fish Appeasing Long Pillow Cushion Kids Gift",
+    short: "45cm Kawaii Axolotl Plush Toy",
+    price: 8.35,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4kBBb7N",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kawaii-axolotl-plush-toy/ad-photo.png",
+    desc: "45cm kawaii axolotl plush toy.",
+    specs: [["Size", "45cm (per title)"], ["Type", "Kawaii axolotl / newt plush (per title)"], ["Use", "Pillow cushion, kids gift (per title)"]],
+    added: 518,
+    popular: false
+  }
 
 ];
 
