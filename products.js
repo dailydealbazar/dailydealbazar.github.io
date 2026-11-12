@@ -11649,6 +11649,108 @@ const PRODUCTS = [
     added: 458,
     popular: false
   }
+,
+  {
+    id: "nutt-4-pistons-electric-scooter-brake",
+    name: "NUTT 4 Pistons Electric Scooter Brake Y-5 Hydraulic Disc Brake 140 160 180 Rotor For A5-D KUGOO Zero Dualtron Kaabo Mantis",
+    short: "NUTT Electric Scooter Brake",
+    price: 51.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c45C57Cr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nutt-4-pistons-electric-scooter-brake/ad-photo.png",
+    desc: "NUTT 4-piston electric scooter hydraulic disc brake — Y-5 brake with 140/160/180 rotors for A5-D, KUGOO, Zero, Dualtron, Kaabo and Mantis scooters.",
+    specs: [["Type", "Electric scooter hydraulic disc brake, 4 pistons (per title)"], ["Model", "Y-5, 140 / 160 / 180 rotor; mount 74.2mm / 51mm (per title/photo)"], ["Tubing", "Front 1350mm, rear 2200mm (per photo)"], ["Fits", "A5-D, KUGOO, Zero, Dualtron, Kaabo, Mantis (per title)"]],
+    added: 459,
+    popular: false
+  },
+  {
+    id: "custom-pet-photo-keychain",
+    name: "Custom Pet Photo Keychain Personalized Dog Cat Portrait Name Leather Picture Keyring Charm Anniversary Memorial Loss Gift Him He",
+    short: "Custom Pet Photo Keychain",
+    price: 5.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4SPvKu7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/custom-pet-photo-keychain/ad-photo.png",
+    desc: "Custom pet photo keychain — personalized dog or cat portrait with name on a leather picture keyring; an anniversary, memorial or loss gift. Buyer uploads a pet photo to customise it.",
+    specs: [["Type", "Custom pet photo keychain, personalized portrait + name (per title)"], ["Material", "Leather picture keyring (per title)"], ["Size", "5.2 cm / 2.04 inch (per photo)"], ["Customisation", "Buyer uploads a pet photo (Customise now)"]],
+    added: 460,
+    popular: false
+  },
+  {
+    id: "stem-orbital-cube-track-train-set",
+    name: "STEM Educational Toys Magical Orbital Cube Track Train Set USB Rechargeable Car 3D Building Blocks Rails DIY Assembly Toy for Children Christmas Birthday Gift 51 81 123PCS ABS Material for Kids Age 3+",
+    short: "STEM Orbital Cube Track Train Set",
+    price: 49.35,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c37nDHnl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/photo-7.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stem-orbital-cube-track-train-set/ad-photo.png",
+    desc: "STEM magical orbital cube track train set — DIY assembly 3D building blocks rails with a USB rechargeable car; 51, 81 or 123 pieces, ABS material, for kids age 3+.",
+    specs: [["Type", "STEM orbital cube track train set, DIY assembly (per title)"], ["Pieces", "51 / 81 / 123 PCS, ABS material (per title)"], ["Car", "USB rechargeable car (per title)"], ["Age", "Kids age 3+ (per title)"]],
+    added: 461,
+    popular: false
+  },
+  {
+    id: "dual-flash-bracket",
+    name: "Dual Flash Bracket 1/4'' Screw Hot Shoe Mount Holder for Tripod Stand DSLR Camera LED Light Microphone",
+    short: "Dual Flash Bracket",
+    price: 4.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3jF7R0J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dual-flash-bracket/ad-photo.png",
+    desc: "Dual flash bracket — 1/4 inch screw hot shoe mount holder for tripod stands, DSLR cameras, LED lights and microphones.",
+    specs: [["Type", "Dual flash bracket, hot shoe mount holder (per title)"], ["Mount", "1/4 inch screw (per title)"], ["Size", "27 cm long, 23 cm hole spacing, 7 cm (per photo)"], ["Fits", "Tripod stand, DSLR camera, LED light, microphone (per title)"]],
+    added: 462,
+    popular: false
+  }
 
 ];
 
