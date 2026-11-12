@@ -8525,6 +8525,107 @@ const PRODUCTS = [
     added: 334,
     popular: false
   }
+,
+  {
+    id: "flash-jumping-rope-ball-kids-one-foot",
+    name: "Flash Jumping Rope Ball Kids One Foot Outdoor Fun Sports Children Jumping Force Reaction Training Swing Ball Child-parent Games",
+    short: "Flash Jumping Rope Ball Kids One Foot",
+    price: 8.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c433c5s7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flash-jumping-rope-ball-kids-one-foot/ad-photo.png",
+    desc: "Flash jumping rope ball for kids — one-foot outdoor fun sports toy for jumping force and reaction training, for child-parent games.",
+    specs: [["Type", "Jumping rope ball"], ["Use", "One-foot outdoor play"], ["Training", "Jumping force & reaction"], ["Players", "Child-parent games"]],
+    added: 335,
+    popular: false
+  },
+  {
+    id: "crossgun-jet-turbo-king-kong-jet-fan-x3",
+    name: "CROSSGUN Jet Turbo King Kong Jet Fan Strong Fan Portable Handheld With LED Lighting Dust Elimination Computer hurricane storm X3",
+    short: "CROSSGUN Jet Turbo King Kong Jet Fan X3",
+    price: 66.52,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4E702Hp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crossgun-jet-turbo-king-kong-jet-fan-x3/ad-photo.png",
+    desc: "CROSSGUN Jet Turbo King Kong jet fan X3 — strong portable handheld fan with LED lighting, 130,000 RPM, for dust elimination.",
+    specs: [["Speed", "130,000 RPM"], ["Lighting", "LED"], ["Type", "Portable handheld"], ["Use", "Dust elimination"]],
+    added: 336,
+    popular: false
+  },
+  {
+    id: "aroma-diffuser-scent-machine-200m3-bluetooth",
+    name: "Aroma Diffuser Scent Machine Coverage 200m³ Bluetooth APP Control Fragrance Diffuser Smell Distributor For Home Fragrance Smell",
+    short: "Aroma Diffuser Scent Machine 200m³ Bluetooth",
+    price: 41.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3lqZ7WX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aroma-diffuser-scent-machine-200m3-bluetooth/ad-photo.png",
+    desc: "Aroma diffuser scent machine — 200m³ coverage, Bluetooth APP control, wall-mounted waterless fragrance diffuser for home.",
+    specs: [["Coverage", "200m³"], ["Control", "Bluetooth APP"], ["Type", "Waterless scent machine"], ["Mount", "Wall-mounted"]],
+    added: 337,
+    popular: false
+  },
+  {
+    id: "peicon-electric-toothbrush-rotary-rechargeable-8-heads",
+    name: "Electric Toothbrush Rotary Rechargeable Electric Toothbrush for Adults Rotating Electric Toothbrushes with 8 Soft Brush Heads",
+    short: "PEICON Electric Toothbrush Rotary Rechargeable",
+    price: 16.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3hUKrvd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-electric-toothbrush-rotary-rechargeable-8-heads/ad-photo.png",
+    desc: "PEICON electric toothbrush — rotary rechargeable toothbrush for adults with 8 soft brush heads.",
+    specs: [["Type", "Rotary rechargeable"], ["Heads", "8 soft brush heads"], ["Use", "Adults"], ["Brand", "PEICON"]],
+    added: 338,
+    popular: false
+  }
 
 ];
 
