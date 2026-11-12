@@ -9131,6 +9131,103 @@ const PRODUCTS = [
     added: 358,
     popular: false
   }
+,
+  {
+    id: "danny-gen4-v1-pk-v2",
+    name: "Danny Gen4 Wireless Charger for V1 PK V2",
+    short: "Danny Gen4 Wireless Charger",
+    price: 27.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4bkO6RV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/danny-gen4-v1-pk-v2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/danny-gen4-v1-pk-v2/photo-2.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/danny-gen4-v1-pk-v2/ad-photo.png",
+    desc: "Danny Gen4 wireless charger — round charging pad with wireless charging support, for V1 PK V2.",
+    specs: [["Type", "Wireless charger"], ["Feature", "Wireless charging support"], ["Design", "Round charging pad"]],
+    added: 359,
+    popular: false
+  },
+  {
+    id: "portable-solar-led-flashlight-cob-work-light",
+    name: "Portable Powerful USB Rechargeable Flashlight Solar LED Light with COB Work Light 4 Gear Charge Mobile Phone Camping Lamp",
+    short: "Portable Solar LED Flashlight COB Work Light",
+    price: 12.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4e4hBpl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-solar-led-flashlight-cob-work-light/ad-photo.png",
+    desc: "Portable powerful USB rechargeable flashlight — solar LED light with COB work light, 4 gears, charges a mobile phone, for camping.",
+    specs: [["Type", "Solar LED flashlight"], ["Light", "COB work light, 4 gears"], ["Charging", "USB rechargeable, solar"], ["Use", "Camping / emergency"]],
+    added: 360,
+    popular: false
+  },
+  {
+    id: "magnetic-car-phone-holder-dashboard-wall-mount",
+    name: "Magnetic Car Phone Holder Universal Car Phone Stand for iPhone Xiaomi Huawei Samsung Dashboard Wall Mounted Car Magnet Sticker",
+    short: "Magnetic Car Phone Holder Dashboard Wall Mount",
+    price: 1.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3ikdOkB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-car-phone-holder-dashboard-wall-mount/ad-photo.png",
+    desc: "Magnetic car phone holder — universal car phone stand for iPhone, Xiaomi, Huawei and Samsung, dashboard or wall mounted.",
+    specs: [["Type", "Magnetic car phone holder"], ["Mount", "Dashboard / wall adhesive disc"], ["Size", "35 mm diameter, 10 mm thick"], ["Magnets", "Four permanent magnets"]],
+    added: 361,
+    popular: false
+  },
+  {
+    id: "faux-suede-patchwork-couples-home-slippers",
+    name: "Men's High-End New Solid Color Faux Suede Patchwork Couple's Home Slippers, Thick-Soled, Non-Slip, Lightweight, Warm Cotton Slippers for Women",
+    short: "Faux Suede Patchwork Couple's Home Slippers",
+    price: 8.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3LfqWMR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/faux-suede-patchwork-couples-home-slippers/ad-photo.png",
+    desc: "High-end solid color faux suede patchwork couple's home slippers — thick-soled, non-slip, lightweight, warm cotton.",
+    specs: [["Type", "Couple's home slippers"], ["Material", "Faux suede, warm cotton"], ["Sole", "Thick-soled, non-slip"], ["Feature", "Lightweight, patchwork trim"]],
+    added: 362,
+    popular: false
+  }
 
 ];
 
