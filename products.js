@@ -12355,6 +12355,107 @@ const PRODUCTS = [
     added: 486,
     popular: false
   }
+,
+  {
+    id: "badminton-grip-anti-slip-straps",
+    name: "Badminton Grip Anti Slip Straps 6/10-Piece Set Anti Slip Sweatband Breathable Grip Tape for Badminton Racket Tennis Racket",
+    short: "Badminton Grip Anti Slip Straps",
+    price: 5.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4Nd6W3t",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/badminton-grip-anti-slip-straps/ad-photo.png",
+    desc: "Badminton grip anti slip straps — 6/10-piece set of anti slip sweatband breathable grip tape for badminton and tennis rackets.",
+    specs: [["Type", "Anti slip grip straps, sweatband grip tape (per title)"], ["Set", "6/10-piece set (per title)"], ["Use", "Badminton racket, tennis racket (per title)"], ["Size", "Length 110 cm, width 2.48 cm, thickness 0.076 cm (per photo 6)"]],
+    added: 487,
+    popular: false
+  },
+  {
+    id: "kids-swimming-goggles",
+    name: "Kids Swimming Goggles 3-15 Years for Professional Swimming Children's Goggles Anti-Fog Clear Vision",
+    short: "Kids Swimming Goggles",
+    price: 6.26,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Y1jEmX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-swimming-goggles/ad-photo.png",
+    desc: "Kids swimming goggles for ages 3-15 — professional children's goggles with anti-fog clear vision.",
+    specs: [["Type", "Kids swimming goggles, anti-fog (per title)"], ["Age", "3-15 years (per title)"], ["Use", "Professional swimming (per title)"]],
+    added: 488,
+    popular: false
+  },
+  {
+    id: "classic-movie-mini-robot-wall-e-building-blocks",
+    name: "Classic Movie Mini Robot Wall-e Building Blocks Toy",
+    short: "Classic Movie Mini Robot Wall-e Building Blocks",
+    price: 5.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2IK98B1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/classic-movie-mini-robot-wall-e-building-blocks/ad-photo.png",
+    desc: "Classic movie mini robot Wall-e building blocks toy.",
+    specs: [["Type", "Mini robot Wall-e building blocks toy (per title)"], ["Theme", "Classic movie robot (per title)"], ["Pieces", "217+ pieces (per photo 1)"]],
+    added: 489,
+    popular: false
+  },
+  {
+    id: "kokutaku-table-tennis-blade-fl-730",
+    name: "Kokutaku Table Tennis Blade FL 730 G1/G2 Kokutaku Table Tennis Rackets Blade Knife Handle/FL Handle",
+    short: "Kokutaku Table Tennis Blade FL 730",
+    price: 8.30,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4Kq276T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kokutaku-table-tennis-blade-fl-730/ad-photo.png",
+    desc: "Kokutaku table tennis blade FL 730 G1/G2 — knife handle / FL handle table tennis racket blade.",
+    specs: [["Type", "Table tennis blade, FL 730 G1/G2 (per title)"], ["Handle", "Knife handle / FL handle (per title)"], ["Brand", "Kokutaku (per title)"], ["Variants", "G1: 5-ply pure wood; G2: 5-wood + 2-carbon (per photos)"]],
+    added: 490,
+    popular: false
+  }
 
 ];
 
