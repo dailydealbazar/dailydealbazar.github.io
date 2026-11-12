@@ -13562,6 +13562,107 @@ const PRODUCTS = [
     added: 534,
     popular: false
   }
+,
+  {
+    id: "retroscaler2x-av-to-hdmi-converter",
+    name: "RetroScaler2x AV to HDMI Converter and Line-doubler For Retro Game Consoles PS2 N64 NES Dreamcast Saturn MD1 MD2",
+    short: "RetroScaler2x AV to HDMI Converter",
+    price: 51.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3W7u8mB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retroscaler2x-av-to-hdmi-converter/ad-photo.png",
+    desc: "RetroScaler2x AV to HDMI converter and line-doubler.",
+    specs: [["Type", "AV to HDMI converter + line-doubler (per title)"], ["Fits", "PS2 / N64 / NES / Dreamcast / Saturn / MD1 / MD2 (per title)"]],
+    added: 535,
+    popular: false
+  },
+  {
+    id: "carrying-case-meta-quest-3",
+    name: "Carrying Case for Meta Quest 3, Hard Shell Travel Bag with Oculus Quest 3/BOBOVR S3 Pro Battery Head Strap and Other Accessories",
+    short: "Carrying Case for Meta Quest 3",
+    price: 49.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3u3UAlN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carrying-case-meta-quest-3/ad-photo.png",
+    desc: "Carrying case for Meta Quest 3.",
+    specs: [["Type", "Hard shell travel carrying case (per title)"], ["Fits", "Meta Quest 3, BOBOVR S3 Pro battery head strap (per title)"]],
+    added: 536,
+    popular: false
+  },
+  {
+    id: "vention-3-5mm-jack-audio-cable",
+    name: "Vention 3.5mm Jack Audio Cable Male to Male 3.5mm Audio Aux Cable Jack for Phone Car Headphones Speaker Cable Wire Line Aux Cord",
+    short: "Vention 3.5mm Jack Audio Cable",
+    price: 4.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3x32pxz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vention-3-5mm-jack-audio-cable/ad-photo.png",
+    desc: "Vention 3.5mm jack audio cable.",
+    specs: [["Type", "3.5mm jack audio cable, male to male (per title)"], ["Use", "Phone / car / headphones / speaker (per title)"]],
+    added: 537,
+    popular: false
+  },
+  {
+    id: "kz-edx-pro-dynamic-earphones",
+    name: "KZ EDX PRO Dynamic Earphones HIFI Bass Earbuds In Ear Monitor Sport Noise Cancelling Headset",
+    short: "KZ EDX PRO Dynamic Earphones",
+    price: 7.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4baYwwr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-edx-pro-dynamic-earphones/ad-photo.png",
+    desc: "KZ EDX PRO dynamic earphones.",
+    specs: [["Type", "Dynamic earphones, HiFi bass (per title)"], ["Feature", "In-ear monitor, noise cancelling (per title)"]],
+    added: 538,
+    popular: false
+  }
 
 ];
 
