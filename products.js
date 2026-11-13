@@ -15578,6 +15578,106 @@ const PRODUCTS = [
     added: 614,
     popular: false
   }
+,
+  {
+    id: "beili-black-makeup-brushes-set",
+    name: "BEILI Black Makeup Brushes Set Goat Hair Super Soft Powder Blending Brushes",
+    short: "BEILI Black Makeup Brushes Set",
+    price: 36.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4dnjrCr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beili-black-makeup-brushes-set/ad-photo.png",
+    desc: "BEILI black makeup brush set with goat hair bristles — super soft, fluffy brushes for powder and blending.",
+    specs: [["Brand", "BEILI"], ["Material", "Goat hair, super soft and fluffy (per photo)"], ["Type", "Makeup brush set with black handles (per photos)"], ["Use", "Powder, blending, foundation (per photos)"]],
+    added: 615,
+    popular: false
+  },
+  {
+    id: "ugreen-130w-usb-c-fast-car-charger",
+    name: "UGREEN 130W USB-C Fast Car Charger QC4.0 PD3.0 100W PD Super Power Output",
+    short: "UGREEN 130W USB-C Fast Car Charger",
+    price: 26.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4p7MQkF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-130w-usb-c-fast-car-charger/ad-photo.png",
+    desc: "UGREEN 130W USB-C fast car charger with 100W PD output — charges 3 devices simultaneously, QC4.0 + PD3.0.",
+    specs: [["Brand", "UGREEN"], ["Power", "130W total, 100W PD (per photo)"], ["Ports", "USB-C1, USB-C2, USB-A — charges 3 devices (per photo)"], ["Charging", "QC4.0 + PD3.0, 30W PD fast charging (per photo)"]],
+    added: 616,
+    popular: false
+  },
+  {
+    id: "hiby-r4-android-12-hifi-music-player",
+    name: "HiBy R4 Android 12 HiFi Music Player 4-Way HiFi Android12 DAP",
+    short: "HiBy R4 Android 12 HiFi Music Player",
+    price: 255.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c327K1KL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r4-android-12-hifi-music-player/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r4-android-12-hifi-music-player/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r4-android-12-hifi-music-player/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r4-android-12-hifi-music-player/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r4-android-12-hifi-music-player/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hiby-r4-android-12-hifi-music-player/ad-photo.png",
+    desc: "HiBy R4 HiFi music player with open Android 12, quad-chip HiFi DAC array, 3GB RAM + 32GB ROM and 4500mAh battery.",
+    specs: [["Brand", "HiBy"], ["System", "Open Android 12 (per photo)"], ["DAC", "ES9018C2M, quad-chip HiFi DAC array (per photo)"], ["Memory", "3GB RAM + 32GB ROM (per photo)"], ["Battery", "4500mAh (per photo)"]],
+    added: 617,
+    popular: false
+  },
+  {
+    id: "soft-bullet-target-practice-toy",
+    name: "Soft Bullet Target Practice Toy Soft Ball Shot Crossbow with Target Barrels",
+    short: "Soft Bullet Target Practice Toy",
+    price: 8.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3Zr987Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-bullet-target-practice-toy/ad-photo.png",
+    desc: "Soft bullet target practice toy — soft ball shot crossbow with 6 target barrels and 5 sponge balls, for indoor and outdoor play.",
+    specs: [["Type", "Soft ball shot crossbow target practice toy (per photo)"], ["Includes", "6 target barrels, 5 sponge balls (per photo)"], ["Size", "Bow 34cm x 20.5cm (per photo)"], ["Material", "EVA sponge balls, EPE foam drums (per photo)"]],
+    added: 618,
+    popular: false
+  }
 
 ];
 
