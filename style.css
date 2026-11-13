@@ -63,6 +63,17 @@ img{max-width:100%}
 @media (prefers-reduced-motion: reduce){
   .hero-grid a:first-child,.hero-grid a:nth-child(3) img{animation:none}
 }
+/* Trust & Safety — dark trust cards (matches the reference design). */
+.trust-dark{background:#0b0b0b;padding:48px 0 56px}
+.trust-dark .wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+.trust-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:640px){.trust-grid{grid-template-columns:1fr}}
+.trust-card{background:#161616;border:1px solid #2a2a2a;border-radius:16px;padding:26px}
+.trust-ico{display:inline-flex;align-items:center;justify-content:center;width:46px;height:46px;border:2px solid #22c55e;border-radius:50%;color:#22c55e;font-size:22px;font-weight:800;margin-bottom:14px}
+.trust-card h3{color:#fff;font-size:20px;margin:0 0 6px}
+.trust-card .trust-sub{color:#9aa3af;font-size:15px;margin:0 0 10px}
+.trust-card .trust-desc{color:#c7cdd6;font-size:14px;line-height:1.6;margin:0}
+.trust-card a{color:#7dd3a8}
 .shop-btn{display:inline-block;background:var(--accent);color:var(--navy)!important;font-weight:800;font-size:20px;padding:16px 36px;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px rgba(228,123,37,.35)}
 .shop-btn:hover{transform:translateY(-2px);text-decoration:none}
 
