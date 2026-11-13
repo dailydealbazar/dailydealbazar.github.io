@@ -61,7 +61,7 @@ try { if (localStorage.getItem('quelia-internal') === '1') { window['ga-disable-
 </header>
 
 <section class="shop-head">
-<div class="wrap">
+<div class="wrap shop-wrap">
 <div class="crumb"><a href="./">Home</a> → Shop</div>
 <h1>Explore Our Products</h1>
 <p>Find Your Favorite Products at Amazing Prices.</p>
@@ -70,47 +70,44 @@ try { if (localStorage.getItem('quelia-internal') === '1') { window['ga-disable-
 </section>
 
 <div class="shop-body">
-<div class="wrap">
+<div class="wrap shop-wrap">
 <div class="cat-nav" id="catNav"></div>
 
-<div class="shop-layout">
+<div class="shop-trust"><span>🔒 Secure checkout on AliExpress</span><span>🛡️ AliExpress Buyer Protection</span><span>🚚 Shipping &amp; returns by the seller</span></div>
+<div class="shop-tools">
+<button class="filter-toggle" id="filterToggle" type="button">🔍 Filters</button>
+<span class="count" id="resultCount">Showing Products</span>
+<input type="search" id="searchBox" placeholder="Search Products..." aria-label="Search products">
+<select id="sortBox" aria-label="Sort products">
+<option value="popular">Featured</option>
+<option value="latest">Latest</option>
+<option value="price-low">Low to High</option>
+<option value="price-high">High to Low</option>
+</select>
+</div>
+<div class="product-grid" id="productGrid"></div>
+<div class="load-wrap"><button class="load-btn" id="loadMore" style="display:none">Load More</button></div>
+</div>
+</div>
+
+<!-- Filters live in a slide-in drawer on every size (no sidebar — products take the full width). -->
 <aside class="sidebar">
 <button class="filter-close" id="filterClose" type="button" aria-label="Close filters">✕</button>
 <h3>Filter Products</h3>
-<h3 style="font-size:15px;margin-top:12px">Product Categories</h3>
+<h3 class="side-h">Product Categories</h3>
 <div id="sideCats"></div>
-<h3 style="font-size:15px;margin-top:12px">Price Range</h3>
+<h3 class="side-h">Price Range</h3>
 <label>Minimum Price (USD)</label>
 <input type="number" id="minPrice" min="0" step="1" placeholder="0">
 <label>Maximum Price (USD)</label>
 <input type="number" id="maxPrice" min="0" step="1" placeholder="1000">
 <button class="side-btn" id="applyPrice">Apply Price Filter</button>
-<h3 style="font-size:15px;margin-top:12px">Highlights</h3>
+<h3 class="side-h">Highlights</h3>
 <label><input type="checkbox" id="fPopular"> Popular Products</label>
 <label><input type="checkbox" id="fLatest"> Latest Products</label>
 <label><input type="checkbox" id="fDiscounted"> Discounted Products</label>
-<button class="side-btn" id="clearFilters" style="background:transparent;border:1px solid #E47B25;color:#E47B25;box-shadow:none">Clear All Filters</button>
+<button class="side-btn side-btn-quiet" id="clearFilters">Clear All Filters</button>
 </aside>
-
-<main>
-<button class="filter-toggle" id="filterToggle" type="button">🔍 Filters</button>
-<div class="shop-trust"><span>🔒 Secure checkout on AliExpress</span><span>🛡️ AliExpress Buyer Protection</span><span>🚚 Shipping &amp; returns by the seller</span></div>
-<div class="shop-tools">
-<span class="count" id="resultCount">Showing Products</span>
-<input type="search" id="searchBox" placeholder="Search Products..." aria-label="Search products">
-<select id="sortBox" aria-label="Sort products">
-<option value="popular">Sort by Featured</option>
-<option value="latest">Sort by Latest</option>
-<option value="price-low">Sort by Price: Low to High</option>
-<option value="price-high">Sort by Price: High to Low</option>
-</select>
-</div>
-<div class="product-grid" id="productGrid"></div>
-<div class="load-wrap"><button class="load-btn" id="loadMore" style="display:none">Load More</button></div>
-</main>
-</div>
-</div>
-</div>
 
 <div class="filter-backdrop" id="filterBackdrop"></div>
 
@@ -222,15 +219,20 @@ function card(p) {
   const old = p.oldPrice ? `<s>${DDB.formatPrice(p.oldPrice)}</s>` : "";
   const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
   return `<article class="p-card">
-    <a class="p-media" href="product.html?id=${p.id}">${badge}<img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>
+    <a class="p-media" href="product.html?id=${p.id}">${offBadge(p)}${badge}<img src="${p.images[0]}" alt="${p.short}" loading="lazy"></a>
     <div class="p-body">
-      <h3><a href="product.html?id=${p.id}">${p.short}</a></h3>
-      <div class="p-cat">${p.categoryName}</div>
-      <div class="p-price">${DDB.formatPrice(p.price)}${old}${offBadge(p)}</div>
+      <div class="p-head">
+        <h3><a href="product.html?id=${p.id}">${p.short}</a></h3>
+        <div class="p-price">${DDB.formatPrice(p.price)}</div>
+      </div>
+      <div class="p-sub">
+        <span class="p-cat">${p.categoryName}</span>
+        ${old}
+      </div>
       ${pkrLine(p)}
       ${rating}
       <a class="p-buy" href="${p.link}" target="_blank" rel="noopener">Buy Now →</a>
-      <button class="p-copy" onclick="copyProductLink('${p.id}', this)">🔗 Copy Link</button>
+      <button class="p-copy" onclick="copyProductLink('${p.id}', this)">Copy Link</button>
     </div>
   </article>`;
 }
