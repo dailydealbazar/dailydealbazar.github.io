@@ -16583,6 +16583,107 @@ const PRODUCTS = [
     added: 654,
     popular: false
   }
+,
+  {
+    id: "pore-cleansing-nose-strips",
+    name: "10/30/50-Piece Pore Cleansing Nose Strips | Alcohol-Free Formula, Deep Cleansing, Suitable for All Light Beige Skin Tones",
+    short: "Pore Cleansing Nose Strips",
+    price: 2.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3HKHJkR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pore-cleansing-nose-strips/ad-photo.png",
+    desc: "Pore cleansing nose strips — alcohol-free formula, deep cleansing, suitable for all light beige skin tones, 10/30/50-piece.",
+    specs: [["Type", "Pore cleansing nose strips, 10/30/50-piece (per listing title)"], ["Formula", "Alcohol-free formula, deep cleansing (per listing title)"], ["Detail", "Hydrocolloid bamboo charcoal blackhead nose patch (per photo)"], ["Size", "10.2 x 4cm patch (per photo)"]],
+    added: 655,
+    popular: false
+  },
+  {
+    id: "stainless-steel-cookie-cutter",
+    name: "Stainless Steel Cookie Cutter Kitchen Baking Round Donut Mold Daily Durable Multi Functional Baking Mold Home Diy Dessert Tool",
+    short: "Stainless Steel Cookie Cutter",
+    price: 4.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3d1Qa2J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-cookie-cutter/ad-photo.png",
+    desc: "Stainless steel cookie cutter — kitchen baking round donut mold, durable multi-functional baking mold, home DIY dessert tool.",
+    specs: [["Type", "Stainless steel cookie cutter, round donut mold (per listing title)"], ["Use", "Kitchen baking, home DIY dessert tool (per listing title)"], ["Size", "8.5cm diameter, 5cm height (per photo)"], ["Material", "Stainless steel, durable (per listing title)"]],
+    added: 656,
+    popular: false
+  },
+  {
+    id: "reusable-lid-strap",
+    name: "21.2in Reusable Lid Strap Silicone Elastic Band Universal Pot Lid Holder for Lunch Box Strap Elastic Band Outdoor Tableware Tool",
+    short: "Reusable Lid Strap",
+    price: 4.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3YjtGR1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/reusable-lid-strap/ad-photo.png",
+    desc: "Reusable lid strap — silicone elastic band, 21.2in universal pot lid holder for lunch box strap and outdoor tableware.",
+    specs: [["Type", "Reusable lid strap, silicone elastic band, 21.2in (per listing title)"], ["Use", "Universal pot lid holder, lunch box strap, outdoor tableware tool (per listing title)"], ["Colours shown", "Blue, grey and black straps (per photo)"]],
+    added: 657,
+    popular: false
+  },
+  {
+    id: "dm283-epoxy-resin-clock-mold",
+    name: "DM283 Round Roman Numerals Epoxy Resin Clock Silicone Mold DIY Wall Hanging Ornaments",
+    short: "DM283 Epoxy Resin Clock Mold",
+    price: 8.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c322PJzh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dm283-epoxy-resin-clock-mold/ad-photo.png",
+    desc: "DM283 round Roman numerals epoxy resin clock silicone mold — DIY wall hanging ornaments.",
+    specs: [["Type", "Round Roman numerals epoxy resin clock silicone mold (per listing title)"], ["Use", "DIY wall hanging ornaments (per listing title)"], ["Detail", "Roman numerals dial, round clock face (per photo)"], ["Model", "DM283 (per listing title)"]],
+    added: 658,
+    popular: false
+  }
 
 ];
 
