@@ -16985,6 +16985,107 @@ const PRODUCTS = [
     added: 670,
     popular: false
   }
+,
+  {
+    id: "beboncool-quest-3-head-strap",
+    name: "BEBONCOOL Elite Head Strap for Meta Quest 3 Comfortable Adjustable Head Strap Replacement",
+    short: "BEBONCOOL Quest 3 Head Strap",
+    price: 24.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3mYcvRN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/beboncool-quest-3-head-strap/ad-photo.png",
+    desc: "BEBONCOOL elite head strap for Meta Quest 3 — comfortable adjustable head strap replacement.",
+    specs: [["Type", "Elite head strap for Meta Quest 3 (per listing title)"], ["Fit", "Meta Quest 3 (also Quest 2 / 3S, per photo content)"], ["Feature", "Comfortable, adjustable (per listing title)"]],
+    added: 679,
+    popular: false
+  },
+  {
+    id: "svbony-sv501p-telescope",
+    name: "SVBONY SV501P Telescope for Astronomy Beginners 80mm Aperture Refractor Telescope",
+    short: "SVBONY SV501P Telescope",
+    price: 96.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3ReK73l",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv501p-telescope/ad-photo.png",
+    desc: "SVBONY SV501P telescope for astronomy beginners — 80mm aperture refractor telescope.",
+    specs: [["Type", "Refractor telescope, 80mm aperture (per listing title)"], ["Model", "SV501P (per listing title)"], ["Use", "Astronomy beginners (per listing title)"], ["Includes", "Tripod, carry bag and accessories (per photo content)"]],
+    added: 680,
+    popular: false
+  },
+  {
+    id: "handheld-led-magnifying-loupe-30x-dermatoscope",
+    name: "Handheld 30x LED Magnifying Loupe Dermatoscope with 4-Color LED Light USB Charging",
+    short: "Handheld LED Magnifying Loupe 30x",
+    price: 27.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3LrNT35",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-led-magnifying-loupe-30x-dermatoscope/ad-photo.png",
+    desc: "Handheld 30x LED magnifying loupe dermatoscope — 4-color LED light, adjustable focus, USB charging.",
+    specs: [["Magnification", "30x (per photo content)"], ["Light", "4-color LED light source (per photo content)"], ["Focus", "Adjustable focus, rotate clockwise or counterclockwise (per photo content)"], ["Charging", "USB charging, Type-C port (per photo content)"]],
+    added: 681,
+    popular: false
+  },
+  {
+    id: "dental-spa-faucet-oral-irrigator",
+    name: "Dental SPA Faucet Oral Irrigator Water Flosser for Teeth Cleaning",
+    short: "Dental SPA Faucet Oral Irrigator",
+    price: 21.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c31Sv0AB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dental-spa-faucet-oral-irrigator/ad-photo.png",
+    desc: "Dental SPA faucet oral irrigator — water flosser for teeth cleaning, connects to tap.",
+    specs: [["Type", "Faucet oral irrigator, water flosser (per listing title)"], ["Power", "Tap-powered — no electricity, no noise (per photo content)"], ["Nozzles", "5 colored nozzles with wall holder (per photo content)"], ["Use", "Teeth cleaning (per listing title)"]],
+    added: 682,
+    popular: false
+  }
 
 ];
 
