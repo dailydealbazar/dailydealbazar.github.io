@@ -1,9 +1,9 @@
-/* Daily Deal Bazar — live tracker (Firebase Realtime Database).
+/* Quelia Finds — live tracker (Firebase Realtime Database).
    Counts pageviews, sessions, countries, top pages, live presence and Buy Now clicks.
    Never breaks the page: every step is guarded. No personal data is collected. */
 (function () {
   try {
-    if (location.hostname !== "dailydealbazar.github.io" && location.hostname !== "dailydealbazar.work.gd") return;
+    if (location.hostname !== "dailydealbazar.github.io" && location.hostname !== "queliafinds.publicvm.com") return;
     /* Bot filter — AI crawlers, search bots aur headless agents ko visitor count nahi karna.
        Sirf asli insaan gine jayenge; robots ki alag pehchan ddb/bots mein likhi jati hai. */
     function isBot(ua) {
