@@ -16277,6 +16277,109 @@ const PRODUCTS = [
     added: 642,
     popular: false
   }
+,
+  {
+    id: "3d-big-hero-foil-balloons-spider",
+    name: "3D Big Hero Foil Balloons Spider Stand up Birthday Party Decoration Baby Shower Air-filled Celebration Supplies",
+    short: "3D Big Hero Foil Balloons Spider",
+    price: 5.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3h2emN9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-big-hero-foil-balloons-spider/ad-photo.png",
+    desc: "3D Big Hero foil balloons — spider stand-up birthday party decoration, air-filled celebration supplies for baby showers and parties.",
+    specs: [["Type", "3D foil balloons, spider stand-up (per listing title)"], ["Use", "Birthday party decoration, baby shower, celebration supplies (per listing title)"], ["Style", "Air-filled, stand up (per listing title)"], ["Size", "55 x 63cm (per photo)"]],
+    added: 643,
+    popular: false
+  },
+  {
+    id: "toy-story-5-make-a-face-stickers",
+    name: "Toy Story 5 Make a Face Stickers Carton Woody Buzz Waterproof Reusable Puzzle Stickers for Kids DIY Craft Christmas Decor Gifts",
+    short: "Toy Story 5 Make a Face Stickers",
+    price: 1.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3J0BlKj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toy-story-5-make-a-face-stickers/ad-photo.png",
+    desc: "Toy Story 5 make-a-face stickers — Woody and Buzz waterproof reusable puzzle stickers for kids' DIY crafts, Christmas decor and gifts.",
+    specs: [["Type", "Make-a-face stickers, Woody / Buzz (per listing title)"], ["Use", "DIY craft, Christmas decor, gifts for kids (per listing title)"], ["Feature", "Waterproof, reusable puzzle stickers (per listing title)"], ["Size", "14.9 x 11.4cm (per photo)"]],
+    added: 644,
+    popular: false
+  },
+  {
+    id: "modern-led-ceiling-lights",
+    name: "Modern Led Lights for Bedroom Restaurant Hotel Decoration Lighting Ceiling Lamp Smart Acrylic Ring Dimmable Led Ceiling Lights",
+    short: "Modern LED Ceiling Lights",
+    price: 91.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3nulGg3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-7.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/photo-8.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/modern-led-ceiling-lights/ad-photo.png",
+    desc: "Modern LED ceiling lights — smart acrylic ring dimmable LED ceiling lamp for bedroom, restaurant and hotel decoration lighting.",
+    specs: [["Type", "LED ceiling lamp, smart acrylic ring (per listing title)"], ["Color temperature", "3000K warm / 4500K neutral / 6500K cold (per photo)"], ["Control", "Remote dimming, full/half and night-light functions (per photo)"], ["Use", "Bedroom, restaurant, hotel decoration lighting (per listing title)"]],
+    added: 645,
+    popular: false
+  },
+  {
+    id: "mini-lcd-digital-thermometer-hygrometer",
+    name: "1/3/4/6 PCS Mini LCD Digital Thermometer Hygrometer Indoor Room Temperature Humidity Meter Sensor Gauge Weather Station Set",
+    short: "Mini LCD Thermometer Hygrometer",
+    price: 3.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c41Riwmn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-lcd-digital-thermometer-hygrometer/ad-photo.png",
+    desc: "Mini LCD digital thermometer hygrometer — indoor room temperature and humidity meter sensor gauge, weather station set.",
+    specs: [["Type", "Mini LCD digital thermometer hygrometer (per listing title)"], ["Measures", "Indoor room temperature and humidity (per listing title)"], ["Packs", "1 / 3 / 4 / 6 PCS set (per listing title)"], ["Styles", "3 styles, white and black (per photo)"]],
+    added: 646,
+    popular: false
+  }
 
 ];
 
