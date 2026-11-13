@@ -15678,6 +15678,102 @@ const PRODUCTS = [
     added: 618,
     popular: false
   }
+,
+  {
+    id: "7-0mm-type-c-endoscope-camera-ip67",
+    name: "7.0MM TYPE-C Endoscope Camera IP67 Waterproof Inspection Borescope",
+    short: "7.0MM TYPE-C Endoscope Camera IP67",
+    price: 4.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c43aQIXh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-0mm-type-c-endoscope-camera-ip67/ad-photo.png",
+    desc: "7.0mm Type-C endoscope camera with IP67 waterproof lens, adjustable 6 LED lights, and mirror, magnet and hook accessories — for inspection on Android phones.",
+    specs: [["Type", "Type-C endoscope camera, 7.0mm lens (per photo)"], ["Waterproof", "IP67 waterproof (per photo)"], ["Lights", "Adjustable 6 LED lights (per photo)"], ["Includes", "Side mirror, magnet, hook (per photo)"]],
+    added: 619,
+    popular: false
+  },
+  {
+    id: "4-in-1-electric-bottle-wine-opener-set",
+    name: "4-in-1 Electric Bottle Wine Opener Set Electric Wine Set with Foil Cutter",
+    short: "4-in-1 Electric Bottle Wine Opener Set",
+    price: 21.01,
+    oldPrice: 21.93,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c44xM1Wb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-electric-bottle-wine-opener-set/main.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/4-in-1-electric-bottle-wine-opener-set/ad-photo.png",
+    desc: "4-in-1 electric bottle wine opener set — rechargeable opener with foil cutter, wine pourer and vacuum stopper.",
+    specs: [["Type", "Electric wine opener set (per photo)"], ["Includes", "Opener, foil cutter, pourer, vacuum stopper (per photo)"], ["Power", "Rechargeable, USB charging (per photo)"]],
+    added: 620,
+    popular: false
+  },
+  {
+    id: "sports-knitted-elbow-brace-sleeve",
+    name: "Sports Knitted Elbow Brace Sleeve Elbow Support",
+    short: "Sports Knitted Elbow Brace Sleeve",
+    price: 2.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Xhb6p9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sports-knitted-elbow-brace-sleeve/ad-photo.png",
+    desc: "Sports knitted elbow brace sleeve with anti-slip design — breathable support that relieves elbow pain, sizes S to XL.",
+    specs: [["Type", "Knitted elbow brace sleeve (per photo)"], ["Sizes", "S/M/L/XL, elbow 20-40cm (per photo)"], ["Features", "Anti-slip, breathable, relieves elbow pain (per photo)"]],
+    added: 621,
+    popular: false
+  },
+  {
+    id: "nbf-480-brushless-aeg-motor-for-airsoft",
+    name: "NBF 480 Brushless AEG Motor for Airsoft King of the Jungle 4-Speed",
+    short: "NBF 480 Brushless AEG Motor for Airsoft",
+    price: 224.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3WPBHWL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbf-480-brushless-aeg-motor-for-airsoft/ad-photo.png",
+    desc: "NBF 480 brushless AEG motor for airsoft — King of the Jungle 4-speed with S/H/M/L gears, up to 46500 RPM.",
+    specs: [["Brand", "NBF"], ["Type", "480 brushless AEG motor, 4-speed (per photo)"], ["RPM", "24500 / 28000 / 32500 / 38000 / 46500 (per photo)"], ["Size", "29.5 x 25mm, 73.3mm long, 116g (per photo)"]],
+    added: 622,
+    popular: false
+  }
 
 ];
 
