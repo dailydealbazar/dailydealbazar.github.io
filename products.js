@@ -16889,6 +16889,102 @@ const PRODUCTS = [
     added: 666,
     popular: false
   }
+,
+  {
+    id: "filn-8mm-led-pilot-indicator-warning-light",
+    name: "FILN 8mm 12V 24V 110V 220V Metal LED Pilot Panel Dash Signal Indicator Warning Light 20cm Cable Chrome Finish Car Boat Marine",
+    short: "FILN LED Pilot Indicator Light",
+    price: 5.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3dEHBwT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/filn-8mm-led-pilot-indicator-warning-light/ad-photo.png",
+    desc: "FILN 8mm metal LED pilot panel dash signal indicator warning light — 12V/24V/110V/220V, 20cm cable, chrome finish, car boat marine.",
+    specs: [["Type", "Metal LED pilot panel dash signal indicator warning light, 8mm (per listing title)"], ["Voltage", "12V / 24V / 110V / 220V (per listing title)"], ["Cable", "20cm cable, chrome finish (per listing title)"], ["Use", "Car, boat, marine (per listing title)"]],
+    added: 667,
+    popular: false
+  },
+  {
+    id: "motion-sensor-night-light-led-detector-lamp",
+    name: "1pc Motion Sensor Night Light - Wireless LED Detector Lamp for Bedroom, Staircase, Closet, and Room Decor-",
+    short: "Motion Sensor Night Light",
+    price: 3.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3TXAGbv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/motion-sensor-night-light-led-detector-lamp/ad-photo.png",
+    desc: "Motion sensor night light — wireless LED detector lamp for bedroom, staircase, closet and room decor.",
+    specs: [["Type", "Motion sensor night light, wireless LED detector lamp (per listing title)"], ["Use", "Bedroom, staircase, closet, room decor (per listing title)"]],
+    added: 668,
+    popular: false
+  },
+  {
+    id: "candle-wicks-50pcs-smokeless-cotton-core",
+    name: "50 PCS 6-20cm Candle Wicks Smokeless Wax Pure Cotton Core for DIY Candle Making Pre-Waxed Wicks Party Supplies Home Decoration",
+    short: "Candle Wicks 50 PCS",
+    price: 2.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c437Q8Sr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/candle-wicks-50pcs-smokeless-cotton-core/ad-photo.png",
+    desc: "50 pcs 6-20cm candle wicks — smokeless wax, pure cotton core, pre-waxed, for DIY candle making.",
+    specs: [["Type", "Candle wicks, smokeless wax, pure cotton core (per listing title)"], ["Size", "6-20cm, 50 pcs, pre-waxed (per listing title)"], ["Use", "DIY candle making, party supplies, home decoration (per listing title)"]],
+    added: 669,
+    popular: false
+  },
+  {
+    id: "fox-36-factory-fork-stickers-2021",
+    name: "Fox 36 Factory Fork Stickers 2021 Wp425 Cycling Accessories Vinylos Mountain Bike Mtb Btt",
+    short: "Fox 36 Fork Stickers",
+    price: 21.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3fjdZRH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fox-36-factory-fork-stickers-2021/main.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fox-36-factory-fork-stickers-2021/ad-photo.png",
+    desc: "Fox 36 factory fork stickers 2021 — vinyl cycling accessories for mountain bike MTB BTT.",
+    specs: [["Type", "Factory fork stickers, vinyl (per listing title)"], ["Fits", "Fox 36 Factory fork, 2021 Wp425 (per listing title)"], ["Use", "Mountain bike, MTB, BTT cycling accessories (per listing title)"]],
+    added: 670,
+    popular: false
+  }
 
 ];
 
