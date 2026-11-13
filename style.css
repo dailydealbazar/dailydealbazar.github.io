@@ -32,10 +32,11 @@ img{max-width:100%}
 .hero-copy h1{font-size:56px;line-height:1.05;margin:0 0 16px;color:var(--navy);text-align:left}
 .accent-text{color:var(--accent)}
 .hero-sub{font-size:19px;color:var(--muted);margin:0 0 28px;text-align:left}
-.hero-eyebrow{display:inline-block;font-size:13px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent-dark);background:rgba(228,123,37,.12);border:1px solid rgba(228,123,37,.35);padding:8px 14px;border-radius:999px;margin:0 0 18px}
+.hero-eyebrow{font-size:13px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--accent);margin:0 0 18px}
 .hero-stats{display:flex;gap:22px;flex-wrap:wrap;margin-top:26px}
 .hero-stats span{font-size:14px;color:var(--muted)}
 .hero-stats b{font-size:18px;color:var(--navy)}
+.hero-stats .tick{color:#0a7a3d}
 .hero-actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
 .hero-actions .vg-btn{margin:0}
 .hero-visual{position:relative}
