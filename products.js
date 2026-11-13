@@ -16380,6 +16380,108 @@ const PRODUCTS = [
     added: 646,
     popular: false
   }
+,
+  {
+    id: "xiaomi-tv-box-s-3rd-gen",
+    name: "New Xiaomi TV Box S 3rd Gen, Smart Android TV Box 4K UHD Media Player, Dolby Vision HDR10+ Google Assistant Google TV Set-Top Box",
+    short: "Xiaomi TV Box S 3rd Gen",
+    price: 104.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2wPlTCJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-tv-box-s-3rd-gen/ad-photo.png",
+    desc: "Xiaomi TV Box S 3rd Gen — smart Android TV box, 4K UHD media player with Dolby Vision, HDR10+, Google Assistant and Google TV.",
+    specs: [["Type", "Smart Android TV box, 4K UHD media player (per listing title)"], ["Memory", "2GB RAM + 32GB storage (per photo)"], ["Display", "Dolby Vision, HDR10+, Dolby Atmos DTS:X (per photo)"], ["System", "Google TV, Google Assistant, Wi-Fi 6 (per listing title/photo)"]],
+    added: 647,
+    popular: false
+  },
+  {
+    id: "sonoff-snzb-02m-zigbee-sensor",
+    name: "SONOFF SNZB-02M Zigbee 3.0 Temperature, Humidity, and Air Pressure Sensor, Monitors Dew Point and VPD, Compatible with Apple Home via Matter Bridge",
+    short: "SONOFF SNZB-02M Zigbee Sensor",
+    price: 25.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c36lcRKT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-7.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/photo-8.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonoff-snzb-02m-zigbee-sensor/ad-photo.png",
+    desc: "SONOFF SNZB-02M Zigbee 3.0 sensor — monitors temperature, humidity and air pressure plus dew point and VPD, works with Apple Home via Matter Bridge.",
+    specs: [["Type", "Zigbee 3.0 temperature, humidity and air pressure sensor (per listing title)"], ["Monitors", "Temperature, humidity, air pressure, dew point, VPD (per listing title)"], ["Accuracy", "±0.1 hPa, ±0.2°C, ±2% RH (per photo)"], ["Battery", "Over 2 years battery life (per photo)"]],
+    added: 648,
+    popular: false
+  },
+  {
+    id: "darevie-cycling-jersey-winter-thermal-fleece",
+    name: "DAREVIE Cycling Jersey Winter Thermal Fleece Cycling Jersey Men Long Sleeve Hot Warm Soft Brushed Breathable Bicycle Clothing",
+    short: "DAREVIE Winter Thermal Fleece Cycling Jersey",
+    price: 37.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4WReRRN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cycling-jersey-winter-thermal-fleece/ad-photo.png",
+    desc: "DAREVIE winter thermal fleece cycling jersey — men's long sleeve, hot, warm, soft brushed and breathable bicycle clothing.",
+    specs: [["Type", "Winter thermal fleece cycling jersey, men long sleeve (per listing title)"], ["Lining", "Heating fiber fleece lining layer (per photo)"], ["Structure", "3-layer: surface, air, contact (per photo)"], ["Colors", "Black, navy, grey (per photo)"]],
+    added: 649,
+    popular: false
+  },
+  {
+    id: "transformers-bumblebee-keychain",
+    name: "Transformers Cybertron Legacy Robots in Disguise Bumblebeee Keychain Students Fan Gift Bag Charms Key Chain Pendant Ornaments",
+    short: "Transformers Bumblebee Keychain",
+    price: 4.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2xKIJpp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/transformers-bumblebee-keychain/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/transformers-bumblebee-keychain/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/transformers-bumblebee-keychain/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/transformers-bumblebee-keychain/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/transformers-bumblebee-keychain/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/transformers-bumblebee-keychain/ad-photo.png",
+    desc: "Transformers Cybertron Legacy Robots in Disguise Bumblebee keychain — fan gift bag charm, key chain pendant ornament.",
+    specs: [["Type", "Transformers Cybertron Legacy acrylic keychain (per photo)"], ["Characters", "Optimus Prime, Bumblebee, Megatron, Hot Rod, Soundwave, Jazz, Starscream (per photo)"], ["Use", "Bag charm, key chain pendant ornament, fan gift (per listing title)"]],
+    added: 650,
+    popular: false
+  }
 
 ];
 
