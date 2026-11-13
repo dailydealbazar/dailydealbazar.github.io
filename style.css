@@ -7,10 +7,6 @@ a:hover{text-decoration:underline}
 img{max-width:100%}
 .wrap{max-width:1280px;margin:0 auto;padding:0 24px}
 
-/* Announcement strip (Home only) */
-.announce{background:var(--accent);color:var(--navy);text-align:center;font-size:14px;font-weight:700;padding:9px 16px}
-.announce p{margin:0}
-
 /* Header */
 .topbar{position:sticky;top:0;background:var(--navy);color:#fff;display:flex;align-items:center;gap:20px;padding:12px 28px;z-index:20}
 .logo-link{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff;flex-shrink:0}
@@ -36,6 +32,10 @@ img{max-width:100%}
 .hero-copy h1{font-size:56px;line-height:1.05;margin:0 0 16px;color:var(--navy);text-align:left}
 .accent-text{color:var(--accent)}
 .hero-sub{font-size:19px;color:var(--muted);margin:0 0 28px;text-align:left}
+.hero-eyebrow{display:inline-block;font-size:13px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent-dark);background:rgba(228,123,37,.12);border:1px solid rgba(228,123,37,.35);padding:8px 14px;border-radius:999px;margin:0 0 18px}
+.hero-stats{display:flex;gap:22px;flex-wrap:wrap;margin-top:26px}
+.hero-stats span{font-size:14px;color:var(--muted)}
+.hero-stats b{font-size:18px;color:var(--navy)}
 .hero-actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
 .hero-actions .vg-btn{margin:0}
 .hero-visual{position:relative}
@@ -46,6 +46,22 @@ img{max-width:100%}
 .hero-grid a:first-child{grid-column:1 / -1}
 .hero-grid img{width:100%;aspect-ratio:1/1;object-fit:cover;display:block}
 .hero-grid a:first-child img{aspect-ratio:16/9}
+/* Featured earphones — earbuds dip into the case, then pop back out (Atif's request). */
+@keyframes earbudsInOut{
+  0%,50%,100%{transform:translateY(0)}
+  65%{transform:translateY(12px)}
+  80%{transform:translateY(-8px)}
+}
+.hero-grid a:first-child{animation:earbudsInOut 4s ease-in-out infinite}
+/* Kids camera (middle bottom card) — gentle focus zoom. */
+@keyframes camFocus{
+  0%,100%{transform:scale(1)}
+  50%{transform:scale(1.07)}
+}
+.hero-grid a:nth-child(3) img{animation:camFocus 3s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){
+  .hero-grid a:first-child,.hero-grid a:nth-child(3) img{animation:none}
+}
 .shop-btn{display:inline-block;background:var(--accent);color:var(--navy)!important;font-weight:800;font-size:20px;padding:16px 36px;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px rgba(228,123,37,.35)}
 .shop-btn:hover{transform:translateY(-2px);text-decoration:none}
 
