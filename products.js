@@ -16176,6 +16176,107 @@ const PRODUCTS = [
     added: 638,
     popular: false
   }
+,
+  {
+    id: "stainless-steel-star-of-david-pendant-necklace",
+    name: "Stainless Steel Star of David Pendant Necklace For Men Hexagram David Star Jewelry, Vintage Box Chain Religious Jewelry",
+    short: "Star of David Pendant Necklace",
+    price: 4.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c30mFxFN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-steel-star-of-david-pendant-necklace/ad-photo.png",
+    desc: "Stainless steel Star of David pendant necklace for men — hexagram religious jewelry on a vintage box chain.",
+    specs: [["Material", "Stainless steel (per listing title)"], ["Type", "Pendant necklace, hexagram / Star of David (per listing title)"], ["Chain", "Vintage box chain (per listing title)"], ["Pendant size", "26 x 32mm, weight 13g, chain 60cm (per photo)"]],
+    added: 639,
+    popular: false
+  },
+  {
+    id: "14-compartments-independent-pill-case",
+    name: "14 Compartments Independent Pill Case Portable Medicine Box Home Office Travel Accessories",
+    short: "14-Compartment Pill Case",
+    price: 3.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4VGmNCX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/14-compartments-independent-pill-case/ad-photo.png",
+    desc: "14-compartment independent pill case — portable medicine box for home, office and travel.",
+    specs: [["Type", "14 compartments, independent (per listing title)"], ["Use", "Portable medicine box, home / office / travel (per listing title)"], ["Size", "17.5 x 8.5 x 3cm (per photo)"]],
+    added: 640,
+    popular: false
+  },
+  {
+    id: "suyarun-ghk-cu-cream-serum",
+    name: "SUYARUN GHK-CU Cream & Serum — Anti-Aging Facial Moisturizer, Firming and Moisturizing for All Skin Types, Suitable for Women",
+    short: "SUYARUN GHK-CU Cream & Serum",
+    price: 6.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c30QnaWr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/suyarun-ghk-cu-cream-serum/ad-photo.png",
+    desc: "SUYARUN GHK-CU cream and serum — anti-aging facial moisturizer that firms and moisturizes all skin types.",
+    specs: [["Type", "GHK-CU cream & serum (per listing title)"], ["Benefit", "Anti-aging, firming and moisturizing (per listing title)"], ["Skin", "All skin types, suitable for women (per listing title)"], ["Key ingredients", "Copper Tripeptide-1, Sodium Hyaluronate, Glycerin, Niacinamide (per photo)"]],
+    added: 641,
+    popular: false
+  },
+  {
+    id: "dollhouse-miniature-white-mugs",
+    name: "10pcs Dollhouse Miniature White Mugs: Miniature Resin Coffee Cup Models for Kitchen, Living Room, Study, or Café Scene Tabletop",
+    short: "Dollhouse Miniature White Mugs",
+    price: 3.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4lz86KJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dollhouse-miniature-white-mugs/ad-photo.png",
+    desc: "10-piece dollhouse miniature white mugs — miniature resin coffee cup models for kitchen, living room, study or café scenes.",
+    specs: [["Type", "10pcs miniature resin coffee cup models (per listing title)"], ["Use", "Kitchen, living room, study, café scene tabletop (per listing title)"], ["Size", "2.15 x 1.68 x 1.52cm (per photo)"]],
+    added: 642,
+    popular: false
+  }
 
 ];
 
