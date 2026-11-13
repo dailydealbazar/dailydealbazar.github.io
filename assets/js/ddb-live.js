@@ -3,6 +3,15 @@
    Never breaks the page: every step is guarded. No personal data is collected. */
 (function () {
   try {
+    /* Internal visitor exclusion — browser-level opt-out (localStorage, no IP).
+       Set/clear via URL (?internal=1 / ?internal=0). If this browser opted out, record NOTHING:
+       no pageview, session, country, presence, or Buy Now click is sent to Firebase. */
+    try {
+      var _iq = new URLSearchParams(location.search).get('internal');
+      if (_iq === '1') { try { localStorage.setItem('quelia-internal', '1'); } catch (e) {} }
+      else if (_iq === '0') { try { localStorage.removeItem('quelia-internal'); } catch (e) {} }
+    } catch (e) {}
+    try { if (localStorage.getItem('quelia-internal') === '1') return; } catch (e) {}
     if (location.hostname !== "dailydealbazar.github.io" && location.hostname !== "queliafinds.publicvm.com") return;
     /* Bot filter — AI crawlers, search bots aur headless agents ko visitor count nahi karna.
        Sirf asli insaan gine jayenge; robots ki alag pehchan ddb/bots mein likhi jati hai. */
