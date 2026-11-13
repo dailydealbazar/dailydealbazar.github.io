@@ -16482,6 +16482,107 @@ const PRODUCTS = [
     added: 650,
     popular: false
   }
+,
+  {
+    id: "finger-rehabilitation-robot-gloves",
+    name: "Left & Right Hand Finger Rehabilitation Exerciser Robot Gloves Stroke Hemiplegia Cerebral Infarction Training Equipment Therapy",
+    short: "Finger Rehabilitation Robot Gloves",
+    price: 27.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2zNjySJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-rehabilitation-robot-gloves/ad-photo.png",
+    desc: "Left & right hand finger rehabilitation exerciser robot gloves — stroke, hemiplegia and cerebral infarction training equipment therapy.",
+    specs: [["Type", "Finger rehabilitation exerciser robot gloves, left & right hand (per listing title)"], ["Use", "Stroke, hemiplegia, cerebral infarction training equipment therapy (per listing title)"], ["Valve control", "Train fingers individually — valve open/closed (per photo)"], ["Sizes", "S–XXL glove size recommendations (per photo)"]],
+    added: 651,
+    popular: false
+  },
+  {
+    id: "pokemon-tcg-booster-box",
+    name: "360P English Pokemon TCG: Scarlet & Violet Booster Box Pokémon Cards Game 36 Pack Box",
+    short: "Pokemon TCG Booster Box",
+    price: 15.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3sPupVh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pokemon-tcg-booster-box/ad-photo.png",
+    desc: "Pokemon TCG Scarlet & Violet booster box — English Pokémon cards game, 36 pack box.",
+    specs: [["Type", "Pokemon TCG booster box, 36 pack box (per listing title)"], ["Language", "English (per listing title)"], ["Series", "Scarlet & Violet (per listing title)"], ["Sets shown", "Prismatic Evolutions, Ascended Heroes, 151, Destined Rivals (per photo)"]],
+    added: 652,
+    popular: false
+  },
+  {
+    id: "9imod-mini-fpv-camera",
+    name: "9IMOD Mini FPV Camera 1800TVL 5MP 2.1mm 1/3 Inch HDR Sensor 19x19mm NTSC PAL Switchable for FPV Drone DIY Parts",
+    short: "9IMOD Mini FPV Camera",
+    price: 15.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4kPbYxv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/9imod-mini-fpv-camera/ad-photo.png",
+    desc: "9IMOD mini FPV camera — 1800TVL, 5MP, 2.1mm lens, 1/3 inch HDR sensor, NTSC/PAL switchable, for FPV drone DIY parts.",
+    specs: [["Type", "Mini FPV camera, 1800TVL, 5MP (per listing title)"], ["Lens / Sensor", "2.1mm lens, 1/3 inch HDR sensor, 19x19mm (per listing title)"], ["Signal", "NTSC / PAL switchable (per listing title)"], ["Power / Weight", "5–40V, 5.9g, Super WDR with OSD (per photo)"]],
+    added: 653,
+    popular: false
+  },
+  {
+    id: "mirai-dolls-bjd-blind-box",
+    name: "Genuine Mirai Dolls Boxed Furry Series 1/8 Bjd Blind Box Anime Action Figure Character Doll Model Desk Ornament Collect Toy Gift",
+    short: "Mirai Dolls BJD Blind Box",
+    price: 28.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3Wx1lTV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mirai-dolls-bjd-blind-box/ad-photo.png",
+    desc: "Genuine Mirai Dolls Boxed Furry Series 1/8 BJD blind box — anime action figure character doll model, desk ornament collect toy gift.",
+    specs: [["Type", "1/8 BJD blind box anime action figure character doll (per listing title)"], ["Series", "Mirai Dolls Boxed Furry Series (per listing title)"], ["Use", "Desk ornament, collect toy gift (per listing title)"], ["Outfits shown", "Coffee shop, sailor, maid and panda Furry Series outfits (per photo)"]],
+    added: 654,
+    popular: false
+  }
 
 ];
 
