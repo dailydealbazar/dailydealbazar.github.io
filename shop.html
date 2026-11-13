@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<link rel="icon" type="image/png" href="assets/favicon.png?v=1">
-<link rel="apple-touch-icon" href="assets/apple-touch-icon.png?v=1">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shop — Daily Deal Bazar | Explore Our Products</title>
-<meta name="description" content="Explore our products at Daily Deal Bazar — find your favorite products at amazing prices through trusted AliExpress links.">
-<link rel="stylesheet" href="style.css?v=18">
+<title>Shop — Quelia Finds | Explore Our Products</title>
+<meta name="description" content="Explore our products at Quelia Finds — find useful products at fair prices through trusted AliExpress links.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://dailydealbazar.work.gd/shop.html">
+<meta property="og:site_name" content="Quelia Finds">
+<meta property="og:title" content="Shop — Quelia Finds | Explore Our Products">
+<meta property="og:description" content="Explore our products at Quelia Finds — find useful products at fair prices through trusted AliExpress links.">
+<meta property="og:image" content="https://dailydealbazar.work.gd/assets/quelia-logo.png">
+<link rel="canonical" href="https://dailydealbazar.work.gd/shop.html">
+<link rel="stylesheet" href="style.css?v=200">
 <script src="countries.js?v=3"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7057239487273648"
      crossorigin="anonymous"></script>
@@ -26,21 +33,21 @@
 </head>
 <body>
 <header class="topbar">
-<a class="logo-link" href="./"><img class="logo" src="assets/logo.png" alt="Daily Deal Bazar logo"><span class="brand">Daily <span>Deal Bazar</span></span></a>
+<a class="logo-link" href="./"><img class="logo-img" src="assets/logo.png" alt="Quelia Finds"></a>
 <nav class="main-nav">
 <a href="./">Home</a>
 <a href="shop.html" class="active">Shop</a>
 <a href="shop.html?filter=discounted">Deals</a>
 <a href="about.html">About Us</a>
 <a href="faq.html">FAQ</a>
-<a href="about.html#contact">Contact</a>
+<a href="contact.html">Contact</a>
 </nav>
 <form class="search" action="shop.html" method="get">
 <input type="search" name="q" placeholder="Search products..." aria-label="Search products">
 <button type="submit" aria-label="Search">🔍</button>
 </form>
 <select id="countrySelect" class="country-select" aria-label="Select your country"></select>
-<a class="account-link" href="about.html" aria-label="Account">👤</a>
+
 </header>
 
 <section class="shop-head">
@@ -72,7 +79,7 @@
 <label><input type="checkbox" id="fPopular"> Popular Products</label>
 <label><input type="checkbox" id="fLatest"> Latest Products</label>
 <label><input type="checkbox" id="fDiscounted"> Discounted Products</label>
-<button class="side-btn" id="clearFilters" style="background:transparent;border:1px solid #FFC400;color:#FFC400;box-shadow:none">Clear All Filters</button>
+<button class="side-btn" id="clearFilters" style="background:transparent;border:1px solid #E47B25;color:#E47B25;box-shadow:none">Clear All Filters</button>
 </aside>
 
 <main>
@@ -100,8 +107,8 @@
 <footer>
 <div class="foot-grid">
 <div>
-<div class="foot-brand">Daily <span>Deal Bazar</span></div>
-<p>Shop Smart, Save Big! Best deals, top quality and unbeatable prices from trusted AliExpress sellers, for shoppers around the world.</p>
+<div class="foot-brand"><img class="foot-logo-img" src="assets/logo.png" alt="Quelia Finds"></div>
+<p>Discover Something Better. Useful finds across tech, home, style and everyday living — curated from trusted AliExpress sellers, for shoppers around the world.</p>
 <p>📧 <a href="mailto:atifhussain78698633@gmail.com">atifhussain</a></p>
 </div>
 <div>
@@ -111,7 +118,7 @@
 <a href="shop.html?filter=discounted">Deals</a>
 <a href="about.html">About Us</a>
 <a href="faq.html">FAQ</a>
-<a href="about.html#contact">Contact</a>
+<a href="contact.html">Contact</a>
 </div>
 <div>
 <h4>Information</h4>
@@ -119,7 +126,7 @@
 <a href="faq.html">FAQ</a>
 <a href="privacy.html">Privacy Policy</a>
 <a href="terms.html">Terms &amp; Conditions</a>
-<a href="terms.html">Affiliate Disclosure</a>
+<a href="affiliate-disclosure.html">Affiliate Disclosure</a>
 </div>
 <div>
 <h4>Follow Us</h4>
@@ -128,10 +135,10 @@
 <a href="https://www.tiktok.com/@dailydealbazarofficial" target="_blank" rel="noopener">♪ TikTok</a>
 </div>
 </div>
-<div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
+<div class="foot-bottom">© 2026 Quelia Finds — Discover Something Better. Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 
-<script src="products.js?v=178"></script>
+<script src="products.js?v=200"></script>
 <script>
 const params = new URLSearchParams(location.search);
 const PER_PAGE = 12;
@@ -218,7 +225,7 @@ function card(p) {
 }
 
 function copyProductLink(id, btn) {
-  const url = "https://dailydealbazar.github.io/product.html?id=" + id;
+  const url = "https://dailydealbazar.work.gd/product.html?id=" + id;
   const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
   const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
   if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }

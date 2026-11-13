@@ -4,10 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
-<title>Live Dashboard — Daily Deal Bazar</title>
-<meta name="description" content="Daily Deal Bazar live dashboard — visitors, live users, countries, clicks, site status. Private.">
-<link rel="icon" type="image/png" href="assets/favicon.png?v=1">
-<link rel="stylesheet" href="style.css?v=16">
+<title>Live Dashboard — Quelia Finds</title>
+<meta name="description" content="Quelia Finds live dashboard — visitors, live users, countries, clicks, site status. Private.">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css?v=200">
 <style>
 body{background:#f4f6fa}
 .dash-top{background:var(--navy);color:#fff;padding:18px 0 14px}
@@ -57,7 +58,7 @@ body{background:#f4f6fa}
 <body>
 <header class="dash-top">
 <div class="wrap">
-<a class="dash-logo" href="./"><img src="assets/logo.png" alt="Daily Deal Bazar logo"><b>Daily <span>Deal Bazar</span></b></a>
+<a class="dash-logo" href="./"><img src="assets/logo.png" alt="Quelia Finds" style="height:34px;width:auto;background:#fff;border-radius:8px;padding:4px 8px"></a>
 <span class="live-badge"><span class="live-dot"></span>LIVE</span>
 <span class="dash-clock" id="dashClock">—</span>
 </div>
@@ -72,6 +73,7 @@ body{background:#f4f6fa}
 <div class="card"><h3>👥 Total Visitors</h3><div class="num" id="totalVisits">0</div><div class="cap">ab tak ke alag visitors (1 IP = 1)</div></div>
 <div class="card"><h3>📅 Today</h3><div class="num" id="todayVisits">0</div><div class="cap">aaj ke alag visitors (1 IP = 1)</div></div>
 <div class="card"><h3>🛒 Buy Now Clicks — Today</h3><div class="num" id="todayClicks">0</div><div class="cap">aaj Buy Now par clicks</div></div>
+<div class="card"><h3>📦 Products</h3><div class="num" id="productCount">—</div><div class="cap">shop mein live products</div></div>
 </section>
 
 <section class="panels">
@@ -209,6 +211,14 @@ body{background:#f4f6fa}
   setInterval(checkSite, 30000);
   render(stats, presence);
 })();
+</script>
+<script src="products.js?v=200"></script>
+<script>
+  // Products card: live count from products.js (same data file the shop uses).
+  (function () {
+    var el = document.getElementById("productCount");
+    if (el && typeof PRODUCTS !== "undefined") el.textContent = PRODUCTS.length.toLocaleString("en-US");
+  })();
 </script>
 </body>
 </html>

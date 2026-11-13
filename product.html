@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<link rel="icon" type="image/png" href="assets/favicon.png?v=1">
-<link rel="apple-touch-icon" href="assets/apple-touch-icon.png?v=1">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Product — Daily Deal Bazar</title>
-<meta name="description" content="Product details at Daily Deal Bazar — Shop Smart, Save Big!">
-<link rel="stylesheet" href="style.css?v=17">
+<title>Product — Quelia Finds</title>
+<meta name="description" content="Product details at Quelia Finds — Discover Something Better.">
+<meta property="og:type" content="product">
+<meta property="og:url" content="https://dailydealbazar.work.gd/product.html">
+<meta property="og:site_name" content="Quelia Finds">
+<meta property="og:title" content="Product — Quelia Finds">
+<meta property="og:description" content="Product details at Quelia Finds.">
+<meta property="og:image" content="https://dailydealbazar.work.gd/assets/quelia-logo.png">
+<link rel="canonical" id="canonicalLink" href="https://dailydealbazar.work.gd/product.html">
+<link rel="stylesheet" href="style.css?v=200">
 <script src="countries.js?v=3"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7057239487273648"
      crossorigin="anonymous"></script>
@@ -26,35 +33,35 @@
 </head>
 <body>
 <header class="topbar">
-<a class="logo-link" href="./"><img class="logo" src="assets/logo.png" alt="Daily Deal Bazar logo"><span class="brand">Daily <span>Deal Bazar</span></span></a>
+<a class="logo-link" href="./"><img class="logo-img" src="assets/logo.png" alt="Quelia Finds"></a>
 <nav class="main-nav">
 <a href="./">Home</a>
 <a href="shop.html" class="active">Shop</a>
 <a href="shop.html?filter=discounted">Deals</a>
 <a href="about.html">About Us</a>
 <a href="faq.html">FAQ</a>
-<a href="about.html#contact">Contact</a>
+<a href="contact.html">Contact</a>
 </nav>
 <form class="search" action="shop.html" method="get">
 <input type="search" name="q" placeholder="Search products..." aria-label="Search products">
 <button type="submit" aria-label="Search">🔍</button>
 </form>
 <select id="countrySelect" class="country-select" aria-label="Select your country"></select>
-<a class="account-link" href="about.html" aria-label="Account">👤</a>
+
 </header>
 
 <div class="wrap">
 <div class="crumb" style="margin-top:24px"><a href="./">Home</a> → <a href="shop.html">Shop</a> → <span id="crumbName">Product</span></div>
 <div id="detail"></div>
-<h2 style="color:#03142F;margin-top:8px">Related Products</h2>
+<h2 style="color:#14243A;margin-top:8px">Related Products</h2>
 <div class="product-grid" id="related"></div>
 </div>
 
 <footer>
 <div class="foot-grid">
 <div>
-<div class="foot-brand">Daily <span>Deal Bazar</span></div>
-<p>Shop Smart, Save Big! Best deals, top quality and unbeatable prices from trusted AliExpress sellers, for shoppers around the world.</p>
+<div class="foot-brand"><img class="foot-logo-img" src="assets/logo.png" alt="Quelia Finds"></div>
+<p>Discover Something Better. Useful finds across tech, home, style and everyday living — curated from trusted AliExpress sellers, for shoppers around the world.</p>
 <p>📧 <a href="mailto:atifhussain78698633@gmail.com">atifhussain</a></p>
 </div>
 <div>
@@ -64,7 +71,7 @@
 <a href="shop.html?filter=discounted">Deals</a>
 <a href="about.html">About Us</a>
 <a href="faq.html">FAQ</a>
-<a href="about.html#contact">Contact</a>
+<a href="contact.html">Contact</a>
 </div>
 <div>
 <h4>Information</h4>
@@ -72,7 +79,7 @@
 <a href="faq.html">FAQ</a>
 <a href="privacy.html">Privacy Policy</a>
 <a href="terms.html">Terms &amp; Conditions</a>
-<a href="terms.html">Affiliate Disclosure</a>
+<a href="affiliate-disclosure.html">Affiliate Disclosure</a>
 </div>
 <div>
 <h4>Follow Us</h4>
@@ -81,15 +88,15 @@
 <a href="https://www.tiktok.com/@dailydealbazarofficial" target="_blank" rel="noopener">♪ TikTok</a>
 </div>
 </div>
-<div class="foot-bottom">© 2026 Daily Deal Bazar — Shop Smart, Save Big! Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
+<div class="foot-bottom">© 2026 Quelia Finds — Discover Something Better. Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
 </footer>
 
-<script src="products.js?v=178"></script>
+<script src="products.js?v=200"></script>
 <script>
 const id = new URLSearchParams(location.search).get("id");
-const p = PRODUCTS.find(x => x.id === id) || PRODUCTS[0];
-document.title = p.short + " — Daily Deal Bazar";
-document.getElementById("crumbName").textContent = p.short;
+const p = (typeof PRODUCTS !== "undefined") ? PRODUCTS.find(x => x.id === id) : undefined;
+// Per-product SEO helper (used in both branches).
+const setMeta = (sel, val) => { const el = document.querySelector(sel); if (el) el.setAttribute("content", val); };
 // Green % OFF badge — only when a real original price is recorded.
 function offBadge(x) {
   if (!x.oldPrice || x.oldPrice <= x.price) return "";
@@ -104,9 +111,57 @@ function pkrHtml(x) {
   const v = (DDB.formatPKR ? DDB.formatPKR(x.price) : null);
   return v ? `<div class="pkr-line">${v}</div>` : "";
 }
-const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
-const badge = p.badge ? `<span class="p-badge" style="position:static">${p.badge}</span>` : "";
-document.getElementById("detail").innerHTML = `
+let relList = [];
+function relatedHtml() { return relList.map(x => `
+<article class="p-card">
+  <a class="p-media" href="product.html?id=${x.id}"><img src="${x.images[0]}" alt="${x.short}" loading="lazy"></a>
+  <div class="p-body">
+    <h3><a href="product.html?id=${x.id}">${x.short}</a></h3>
+    <div class="p-cat">${x.categoryName}</div>
+    <div class="p-price">${priceHtml(x)}</div>${pkrHtml(x)}
+    <a class="p-buy" href="${x.link}" target="_blank" rel="noopener">Buy Now →</a>
+    <button class="p-copy" onclick="copyProductLink('${x.id}', this)">🔗 Copy Link</button>
+  </div>
+</article>`).join(""); }
+function copyProductLink(id, btn) {
+  const url = "https://dailydealbazar.work.gd/product.html?id=" + id;
+  const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
+  const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }
+  else fallback();
+}
+if (!p) {
+  // Removed / unknown product id — show a proper "not found" page, never a random product.
+  document.title = "Product not found — Quelia Finds";
+  setMeta('meta[name="description"]', "This product is no longer available on Quelia Finds.");
+  setMeta('meta[property="og:title"]', "Product not found — Quelia Finds");
+  setMeta('meta[property="og:description"]', "This product is no longer available on Quelia Finds.");
+  document.getElementById("crumbName").textContent = "Product not found";
+  document.getElementById("detail").innerHTML = `
+<div class="pd-layout">
+  <div class="pd-info">
+    <h1>Product not found</h1>
+    <p class="pd-desc">This product is no longer available on Quelia Finds. It may have been removed from the shop.</p>
+    <p><a class="pd-buy" href="shop.html">Browse the Shop &rarr;</a></p>
+    <p class="pd-note">Looking for something similar? Use the search on the Shop page.</p>
+  </div>
+</div>`;
+  const relHeading = document.querySelector(".wrap > h2");
+  if (relHeading) relHeading.style.display = "none";
+  document.getElementById("related").innerHTML = "";
+} else {
+  document.title = p.short + " — Quelia Finds";
+  document.getElementById("canonicalLink").href = "https://dailydealbazar.work.gd/product.html?id=" + p.id;
+  // Per-product SEO: meta description + Open Graph tags from the product.
+  setMeta('meta[name="description"]', p.short + " — Quelia Finds. " + (p.desc || "").slice(0, 120));
+  setMeta('meta[property="og:title"]', p.short + " — Quelia Finds");
+  setMeta('meta[property="og:description"]', (p.desc || p.short).slice(0, 160));
+  setMeta('meta[property="og:image"]', p.images[0]);
+  setMeta('meta[property="og:url"]', "https://dailydealbazar.work.gd/product.html?id=" + p.id);
+  document.getElementById("crumbName").textContent = p.short;
+  const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
+  const badge = p.badge ? `<span class="p-badge" style="position:static">${p.badge}</span>` : "";
+  document.getElementById("detail").innerHTML = `
 <div class="pd-layout">
   <div class="pd-gallery">
     ${p.video ? `<video id="mainMedia" src="${p.video}" poster="${p.poster}" controls muted loop playsinline preload="metadata"></video>` : `<img id="mainMedia" src="${p.images[0]}" alt="${p.short}">`}
@@ -127,46 +182,31 @@ document.getElementById("detail").innerHTML = `
     </table>
     <a class="pd-buy" href="${p.link}" target="_blank" rel="noopener">BUY NOW →</a>
     <button class="pd-copy" onclick="copyProductLink('${p.id}', this)">🔗 Copy Link</button>
+    <p class="aff-note">Affiliate link — if you buy through it, we may earn a small commission at no extra cost to you. <a href="affiliate-disclosure.html">Learn more</a>.</p>
     <div class="delivery-box"><h4>Delivery</h4><p>Delivery: ships from the AliExpress seller — estimated delivery varies by country (check on AliExpress). Buyer Protection applies. Payment is made on AliExpress — no Cash on Delivery.</p></div>
     <div class="pd-trust"><span>🔒 Secure checkout on AliExpress</span><span>🛡️ Buyer Protection</span><span>⭐ Real reviews on AliExpress</span></div>
     <div class="ship-box"><h4>Shipping &amp; Returns</h4><p>This product is sold and shipped by the AliExpress seller. Shipping cost, delivery time and returns follow the seller's policy on the AliExpress product page — please check them there before you buy. <a href="${p.link}" target="_blank" rel="noopener">See shipping details &amp; real customer reviews on AliExpress →</a></p></div>
     <p class="pd-note">This is an affiliate website. Buying opens the product on AliExpress — your order, payment, shipping and delivery are handled by AliExpress and the seller. We do not sell products directly and there is no checkout on this website.</p>
   </div>
 </div>`;
-document.querySelectorAll(".pd-thumbs img").forEach(img => {
-  img.addEventListener("click", () => {
-    document.querySelectorAll(".pd-thumbs img").forEach(x => x.classList.remove("active"));
-    img.classList.add("active");
-    const src = p.images[parseInt(img.dataset.i)];
-    const im = document.createElement("img");
-    im.id = "mainMedia"; im.src = src; im.alt = p.short;
-    document.getElementById("mainMedia").replaceWith(im);
+  document.querySelectorAll(".pd-thumbs img").forEach(img => {
+    img.addEventListener("click", () => {
+      document.querySelectorAll(".pd-thumbs img").forEach(x => x.classList.remove("active"));
+      img.classList.add("active");
+      const src = p.images[parseInt(img.dataset.i)];
+      const im = document.createElement("img");
+      im.id = "mainMedia"; im.src = src; im.alt = p.short;
+      document.getElementById("mainMedia").replaceWith(im);
+    });
   });
-});
-const related = PRODUCTS.filter(x => x.id !== p.id && x.category === p.category);
-const relList = related.length ? related : PRODUCTS.filter(x => x.id !== p.id);
-function relatedHtml() { return relList.map(x => `
-<article class="p-card">
-  <a class="p-media" href="product.html?id=${x.id}"><img src="${x.images[0]}" alt="${x.short}" loading="lazy"></a>
-  <div class="p-body">
-    <h3><a href="product.html?id=${x.id}">${x.short}</a></h3>
-    <div class="p-cat">${x.categoryName}</div>
-    <div class="p-price">${priceHtml(x)}</div>${pkrHtml(x)}
-    <a class="p-buy" href="${x.link}" target="_blank" rel="noopener">Buy Now →</a>
-    <button class="p-copy" onclick="copyProductLink('${x.id}', this)">🔗 Copy Link</button>
-  </div>
-</article>`).join(""); }
-document.getElementById("related").innerHTML = relatedHtml();
-function copyProductLink(id, btn) {
-  const url = "https://dailydealbazar.github.io/product.html?id=" + id;
-  const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
-  const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
-  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }
-  else fallback();
+  const related = PRODUCTS.filter(x => x.id !== p.id && x.category === p.category);
+  relList = related.length ? related : PRODUCTS.filter(x => x.id !== p.id);
+  document.getElementById("related").innerHTML = relatedHtml();
 }
 </script>
 <script>
 document.addEventListener("ddb:country", () => {
+  if (typeof p === "undefined" || !p) return;
   const wrap = document.getElementById("pdPriceWrap");
   if (wrap) wrap.innerHTML = `<div class="pd-price">${priceHtml(p)}</div>${pkrHtml(p)}`;
   document.getElementById("related").innerHTML = relatedHtml();

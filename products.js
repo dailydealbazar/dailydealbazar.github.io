@@ -1,4 +1,4 @@
-/* Daily Deal Bazar — product catalog (real products only, no fake prices/ratings) */
+/* Quelia Finds — product catalog (real products only, no fake prices/ratings) */
 const PRODUCTS = [
   {
     id: "hydraulic-jack-30t",
@@ -284,32 +284,7 @@ const PRODUCTS = [
     added: 11,
     popular: false
   },
-  {
-    id: "men-thermal-underwear-set",
-    name: "New 2-pieces Winter Warm Men Underwear Set Fleece Thermal Undershirts Long Johns Compression Tights",
-    short: "Men Thermal Underwear Set",
-    price: 11.71,
-    oldPrice: null,
-    rating: null,
-    badge: "Top On Sale",
-    category: "fashion-beauty",
-    categoryName: "Fashion & Beauty",
-    link: "https://s.click.aliexpress.com/e/_c4nrKNJV",
-    images: [
-      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/main.jpg",
-      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/photo-2.jpg",
-      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/photo-3.jpg",
-      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/photo-4.jpg",
-      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/photo-5.jpg",
-      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/photo-6.jpg"
-    ],
-    video: "assets/products/men-thermal-underwear-set/ad-video.mp4",
-    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/men-thermal-underwear-set/ad-photo.png",
-    desc: "New 2-piece winter warm men's underwear set — fleece thermal undershirt and long johns. Compression tights that keep the cold out.",
-    specs: [["Set", "2 pieces — undershirt + long johns"], ["Material", "Fleece thermal"], ["Fit", "Compression"], ["Season", "Winter"]],
-    added: 12,
-    popular: true
-  },
+  
   {
     id: "men-german-velvet-thermal",
     name: "Autumn and Winter 2025 Thermal Underwear Set Men's Double-sided German Velvet Cold-proof Bottoming Shirt Long Johns",
@@ -5227,7 +5202,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "home",
+    category: "home-kitchen",
     categoryName: "Home & Kitchen",
     link: "https://s.click.aliexpress.com/e/_c4sKCUoJ",
     images: [
@@ -7953,7 +7928,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "health-personal-care",
+    category: "health-care",
     categoryName: "Health & Personal Care",
     link: "https://s.click.aliexpress.com/e/_c4SBKl6n",
     images: [
@@ -8811,7 +8786,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "health-personal-care",
+    category: "health-care",
     categoryName: "Health & Personal Care",
     link: "https://s.click.aliexpress.com/e/_c4nnim0X",
     images: [
@@ -9691,7 +9666,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "mobile",
+    category: "mobile-accessories",
     categoryName: "Mobile Accessories",
     link: "https://s.click.aliexpress.com/e/_c3GQanmR",
     images: [
@@ -9742,7 +9717,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "toys",
+    category: "toys-gifts",
     categoryName: "Toys & Gifts",
     link: "https://s.click.aliexpress.com/e/_c40NwlWX",
     images: [
@@ -9767,7 +9742,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "sports",
+    category: "sports-fitness",
     categoryName: "Sports & Fitness",
     link: "https://s.click.aliexpress.com/e/_c3eddL4b",
     images: [
@@ -9792,7 +9767,7 @@ const PRODUCTS = [
     oldPrice: null,
     rating: null,
     badge: "Top On Sale",
-    category: "sports",
+    category: "sports-fitness",
     categoryName: "Sports & Fitness",
     link: "https://s.click.aliexpress.com/e/_c3f3kP8L",
     images: [
@@ -17491,6 +17466,207 @@ const PRODUCTS = [
     desc: "Orthopedic insoles — arch support, sport shock absorption and plantar fasciitis relief for shoes.",
     specs: [["Type", "Orthopedic insoles, arch support (per listing title)"], ["Use", "Sport shock absorption, plantar fasciitis relief (per listing title)"], ["Fit", "For shoes (per listing title)"]],
     added: 698,
+    popular: false
+  }
+,
+  {
+    id: "xiaomi-router-be6500-wifi-7",
+    name: "Xiaomi Router BE6500 Wi-Fi 7 4-Core 2.5G Ethernet Port IOT Intelligent Linkage Mesh Networking MLO Dual Bands Mijia APP Control",
+    short: "Xiaomi Router BE6500 Wi-Fi 7",
+    price: 128.6,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4oaKWGj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xiaomi-router-be6500-wifi-7/ad-photo.png",
+    desc: "Xiaomi Router BE6500 Wi-Fi 7 — 4-core router with 2.5G Ethernet port, MLO dual bands and Mijia app control.",
+    specs: [["Type", "Wi-Fi 7 router, 4-core (per listing title)"], ["Ports", "2.5G Ethernet port (per listing title)"], ["Features", "MLO dual bands, mesh networking, Mijia app control (per listing title)"]],
+    added: 691,
+    popular: false
+  },
+  {
+    id: "supercontinent-worm-bait",
+    name: "2023 Hot Supercontinent Worm Bait Soft Bait Tanta Fishy Smell Fishing Lures Pesca Carp Fishing Bass Lure Isca Artificial PVA",
+    short: "Supercontinent Worm Bait",
+    price: 3.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2QoowOB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/supercontinent-worm-bait/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/supercontinent-worm-bait/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/supercontinent-worm-bait/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/supercontinent-worm-bait/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/supercontinent-worm-bait/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/supercontinent-worm-bait/ad-photo.png",
+    desc: "Supercontinent worm bait — soft bait with fishy smell for carp and bass fishing.",
+    specs: [["Type", "Soft worm bait, Tanta fishy smell (per listing title)"], ["Use", "Carp and bass fishing (per listing title)"]],
+    added: 692,
+    popular: false
+  },
+  {
+    id: "cob-led-strip-light-12v",
+    name: "DC 12V COB LED Strip Light for Home Decor 3MM 5MM 8MM 0.5-5M 9 Color White/Red/Blue/Pink/Green Flexible Ribbon TV Backlight Rope",
+    short: "COB LED Strip Light 12V",
+    price: 2.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c32mmoKJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cob-led-strip-light-12v/ad-photo.png",
+    desc: "COB LED strip light — continuous dot-free line of light for home decor and TV backlight.",
+    specs: [["Type", "DC 12V COB LED strip light (per listing title)"], ["Sizes", "3mm / 5mm / 8mm, 0.5-5m (per listing title)"], ["Use", "Home decor, TV backlight (per listing title)"]],
+    added: 693,
+    popular: false
+  },
+  {
+    id: "nbnngw-bra-buckle-50pcs",
+    name: "NBNNGW Multisizes Bra Buckle 50Pcs Clear/Black/White Adjustable Belt Buckles Plastic Sliders/Rings/Hook Underwear Supplies",
+    short: "NBNNGW Bra Buckle 50pcs",
+    price: 3.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3naRtuJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nbnngw-bra-buckle-50pcs/ad-photo.png",
+    desc: "NBNNGW bra buckles — 50pcs adjustable belt buckles, sliders, rings and hooks for underwear.",
+    specs: [["Type", "Adjustable belt buckles, sliders, rings, hooks (per listing title)"], ["Pack", "50pcs (per listing title)"], ["Colours", "Clear, black, white (per listing title)"]],
+    added: 694,
+    popular: false
+  }
+,
+  {
+    id: "pikachu-iron-on-patches",
+    name: "12Pcs/Lot Pikachu Iron On Ironing Application Patches Heat Adhesive Thermal Transfer Children's Clothing Kids T Shirt Sticker",
+    short: "Pikachu Iron On Patches",
+    price: 4.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4qqIXYJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pikachu-iron-on-patches/ad-photo.png",
+    desc: "Pikachu iron-on patches — 12pcs heat-adhesive thermal transfer patches for children's clothing and kids T-shirts.",
+    specs: [["Type", "Iron-on patches, 12pcs (per listing title)"], ["Use", "Children's clothing, kids T-shirts (per listing title)"], ["Method", "Heat adhesive thermal transfer (per listing title)"]],
+    added: 703,
+    popular: false
+  },
+  {
+    id: "dirt-bike-ready-to-race-flag",
+    name: "Dirt Bike Ready To Race Flag 3x5 Ft Polyester Banner With Brass Grommets For Garage Motocross Decor Tapestry",
+    short: "Dirt Bike Ready To Race Flag",
+    price: 5.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3X7AS8T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dirt-bike-ready-to-race-flag/ad-photo.png",
+    desc: "Dirt Bike Ready To Race flag — 3x5 ft polyester banner with brass grommets for garage and motocross decor.",
+    specs: [["Type", "3x5 ft polyester banner flag (per listing title)"], ["Detail", "Brass grommets (per listing title)"], ["Use", "Garage, motocross decor, tapestry (per listing title)"]],
+    added: 704,
+    popular: false
+  },
+  {
+    id: "spain-flags-bunting",
+    name: "20pcs Spain Flags Spainish Bunting 33Fts 20x30cm Pennant String Banner Buntings Festival Party Holiday",
+    short: "Spain Flags Bunting",
+    price: 4.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3AzjTIx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/spain-flags-bunting/ad-photo.png",
+    desc: "Spain flags bunting — 20pcs pennant string banner, 33ft, for festival, party and holiday decor.",
+    specs: [["Type", "20pcs pennant string banner, 33ft (per listing title)"], ["Size", "20x30cm flags (per listing title)"], ["Use", "Festival, party, holiday (per listing title)"]],
+    added: 705,
+    popular: false
+  },
+  {
+    id: "cotton-sewing-labels",
+    name: "15*50 mm Cotton With Logo or Text Sewing Accessori Label, Tags for Knitted Things, Custom, Personalizada, Handmade Label, Gift T",
+    short: "Cotton Sewing Labels",
+    price: 8.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3uR2P6F",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cotton-sewing-labels/ad-photo.png",
+    desc: "Cotton sewing labels — 15x50mm labels with logo or text for knitted things and handmade items.",
+    specs: [["Type", "Cotton sewing labels, 15x50mm (per listing title)"], ["Use", "Knitted things, handmade labels, gift tags (per listing title)"], ["Detail", "Custom logo or text (per listing title)"]],
+    added: 706,
     popular: false
   }
 
