@@ -17291,6 +17291,107 @@ const PRODUCTS = [
     added: 678,
     popular: false
   }
+,
+  {
+    id: "microfiber-dishwashing-cloths",
+    name: "10/5/3pcs Microfiber Cleaning Cloth, Dishwashing Cloth Household Rag Kitchen Bathroom Cleaning Towel",
+    short: "Microfiber Dishwashing Cloths",
+    price: 4.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3bNGmd5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/microfiber-dishwashing-cloths/ad-photo.png",
+    desc: "Microfiber dishwashing cloths — durable absorbent household rags for kitchen and bathroom cleaning.",
+    specs: [["Type", "Microfiber dishwashing cloths, 10/5/3pcs (per listing title)"], ["Use", "Dishwashing, kitchen and bathroom cleaning (per listing title)"], ["Material", "Microfiber, durable and absorbent (per listing title)"]],
+    added: 683,
+    popular: false
+  },
+  {
+    id: "ikape-v6-impact-espresso-tamper",
+    name: "IKAPE V6 Impact Espresso Tamper, Breville Calibrated Meta Coffee Tamper, Fits Over 51/54/58mm Portafilters",
+    short: "IKAPE V6 Impact Espresso Tamper",
+    price: 40.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4OePiC3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ikape-v6-impact-espresso-tamper/ad-photo.png",
+    desc: "IKAPE V6 impact espresso tamper — Breville calibrated coffee tamper for 51/54/58mm portafilters.",
+    specs: [["Type", "IKAPE V6 impact espresso tamper, calibrated (per listing title)"], ["Fit", "51/54/58mm portafilters (per listing title)"], ["Use", "Breville calibrated espresso tamping (per listing title)"]],
+    added: 684,
+    popular: false
+  },
+  {
+    id: "blind-sewing-needle-30pcs",
+    name: "30pcs Blind Sewing Needle Elderly Stainless Steel Quick Automatic Self-Threading Needle Stitching Pins DIY Punch Needle Threader",
+    short: "Blind Sewing Needle 30pcs",
+    price: 3.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4Wuhec7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/blind-sewing-needle-30pcs/ad-photo.png",
+    desc: "Blind sewing needles — stainless steel self-threading needles for DIY stitching.",
+    specs: [["Type", "Blind sewing needle, self-threading (per listing title)"], ["Material", "Stainless steel (per listing title)"], ["Pack", "30pcs (per listing title)"], ["Use", "DIY stitching, punch needle threader (per listing title)"]],
+    added: 685,
+    popular: false
+  },
+  {
+    id: "toilet-cleaner-gel-stick",
+    name: "Toilet Cleaner Gel Stick Tablet Products Liquid Fragrance Cleaning Deodorization Odor Lasting Solid Aromatherapy Air Freshener",
+    short: "Toilet Cleaner Gel Stick",
+    price: 3.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c35jANUX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toilet-cleaner-gel-stick/ad-photo.png",
+    desc: "Toilet cleaner gel stick — fragrance cleaning and deodorization gel for lasting fresh scent.",
+    specs: [["Type", "Toilet cleaner gel stick (per listing title)"], ["Features", "Fragrance, deodorization, lasting scent (per listing title)"], ["Use", "Toilet cleaning and air freshening (per listing title)"]],
+    added: 686,
+    popular: false
+  }
 
 ];
 
