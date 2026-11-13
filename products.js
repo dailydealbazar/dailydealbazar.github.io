@@ -15875,6 +15875,106 @@ const PRODUCTS = [
     added: 626,
     popular: false
   }
+,
+  {
+    id: "baseus-100w-gan-charger-built-in-cable-digital-display",
+    name: "BASEUS 100W GaN Charger with Built-in Cable and Digital Display",
+    short: "BASEUS 100W GaN Charger with Built-in Cable & Digital Display",
+    price: 50.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4LYCHZv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-100w-gan-charger-built-in-cable-digital-display/ad-photo.png",
+    desc: "BASEUS 100W GaN charger with built-in cable and real-time digital display — charges 3 devices at once with smart power allocation.",
+    specs: [["Power", "100W GaN fast charging (per photo)"], ["Display", "Real-time digital display — power and temperature (per photo)"], ["Ports", "Charges 3 devices at once (per photo)"], ["Cable", "Built-in cable (per photo)"]],
+    added: 627,
+    popular: false
+  },
+  {
+    id: "cartoon-quotation-cat-badges-enamel-pin-lapel-pins",
+    name: "Cartoon Quotation Cat Badges Enamel Pin Lapel Pins",
+    short: "Cartoon Quotation Cat Badges Enamel Pin Lapel Pins",
+    price: 0.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3WYY94f",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cartoon-quotation-cat-badges-enamel-pin-lapel-pins/ad-photo.png",
+    desc: "Cartoon quotation cat enamel pin lapel pins — cute cat designs with funny quotes, for bags, jackets and hats.",
+    specs: [["Type", "Enamel lapel pins (per photo)"], ["Size", "Approx 2.5 x 3cm, 4g (per photo)"], ["Design", "Cartoon cat with quotations (per photo)"]],
+    added: 628,
+    popular: false
+  },
+  {
+    id: "meta-quest-3-headband",
+    name: "Meta Quest 3 Headband",
+    short: "Meta Quest 3 Headband",
+    price: 32.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2vBp7q3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meta-quest-3-headband/ad-photo.png",
+    desc: "Meta Quest 3 headband — comfortable replacement strap with easy knob adjustment and 60-degree flip-up design.",
+    specs: [["Fit", "For Meta Quest 3 (per photo)"], ["Adjustment", "Knob design, multi-angle (per photo)"], ["Feature", "60-degree flip-up design (per photo)"]],
+    added: 629,
+    popular: false
+  },
+  {
+    id: "womens-luxury-leather-handbag",
+    name: "Women's Luxury Leather Handbag",
+    short: "Women's Luxury Leather Handbag",
+    price: 74.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3dazyfh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-luxury-leather-handbag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-luxury-leather-handbag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-luxury-leather-handbag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-luxury-leather-handbag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-luxury-leather-handbag/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-luxury-leather-handbag/ad-photo.png",
+    desc: "Women's luxury leather handbag — elegant flap shoulder bag with top handle, in black, brown and olive.",
+    specs: [["Material", "Leather (per photo)"], ["Style", "Flap shoulder bag with top handle (per photo)"], ["Colors", "Black, brown, olive (per photo)"]],
+    added: 630,
+    popular: false
+  }
 
 ];
 
