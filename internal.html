@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Internal Visitor Exclusion — Quelia Finds</title>
+<meta name="description" content="Internal visitor opt-out for Quelia Finds — this page is not tracked and is not listed in the sitemap.">
+<link rel="stylesheet" href="style.css?v=200">
+<style>
+.int-wrap{max-width:640px;margin:0 auto;padding:40px 16px 60px}
+.int-card{background:#fff;border-radius:14px;padding:28px;box-shadow:0 2px 14px rgba(3,20,47,.08);border-top:4px solid var(--gold)}
+.int-card h1{color:#14243A;margin:0 0 8px;font-size:26px}
+.int-card p{color:#24344d;line-height:1.6}
+.int-status{font-size:17px;font-weight:800;padding:14px 16px;border-radius:10px;margin:18px 0}
+.int-status.on{background:#e6f7ee;color:#0a7a3d;border:1px solid #9edcb8}
+.int-status.off{background:#fdeeee;color:#c0392b;border:1px solid #f2b8b8}
+.int-btns{display:flex;gap:12px;flex-wrap:wrap;margin:6px 0 4px}
+.int-btns button{font:inherit;font-weight:800;padding:12px 20px;border-radius:10px;border:0;cursor:pointer}
+#btnOn{background:#0a7a3d;color:#fff}
+#btnOff{background:#14243A;color:#fff}
+.int-note{font-size:13px;color:#5a6b84}
+.int-note code{background:#eef1f6;padding:2px 6px;border-radius:6px}
+</style>
+</head>
+<body>
+<header class="topbar">
+<a class="logo-link" href="./"><img class="logo-img" src="assets/logo.png" alt="Quelia Finds"></a>
+<nav class="main-nav">
+<a href="./">Home</a>
+<a href="shop.html">Shop</a>
+<a href="shop.html?filter=discounted">Deals</a>
+<a href="about.html">About Us</a>
+<a href="faq.html">FAQ</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<main class="int-wrap">
+<div class="int-card">
+<h1>Internal Visitor Exclusion</h1>
+<p>This page opts this browser out of Quelia Finds analytics. When exclusion is <b>active</b>, this browser's visits are <b>not</b> recorded in GA4 or in the website traffic tracker. Real visitors are not affected — the exclusion only applies to this browser, and it stays active until you turn it off (even after closing and reopening the browser).</p>
+<div class="int-status off" id="status">Checking…</div>
+<div class="int-btns">
+<button id="btnOn" type="button">Activate exclusion</button>
+<button id="btnOff" type="button">Deactivate exclusion</button>
+</div>
+<p class="int-note">Direct links: activate with <code>internal.html?on=1</code>, deactivate with <code>internal.html?off=1</code>. You can also use <code>?internal=1</code> / <code>?internal=0</code> on any page of the site. This page itself is never tracked and is not listed in the sitemap.</p>
+<p class="int-note"><a href="./">← Back to the shop</a></p>
+</div>
+</main>
+
+<footer>
+<div class="foot-grid">
+<div>
+<div class="foot-brand"><img class="foot-logo-img" src="assets/logo.png" alt="Quelia Finds"></div>
+<p>Discover Something Better. Useful finds across tech, home, style and everyday living — curated from trusted AliExpress sellers, for shoppers around the world.</p>
+<p>📧 <a href="mailto:atifhussain78698633@gmail.com">atifhussain</a></p>
+</div>
+<div>
+<h4>Quick Links</h4>
+<a href="./">Home</a>
+<a href="shop.html">Shop</a>
+<a href="shop.html?filter=discounted">Deals</a>
+<a href="about.html">About Us</a>
+<a href="faq.html">FAQ</a>
+<a href="contact.html">Contact</a>
+</div>
+<div>
+<h4>Information</h4>
+<a href="about.html">About Us</a>
+<a href="faq.html">FAQ</a>
+<a href="privacy.html">Privacy Policy</a>
+<a href="terms.html">Terms &amp; Conditions</a>
+<a href="affiliate-disclosure.html">Affiliate Disclosure</a>
+</div>
+<div>
+<h4>Follow Us</h4>
+<a href="https://www.facebook.com/profile.php?id=61596222851519" target="_blank" rel="noopener">f Facebook</a>
+<a href="https://www.instagram.com/dail.ydealbazar/" target="_blank" rel="noopener">📸 Instagram</a>
+<a href="https://www.tiktok.com/@dailydealbazarofficial" target="_blank" rel="noopener">♪ TikTok</a>
+</div>
+</div>
+<div class="foot-bottom">© 2026 Quelia Finds — Discover Something Better. Some links are affiliate links; we may earn a small commission at no extra cost to you.</div>
+</footer>
+
+<script>
+/* Internal visitor exclusion — this page never loads GA4 or the tracker, so visiting it is never counted.
+   Flag key: 'quelia-internal' in localStorage (browser-level, persistent, no IP). */
+(function () {
+  var KEY = 'quelia-internal';
+  function isOn() { try { return localStorage.getItem(KEY) === '1'; } catch (e) { return false; } }
+  function render() {
+    var el = document.getElementById('status');
+    if (isOn()) {
+      el.className = 'int-status on';
+      el.textContent = '✓ Exclusion is ACTIVE in this browser — your visits are NOT being recorded.';
+    } else {
+      el.className = 'int-status off';
+      el.textContent = '✗ Exclusion is OFF in this browser — your visits ARE being recorded.';
+    }
+  }
+  try {
+    var q = new URLSearchParams(location.search);
+    if (q.get('on') === '1' || q.get('internal') === '1') { localStorage.setItem(KEY, '1'); }
+    else if (q.get('off') === '1' || q.get('internal') === '0') { localStorage.removeItem(KEY); }
+  } catch (e) {}
+  document.getElementById('btnOn').addEventListener('click', function () { try { localStorage.setItem(KEY, '1'); } catch (e) {} render(); });
+  document.getElementById('btnOff').addEventListener('click', function () { try { localStorage.removeItem(KEY); } catch (e) {} render(); });
+  render();
+})();
+</script>
+</body>
+</html>

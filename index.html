@@ -45,6 +45,16 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7057239487273648"
      crossorigin="anonymous"></script>
 <!-- Google tag (gtag.js) -->
+<script>
+/* Internal visitor exclusion (browser-level, localStorage — no IP).
+   ?internal=1 sets the opt-out, ?internal=0 clears it. If opted out, GA4 is disabled before it loads. */
+try {
+  var _iq = new URLSearchParams(location.search).get('internal');
+  if (_iq === '1') { localStorage.setItem('quelia-internal', '1'); }
+  else if (_iq === '0') { localStorage.removeItem('quelia-internal'); }
+} catch (e) {}
+try { if (localStorage.getItem('quelia-internal') === '1') { window['ga-disable-G-9D16Z3C9DD'] = true; } } catch (e) {}
+</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D16Z3C9DD"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -55,7 +65,7 @@
 </script>
 <script defer src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script defer src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
-<script defer src="assets/js/ddb-live.js?v=4"></script>
+<script defer src="assets/js/ddb-live.js?v=5"></script>
 </head>
 <body>
 <div class="announce"><p>Curated finds across everyday categories — useful products, clear details, honest prices.</p></div>
