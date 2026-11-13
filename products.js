@@ -16076,6 +16076,106 @@ const PRODUCTS = [
     added: 634,
     popular: false
   }
+,
+  {
+    id: "titanium-flower-threadless-earring-piercing",
+    name: "ASTM F136 G23 Titanium Flower Threadless Earring Piercing Petals Leaf Heart Butterfly Pin Daith Conch Push in Labret Stud",
+    short: "Titanium Flower Threadless Earring Piercing",
+    price: 3.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3dA2Ggx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/titanium-flower-threadless-earring-piercing/ad-photo.png",
+    desc: "Titanium flower threadless earring piercing — G23 titanium petal, leaf, heart and butterfly pins for daith and conch piercings.",
+    specs: [["Material", "G23 titanium, ASTM F136 (per listing title)"], ["Type", "Threadless push-in labret stud (per listing title)"], ["Design", "Flower, leaf, heart, butterfly pins (per listing title)"], ["Size", "Thickness 0.8/1.0/1.2mm, length 6/8mm (per photo)"]],
+    added: 635,
+    popular: false
+  },
+  {
+    id: "acrylic-crystal-rhinestone-elastic-bracelet",
+    name: "5pcs Fashion Colorful Acrylic Crystal Rhinestone Elastic Bracelet For Women Stretch Wristband Wedding Bracelets Daily Jewelry",
+    short: "Acrylic Crystal Rhinestone Elastic Bracelet",
+    price: 4.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3TaFF8P",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acrylic-crystal-rhinestone-elastic-bracelet/ad-photo.png",
+    desc: "Colorful acrylic crystal rhinestone elastic bracelets — 5-piece stretch wristband set for weddings and daily wear.",
+    specs: [["Type", "5pcs elastic bracelet set (per listing title)"], ["Material", "Acrylic crystal rhinestone (per listing title)"], ["Style", "Colorful stretch wristband (per listing title)"], ["Use", "Wedding, daily jewelry (per listing title)"]],
+    added: 636,
+    popular: false
+  },
+  {
+    id: "boho-flower-colorful-earring-set",
+    name: "2025 Fashion Boho Flower Colorful Earring Set Women Ethnic Round/Water Drop Geometric Earrings Pendientes Wedding Jewelry Female",
+    short: "Boho Flower Colorful Earring Set",
+    price: 5.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4lRtEbh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/boho-flower-colorful-earring-set/ad-photo.png",
+    desc: "Boho flower colorful earring set — ethnic round and water-drop geometric earrings for weddings and everyday wear.",
+    specs: [["Style", "Boho flower, ethnic (per listing title)"], ["Shape", "Round / water drop, geometric (per listing title)"], ["Use", "Wedding jewelry, daily wear (per listing title)"]],
+    added: 637,
+    popular: false
+  },
+  {
+    id: "y-kelin-denture-adhesive-cushion-lower",
+    name: "Y-Kelin Denture Adhesive Cushion (Lower) 360 Pads Soft & Comfort Lower dentales drop shipping",
+    short: "Y-Kelin Denture Adhesive Cushion (Lower)",
+    price: 33.41,
+    oldPrice: 40.38,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3yYh7L9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-adhesive-cushion-lower/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-adhesive-cushion-lower/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-adhesive-cushion-lower/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-adhesive-cushion-lower/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-adhesive-cushion-lower/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/y-kelin-denture-adhesive-cushion-lower/ad-photo.png",
+    desc: "Y-Kelin denture adhesive cushion for the lower denture — 360 soft, comfortable pads for a secure fit.",
+    specs: [["Type", "Denture adhesive cushion, lower (per listing title)"], ["Count", "360 pads — 12 packs x 30 lowers (per photo)"], ["Feature", "All-day strong hold, non-zinc formula (per photo)"]],
+    added: 638,
+    popular: false
+  }
 
 ];
 
