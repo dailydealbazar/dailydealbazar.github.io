@@ -17189,6 +17189,108 @@ const PRODUCTS = [
     added: 674,
     popular: false
   }
+,
+  {
+    id: "xt60-solar-panel-connector-cable",
+    name: "XT60 to Solar Panel Female Connector Cable",
+    short: "XT60 to Solar Panel Connector Cable",
+    price: 16.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c31pY3SF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xt60-solar-panel-connector-cable/ad-photo.png",
+    desc: "XT60 to solar panel female connector cable — finished cable assembly for solar panel connection.",
+    specs: [["Type", "XT60 to solar panel connector cable (per listing title)"], ["Connector", "XT60 male to solar cable (per listing title)"], ["Compatibility", "Portable power stations with XT60/XT60-F input — ALLPOWERS, EcoFlow, Bluetti, Anker SOLIX (per photo content)"], ["Features", "Fast assembly, insulation, waterproof (per photo content)"]],
+    added: 675,
+    popular: false
+  },
+  {
+    id: "linear-actuator-200mm-stroke-24v",
+    name: "200mm Stroke Linear Actuator 24V 12mm/s 750N",
+    short: "200mm Stroke Linear Actuator 24V",
+    price: 81.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3jLYPK7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/photo-7.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/linear-actuator-200mm-stroke-24v/ad-photo.png",
+    desc: "200mm stroke linear actuator — 24V electric linear actuator machine with aluminum alloy bracket.",
+    specs: [["Stroke", "200mm, 3-15cm adjustable telescopic stroke (per listing title + photo content)"], ["Voltage", "24V (per listing title)"], ["Speed", "12mm/s, 750N (per listing title)"], ["Frame", "Aluminum alloy bracket, 400 x 320mm, chrome telescopic pole (per photo content)"]],
+    added: 676,
+    popular: false
+  },
+  {
+    id: "guitar-fret-crowning-file-3-in-1",
+    name: "Guitar Fret Crowning File 3 in 1 Fret Leveling Tool",
+    short: "Guitar Fret Crowning File 3 in 1",
+    price: 27.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3OiLlAb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-fret-crowning-file-3-in-1/ad-photo.png",
+    desc: "Guitar fret crowning file 3 in 1 — fret leveling tool for guitar maintenance.",
+    specs: [["Type", "Fret crowning file 3 in 1 (per listing title)"], ["Sides", "Rough + Fine (per photo content)"], ["Size", "2mm (per photo content)"], ["Use", "Fret leveling and crowning (per listing title)"]],
+    added: 677,
+    popular: false
+  },
+  {
+    id: "guitar-string-cleaner-kit",
+    name: "Guitar String Cleaner Kit",
+    short: "Guitar String Cleaner Kit",
+    price: 9.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4lzZjhp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guitar-string-cleaner-kit/ad-photo.png",
+    desc: "Guitar string cleaner kit — string oil applicator with polish cloth for string care.",
+    specs: [["Type", "Guitar string cleaner kit (per listing title)"], ["Contents", "String oil applicator, polish cloth (per photo content)"], ["Tin", "8cm x 4.5cm (per photo content)"], ["Use", "Wipe string oil onto strings before and after playing (per photo content)"]],
+    added: 678,
+    popular: false
+  }
 
 ];
 
