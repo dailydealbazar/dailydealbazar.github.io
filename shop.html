@@ -8,12 +8,12 @@
 <title>Shop — Quelia Finds | Explore Our Products</title>
 <meta name="description" content="Explore our products at Quelia Finds — find useful products at fair prices through trusted AliExpress links.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://dailydealbazar.work.gd/shop.html">
+<meta property="og:url" content="https://queliafinds.publicvm.com/shop.html">
 <meta property="og:site_name" content="Quelia Finds">
 <meta property="og:title" content="Shop — Quelia Finds | Explore Our Products">
 <meta property="og:description" content="Explore our products at Quelia Finds — find useful products at fair prices through trusted AliExpress links.">
-<meta property="og:image" content="https://dailydealbazar.work.gd/assets/quelia-logo.png">
-<link rel="canonical" href="https://dailydealbazar.work.gd/shop.html">
+<meta property="og:image" content="https://queliafinds.publicvm.com/assets/quelia-logo.png">
+<link rel="canonical" href="https://queliafinds.publicvm.com/shop.html">
 <link rel="stylesheet" href="style.css?v=200">
 <script src="countries.js?v=3"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7057239487273648"
@@ -225,7 +225,7 @@ function card(p) {
 }
 
 function copyProductLink(id, btn) {
-  const url = "https://dailydealbazar.work.gd/product.html?id=" + id;
+  const url = "https://queliafinds.publicvm.com/product.html?id=" + id;
   const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
   const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
   if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }

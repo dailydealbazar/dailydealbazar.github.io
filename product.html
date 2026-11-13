@@ -8,12 +8,12 @@
 <title>Product — Quelia Finds</title>
 <meta name="description" content="Product details at Quelia Finds — Discover Something Better.">
 <meta property="og:type" content="product">
-<meta property="og:url" content="https://dailydealbazar.work.gd/product.html">
+<meta property="og:url" content="https://queliafinds.publicvm.com/product.html">
 <meta property="og:site_name" content="Quelia Finds">
 <meta property="og:title" content="Product — Quelia Finds">
 <meta property="og:description" content="Product details at Quelia Finds.">
-<meta property="og:image" content="https://dailydealbazar.work.gd/assets/quelia-logo.png">
-<link rel="canonical" id="canonicalLink" href="https://dailydealbazar.work.gd/product.html">
+<meta property="og:image" content="https://queliafinds.publicvm.com/assets/quelia-logo.png">
+<link rel="canonical" id="canonicalLink" href="https://queliafinds.publicvm.com/product.html">
 <link rel="stylesheet" href="style.css?v=200">
 <script src="countries.js?v=3"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7057239487273648"
@@ -124,7 +124,7 @@ function relatedHtml() { return relList.map(x => `
   </div>
 </article>`).join(""); }
 function copyProductLink(id, btn) {
-  const url = "https://dailydealbazar.work.gd/product.html?id=" + id;
+  const url = "https://queliafinds.publicvm.com/product.html?id=" + id;
   const done = () => { const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.textContent = "✓ Copied!"; setTimeout(() => { btn.textContent = t; }, 2000); };
   const fallback = () => { const ta = document.createElement("textarea"); ta.value = url; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta); };
   if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(fallback); }
@@ -151,13 +151,13 @@ if (!p) {
   document.getElementById("related").innerHTML = "";
 } else {
   document.title = p.short + " — Quelia Finds";
-  document.getElementById("canonicalLink").href = "https://dailydealbazar.work.gd/product.html?id=" + p.id;
+  document.getElementById("canonicalLink").href = "https://queliafinds.publicvm.com/product.html?id=" + p.id;
   // Per-product SEO: meta description + Open Graph tags from the product.
   setMeta('meta[name="description"]', p.short + " — Quelia Finds. " + (p.desc || "").slice(0, 120));
   setMeta('meta[property="og:title"]', p.short + " — Quelia Finds");
   setMeta('meta[property="og:description"]', (p.desc || p.short).slice(0, 160));
   setMeta('meta[property="og:image"]', p.images[0]);
-  setMeta('meta[property="og:url"]', "https://dailydealbazar.work.gd/product.html?id=" + p.id);
+  setMeta('meta[property="og:url"]', "https://queliafinds.publicvm.com/product.html?id=" + p.id);
   document.getElementById("crumbName").textContent = p.short;
   const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
   const badge = p.badge ? `<span class="p-badge" style="position:static">${p.badge}</span>` : "";
