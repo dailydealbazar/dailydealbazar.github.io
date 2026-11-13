@@ -17392,6 +17392,107 @@ const PRODUCTS = [
     added: 686,
     popular: false
   }
+,
+  {
+    id: "weekly-14-grids-pill-box",
+    name: "Weekly 14 Grids 7 Days Pill Box Portable Travel Cases Organizer Pill Container Storage Tablets Vitamin Medicine",
+    short: "Weekly 14 Grids Pill Box",
+    price: 7.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4qzLKcF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/weekly-14-grids-pill-box/ad-photo.png",
+    desc: "Weekly 14 grids pill box — one single weekly organizer box with 14 grids for tablets, vitamins and medicine.",
+    specs: [["Type", "Weekly 14 grids pill box, one single box (per listing title)"], ["Use", "Tablets, vitamins and medicine organizer (per listing title)"], ["Form", "Two long weekly strips (SUN-SAT, AM/PM) sold as one unit (per photos)"]],
+    added: 695,
+    popular: false
+  },
+  {
+    id: "meetee-5-nylon-zipper-tape",
+    name: "Meetee 5# Nylon Zipper Tape by Meter",
+    short: "Meetee 5# Nylon Zipper Tape",
+    price: 5.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c305TYCL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/meetee-5-nylon-zipper-tape/ad-photo.png",
+    desc: "Meetee 5# nylon zipper tape by the meter — zipper tape for sewing and repairs.",
+    specs: [["Type", "5# nylon zipper tape, by the meter (per listing title)"], ["Use", "Sewing and zipper repairs (per listing title)"]],
+    added: 696,
+    popular: false
+  },
+  {
+    id: "children-anti-collision-corner-guards",
+    name: "4/10pcs Children Anti Collision Corner Edge Protection Guards, Baby Safety Corner Silicone Protector",
+    short: "Children Anti-Collision Corner Guards",
+    price: 1.86,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3krdc7h",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/children-anti-collision-corner-guards/ad-photo.png",
+    desc: "Children anti-collision corner guards — silicone baby safety protectors for table and furniture corners.",
+    specs: [["Type", "Anti-collision corner edge protection guards (per listing title)"], ["Material", "Silicone (per listing title)"], ["Pack", "4/10pcs (per listing title)"], ["Use", "Baby safety for furniture corners (per listing title)"]],
+    added: 697,
+    popular: false
+  },
+  {
+    id: "orthopedic-insoles-arch-support",
+    name: "Orthopedic Insoles for Feet, Sport Shock-absorbing Insole for Shoes, Arch Support, Plantar Fasciitis",
+    short: "Orthopedic Insoles Arch Support",
+    price: 2.98,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4DIfLoP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/orthopedic-insoles-arch-support/ad-photo.png",
+    desc: "Orthopedic insoles — arch support, sport shock absorption and plantar fasciitis relief for shoes.",
+    specs: [["Type", "Orthopedic insoles, arch support (per listing title)"], ["Use", "Sport shock absorption, plantar fasciitis relief (per listing title)"], ["Fit", "For shoes (per listing title)"]],
+    added: 698,
+    popular: false
+  }
 
 ];
 
