@@ -15774,6 +15774,107 @@ const PRODUCTS = [
     added: 622,
     popular: false
   }
+,
+  {
+    id: "carbon-fiber-folding-propeller-rc-airplane",
+    name: "Carbon Fiber Folding Propeller RC Airplane",
+    short: "Carbon Fiber Folding Propeller RC Airplane",
+    price: 5.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3GCBGVl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/carbon-fiber-folding-propeller-rc-airplane/ad-photo.png",
+    desc: "Carbon fiber folding propeller for RC airplanes — lightweight, durable replacement prop for RC model aircraft.",
+    specs: [["Material", "Carbon fiber (per photo)"], ["Type", "Folding propeller blades for RC airplane (per photo)"], ["Rotation", "Counterclockwise (per photo)"]],
+    added: 623,
+    popular: false
+  },
+  {
+    id: "balsa-wood-sheets-5pcs",
+    name: "Balsa Wood Sheets 5pcs",
+    short: "Balsa Wood Sheets 5pcs",
+    price: 7.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3hcemCj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/balsa-wood-sheets-5pcs/ad-photo.png",
+    desc: "Balsa wood sheets, 5 pieces — lightweight craft wood for model building, DIY projects and hobby crafts.",
+    specs: [["Material", "Balsa wood (per photo)"], ["Pack", "5 sheets (per photo)"], ["Sizes", "Multiple sizes and thicknesses (per photo)"]],
+    added: 624,
+    popular: false
+  },
+  {
+    id: "odi-rubber-handlebar-grips-mtb-lock-on",
+    name: "ODI Rubber Handlebar Grips MTB Lock-on",
+    short: "ODI Rubber Handlebar Grips MTB Lock-on",
+    price: 7.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3XM597H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/odi-rubber-handlebar-grips-mtb-lock-on/ad-photo.png",
+    desc: "ODI rubber handlebar grips for MTB — lock-on design with comfortable grip for mountain biking.",
+    specs: [["Brand", "ODI"], ["Model", "OG-10 Upgrade (per photo)"], ["Fit", "22.2mm handlebars (per photo)"], ["Features", "Double-sided non-slip texture, lock ring (per photo)"]],
+    added: 625,
+    popular: false
+  },
+  {
+    id: "2025-bicycle-saddle-3d-soft-seat-cover",
+    name: "2025 Bicycle Saddle 3D Soft Seat Cover",
+    short: "2025 Bicycle Saddle 3D Soft Seat Cover",
+    price: 3.73,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2wv2hdh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/2025-bicycle-saddle-3d-soft-seat-cover/ad-photo.png",
+    desc: "2025 bicycle saddle 3D soft seat cover — padded, comfortable cover for bike saddles.",
+    specs: [["Type", "3D soft bicycle seat cover (per photo)"], ["Size", "28 x 16cm (per photo)"], ["Features", "Breathable, non-slip bottom granules, elastic lycra (per photo)"]],
+    added: 626,
+    popular: false
+  }
 
 ];
 
