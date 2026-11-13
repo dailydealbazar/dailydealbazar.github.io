@@ -17086,6 +17086,109 @@ const PRODUCTS = [
     added: 682,
     popular: false
   }
+,
+  {
+    id: "foursun-22l-car-fridge-freezer",
+    name: "Foursun 22L Car Fridge Freezer Portable Compressor Cooler",
+    short: "Foursun 22L Car Fridge Freezer",
+    price: 144.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3rtvQAP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foursun-22l-car-fridge-freezer/ad-photo.png",
+    desc: "Foursun 22L car fridge freezer — portable compressor cooler for car, camping and home.",
+    specs: [["Capacity", "22L (per listing title)"], ["Power", "AC 100-240V / DC 12/24V, camping power station (per photo content)"], ["Cooling", "Rapid cooling, down to -20°C (per photo content)"], ["Control", "Smart app control, ECO mode 0.18 kWh/day (per photo content)"]],
+    added: 671,
+    popular: false
+  },
+  {
+    id: "teendow-c7-max-carpet-steam-vacuum",
+    name: "Teendow C7 MAX Carpet & Steam Vacuum Cleaner",
+    short: "Teendow C7 MAX Carpet & Steam Vacuum",
+    price: 96.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3739KZV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-7.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/photo-8.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/teendow-c7-max-carpet-steam-vacuum/ad-photo.png",
+    desc: "Teendow C7 MAX carpet and steam vacuum cleaner — deep cleaning for carpets and floors.",
+    specs: [["Type", "Carpet & steam vacuum cleaner (per listing title)"], ["Tanks", "1600ml fresh water / 1500ml waste water (per photo content)"], ["Modes", "Steam (30s preheat) + hot water (15s preheat) (per photo content)"], ["Size", "325 x 342 x 190mm, 400cm cord, 120cm hose (per photo content)"]],
+    added: 672,
+    popular: false
+  },
+  {
+    id: "xtool-d5s-obd2-scanner",
+    name: "XTOOL D5S OBD2 Diagnostic Tool Car Scanner",
+    short: "XTOOL D5S OBD2 Car Scanner",
+    price: 136.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c30Nes9z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xtool-d5s-obd2-scanner/ad-photo.png",
+    desc: "XTOOL D5S OBD2 diagnostic tool — car scanner for fault codes and system diagnostics.",
+    specs: [["Type", "OBD2 diagnostic tool / car scanner (per listing title)"], ["Diagnostics", "4 main systems — Engine, SRS, ABS, Transmission (per photo content)"], ["Functions", "16 maintenance functions, 10 OBD2 test modes (per photo content)"], ["Update", "Lifetime free update (per photo content)"]],
+    added: 673,
+    popular: false
+  },
+  {
+    id: "moondrop-chu-iii-earphones",
+    name: "MOONDROP CHU III In-Ear Earphones",
+    short: "MOONDROP CHU III Earphones",
+    price: 27.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4kwamOJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moondrop-chu-iii-earphones/ad-photo.png",
+    desc: "MOONDROP CHU III in-ear earphones — wired earphones for everyday listening.",
+    specs: [["Type", "In-ear earphones (per listing title)"], ["Model", "CHU III (per listing title)"], ["Colors", "Silver and black (per photo content)"], ["Cable", "Detachable wired cable (per photo content)"]],
+    added: 674,
+    popular: false
+  }
 
 ];
 
