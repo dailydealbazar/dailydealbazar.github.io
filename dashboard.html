@@ -53,6 +53,13 @@ body{background:#f4f6fa}
 .dash-note{font-size:13px;color:#5a6b84;margin-top:4px}
 .dash-note a{color:var(--royal, #0755B8)}
 .foot-note{text-align:center;color:#8a97ab;font-size:12px;margin-top:18px}
+.int-status{font-size:15px;font-weight:800;padding:12px 14px;border-radius:10px;margin:12px 0}
+.int-status.on{background:#e6f7ee;color:#0a7a3d;border:1px solid #9edcb8}
+.int-status.off{background:#fdeeee;color:#c0392b;border:1px solid #f2b8b8}
+.int-btns{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 4px}
+.int-btns button{font:inherit;font-weight:800;padding:10px 16px;border-radius:10px;border:0;cursor:pointer}
+#exclOn{background:#0a7a3d;color:#fff}
+#exclOff{background:#14243A;color:#fff}
 </style>
 </head>
 <body>
@@ -74,6 +81,26 @@ body{background:#f4f6fa}
 <div class="card"><h3>📅 Today</h3><div class="num" id="todayVisits">0</div><div class="cap">aaj ke alag visitors (1 IP = 1)</div></div>
 <div class="card"><h3>🛒 Buy Now Clicks — Today</h3><div class="num" id="todayClicks">0</div><div class="cap">aaj Buy Now par clicks</div></div>
 <div class="card"><h3>📦 Products</h3><div class="num" id="productCount">—</div><div class="cap">shop mein live products</div></div>
+</section>
+
+<section class="panels">
+<div class="panel"><h2>🛡️ Internal Visitor Exclusion</h2>
+<div class="int-status off" id="exclStatus">Checking…</div>
+<div class="int-btns">
+<button id="exclOn" type="button">Activate exclusion</button>
+<button id="exclOff" type="button">Deactivate exclusion</button>
+</div>
+<p class="dash-note">Jab exclusion <b>active</b> ho, is browser ki visits GA4 aur website tracker mein count nahi hongi. Ye sirf is browser ke liye hai — real visitors par koi effect nahi. Browser band kar ke dobara kholo, phir bhi on rahega.</p>
+<p class="dash-note">Agent ka browser: <b>activated</b> (14 Nov 2026). Tumhara browser: upar status dekho — agar OFF hai to <b>Activate</b> dabao.</p>
+<p class="dash-note">Poora activation page: <a href="internal.html">internal.html →</a></p>
+</div>
+<div class="panel"><h2>🆕 Latest Updates</h2>
+<div class="row"><div class="lbl">Internal Visitor Exclusion — live</div><div class="val">14 Nov 2026</div></div>
+<div class="row"><div class="lbl">Search Console verified (queliafinds.publicvm.com)</div><div class="val">14 Nov 2026</div></div>
+<div class="row"><div class="lbl">Sitemap submitted — Google retry pending</div><div class="val">14 Nov 2026</div></div>
+<div class="row"><div class="lbl">Domain moved to queliafinds.publicvm.com</div><div class="val">13 Nov 2026</div></div>
+<div class="row"><div class="lbl">Brand: Quelia Finds — 697 products live</div><div class="val">13 Nov 2026</div></div>
+</div>
 </section>
 
 <section class="panels">
@@ -218,6 +245,30 @@ body{background:#f4f6fa}
   (function () {
     var el = document.getElementById("productCount");
     if (el && typeof PRODUCTS !== "undefined") el.textContent = PRODUCTS.length.toLocaleString("en-US");
+  })();
+</script>
+<script>
+  // Internal Visitor Exclusion — same flag the site uses ('quelia-internal').
+  // This dashboard is on the same origin, so it reads/sets the real flag.
+  (function () {
+    var KEY = 'quelia-internal';
+    function isOn() { try { return localStorage.getItem(KEY) === '1'; } catch (e) { return false; } }
+    function render() {
+      var el = document.getElementById('exclStatus');
+      if (!el) return;
+      if (isOn()) {
+        el.className = 'int-status on';
+        el.textContent = '✓ Exclusion is ACTIVE in this browser — your visits are NOT being recorded.';
+      } else {
+        el.className = 'int-status off';
+        el.textContent = '✗ Exclusion is OFF in this browser — your visits ARE being recorded.';
+      }
+    }
+    var on = document.getElementById('exclOn');
+    var off = document.getElementById('exclOff');
+    if (on) on.addEventListener('click', function () { try { localStorage.setItem(KEY, '1'); } catch (e) {} render(); });
+    if (off) off.addEventListener('click', function () { try { localStorage.removeItem(KEY); } catch (e) {} render(); });
+    render();
   })();
 </script>
 </body>
