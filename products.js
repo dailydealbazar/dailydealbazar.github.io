@@ -15975,6 +15975,107 @@ const PRODUCTS = [
     added: 630,
     popular: false
   }
+,
+  {
+    id: "sandwich-cutting-and-sealing-machine",
+    name: "Sandwich Cutting and Sealing Machine",
+    short: "Sandwich Cutting and Sealing Machine",
+    price: 4.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4PChmYF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sandwich-cutting-and-sealing-machine/ad-photo.png",
+    desc: "Sandwich cutting and sealing machine — cuts sandwiches and seals the edges for neat, mess-free snacks.",
+    specs: [["Type", "Sandwich cutter and sealer set (per photo)"], ["Shapes", "Square, heart, star, dinosaur, bear (per photo)"], ["Sizes", "10-11.5cm (per photo)"]],
+    added: 631,
+    popular: false
+  },
+  {
+    id: "kids-soft-dart-archery-set-with-led-lights",
+    name: "Kids Soft Dart Archery Set with LED Lights",
+    short: "Kids Soft Dart Archery Set with LED Lights",
+    price: 34.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4tpwSEB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-soft-dart-archery-set-with-led-lights/ad-photo.png",
+    desc: "Kids soft dart archery set with LED lights — safe soft-dart bow and arrow play set for children.",
+    specs: [["Type", "Kids soft dart archery set (per photo)"], ["Feature", "Light-up function, aims more clearly (per photo)"], ["Includes", "Bow, soft darts, 2 hanging targets, wrist band (per photo)"], ["Size", "Bow 69cm, target 22.6cm (per photo)"]],
+    added: 632,
+    popular: false
+  },
+  {
+    id: "outdoor-camping-hammock-with-sunshade-and-mosquito-net",
+    name: "Outdoor Camping Hammock with Sunshade and Mosquito Net",
+    short: "Outdoor Camping Hammock with Sunshade and Mosquito Net",
+    price: 86.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4EE2hfd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/outdoor-camping-hammock-with-sunshade-and-mosquito-net/ad-photo.png",
+    desc: "Outdoor camping hammock with sunshade and mosquito net — sleep outdoors protected from sun and bugs.",
+    specs: [["Type", "Outdoor camping hammock (per photo)"], ["Protection", "Detachable sunshade and mosquito net (per photo)"], ["Load", "200kg safe load capacity (per photo)"], ["Feature", "Dual aluminum alloy poles, doubles as ground tent (per photo)"]],
+    added: 633,
+    popular: false
+  },
+  {
+    id: "revasri-laser-rangefinder-1000m",
+    name: "REVASRI Laser Rangefinder 1000M",
+    short: "REVASRI Laser Rangefinder 1000M",
+    price: 58.22,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4ssfUgj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/revasri-laser-rangefinder-1000m/ad-photo.png",
+    desc: "REVASRI laser rangefinder with 1000M measuring range — accurate distance measurement for golf, hunting and outdoor use.",
+    specs: [["Range", "1000M measuring range (per listing title)"], ["Magnification", "6X (per photo)"], ["Modes", "7 modes incl. golf and scan (per photo)"], ["Size", "96 x 73 x 37mm (per photo)"]],
+    added: 634,
+    popular: false
+  }
 
 ];
 
