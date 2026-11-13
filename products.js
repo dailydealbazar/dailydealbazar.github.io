@@ -16788,6 +16788,107 @@ const PRODUCTS = [
     added: 662,
     popular: false
   }
+,
+  {
+    id: "qcy-t13-anc-wireless-earphones",
+    name: "QCY T13 ANC Wireless Earphones Bluetooth 5.3 TWS ANC Noise Cancellation Headphone 4 Mics ENC Headset In-Ear Handfree Earbuds",
+    short: "QCY T13 ANC Earphones",
+    price: 26.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4ay1VnH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/qcy-t13-anc-wireless-earphones/ad-photo.png",
+    desc: "QCY T13 ANC wireless earphones — Bluetooth 5.3 TWS, ANC noise cancellation, 4 mics ENC headset, in-ear handfree earbuds.",
+    specs: [["Type", "Wireless earphones, Bluetooth 5.3 TWS ANC (per listing title)"], ["Noise Cancellation", "ANC, 4 mics ENC (per listing title)"], ["Fit", "In-ear handfree earbuds (per listing title)"]],
+    added: 663,
+    popular: false
+  },
+  {
+    id: "airaj-folding-saw-woodworking-hacksaw",
+    name: "AIRAJ Folding Saw Woodworking Folding hacksaw Multifunction Cutting Wood Sharp Camping Garden Prunch Saw Tree Chopper Hand Tools",
+    short: "AIRAJ Folding Saw",
+    price: 7.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4O3xYIJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/airaj-folding-saw-woodworking-hacksaw/ad-photo.png",
+    desc: "AIRAJ folding saw — woodworking folding hacksaw, multifunction cutting wood, sharp, camping garden prunch saw, tree chopper hand tool.",
+    specs: [["Type", "Folding hacksaw, woodworking (per listing title)"], ["Use", "Cutting wood, camping, garden, tree chopper (per listing title)"], ["Feature", "Multifunction, sharp (per listing title)"]],
+    added: 664,
+    popular: false
+  },
+  {
+    id: "sikai-silicone-case-anker-powerbank",
+    name: "SIKAI Silicone Case for Anker 300w 26250Mah Powerbank Shockproof Cover with Precise Cutouts",
+    short: "SIKAI Anker Powerbank Case",
+    price: 5.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2vNJy2R",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sikai-silicone-case-anker-powerbank/ad-photo.png",
+    desc: "SIKAI silicone case for Anker 300W 26250mAh powerbank — shockproof cover with precise cutouts.",
+    specs: [["Type", "Silicone case, shockproof cover (per listing title)"], ["Fits", "Anker 300W 26250mAh powerbank (per listing title)"], ["Detail", "Precise cutouts (per listing title)"]],
+    added: 665,
+    popular: false
+  },
+  {
+    id: "swimming-waterproof-bluetooth-earphone-ipx7",
+    name: "20 Hours Play Time Swimming Waterproof Bluetooth Earphone Dual Wear Style Sport Wireless Headset TWS IPX7 Earbuds Stereo (GDLYL)",
+    short: "Swimming Waterproof Earphone",
+    price: 34.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4dZqurp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-waterproof-bluetooth-earphone-ipx7/ad-photo.png",
+    desc: "Swimming waterproof Bluetooth earphone — 20 hours play time, dual wear style sport wireless headset, TWS IPX7 earbuds stereo.",
+    specs: [["Type", "Swimming waterproof Bluetooth earphone, TWS IPX7 (per listing title)"], ["Play Time", "20 hours (per listing title)"], ["Style", "Dual wear style sport wireless headset (per listing title)"], ["Driver", "6mm dynamic coil speaker unit, AAC audio decoding (per photo)"]],
+    added: 666,
+    popular: false
+  }
 
 ];
 
