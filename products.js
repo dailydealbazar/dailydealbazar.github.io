@@ -15477,6 +15477,107 @@ const PRODUCTS = [
     added: 610,
     popular: false
   }
+,
+  {
+    id: "leaf-shaped-jewelry-organizer-tray",
+    name: "Leaf-Shaped Jewelry Organizer Tray for Rings, Earrings, Bracelets & Keys Storage Tray",
+    short: "Leaf-Shaped Jewelry Organizer Tray",
+    price: 8.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3YyhzXN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leaf-shaped-jewelry-organizer-tray/ad-photo.png",
+    desc: "Leaf-shaped ceramic jewelry organizer tray for rings, earrings, bracelets and keys storage.",
+    specs: [["Material", "Ceramic leaf-shaped tray (per photos)"], ["Size", "10cm x 14cm (per photo)"], ["Use", "Rings, earrings, bracelets and keys storage (per title)"]],
+    added: 611,
+    popular: false
+  },
+  {
+    id: "casio-ae1200-watch-screen-sticker",
+    name: "Casio AE1200 Watch Screen Sticker High Definition 39 Style Various Styles Decal Royale Mod Watch Accessories",
+    short: "Casio AE1200 Watch Screen Sticker",
+    price: 4.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3CHzoB1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/casio-ae1200-watch-screen-sticker/ad-photo.png",
+    desc: "High definition Casio AE1200 watch screen sticker decal set in 39 styles for Royale mod watch accessories.",
+    specs: [["Fit", "Casio AE1200 (per title)"], ["Type", "High definition screen sticker, decal set (per title)"], ["Styles", "39 styles, various designs (per title)"]],
+    added: 612,
+    popular: false
+  },
+  {
+    id: "magnetic-golf-bag-landing-pad",
+    name: "Magnetic Golf Bag Landing Pad (9x8cm) for Magnetic Golf Towel, Golf Rangefinder, Golf Flask, Golf Speaker",
+    short: "Magnetic Golf Bag Landing Pad",
+    price: 9.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3MRR6Qr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-golf-bag-landing-pad/ad-photo.png",
+    desc: "Magnetic golf bag landing pad for magnetic golf towel, rangefinder, flask and speaker.",
+    specs: [["Size", "10.5cm x 8.1cm (per photo)"], ["Material", "Super-strong manganese steel, all metal (per photo)"], ["Use", "Golf towel, rangefinder, flask, speaker (per title)"]],
+    added: 613,
+    popular: false
+  },
+  {
+    id: "sonicake-levitate-guitar-effects-pedal",
+    name: "SONICAKE Levitate Dual Footswitch Stompbox Digital Delay & Plate Reverb 2 Effects in 1 Guitar Effects Pedal Buffer Bypass QDS-02",
+    short: "SONICAKE Levitate Guitar Effects Pedal",
+    price: 69.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3VfToAP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sonicake-levitate-guitar-effects-pedal/ad-photo.png",
+    desc: "SONICAKE Levitate dual footswitch stompbox with digital delay and plate reverb, 2 effects in 1 guitar pedal with buffer bypass.",
+    specs: [["Effects", "Digital delay & plate reverb, 2 in 1 (per title)"], ["Delay", "Up to 2000ms (per photo)"], ["Power", "DC 9V, central negative (per photo)"], ["Bypass", "Buffer bypass (per title)"]],
+    added: 614,
+    popular: false
+  }
 
 ];
 
