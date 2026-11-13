@@ -16684,6 +16684,110 @@ const PRODUCTS = [
     added: 658,
     popular: false
   }
+,
+  {
+    id: "magcubic-hy300-pro-plus-projector",
+    name: "Magcubic HY300 Pro+ 8K Android 14 Portable Projector 8000 Lumens WiFi 6 BT5.4 Outdoor Theater 5W HiFi Speaker 720P HD Supported",
+    short: "Magcubic HY300 Pro+ Projector",
+    price: 50.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2yaByuL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magcubic-hy300-pro-plus-projector/ad-photo.png",
+    desc: "Magcubic HY300 Pro+ portable projector — 8K Android 14, 8000 lumens, WiFi 6, BT5.4, 5W HiFi speaker, 720P HD supported, outdoor theater.",
+    specs: [["Type", "Portable projector, 8K Android 14 (per listing title)"], ["Brightness", "8000 lumens, 720P HD supported (per listing title)"], ["Connectivity", "WiFi 6, BT5.4 (per listing title)"], ["Audio", "5W HiFi speaker, outdoor theater (per listing title)"]],
+    added: 659,
+    popular: false
+  },
+  {
+    id: "humsienk-12-8v-160ah-lifepo4-battery",
+    name: "Humsienk 12.8V 160Ah Max LiFePO4 Lithium Battery Built-in 150A BMS 2048Wh Energy 15000+ Rechargeable Deep Cycle Lithium Iron Phosphate Battery for RV, Marine, Solar, Backup Power",
+    short: "Humsienk 160Ah LiFePO4 Battery",
+    price: 238.72,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3DFmOVH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-7.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/photo-8.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/humsienk-12-8v-160ah-lifepo4-battery/ad-photo.png",
+    desc: "Humsienk 12.8V 160Ah LiFePO4 lithium battery — built-in 150A BMS, 2048Wh, 15000+ rechargeable deep cycle, for RV, marine, solar and backup power.",
+    specs: [["Type", "LiFePO4 lithium battery, 12.8V 160Ah (per listing title)"], ["Energy", "2048Wh, built-in 150A BMS (per listing title)"], ["Cycles", "15000+ rechargeable deep cycle (per listing title)"], ["Use", "RV, marine, solar, backup power (per listing title)"]],
+    added: 660,
+    popular: false
+  },
+  {
+    id: "5600pa-window-cleaner-robot",
+    name: "5600Pa Ultra Thin Smart Automatic Window Cleaner Robot Powerful Adsorption Electric Glass Washing Machine Remote Control Home Indoor Outdoor Car Window Cleaning Equipment",
+    short: "Window Cleaner Robot",
+    price: 62.91,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3hRbm7Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/photo-6.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/photo-7.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/5600pa-window-cleaner-robot/ad-photo.png",
+    desc: "5600Pa ultra thin smart automatic window cleaner robot — powerful adsorption, electric glass washing machine, remote control, home indoor outdoor car window cleaning.",
+    specs: [["Type", "Smart automatic window cleaner robot, ultra thin (per listing title)"], ["Suction", "5600Pa powerful adsorption (per listing title)"], ["Control", "Remote control (per listing title)"], ["Thickness", "9.5cm thin (per photo)"]],
+    added: 661,
+    popular: false
+  },
+  {
+    id: "darevie-cool-technology-cycling-jersey",
+    name: "DAREVIE Man Cycling Maillot Cool Technology Cycling Jersey Man Women Breathable Quick Dry Cycling Clothes for Men Small Size",
+    short: "DAREVIE Cool Tech Cycling Jersey",
+    price: 35.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3xxGYLZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/darevie-cool-technology-cycling-jersey/ad-photo.png",
+    desc: "DAREVIE man cycling maillot — cool technology cycling jersey, breathable quick dry cycling clothes, men women, small size.",
+    specs: [["Type", "Cycling jersey, cool technology maillot (per listing title)"], ["Fabric", "83% nylon +17% spandex, cool touch (per photo)"], ["Fit", "Men women, small size (per listing title)"], ["Detail", "4.5cm non-slip silicone gripper (per photo)"]],
+    added: 662,
+    popular: false
+  }
 
 ];
 
