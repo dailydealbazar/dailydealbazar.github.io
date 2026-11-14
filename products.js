@@ -19788,6 +19788,107 @@ const PRODUCTS = [
     added: 782,
     popular: false
   }
+,
+  {
+    id: "stainless-pour-over-coffee-pot",
+    name: "Stainless Steel Pour Over Coffee Pot with Thermometer Swan Long Neck High Capacity Can Be Heated Professional Hand Brewed Coffee",
+    short: "Stainless Pour Over Coffee Pot",
+    price: 29.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c40YdSBt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stainless-pour-over-coffee-pot/ad-photo.png",
+    desc: "Stainless steel pour over coffee pot with thermometer — swan long neck, high capacity, can be heated, professional hand brewed coffee.",
+    specs: [["Type", "Stainless steel pour over coffee pot with thermometer, swan long neck (per listing title)"], ["Features", "High capacity, can be heated, professional hand brewed coffee (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 783,
+    popular: false
+  },
+  {
+    id: "mikasa-ackerman-figure-30cm",
+    name: "Anime Attack on Titan Figures Mikasa Ackerman Figure 30cm/11.81inch PVC Ackerman Action Figure Collection Model Toys Gifts",
+    short: "Mikasa Ackerman Figure 30cm",
+    price: 46.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4kjzJcR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mikasa-ackerman-figure-30cm/ad-photo.png",
+    desc: "Anime Attack on Titan Mikasa Ackerman figure — 30cm/11.81inch PVC action figure, collection model, toys gifts.",
+    specs: [["Type", "Anime Attack on Titan figure, Mikasa Ackerman, 30cm/11.81inch PVC action figure (per listing title)"], ["Features", "Collection model, toys gifts (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 784,
+    popular: false
+  },
+  {
+    id: "docolab-replacement-brush-heads",
+    name: "4pcs 8pcs Replacement Heads Compatible with DOCOLAB Sonic Electric Toothbrush MT001, Replacement Brush Heads DuPont Nozzles",
+    short: "DOCOLAB Replacement Brush Heads",
+    price: 13.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2vYIbOx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-replacement-brush-heads/ad-photo.png",
+    desc: "DOCOLAB sonic electric toothbrush replacement heads — 4pcs/8pcs, compatible with MT001, DuPont nozzles.",
+    specs: [["Type", "Replacement brush heads, compatible with DOCOLAB Sonic Electric Toothbrush MT001 (per listing title)"], ["Features", "4pcs/8pcs, DuPont nozzles (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 785,
+    popular: false
+  },
+  {
+    id: "zenottic-titanium-prescription-glasses",
+    name: "ZENOTTIC Titanium Progressive Prescription Glasses Men Square Anti Blue Light Photochromic Eyewear Optical Myopia Eyeglasses",
+    short: "ZENOTTIC Titanium Prescription Glasses",
+    price: 21.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4dUXxgX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zenottic-titanium-prescription-glasses/ad-photo.png",
+    desc: "ZENOTTIC titanium progressive prescription glasses — men square, anti blue light, photochromic eyewear, optical myopia eyeglasses.",
+    specs: [["Type", "Titanium progressive prescription glasses, men square (per listing title)"], ["Features", "Anti blue light, photochromic eyewear, optical myopia eyeglasses (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 786,
+    popular: false
+  }
 
 ];
 
