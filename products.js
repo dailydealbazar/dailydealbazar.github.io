@@ -17869,6 +17869,107 @@ const PRODUCTS = [
     added: 702,
     popular: false
   }
+,
+  {
+    id: "automatic-pepper-grinder-usb",
+    name: "1/2pcs Automatic Pepper Grinder Salt And Pepper Grinder USB Rechargeable Adjustable Coarseness Spice Mill for Kitchen Tool",
+    short: "Automatic Pepper Grinder USB",
+    price: 24.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3sOYI71",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/automatic-pepper-grinder-usb/ad-photo.png",
+    desc: "Automatic pepper grinder — USB rechargeable salt and pepper grinder with adjustable coarseness spice mill, for kitchen use.",
+    specs: [["Power", "USB rechargeable (per listing title)"], ["Function", "Adjustable coarseness spice mill (per listing title)"], ["Use", "Salt and pepper grinder, kitchen tool (per listing title)"]],
+    added: 707,
+    popular: false
+  },
+  {
+    id: "zealot-s32pro-bluetooth-speaker",
+    name: "ZEALOT-S32PRO Portable Bluetooth 5.2 Speaker Outdoor Waterproof Wireless TWS Mini Column Box Speaker Outdoor TF Card Boom Box",
+    short: "ZEALOT S32PRO Bluetooth Speaker",
+    price: 46.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4SsVPb5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zealot-s32pro-bluetooth-speaker/ad-photo.png",
+    desc: "ZEALOT-S32PRO portable Bluetooth speaker — Bluetooth 5.2, outdoor waterproof wireless TWS mini column box speaker with TF card.",
+    specs: [["Bluetooth", "Bluetooth 5.2 (per listing title)"], ["Features", "Outdoor waterproof, wireless TWS, TF card (per listing title)"], ["Type", "Portable mini column box speaker (per listing title)"]],
+    added: 708,
+    popular: false
+  },
+  {
+    id: "movespeed-msp17-power-bank",
+    name: "MOVESPEED MSP17 Power Bank 10000mAh 22.5W Portable Fast Charger and Battery in One Powerbank with Folding EU Plug for Smartphone",
+    short: "MOVESPEED MSP17 Power Bank 10000mAh",
+    price: 32.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4qzMSjp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/movespeed-msp17-power-bank/ad-photo.png",
+    desc: "MOVESPEED MSP17 power bank — 10000mAh 22.5W portable fast charger and battery in one, with folding EU plug.",
+    specs: [["Capacity", "10000mAh (per listing title)"], ["Output", "22.5W fast charging (per listing title)"], ["Plug", "Folding EU plug, USB-C/USB-A (per listing title)"]],
+    added: 709,
+    popular: false
+  },
+  {
+    id: "fairywill-fw-507-toothbrush",
+    name: "Fairywill Electric Sonic Toothbrush USB Charge FW-507 Rechargeable Waterproof Electronic Tooth Brushes Replacement Heads Adult",
+    short: "Fairywill FW-507 Sonic Toothbrush",
+    price: 19.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3ys3hA3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fairywill-fw-507-toothbrush/ad-photo.png",
+    desc: "Fairywill FW-507 electric sonic toothbrush — USB charge, rechargeable waterproof electronic toothbrush with replacement heads, for adults.",
+    specs: [["Model", "FW-507 (per listing title)"], ["Charging", "USB charge, rechargeable (per listing title)"], ["Features", "Waterproof, replacement heads included (per listing title)"]],
+    added: 710,
+    popular: false
+  }
 
 ];
 
