@@ -17669,6 +17669,105 @@ const PRODUCTS = [
     added: 706,
     popular: false
   }
+,
+  {
+    id: "solar-emergency-radio-hand-crank",
+    name: "4000mAh Emergency Portable Solar Power Radio with Hand Crank Charging AM/FM Weather Radio LED Flashlight Bank Phone Charger",
+    short: "Emergency Solar Radio Hand Crank",
+    price: 40.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3HcG2yT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-emergency-radio-hand-crank/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-emergency-radio-hand-crank/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-emergency-radio-hand-crank/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-emergency-radio-hand-crank/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-emergency-radio-hand-crank/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/solar-emergency-radio-hand-crank/ad-photo.png",
+    desc: "Emergency solar radio — 4000mAh portable solar power radio with hand crank charging, AM/FM weather radio, LED flashlight and phone charger.",
+    specs: [["Battery", "4000mAh (per listing title)"], ["Charging", "Solar power and hand crank charging (per listing title)"], ["Features", "AM/FM weather radio, LED flashlight, phone charger (per listing title)"]],
+    added: 687,
+    popular: false
+  },
+  {
+    id: "kitchen-scale-10kg-lcd",
+    name: "10kg Kitchen Scale LCD Digital Display Electronic Table Scale Baking Gram Weight Scales For Personal Healthy Diet Food Scale",
+    short: "10kg Kitchen Scale LCD",
+    price: 15.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3WQS1nz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kitchen-scale-10kg-lcd/ad-photo.png",
+    desc: "10kg kitchen scale — LCD digital display electronic table scale for baking, gram weight and healthy diet food weighing.",
+    specs: [["Capacity", "10kg (per listing title)"], ["Display", "LCD digital display (per listing title)"], ["Use", "Baking, gram weight, healthy diet food scale (per listing title)"]],
+    added: 688,
+    popular: false
+  },
+  {
+    id: "business-card-holder-leather",
+    name: "1 PC Business Card Holder Case Man Slim PU Leather Metal Pocket Card Holder with Magnetic Shut Black Name Card Holder",
+    short: "Business Card Holder Leather",
+    price: 4.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3wH83Oj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/business-card-holder-leather/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/business-card-holder-leather/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/business-card-holder-leather/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/business-card-holder-leather/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/business-card-holder-leather/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/business-card-holder-leather/ad-photo.png",
+    desc: "Business card holder — slim PU leather and metal pocket card holder with magnetic shut, for men.",
+    specs: [["Material", "PU leather and metal (per listing title)"], ["Style", "Slim pocket card holder, magnetic shut (per listing title)"], ["Colour", "Black (per listing title)"]],
+    added: 689,
+    popular: false
+  },
+  {
+    id: "digital-blood-pressure-monitor",
+    name: "Digital Blood Pressure Monitor Upper Arm Automatic BP Cuff Machine Tonometer LED Sphygmomanometer for Home Use Health Care",
+    short: "Digital Blood Pressure Monitor",
+    price: 39.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4Nlj3wb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/digital-blood-pressure-monitor/ad-photo.png",
+    desc: "Digital blood pressure monitor — upper arm automatic BP cuff machine with LED display, for home use.",
+    specs: [["Type", "Upper arm automatic BP cuff machine (per listing title)"], ["Display", "LED (per listing title)"], ["Use", "Home use health care (per listing title)"]],
+    added: 690,
+    popular: false
+  }
 
 ];
 
