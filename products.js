@@ -18172,6 +18172,107 @@ const PRODUCTS = [
     added: 718,
     popular: false
   }
+,
+  {
+    id: "monitor-light-bar-50cm",
+    name: "50cm Computer Monitor Light Bar Screen Hanging Lights Stepless Dimming USB Desk Lamp For Study Reading Light Table Monitor Lamp",
+    short: "Monitor Light Bar 50cm",
+    price: 26.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3KTAVFH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/monitor-light-bar-50cm/ad-photo.png",
+    desc: "50cm computer monitor light bar — screen hanging lights with stepless dimming, USB desk lamp for study and reading.",
+    specs: [["Type", "Monitor light bar, screen hanging (per listing title)"], ["Length", "50cm (per listing title)"], ["Power", "USB (per listing title)"], ["Dimming", "Stepless dimming (per listing title)"]],
+    added: 719,
+    popular: false
+  },
+  {
+    id: "makeup-brush-set-aluminum",
+    name: "Professional Aluminum Makeup Brush Set, Includes Soft High-Quality Synthetic Hair Makeup Brushes, Foundation Brush, Powder Brush",
+    short: "Makeup Brush Set Aluminum",
+    price: 8.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c329nQ1H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/makeup-brush-set-aluminum/ad-photo.png",
+    desc: "Professional aluminum makeup brush set — soft high-quality synthetic hair brushes, foundation brush and powder brush included.",
+    specs: [["Material", "Aluminum, synthetic hair (per listing title)"], ["Includes", "Foundation brush, powder brush (per listing title)"], ["Type", "Professional makeup brush set (per listing title)"]],
+    added: 720,
+    popular: false
+  },
+  {
+    id: "laptop-stand-legs-mini",
+    name: "Mini Portable Legs Laptop Stand Holder For Macbook Huawei Samsung Xiaomi Dell ASUS HP Toshiba Notebook Support Keyboard Holder",
+    short: "Laptop Stand Legs Mini",
+    price: 2.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3MORO1V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/laptop-stand-legs-mini/ad-photo.png",
+    desc: "Mini portable legs laptop stand holder — notebook support and keyboard holder for Macbook, Huawei, Samsung, Xiaomi, Dell, ASUS, HP and Toshiba.",
+    specs: [["Type", "Mini portable legs laptop stand (per listing title)"], ["Compatibility", "Macbook, Huawei, Samsung, Xiaomi, Dell, ASUS, HP, Toshiba (per listing title)"]],
+    added: 721,
+    popular: false
+  },
+  {
+    id: "vacuum-insulated-water-bottle-500ml",
+    name: "500ML Double Wall Vacuum Insulated Stainless Steel Water Bottle with Straw, Cycling Thermos Mug for Outdoor Sports",
+    short: "Vacuum Insulated Water Bottle 500ml",
+    price: 13.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3HelzDt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-insulated-water-bottle-500ml/ad-photo.png",
+    desc: "500ml double wall vacuum insulated stainless steel water bottle with straw — cycling thermos mug for outdoor sports.",
+    specs: [["Capacity", "500ml (per listing title)"], ["Material", "Double wall vacuum insulated stainless steel (per listing title)"], ["Includes", "Straw (per listing title)"], ["Use", "Cycling, outdoor sports (per listing title)"]],
+    added: 722,
+    popular: false
+  }
 
 ];
 
