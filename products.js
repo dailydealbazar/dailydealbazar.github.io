@@ -19081,6 +19081,107 @@ const PRODUCTS = [
     added: 754,
     popular: false
   }
+,
+  {
+    id: "acupressure-yoga-mat",
+    name: "Acupressure Yoga Mat Kuznetsov's Applicator Cushion Sensi Massage Body Needles With Spikes Pillow Foot Massager Fitness Pilates",
+    short: "Acupressure Yoga Mat",
+    price: 29.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4pf4YD9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/acupressure-yoga-mat/ad-photo.png",
+    desc: "Acupressure yoga mat \\u2014 Kuznetsov's applicator cushion, sensi massage body needles with spikes, pillow foot massager, fitness pilates.",
+    specs: [["Type", "Acupressure yoga mat, Kuznetsov's applicator cushion (per listing title)"], ["Use", "Sensi massage body needles with spikes, pillow foot massager, fitness pilates (per listing title)"], ["Power", "Non-electronic (per listing)"]],
+    added: 755,
+    popular: false
+  },
+  {
+    id: "westtune-yoga-mat",
+    name: "WESTTUNE Yoga Mat Non Slip, Eco Friendly Pilates Fitness Mats Anti-Tear Exercise Yoga Mat with Carrying Strap and Bag for Women",
+    short: "WESTTUNE Yoga Mat",
+    price: 37.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4tgpBJV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/westtune-yoga-mat/ad-photo.png",
+    desc: "WESTTUNE yoga mat \\u2014 non slip, eco friendly pilates fitness mat, anti-tear exercise yoga mat with carrying strap and bag.",
+    specs: [["Type", "Non slip, eco friendly pilates fitness mat (per listing title)"], ["Features", "Anti-tear exercise yoga mat with carrying strap and bag (per listing title)"], ["Use", "Yoga, pilates, fitness (per listing title)"]],
+    added: 756,
+    popular: false
+  },
+  {
+    id: "stunt-kite-48-inch",
+    name: "NEW Arrive 48 Inch Blue Professional Dual Line Stunt Kite With Handle And Line Good Flying Factory Outlet",
+    short: "48 Inch Stunt Kite",
+    price: 15.98,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3mUltdt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stunt-kite-48-inch/ad-photo.png",
+    desc: "48 inch blue professional dual line stunt kite \\u2014 with handle and line, good flying.",
+    specs: [["Type", "48 inch blue professional dual line stunt kite (per listing title)"], ["Includes", "Handle and line (per listing title)"], ["Use", "Good flying (per listing title)"]],
+    added: 757,
+    popular: false
+  },
+  {
+    id: "bluetooth-page-turner",
+    name: "Bluetooth Page Turner Camera/Music Control Pen Paging Device E-book Reader Swipe Short Video Remote Control Supports IOS Android",
+    short: "Bluetooth Page Turner",
+    price: 7.14,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4CoKqLv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bluetooth-page-turner/ad-photo.png",
+    desc: "Bluetooth page turner \\u2014 camera/music control pen paging device, e-book reader swipe, short video remote control, supports iOS Android.",
+    specs: [["Type", "Bluetooth page turner, camera/music control pen (per listing title)"], ["Use", "E-book reader swipe, short video remote control (per listing title)"], ["Power", "USB-rechargeable Bluetooth remote, 250 mAh (per listing)"]],
+    added: 758,
+    popular: false
+  }
 
 ];
 
