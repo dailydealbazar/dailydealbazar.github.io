@@ -20091,6 +20091,107 @@ const PRODUCTS = [
     added: 794,
     popular: false
   }
+,
+  {
+    id: "olevs-mens-tonneau-quartz-watch",
+    name: "OLEVS Men's Watches Luxury Tonneau Original Top Brand Quartz Watch for Men Waterproof Luminous Week Date Male Wristwatch",
+    short: "OLEVS Men's Tonneau Quartz Watch",
+    price: 13.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2yh0hzD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/olevs-mens-tonneau-quartz-watch/ad-photo.png",
+    desc: "OLEVS men's luxury tonneau quartz watch — original top brand, waterproof, luminous, week date, male wristwatch.",
+    specs: [["Type", "OLEVS men's luxury tonneau quartz watch, original top brand (per listing title)"], ["Features", "Waterproof, luminous, week date (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 795,
+    popular: false
+  },
+  {
+    id: "baseus-eh10-anc-headphones",
+    name: "Baseus EH10 NC ANC Wireless Headphones 45dB Adaptive Hybrid Noise Cancelling Headsets Hi-Res LDAC Headphone Bluetooth 6.0 80Hrs",
+    short: "Baseus EH10 ANC Headphones",
+    price: 36.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3KsnC1N",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-eh10-anc-headphones/ad-photo.png",
+    desc: "Baseus EH10 NC ANC wireless headphones — 45dB adaptive hybrid noise cancelling, Hi-Res LDAC, Bluetooth 6.0, 80 hours.",
+    specs: [["Type", "Baseus EH10 NC ANC wireless headphones, 45dB adaptive hybrid noise cancelling (per listing title)"], ["Features", "Hi-Res LDAC, Bluetooth 6.0, 80 hours battery (per listing title)"], ["Power", "USB-C rechargeable, 80h battery life (per listing)"]],
+    added: 796,
+    popular: false
+  },
+  {
+    id: "baseus-10000mah-power-bank-dual-cable",
+    name: "Baseus 10000mAh Power Bank 22.5W Built-In Dual USB-C Cable Thinner Fast Charging for iPhone 17 Pro Max Samsung S25 Xiaomi Poco",
+    short: "Baseus 10000mAh Power Bank Dual Cable",
+    price: 31.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4t8tvnV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-10000mah-power-bank-dual-cable/ad-photo.png",
+    desc: "Baseus 10000mAh power bank — 22.5W, built-in dual USB-C cable, thinner fast charging.",
+    specs: [["Type", "Baseus 10000mAh power bank, 22.5W, built-in dual USB-C cable (per listing title)"], ["Features", "Thinner fast charging, for iPhone 17 Pro Max, Samsung S25, Xiaomi Poco (per listing title)"], ["Power", "USB-C rechargeable (per listing)"]],
+    added: 797,
+    popular: false
+  },
+  {
+    id: "wurkkos-fc11c-flashlight",
+    name: "Wurkkos FC11C Flashlight Nippon Chemical 519A Mountaineering Edition 18650 Battery Max Output 1200 Lm USB-C Charging Daily Carry",
+    short: "Wurkkos FC11C Flashlight",
+    price: 24.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4aPXSc7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-fc11c-flashlight/ad-photo.png",
+    desc: "Wurkkos FC11C flashlight — Nippon Chemical 519A mountaineering edition, 18650 battery, max output 1200 lm, USB-C charging, daily carry.",
+    specs: [["Type", "Wurkkos FC11C flashlight, Nippon Chemical 519A mountaineering edition, 18650 battery (per listing title)"], ["Features", "Max output 1200 lm, USB-C charging, daily carry (per listing title)"], ["Power", "USB-C rechargeable, 18650 battery included (per listing)"]],
+    added: 798,
+    popular: false
+  }
 
 ];
 
