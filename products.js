@@ -20495,6 +20495,107 @@ const PRODUCTS = [
     added: 810,
     popular: false
   }
+,
+  {
+    id: "haylou-s40-anc-wireless-headphone",
+    name: "HAYLOU S40 ANC Wireless Headphone 50dB Noise Canceling Hi-Res 3D Spatial Audio Earphone with LDAC Bluetooth 6.0 Over Ear Headset",
+    short: "HAYLOU S40 ANC Wireless Headphone",
+    price: 54.73,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3EESQcT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/haylou-s40-anc-wireless-headphone/ad-photo.png",
+    desc: "HAYLOU S40 ANC wireless headphone — 50dB noise canceling, Hi-Res 3D spatial audio, LDAC Bluetooth 6.0 over ear headset.",
+    specs: [["Type", "HAYLOU S40 ANC wireless headphone, 50dB noise canceling, Hi-Res 3D spatial audio (per listing title)"], ["Features", "LDAC Bluetooth 6.0 over ear headset (per listing title)"], ["Power", "USB/BT-powered (per listing)"]],
+    added: 811,
+    popular: false
+  },
+  {
+    id: "enchen-boost-electric-hair-clipper",
+    name: "ENCHEN Boost Electric Hair Clipper Professional Cordless Fast Type-C Charging Ceramic Haircut Machine Hair Trimmer For Men Adult",
+    short: "ENCHEN Boost Electric Hair Clipper",
+    price: 18.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4SrCczz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-boost-electric-hair-clipper/ad-photo.png",
+    desc: "ENCHEN Boost electric hair clipper — professional cordless haircut machine, fast Type-C charging, ceramic blade.",
+    specs: [["Type", "ENCHEN Boost electric hair clipper, professional cordless (per listing title)"], ["Features", "Fast Type-C charging, ceramic haircut machine (per listing title)"], ["Power", "USB-C rechargeable (per listing)"]],
+    added: 812,
+    popular: false
+  },
+  {
+    id: "pagani-design-2026-speed-chronograph",
+    name: "PAGANI DESIGN 2026 New Men's Watches AR Sapphire Glass Luxury Quartz Watch For Men Speed Chronograph Stainless Steel Auto Date Moon Watch Men EU Local Shipping",
+    short: "PAGANI DESIGN 2026 Speed Chronograph",
+    price: 91.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3nkfeBp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pagani-design-2026-speed-chronograph/ad-photo.png",
+    desc: "PAGANI DESIGN 2026 men's watch — AR sapphire glass, luxury quartz, speed chronograph, stainless steel.",
+    specs: [["Type", "PAGANI DESIGN 2026 men's watch, AR sapphire glass, luxury quartz (per listing title)"], ["Features", "Speed chronograph, stainless steel, auto date, moon watch (per listing title)"], ["Power", "Quartz battery watch (per listing)"]],
+    added: 813,
+    popular: false
+  },
+  {
+    id: "epomaker-ek21-via-numpad",
+    name: "EPOMAKER EK21 VIA 20% Gasket Wired/Bluetooth/2.4Ghz Wireless NKRO Numpad Aluminum Alloy Knob 1000mAh Battery for Win/Mac/Gaming",
+    short: "EPOMAKER EK21 VIA Numpad",
+    price: 39.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3QbVXkJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-ek21-via-numpad/ad-photo.png",
+    desc: "EPOMAKER EK21 VIA numpad — 20% gasket wired/Bluetooth/2.4GHz wireless NKRO numpad with aluminum alloy knob.",
+    specs: [["Type", "EPOMAKER EK21 VIA 20% gasket numpad, wired/Bluetooth/2.4GHz wireless (per listing title)"], ["Features", "NKRO numpad, aluminum alloy knob, 1000mAh battery (per listing title)"], ["Power", "USB/BT/2.4GHz, 1000mAh battery (per listing)"]],
+    added: 814,
+    popular: false
+  }
 
 ];
 
