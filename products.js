@@ -19485,6 +19485,107 @@ const PRODUCTS = [
     added: 770,
     popular: false
   }
+,
+  {
+    id: "timemore-french-press-450ml",
+    name: "TIMEMORE French Press Coffee Press, Coffee Maker Tea Maker, 450ml, 15 Ounce, High Density Stainless Steel Mesh Heat Resistant Glass",
+    short: "TIMEMORE French Press 450ml",
+    price: 37.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4OnDd75",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/timemore-french-press-450ml/ad-photo.png",
+    desc: "TIMEMORE French press coffee maker 450ml — high density stainless steel mesh, heat resistant glass.",
+    specs: [["Type", "French press coffee maker, 450ml (per listing title)"], ["Features", "Coffee maker tea maker, high density stainless steel mesh, heat resistant glass (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 771,
+    popular: false
+  },
+  {
+    id: "ugreen-steam-deck-dock",
+    name: "UGREEN Steam Deck Dock 6/9Ports USB C Gaming HUB Foldable Stand 4K HDMI/DisplayPort RJ45 100W 5/10Gbps USB A&C",
+    short: "UGREEN Steam Deck Dock",
+    price: 63.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3mQ6UNd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-steam-deck-dock/ad-photo.png",
+    desc: "UGREEN Steam Deck Dock USB-C gaming hub — foldable stand, 4K HDMI/DisplayPort, RJ45, 100W, 5/10Gbps USB A&C.",
+    specs: [["Type", "Steam Deck dock, USB-C gaming hub, foldable stand (per listing title)"], ["Features", "4K HDMI/DisplayPort, RJ45, 100W, 5/10Gbps USB A&C (per listing title)"], ["Power", "USB-powered (per listing)"]],
+    added: 772,
+    popular: false
+  },
+  {
+    id: "ugreen-ws220-dots-earbuds",
+    name: "UGREEN WS220 Dots Wireless Earbuds Bluetooth 6.0 Ear Buds Light Weight Headphones, Deep Bass Sound, 35H Play, Earphones With APP",
+    short: "UGREEN WS220 Dots Earbuds",
+    price: 26.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c41hGhsX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-ws220-dots-earbuds/ad-photo.png",
+    desc: "UGREEN WS220 Dots wireless earbuds Bluetooth 6.0 — light weight, deep bass sound, 35H play, with APP.",
+    specs: [["Type", "Wireless earbuds Bluetooth 6.0 (per listing title)"], ["Features", "Light weight, deep bass sound, 35H play, earphones with APP (per listing title)"], ["Power", "USB/battery-powered (per listing)"]],
+    added: 773,
+    popular: false
+  },
+  {
+    id: "pickleball-paddles-set-2",
+    name: "Pickleball Paddles Set of 2 USAPA Approved Fiber Glass Pickleball Paddle Friction Surface Pickleball Rackets Set for Men Women (GojoyLiu)",
+    short: "Pickleball Paddles Set of 2",
+    price: 38.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4l8p2Bv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pickleball-paddles-set-2/ad-photo.png",
+    desc: "Pickleball paddles set of 2 — USAPA approved fiber glass, friction surface, for men women.",
+    specs: [["Type", "Pickleball paddles set of 2, USAPA approved fiber glass (per listing title)"], ["Features", "Friction surface pickleball rackets for men women (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 774,
+    popular: false
+  }
 
 ];
 
