@@ -19687,6 +19687,107 @@ const PRODUCTS = [
     added: 778,
     popular: false
   }
+,
+  {
+    id: "moes-bluetooth-water-timer",
+    name: "Moes Smart Tuya Bluetooth Water Timer Rain Delay Programmable Irrigation Timer with Automatic and Manual Watering",
+    short: "Moes Bluetooth Water Timer",
+    price: 40.93,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c43mov0B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-bluetooth-water-timer/ad-photo.png",
+    desc: "Moes smart Tuya Bluetooth water timer — rain delay, programmable irrigation timer with automatic and manual watering.",
+    specs: [["Type", "Smart Tuya Bluetooth water timer, programmable irrigation timer (per listing title)"], ["Features", "Rain delay, automatic and manual watering (per listing title)"], ["Power", "Battery-powered, Bluetooth (per listing)"]],
+    added: 779,
+    popular: false
+  },
+  {
+    id: "feiyutech-vb4-gimbal",
+    name: "FeiyuTech VB4 Smartphone Stabilizer Face AI Tracking 3-Axis Gimbal Built-in Selfie Stick Video Record for iPhone/Android",
+    short: "FeiyuTech VB4 Gimbal",
+    price: 49.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c40DkxXz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feiyutech-vb4-gimbal/ad-photo.png",
+    desc: "FeiyuTech VB4 smartphone stabilizer — face AI tracking 3-axis gimbal with built-in selfie stick, video record for iPhone/Android.",
+    specs: [["Type", "Smartphone stabilizer, face AI tracking 3-axis gimbal, built-in selfie stick (per listing title)"], ["Features", "Video record for iPhone/Android (per listing title)"], ["Power", "Battery-powered, USB rechargeable (per listing)"]],
+    added: 780,
+    popular: false
+  },
+  {
+    id: "ulanzi-hmn1-sling-bag",
+    name: "Ulanzi HMN1 Lunar Sling Bag White/Black Crossbody Bag Travel Bag for Camera Smartphone Fill Light",
+    short: "Ulanzi HMN1 Sling Bag",
+    price: 26.84,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c30SUz1v",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-hmn1-sling-bag/ad-photo.png",
+    desc: "Ulanzi HMN1 lunar sling bag — white/black crossbody bag, travel bag for camera, smartphone, fill light.",
+    specs: [["Type", "Lunar sling bag, crossbody bag, travel bag (per listing title)"], ["Features", "White/black, for camera, smartphone, fill light (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 781,
+    popular: false
+  },
+  {
+    id: "ulanzi-as-d30-softbox",
+    name: "Ulanzi AS-D30 30cm Portable Foldable Umbrella Octagon Softbox Mini Bowens Mount Honeycomb Grip for Ulanzi LT028 40W COB LED",
+    short: "Ulanzi AS-D30 Softbox",
+    price: 38.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c39MbSOJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ulanzi-as-d30-softbox/ad-photo.png",
+    desc: "Ulanzi AS-D30 30cm portable foldable umbrella octagon softbox — mini Bowens mount, honeycomb grip, for Ulanzi LT028 40W COB LED.",
+    specs: [["Type", "30cm portable foldable umbrella octagon softbox, mini Bowens mount (per listing title)"], ["Features", "Honeycomb grip, for Ulanzi LT028 40W COB LED (per listing title)"], ["Power", "Non-electrified light modifier, no power (per listing)"]],
+    added: 782,
+    popular: false
+  }
 
 ];
 
