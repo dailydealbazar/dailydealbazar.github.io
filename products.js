@@ -17970,6 +17970,107 @@ const PRODUCTS = [
     added: 710,
     popular: false
   }
+,
+  {
+    id: "wireless-mouse-usb-rechargeable",
+    name: "Wireless Mouse USB Rechargeable Ergonomic Adjustable DPI Office Silent 2.4G Bluetooth Optical Electric Mouses Game Office",
+    short: "Wireless Mouse USB Rechargeable",
+    price: 10.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c341XXon",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wireless-mouse-usb-rechargeable/ad-photo.png",
+    desc: "Wireless mouse — USB rechargeable ergonomic mouse with adjustable DPI, silent 2.4G Bluetooth optical, for office and gaming.",
+    specs: [["Power", "USB rechargeable (per listing title)"], ["Connection", "2.4G Bluetooth (per listing title)"], ["Features", "Ergonomic, adjustable DPI, silent (per listing title)"]],
+    added: 711,
+    popular: false
+  },
+  {
+    id: "ab-roller-wheel-abs",
+    name: "Big Roller For ABS Workout Wheel Exercise Equipment Core Abdominal Home Gym Muscle Device Fitness Men And Women Weight Loss",
+    short: "Ab Roller Wheel ABS",
+    price: 25.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3F3m9dt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ab-roller-wheel-abs/ad-photo.png",
+    desc: "Ab roller wheel — big roller for ABS workout, core abdominal home gym muscle device, for men and women.",
+    specs: [["Type", "Abdominal workout wheel (per listing title)"], ["Use", "Core abdominal, home gym (per listing title)"], ["Users", "Men and women (per listing title)"]],
+    added: 712,
+    popular: false
+  },
+  {
+    id: "electric-hand-blender-usb",
+    name: "USB Rechargeable Electric Hand Blender Wireless Portable Hand Whisk Rechargeable 3-Speed And 2 Whisk For Baking Whisk Milk Cream",
+    short: "Electric Hand Blender USB",
+    price: 18.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3Qcjw99",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-hand-blender-usb/ad-photo.png",
+    desc: "Electric hand blender — USB rechargeable wireless portable hand whisk, 3-speed with 2 whisks, for baking, milk and cream.",
+    specs: [["Power", "USB rechargeable (per listing title)"], ["Speed", "3-speed (per listing title)"], ["Includes", "2 whisks (per listing title)"]],
+    added: 713,
+    popular: false
+  },
+  {
+    id: "magnetic-wireless-car-charger",
+    name: "Ice Cooling Magnetic Wireless Car Charger Stand for iPhone 17 16 15 14 13 Pro Max MacSafe Car Phone Holder Fast Charging Station",
+    short: "Magnetic Wireless Car Charger",
+    price: 28.81,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3pswaCL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-wireless-car-charger/ad-photo.png",
+    desc: "Magnetic wireless car charger — ice cooling magnetic wireless car charger stand with fast charging, for iPhone 17/16/15/14/13 Pro Max.",
+    specs: [["Features", "Ice cooling, magnetic wireless charging (per listing title)"], ["Compatibility", "iPhone 17/16/15/14/13 Pro Max (per listing title)"], ["Type", "Car charger stand, fast charging (per listing title)"]],
+    added: 714,
+    popular: false
+  }
 
 ];
 
