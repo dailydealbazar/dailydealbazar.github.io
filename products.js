@@ -18071,6 +18071,107 @@ const PRODUCTS = [
     added: 714,
     popular: false
   }
+,
+  {
+    id: "ugreen-magnetic-car-phone-holder",
+    name: "UGREEN Magnetic Car Phone Holder Air Vent Car Phone Stand For Magsafe iPhone 15 14 13 ProMax Xiaomi Samsung Strong Magnet Holder",
+    short: "UGREEN Magnetic Car Phone Holder",
+    price: 17.26,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3X0xWll",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-magnetic-car-phone-holder/ad-photo.png",
+    desc: "UGREEN magnetic car phone holder — air vent car phone stand with strong magnet, for MagSafe iPhone 15/14/13 Pro Max, Xiaomi and Samsung.",
+    specs: [["Brand", "UGREEN (per listing title)"], ["Mount", "Air vent (per listing title)"], ["Compatibility", "MagSafe iPhone 15/14/13 Pro Max, Xiaomi, Samsung (per listing title)"]],
+    added: 715,
+    popular: false
+  },
+  {
+    id: "rfid-minimalist-wallet-men",
+    name: "Men RFID Blocking Slim Minimalist Wallet Leather Bifold Front Pocket Purse with Pop-Up Magnetic Closure Money Clip Card Holder",
+    short: "RFID Minimalist Wallet Men",
+    price: 28.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2QJnneF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rfid-minimalist-wallet-men/ad-photo.png",
+    desc: "Men RFID blocking slim minimalist wallet — leather bifold front pocket purse with pop-up magnetic closure, money clip and card holder.",
+    specs: [["Features", "RFID blocking, slim minimalist (per listing title)"], ["Style", "Leather bifold front pocket (per listing title)"], ["Closure", "Pop-up magnetic closure, money clip (per listing title)"]],
+    added: 716,
+    popular: false
+  },
+  {
+    id: "havmore-manual-coffee-grinder",
+    name: "HAVMORE Upgrade Manual Coffee Grinder CNC Professional Stainless Steel Diamond Adjustable Manual Burr Coffee Bean Grinding",
+    short: "HAVMORE Manual Coffee Grinder",
+    price: 34.22,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4MVYOx1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/havmore-manual-coffee-grinder/ad-photo.png",
+    desc: "HAVMORE manual coffee grinder — CNC professional stainless steel diamond adjustable manual burr grinder for coffee beans.",
+    specs: [["Brand", "HAVMORE (per listing title)"], ["Type", "Manual burr coffee grinder (per listing title)"], ["Material", "Stainless steel, CNC professional (per listing title)"]],
+    added: 717,
+    popular: false
+  },
+  {
+    id: "mini-magnetic-tile-toys",
+    name: "Mini Magnetic Tile Toys, with a Metal Box for Easy Portability, Magnetic Building Blocks That Can Be Played with Anywhere",
+    short: "Mini Magnetic Tile Toys",
+    price: 13.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4Ugcjej",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mini-magnetic-tile-toys/ad-photo.png",
+    desc: "Mini magnetic tile toys — magnetic building blocks with a metal box for easy portability, playable anywhere.",
+    specs: [["Type", "Magnetic building blocks (per listing title)"], ["Includes", "Metal box for portability (per listing title)"], ["Use", "Playable anywhere (per listing title)"]],
+    added: 718,
+    popular: false
+  }
 
 ];
 
