@@ -19889,6 +19889,107 @@ const PRODUCTS = [
     added: 786,
     popular: false
   }
+,
+  {
+    id: "cada-1-24-building-block-car",
+    name: "CaDA 1:24 Building Block Car Set / Renault / Super Sports Car / Retro Car / Holiday Gift / Children's Toy",
+    short: "CaDA 1:24 Building Block Car",
+    price: 21.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3lZKPaT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cada-1-24-building-block-car/ad-photo.png",
+    desc: "CaDA 1:24 building block car set — Renault, super sports car, retro car, holiday gift, children's toy.",
+    specs: [["Type", "CaDA 1:24 building block car set, Renault, super sports car, retro car (per listing title)"], ["Features", "Holiday gift, children's toy (per listing title)"], ["Power", "Bluetooth / 2.4GHz remote control via app (per listing photos)"]],
+    added: 787,
+    popular: false
+  },
+  {
+    id: "ugreen-usb-3-0-hub-4-ports",
+    name: "UGREEN USB 3.0 HUB 4 Ports USB-C HUB Slim for Mouse Keyboard Compatible with MacBook Pro Air Laptop Desktop PC Xbox PS5 Splitter",
+    short: "UGREEN USB 3.0 Hub 4 Ports",
+    price: 9.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c2zLxfTl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-usb-3-0-hub-4-ports/ad-photo.png",
+    desc: "UGREEN USB 3.0 hub 4 ports — USB-C hub, slim, for mouse and keyboard, compatible with MacBook Pro/Air, laptop, desktop PC, Xbox, PS5.",
+    specs: [["Type", "UGREEN USB 3.0 hub, 4 ports, USB-C, slim (per listing title)"], ["Features", "For mouse and keyboard; compatible with MacBook Pro/Air, laptop, desktop PC, Xbox, PS5 (per listing title)"], ["Power", "USB-powered (per listing)"]],
+    added: 788,
+    popular: false
+  },
+  {
+    id: "mijia-electric-oral-irrigator-2",
+    name: "2025 NEW MIJIA Electric Oral Irrigator 2 MEO705 Portable Water Flosser 200mL 3-Mode Tooth Cleaner Micron-level Bubble",
+    short: "MIJIA Electric Oral Irrigator 2",
+    price: 47.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3qpI50B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-electric-oral-irrigator-2/ad-photo.png",
+    desc: "MIJIA electric oral irrigator 2 MEO705 — portable water flosser, 200mL, 3-mode tooth cleaner, micron-level bubble.",
+    specs: [["Type", "MIJIA Electric Oral Irrigator 2 MEO705, portable water flosser, 200mL (per listing title)"], ["Features", "3-mode tooth cleaner, micron-level bubble (per listing title)"], ["Power", "USB-C rechargeable (per listing)"]],
+    added: 789,
+    popular: false
+  },
+  {
+    id: "htc-ne79-tws-earbuds",
+    name: "HTC NE79 TWS Bluetooth 6.0 Earbuds AI Translation 135 Languages ENC Noise Cancelling HiFi Stereo Headphones with LED Display",
+    short: "HTC NE79 TWS Earbuds",
+    price: 12.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4qe29wx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/htc-ne79-tws-earbuds/ad-photo.png",
+    desc: "HTC NE79 TWS Bluetooth 6.0 earbuds — AI translation across 135 languages, ENC noise cancelling, HiFi stereo, LED display.",
+    specs: [["Type", "HTC NE79 TWS Bluetooth 6.0 earbuds (per listing title)"], ["Features", "AI translation 135 languages, ENC noise cancelling, HiFi stereo, LED display (per listing title)"], ["Power", "USB-C rechargeable, 4-5 hours per charge (per listing)"]],
+    added: 790,
+    popular: false
+  }
 
 ];
 
