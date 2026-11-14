@@ -17768,6 +17768,107 @@ const PRODUCTS = [
     added: 690,
     popular: false
   }
+,
+  {
+    id: "jump-rope-steel-wire",
+    name: "Jump Rope Steel Wire Skipping Exercise Adjustable Jumping Fitness Workout Training",
+    short: "Adjustable Steel Wire Jump Rope",
+    price: 7.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3NS5ZqT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jump-rope-steel-wire/ad-photo.png",
+    desc: "Steel wire jump rope — adjustable skipping rope for exercise, fitness workout and training.",
+    specs: [["Type", "Steel wire jump rope (per listing title)"], ["Use", "Skipping exercise, fitness workout, training (per listing title)"], ["Adjustment", "Adjustable length (per listing title)"]],
+    added: 699,
+    popular: false
+  },
+  {
+    id: "wooden-balance-blocks-dinosaur",
+    name: "Wooden Balance Blocks Toys For Children Animal Dinosaur Building Stacking Montessori Toy",
+    short: "Wooden Balance Blocks Dinosaur",
+    price: 7.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3lL8z6T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-balance-blocks-dinosaur/ad-photo.png",
+    desc: "Wooden balance blocks — animal dinosaur building and stacking Montessori toy for children.",
+    specs: [["Material", "Wooden (per listing title)"], ["Theme", "Animal dinosaur building and stacking (per listing title)"], ["Type", "Montessori toy for children (per listing title)"]],
+    added: 700,
+    popular: false
+  },
+  {
+    id: "emeet-c950-webcam-1080p",
+    name: "Webcam 1080P Full HD Web Camera With Microphone & Privacy Cover EMEET C950 USB",
+    short: "EMEET C950 Webcam 1080P",
+    price: 23.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4L2LAxD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/emeet-c950-webcam-1080p/ad-photo.png",
+    desc: "EMEET C950 webcam — 1080P full HD web camera with microphone and privacy cover, USB.",
+    specs: [["Resolution", "1080P Full HD (per listing title)"], ["Features", "Microphone and privacy cover (per listing title)"], ["Connection", "USB (per listing title)"]],
+    added: 701,
+    popular: false
+  },
+  {
+    id: "usb-c-cable-10gbps-2m",
+    name: "USB3.2 10Gbps USB Type C Cable USB A to C 3A 60W QC3.0 Fast Charging Braid 2M",
+    short: "USB-C Cable 10Gbps 2M",
+    price: 2.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4MAseSR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/usb-c-cable-10gbps-2m/ad-photo.png",
+    desc: "USB3.2 10Gbps USB Type C cable — USB A to C, 3A 60W QC3.0 fast charging, braided, 2M.",
+    specs: [["Speed", "USB3.2 10Gbps (per listing title)"], ["Charging", "3A 60W QC3.0 fast charging (per listing title)"], ["Length", "2M braided (per listing title)"]],
+    added: 702,
+    popular: false
+  }
 
 ];
 
