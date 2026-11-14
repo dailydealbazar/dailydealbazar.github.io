@@ -18374,6 +18374,107 @@ const PRODUCTS = [
     added: 726,
     popular: false
   }
+,
+  {
+    id: "silicone-spatula-set-6pcs",
+    name: "6PCS Silicone Spatula Set Food Grade Heat Resistant Non Stick for Baking Cooking Mixing Scraping Non Scratch Kitchen Utensils",
+    short: "Silicone Spatula Set 6PCS",
+    price: 16.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3SaaL0J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/silicone-spatula-set-6pcs/ad-photo.png",
+    desc: "6PCS silicone spatula set — food grade, heat resistant, non stick, for baking, cooking, mixing and scraping.",
+    specs: [["Type", "Silicone spatula set, 6PCS (per listing title)"], ["Material", "Food grade silicone (per listing title)"], ["Use", "Baking, cooking, mixing, scraping (per listing title)"]],
+    added: 727,
+    popular: false
+  },
+  {
+    id: "facial-gua-sha-tool-jade",
+    name: "Facial Gua Sha Tool Jade Guasha Board Muscle Relaxation Skin Lifting Face Thin Scraper Face Massager Beauty Tool Self-Care Gift",
+    short: "Facial Gua Sha Tool Jade",
+    price: 3.89,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3f2PVQj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/facial-gua-sha-tool-jade/ad-photo.png",
+    desc: "Facial gua sha tool — jade guasha board for muscle relaxation, skin lifting and face massage.",
+    specs: [["Type", "Facial gua sha tool, jade guasha board (per listing title)"], ["Use", "Muscle relaxation, skin lifting, face massage (per listing title)"], ["Gift", "Self-care gift (per listing title)"]],
+    added: 728,
+    popular: false
+  },
+  {
+    id: "wooden-animal-food-puzzle",
+    name: "Children Iron Box Number Enlightenment Paired Wooden Animal Food Puzzle Board Logical Thinking Training Game Educational Toys",
+    short: "Wooden Animal Food Puzzle",
+    price: 7.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4PIu17V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wooden-animal-food-puzzle/ad-photo.png",
+    desc: "Children iron box number puzzle — paired wooden animal food puzzle board for logical thinking training.",
+    specs: [["Type", "Wooden animal food puzzle board, iron box (per listing title)"], ["Use", "Number enlightenment, logical thinking training (per listing title)"], ["Age", "Children (per listing title)"]],
+    added: 729,
+    popular: false
+  },
+  {
+    id: "led-matrix-pixel-panel-16x96",
+    name: "16x96 LEDs Matrix Pixel Panel, Scrolling Bright Advertising LED Signs Lights, USB Flexible 5V LED Car Sign Bluetooth App Control",
+    short: "LED Matrix Pixel Panel 16x96",
+    price: 24.67,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3rxauDd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-matrix-pixel-panel-16x96/ad-photo.png",
+    desc: "16x96 LEDs matrix pixel panel — scrolling bright advertising LED sign, USB flexible 5V car sign with Bluetooth app control.",
+    specs: [["Type", "16x96 LEDs matrix pixel panel (per listing title)"], ["Power", "USB flexible 5V (per listing title)"], ["Control", "Bluetooth app control (per listing title)"]],
+    added: 730,
+    popular: false
+  }
 
 ];
 
