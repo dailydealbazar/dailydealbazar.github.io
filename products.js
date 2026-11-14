@@ -18475,6 +18475,107 @@ const PRODUCTS = [
     added: 730,
     popular: false
   }
+,
+  {
+    id: "foam-roller-yoga-block-set",
+    name: "Foam Roller Yoga Block Set 33/45cm Deep Tissue Massage Yoga Column Pilates Home Gym Fitness Tool for Muscle Relaxation",
+    short: "Foam Roller Yoga Block Set",
+    price: 6.38,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3T47Tf9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/foam-roller-yoga-block-set/ad-photo.png",
+    desc: "Foam roller yoga block set — 33/45cm deep tissue massage yoga column for Pilates, home gym and muscle relaxation.",
+    specs: [["Type", "Foam roller yoga block set, 33/45cm (per listing title)"], ["Use", "Deep tissue massage, Pilates, home gym fitness (per listing title)"], ["Material", "Foam roller (per listing title)"]],
+    added: 731,
+    popular: false
+  },
+  {
+    id: "curren-luxury-vintage-watch",
+    name: "CURREN Luxury Vintage Watch for Men Sports Chronograph Quartz Wristwatches with Silicone Strap, Date, Luminous",
+    short: "CURREN Luxury Vintage Watch",
+    price: 26.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3TvngMb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/curren-luxury-vintage-watch/ad-photo.png",
+    desc: "CURREN luxury vintage watch for men — sports chronograph quartz wristwatch with silicone strap, date and luminous dial.",
+    specs: [["Type", "Luxury vintage watch, sports chronograph quartz (per listing title)"], ["Strap", "Silicone strap (per listing title)"], ["Features", "Date, luminous (per listing title)"]],
+    added: 732,
+    popular: false
+  },
+  {
+    id: "topk-usb-c-adapter-at13",
+    name: "TOPK AT13 USB C to USB Male Adapter USB Female (Type-C) to USB 2.0 Male (USB-A) Fast Charging & Data Sync OTG Adapter Connector",
+    short: "TOPK USB C Adapter AT13",
+    price: 2.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3zQPTij",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topk-usb-c-adapter-at13/ad-photo.png",
+    desc: "TOPK AT13 USB C to USB male adapter — USB female (Type-C) to USB 2.0 male (USB-A) for fast charging and data sync, OTG.",
+    specs: [["Type", "USB C to USB male adapter, OTG (per listing title)"], ["Ports", "USB female (Type-C) to USB 2.0 male (USB-A) (per listing title)"], ["Use", "Fast charging & data sync (per listing title)"]],
+    added: 733,
+    popular: false
+  },
+  {
+    id: "rgbic-neon-strip-lights-usb",
+    name: "USB DC5V RGBIC Flexible Neon Strip Lights Bluetooth Remote Control Multiple Modes Music Sync Waterproof LED Strip Neon Rope Lamp",
+    short: "RGBIC Neon Strip Lights USB",
+    price: 10.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3BhC5zt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rgbic-neon-strip-lights-usb/ad-photo.png",
+    desc: "USB DC5V RGBIC flexible neon strip lights — Bluetooth remote control, multiple modes, music sync, waterproof LED neon rope lamp.",
+    specs: [["Type", "RGBIC flexible neon strip lights, neon rope lamp (per listing title)"], ["Power", "USB DC5V (per listing title)"], ["Control", "Bluetooth remote control, music sync (per listing title)"]],
+    added: 734,
+    popular: false
+  }
 
 ];
 
