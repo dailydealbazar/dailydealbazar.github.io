@@ -20596,6 +20596,107 @@ const PRODUCTS = [
     added: 814,
     popular: false
   }
+,
+  {
+    id: "netac-nvme-ssd-nv3000",
+    name: "Netac NVMe SSD M2 1TB 2TB 500GB 250GB 3500MB/s SSD PCIe3.0 M.2 2280 Internal Solid State Drives Disk NV3000 for Laptop Desktop",
+    short: "Netac NVMe SSD NV3000",
+    price: 41.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4UPGpp1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-nvme-ssd-nv3000/ad-photo.png",
+    desc: "Netac NVMe SSD NV3000 — M.2 2280 internal solid state drive, up to 3500MB/s, PCIe 3.0 for laptop and desktop.",
+    specs: [["Type", "Netac NVMe SSD NV3000, M.2 2280 internal solid state drive (per listing title)"], ["Speed", "3500MB/s, PCIe 3.0 (per listing title)"], ["Capacity", "250GB / 500GB / 1TB / 2TB variants (per listing title)"]],
+    added: 815,
+    popular: false
+  },
+  {
+    id: "technical-breaking-bad-rv-building-blocks",
+    name: "Technical Breaking Bad RV Adventure Camper Bus Car Model Building Blocks Fit Car Vehicle Assemble Bricks Toys For Avid Fans",
+    short: "Technical Breaking Bad RV Building Blocks",
+    price: 55.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3bGriLv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/technical-breaking-bad-rv-building-blocks/ad-photo.png",
+    desc: "Technical Breaking Bad RV building blocks — adventure camper bus car model, assemble bricks toy for avid fans.",
+    specs: [["Type", "Technical Breaking Bad RV adventure camper bus car model building blocks (per listing title)"], ["Features", "Fit car vehicle assemble bricks toys for avid fans (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 816,
+    popular: false
+  },
+  {
+    id: "injora-injs025-injs035-digital-servo",
+    name: "INJORA INJS025 INJS035 Digital Servo 25KG 35KG Large Torque Waterproof Servos for RC Car Crawler SCX10 Truck Robot Upgrade Parts",
+    short: "INJORA INJS025/INJS035 Digital Servo",
+    price: 20.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4p3SsRp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/injora-injs025-injs035-digital-servo/ad-photo.png",
+    desc: "INJORA INJS025/INJS035 digital servo — 25KG/35KG large torque waterproof servo for RC car crawler, truck and robot upgrades.",
+    specs: [["Type", "INJORA INJS025/INJS035 digital servo, 25KG/35KG large torque, waterproof (per listing title)"], ["Features", "Servos for RC car crawler SCX10 truck robot upgrade parts (per listing title)"], ["Power", "USB/battery-powered RC part (per listing)"]],
+    added: 817,
+    popular: false
+  },
+  {
+    id: "wake-up-light-sunrise-alarm-clock",
+    name: "Wake Up Light Sunrise Alarm Clock Timer 30 White Noise Sound Machine Dimmable RGB Night Lights Sleep Aid Snooze Ideal for Gift",
+    short: "Wake Up Light Sunrise Alarm Clock",
+    price: 33.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4FUoqkj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wake-up-light-sunrise-alarm-clock/ad-photo.png",
+    desc: "Wake up light sunrise alarm clock — 30 white noise sounds, dimmable RGB night lights, sleep aid with snooze.",
+    specs: [["Type", "Wake up light sunrise alarm clock, timer, 30 white noise sound machine (per listing title)"], ["Features", "Dimmable RGB night lights, sleep aid, snooze (per listing title)"], ["Power", "USB/battery powered, battery included (per listing)"]],
+    added: 818,
+    popular: false
+  }
 
 ];
 
