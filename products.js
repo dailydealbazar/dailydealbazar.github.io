@@ -19384,6 +19384,107 @@ const PRODUCTS = [
     added: 766,
     popular: false
   }
+,
+  {
+    id: "electric-nose-hair-trimmer-usb",
+    name: "Electric Nose Hair Trimmer USB Rechargeable Nose and Ear Hair Clipper Portable Nose Hair Remover Facial Hair Removal Device",
+    short: "Electric Nose Hair Trimmer",
+    price: 4.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3pN7Nn9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-nose-hair-trimmer-usb/ad-photo.png",
+    desc: "Electric nose hair trimmer — USB rechargeable nose and ear hair clipper, portable nose hair remover.",
+    specs: [["Type", "Electric nose hair trimmer, USB rechargeable (per listing title)"], ["Features", "Nose and ear hair clipper, portable nose hair remover (per listing title)"], ["Power", "USB Type-C rechargeable (per listing)"]],
+    added: 767,
+    popular: false
+  },
+  {
+    id: "kingroon-pla-filament-10kg",
+    name: "KINGROON 10KG PLA Filament PETG 3D Filament 1.75mm For 3D Printer Filament Bundle Mixed Colors FDM Printing Material Fast Ship",
+    short: "KINGROON PLA Filament 10KG",
+    price: 119.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4nkgWYj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kingroon-pla-filament-10kg/ad-photo.png",
+    desc: "KINGROON 10KG PLA/PETG 3D printer filament 1.75mm — bundle, mixed colors, FDM printing material.",
+    specs: [["Type", "PLA/PETG 3D printer filament 1.75mm, 10KG bundle (per listing title)"], ["Features", "Mixed colors, FDM printing material, fast ship (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 768,
+    popular: false
+  },
+  {
+    id: "podofo-ozone-generator-60000",
+    name: "Podofo Air Purification Ozone Generator 60000 mg/h Ozone Machine High Capacity Commercial/Industrial Ozone Air Purifier EU Plug",
+    short: "Podofo Ozone Generator 60000",
+    price: 34.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4edlPkn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/podofo-ozone-generator-60000/ad-photo.png",
+    desc: "Podofo air purification ozone generator 60000 mg/h — high capacity commercial/industrial ozone air purifier, EU plug.",
+    specs: [["Type", "Air purification ozone generator, 60000 mg/h (per listing title)"], ["Features", "High capacity commercial/industrial ozone air purifier (per listing title)"], ["Power", "Mains-powered, EU Plug (per listing)"]],
+    added: 769,
+    popular: false
+  },
+  {
+    id: "kids-video-walkie-talkies-2pcs",
+    name: "2PCS Kids Video Walkie Talkies USB Charging Indoor and Outdoor High Definition Intercom Children's Toys Birthday Gifts Ages 3-12",
+    short: "Kids Video Walkie Talkies 2PCS",
+    price: 23.97,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4nT47kr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-video-walkie-talkies-2pcs/ad-photo.png",
+    desc: "2PCS kids video walkie talkies — USB charging indoor and outdoor high definition intercom, children's toys, ages 3-12.",
+    specs: [["Type", "Kids video walkie talkies, 2PCS (per listing title)"], ["Features", "USB charging, indoor and outdoor high definition intercom (per listing title)"], ["Power", "USB charging, lithium battery (per listing)"]],
+    added: 770,
+    popular: false
+  }
 
 ];
 
