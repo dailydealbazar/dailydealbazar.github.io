@@ -18879,6 +18879,107 @@ const PRODUCTS = [
     added: 746,
     popular: false
   }
+,
+  {
+    id: "hand-gripper-5-100kg",
+    name: "5-100Kg Hand Gripper Gym Wrist Expander Hand Strengthener Adjustable Dynamometer Hand Grip Finger Forearm Trainer Muscle Recover",
+    short: "Hand Gripper 5-100Kg",
+    price: 6.43,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3znhp3H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hand-gripper-5-100kg/ad-photo.png",
+    desc: "Hand gripper 5-100Kg — gym wrist expander, hand strengthener, adjustable dynamometer hand grip, finger forearm trainer, muscle recover.",
+    specs: [["Type", "Hand gripper, gym wrist expander (per listing title)"], ["Range", "5-100Kg adjustable (per listing title)"], ["Use", "Hand strengthener, finger forearm trainer, muscle recover (per listing title)"]],
+    added: 747,
+    popular: false
+  },
+  {
+    id: "vacuum-coffee-bean-storage-container",
+    name: "Vacuum Coffee Bean Storage Container Stainless Steel Airtight Canister Coffee Grinder Spice Food Storage Jar Kitchen Tool",
+    short: "Vacuum Coffee Bean Storage Container",
+    price: 16.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4MhF9YP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vacuum-coffee-bean-storage-container/ad-photo.png",
+    desc: "Vacuum coffee bean storage container — stainless steel airtight canister, coffee grinder, spice, food storage jar, kitchen tool.",
+    specs: [["Type", "Vacuum coffee bean storage container, stainless steel airtight canister (per listing title)"], ["Material", "304 stainless steel, manual vacuum, non-electrical (per listing)"], ["Use", "Coffee grinder, spice, food storage jar, kitchen tool (per listing title)"]],
+    added: 748,
+    popular: false
+  },
+  {
+    id: "oyifan-mens-leather-belt",
+    name: "OYIFAN Fashion Men's Belt Men's Genuine Leather Belt Automatic Buckle Ratchet Belt Random Adjustment",
+    short: "OYIFAN Men's Leather Belt",
+    price: 10.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3PvdCpH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/oyifan-mens-leather-belt/ad-photo.png",
+    desc: "OYIFAN fashion men's belt — men's genuine leather belt, automatic buckle ratchet belt, random adjustment.",
+    specs: [["Type", "Fashion men's belt, genuine leather belt (per listing title)"], ["Buckle", "Automatic buckle ratchet belt (per listing title)"], ["Fit", "Random adjustment (per listing title)"]],
+    added: 749,
+    popular: false
+  },
+  {
+    id: "portable-clip-fan-bladeless",
+    name: "Portable Clip Fan Mini Bladeless Handheld Air Cooler Small Strong Wind Wearable Belt Fan USB Rechargeable Cooling Fan",
+    short: "Portable Clip Fan Bladeless",
+    price: 20.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c39r9Cy7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/portable-clip-fan-bladeless/ad-photo.png",
+    desc: "Portable clip fan mini bladeless — handheld air cooler, small strong wind, wearable belt fan, USB rechargeable cooling fan.",
+    specs: [["Type", "Portable clip fan, mini bladeless handheld air cooler (per listing title)"], ["Wind", "Small strong wind, wearable belt fan (per listing title)"], ["Power", "USB rechargeable cooling fan, up to 8 hours (per listing)"]],
+    added: 750,
+    popular: false
+  }
 
 ];
 
