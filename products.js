@@ -18778,6 +18778,107 @@ const PRODUCTS = [
     added: 742,
     popular: false
   }
+,
+  {
+    id: "finger-tape-sports",
+    name: "1Roll/3Roll Finger Tape Sports Extra Strong Adhesive, Athletic Tape for Fingers, Tape for Weight Lifting, Volleyball Finger",
+    short: "Finger Tape Sports",
+    price: 3.78,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c32dbLor",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/finger-tape-sports/ad-photo.png",
+    desc: "Finger tape sports — extra strong adhesive athletic tape for fingers, tape for weight lifting and volleyball finger.",
+    specs: [["Type", "Finger tape, extra strong adhesive athletic tape (per listing title)"], ["Use", "Weight lifting, volleyball finger (per listing title)"], ["Pack", "1Roll/3Roll (per listing title)"]],
+    added: 743,
+    popular: false
+  },
+  {
+    id: "lenovo-ai-smart-glasses",
+    name: "Lenovo AI Smart Glasses 8K Remote Control Touch Photo Camera Recording Voice Assistant Translator Wireless Bluetooth Sunglasses",
+    short: "Lenovo AI Smart Glasses",
+    price: 17.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4kCwxWF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/lenovo-ai-smart-glasses/ad-photo.png",
+    desc: "Lenovo AI smart glasses — 8K remote control touch, photo camera recording, voice assistant, translator, wireless Bluetooth sunglasses.",
+    specs: [["Type", "AI smart glasses, 8K remote control touch (per listing title)"], ["Features", "Photo camera recording, voice assistant, translator (per listing title)"], ["Connectivity", "Wireless Bluetooth sunglasses (per listing title)"]],
+    added: 744,
+    popular: false
+  },
+  {
+    id: "ugreen-storage-case-bag",
+    name: "UGREEN Storage Case Bag for Airpods Charger Cable Bluetooth Headphones Funds Luxury Storage Case",
+    short: "UGREEN Storage Case Bag",
+    price: 6.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2Qz0IOn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-storage-case-bag/ad-photo.png",
+    desc: "UGREEN storage case bag — for Airpods, charger cable, Bluetooth headphones; luxury storage case.",
+    specs: [["Type", "Storage case bag for Airpods, charger cable (per listing title)"], ["Use", "Bluetooth headphones, funds storage (per listing title)"], ["Style", "Luxury storage case (per listing title)"]],
+    added: 745,
+    popular: false
+  },
+  {
+    id: "poedagar-luxury-rectangle-watch",
+    name: "POEDAGAR Luxury Rectangle Watch For Woman Waterproof Calendar Simple Ladies Watch Fashion Stainless Steel Quartz Women's Watches",
+    short: "POEDAGAR Luxury Rectangle Watch",
+    price: 25.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4Cuq9jN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/poedagar-luxury-rectangle-watch/ad-photo.png",
+    desc: "POEDAGAR luxury rectangle watch for woman — waterproof, calendar, simple ladies watch, fashion stainless steel quartz.",
+    specs: [["Type", "Luxury rectangle watch for woman (per listing title)"], ["Features", "Waterproof, calendar, simple ladies watch (per listing title)"], ["Movement", "Fashion stainless steel quartz (per listing title)"]],
+    added: 746,
+    popular: false
+  }
 
 ];
 
