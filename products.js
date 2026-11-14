@@ -18677,6 +18677,107 @@ const PRODUCTS = [
     added: 738,
     popular: false
   }
+,
+  {
+    id: "epomaker-aula-f75-keyboard",
+    name: "EPOMAKER X AULA F75 75% ANSI Hot-Swap Gasket Bluetooth 5.0/2.4G Wireless/Wired Mechanical Keyboard PBT Keycaps for Mac/Win",
+    short: "EPOMAKER AULA F75 Keyboard",
+    price: 76.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3v80eKR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/epomaker-aula-f75-keyboard/ad-photo.png",
+    desc: "EPOMAKER X AULA F75 mechanical keyboard — 75% ANSI, hot-swap gasket, Bluetooth 5.0 / 2.4G wireless / wired, PBT keycaps, for Mac and Win.",
+    specs: [["Type", "Mechanical keyboard, 75% ANSI, hot-swap gasket (per listing title)"], ["Connectivity", "Bluetooth 5.0 / 2.4G wireless / wired (per listing title)"], ["Keycaps", "PBT keycaps (per listing title)"]],
+    added: 739,
+    popular: false
+  },
+  {
+    id: "kf20-drift-rc-car",
+    name: "KF20 1/64 High Speed Drift RC Car 2.4G 4WD Remote Control Desktop Mini GTR Racing Model Cars for Boys Kids Toy Gift",
+    short: "KF20 Drift RC Car",
+    price: 21.91,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3zwdZPV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kf20-drift-rc-car/ad-photo.png",
+    desc: "KF20 1/64 high speed drift RC car — 2.4G 4WD remote control desktop mini GTR racing model car, for boys and kids, toy gift.",
+    specs: [["Type", "1/64 high speed drift RC car, 2.4G 4WD (per listing title)"], ["Model", "Desktop mini GTR racing model car (per listing title)"], ["Use", "Boys, kids toy gift (per listing title)"]],
+    added: 740,
+    popular: false
+  },
+  {
+    id: "baseus-portable-desk-lamp",
+    name: "Baseus Portable Desk Lamp LED Mini Clip USB Rechargeable Table Lamp Stepless Dimming for Laptop Reading Bedside Soft Night Light",
+    short: "Baseus Portable Desk Lamp",
+    price: 13.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3DahmqP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-portable-desk-lamp/ad-photo.png",
+    desc: "Baseus portable desk lamp — LED mini clip, USB rechargeable table lamp, stepless dimming, for laptop reading and bedside soft night light.",
+    specs: [["Type", "Portable desk lamp, LED mini clip (per listing title)"], ["Power", "USB rechargeable (per listing title)"], ["Features", "Stepless dimming, soft night light (per listing title)"]],
+    added: 741,
+    popular: false
+  },
+  {
+    id: "docolab-sonic-toothbrush",
+    name: "DOCOLAB Sonic Electric Toothbrush 3Gear Vibration Rechargeable Waterproof Teeth Whitening Cleaning Personal Care Appliance MT001",
+    short: "DOCOLAB Sonic Toothbrush",
+    price: 25.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2QLQFMn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/docolab-sonic-toothbrush/ad-photo.png",
+    desc: "DOCOLAB sonic electric toothbrush — 3-gear vibration, rechargeable, waterproof, teeth whitening cleaning, personal care appliance.",
+    specs: [["Type", "Sonic electric toothbrush, 3-gear vibration (per listing title)"], ["Power", "Rechargeable, waterproof (per listing title)"], ["Use", "Teeth whitening cleaning (per listing title)"]],
+    added: 742,
+    popular: false
+  }
 
 ];
 
