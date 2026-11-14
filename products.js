@@ -19182,6 +19182,107 @@ const PRODUCTS = [
     added: 758,
     popular: false
   }
+,
+  {
+    id: "manual-meat-mincer-chopper",
+    name: "500/900ML Manual Meat Mincer Garlic Chopper Rotate Garlic Press Crusher Vegetable Onion Cutter Kitchen Cooking Accessories",
+    short: "Manual Meat Mincer Chopper",
+    price: 10.66,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4tr4yiP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/manual-meat-mincer-chopper/ad-photo.png",
+    desc: "500/900ml manual meat mincer garlic chopper — rotate garlic press crusher, vegetable onion cutter, kitchen cooking accessory.",
+    specs: [["Type", "Manual meat mincer garlic chopper, 500/900ml (per listing title)"], ["Use", "Rotate garlic press crusher, vegetable onion cutter (per listing title)"], ["Power", "Manual, non-electrical (per listing)"]],
+    added: 759,
+    popular: false
+  },
+  {
+    id: "enchen-blackstone-shaver",
+    name: "ENCHEN Blackstone Electrical Rotary Shaver for Men 3D Floating Blade Washable Type-C USB Rechargeable Shaving Beard Machine",
+    short: "ENCHEN Blackstone Shaver",
+    price: 17.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3WvCHH1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enchen-blackstone-shaver/ad-photo.png",
+    desc: "ENCHEN Blackstone electrical rotary shaver — 3D floating blade, washable, Type-C USB rechargeable beard machine.",
+    specs: [["Type", "Electrical rotary shaver, 3D floating blade (per listing title)"], ["Features", "Washable, Type-C USB rechargeable (per listing title)"], ["Power", "Type-C USB rechargeable (per listing)"]],
+    added: 760,
+    popular: false
+  },
+  {
+    id: "pilates-magic-ring",
+    name: "Pilates Magic Ring Fitness Circle Resistance Trainer for Toning Thighs Abs Legs Body Shaping Yoga Home Workout Fitness Gear",
+    short: "Pilates Magic Ring",
+    price: 5.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4DI5mCL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/pilates-magic-ring/ad-photo.png",
+    desc: "Pilates magic ring fitness circle — resistance trainer for toning thighs, abs, legs, body shaping, yoga home workout.",
+    specs: [["Type", "Pilates magic ring fitness circle, resistance trainer (per listing title)"], ["Use", "Toning thighs, abs, legs, body shaping, yoga home workout (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 761,
+    popular: false
+  },
+  {
+    id: "moyu-mini-magic-cube",
+    name: "MoYu Mofangjiaoshi 3cm 3.5CM Mini 3x3x3 Magic Cube KeyChain Professional Educational Toys Key Ring Cubo Magico Puzzle",
+    short: "MoYu Mini Magic Cube",
+    price: 4.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c45EYrYn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-mini-magic-cube/ad-photo.png",
+    desc: "MoYu Mofangjiaoshi mini 3x3x3 magic cube keychain — 3cm/3.5cm, professional educational toy, key ring cubo magico puzzle.",
+    specs: [["Type", "Mini 3x3x3 magic cube keychain, 3cm/3.5cm (per listing title)"], ["Use", "Professional educational toy, key ring cubo magico puzzle (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 762,
+    popular: false
+  }
 
 ];
 
