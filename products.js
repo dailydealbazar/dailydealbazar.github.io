@@ -20192,6 +20192,107 @@ const PRODUCTS = [
     added: 798,
     popular: false
   }
+,
+  {
+    id: "electric-screwdriver-set-62-in-1",
+    name: "62 In 1 Precision Electric Screwdriver Set Cordless Rechargeable Mini Power Tool Kit Magnetic Wireless Bits Portable Repair Tool for Phone Laptop PC Camera Watch DIY 350mAh Lithium Battery 200RPM LED Light Aluminum Alloy Handle Electronics Maintenance Kit",
+    short: "62-in-1 Electric Screwdriver Set",
+    price: 27.03,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3YW4vyB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-screwdriver-set-62-in-1/ad-photo.png",
+    desc: "62-in-1 precision electric screwdriver set — cordless rechargeable mini power tool kit, magnetic wireless bits, portable repair tool for phone, laptop, PC, camera, watch, DIY.",
+    specs: [["Type", "62-in-1 precision electric screwdriver set, cordless rechargeable (per listing title)"], ["Features", "Magnetic wireless bits, 200RPM, LED light, aluminum alloy handle (per listing title)"], ["Power", "USB-rechargeable 350mAh lithium battery (per listing)"]],
+    added: 799,
+    popular: false
+  },
+  {
+    id: "led-drawing-board-kids-16-inch",
+    name: "LED Drawing Board for Kids, 16\" Rechargeable Glow Drawing Tablet, with Color Lights, Adjustable Brightness, LED Drawing Pad",
+    short: "LED Drawing Board for Kids 16\"",
+    price: 36.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2xcpF8B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-drawing-board-kids-16-inch/ad-photo.png",
+    desc: "LED drawing board for kids — 16-inch rechargeable glow drawing tablet with color lights and adjustable brightness.",
+    specs: [["Type", "LED drawing board for kids, 16-inch rechargeable glow drawing tablet (per listing title)"], ["Features", "Color lights, adjustable brightness (per listing title)"], ["Power", "Type-C rechargeable, 1000mAh, 8-10h (per listing)"]],
+    added: 800,
+    popular: false
+  },
+  {
+    id: "rechargeable-uv-led-nail-lamp",
+    name: "Rechargeable UV LED Nail Lamp With Automatic Sensing 30LEDS Cordless Nail Dryer for Curing Gel Polish Professional Manicure Tool",
+    short: "Rechargeable UV LED Nail Lamp",
+    price: 31.02,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3a3HYU3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rechargeable-uv-led-nail-lamp/ad-photo.png",
+    desc: "Rechargeable UV LED nail lamp — automatic sensing, 30 LEDs, cordless nail dryer for curing gel polish.",
+    specs: [["Type", "Rechargeable UV LED nail lamp, automatic sensing, 30 LEDs (per listing title)"], ["Features", "Cordless nail dryer for curing gel polish, professional manicure tool (per listing title)"], ["Power", "Rechargeable battery, EU plug variant available, 100-240V (per listing)"]],
+    added: 801,
+    popular: false
+  },
+  {
+    id: "easydo-bicycle-stem-phone-holder",
+    name: "Easydo Bicycle Stem Phone Holder Anti Vibration Aluminum Bike Headset Cap Phone Mount M6 Bolt Phone Mount for Road Gravel Bike",
+    short: "Easydo Bicycle Stem Phone Holder",
+    price: 24.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c30hXuVd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/easydo-bicycle-stem-phone-holder/ad-photo.png",
+    desc: "Easydo bicycle stem phone holder — anti-vibration aluminum bike headset cap phone mount, M6 bolt, for road and gravel bikes.",
+    specs: [["Type", "Easydo bicycle stem phone holder, aluminum bike headset cap phone mount, M6 bolt (per listing title)"], ["Features", "Anti-vibration, for road and gravel bikes (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 802,
+    popular: false
+  }
 
 ];
 
