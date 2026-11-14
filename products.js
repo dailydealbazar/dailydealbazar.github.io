@@ -20293,6 +20293,107 @@ const PRODUCTS = [
     added: 802,
     popular: false
   }
+,
+  {
+    id: "baseus-bowie-mc2-air-earbuds",
+    name: "Baseus Bowie MC2 AIR Clip-on TWS Earbuds Ear Clips Wireless Earphones Bluetooth 6.0 Open Earrings 4 Mic ENC Sports Headphones",
+    short: "Baseus Bowie MC2 AIR Earbuds",
+    price: 33.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4F9zV5h",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-bowie-mc2-air-earbuds/ad-photo.png",
+    desc: "Baseus Bowie MC2 AIR clip-on TWS earbuds — open-ear clip-on wireless earphones, Bluetooth 6.0, 4-mic ENC, for sports.",
+    specs: [["Type", "Baseus Bowie MC2 AIR clip-on TWS earbuds, open-ear clip-on wireless earphones (per listing title)"], ["Features", "Bluetooth 6.0, open earrings design, 4 mic ENC, sports headphones (per listing title)"], ["Power", "Battery/USB-powered (per listing)"]],
+    added: 803,
+    popular: false
+  },
+  {
+    id: "baseus-wireless-air-pump",
+    name: "Baseus Wireless Air Pump Portable Air Compressor Smart Digital Electric Car Air Pump for Car Motorcycle Bicycle Inflator Pump",
+    short: "Baseus Wireless Air Pump",
+    price: 44.31,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3o0XXEj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-wireless-air-pump/ad-photo.png",
+    desc: "Baseus wireless air pump — portable air compressor, smart digital electric car air pump for car, motorcycle and bicycle.",
+    specs: [["Type", "Baseus wireless air pump, portable air compressor, smart digital electric car air pump (per listing title)"], ["Features", "For car, motorcycle and bicycle inflator pump (per listing title)"], ["Power", "Battery/USB/12V car-powered (per listing)"]],
+    added: 804,
+    popular: false
+  },
+  {
+    id: "baseus-car-vacuum-cleaner",
+    name: "Baseus Car Vacuum Cleaner Wireless Air Dust Blower Gun for Car Powerful Portable Car Cleaning Appliance Cordless Vehicle Cleaner",
+    short: "Baseus Car Vacuum Cleaner",
+    price: 41.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4paq0ll",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-car-vacuum-cleaner/ad-photo.png",
+    desc: "Baseus car vacuum cleaner — wireless air dust blower gun for car, powerful portable cordless vehicle cleaner.",
+    specs: [["Type", "Baseus car vacuum cleaner, wireless air dust blower gun for car (per listing title)"], ["Features", "Powerful portable car cleaning appliance, cordless vehicle cleaner (per listing title)"], ["Power", "Battery/USB-powered (per listing)"]],
+    added: 805,
+    popular: false
+  },
+  {
+    id: "baseus-90w-car-charger",
+    name: "Baseus 90W Car Charger Type-C iP Dual Retractable Cable Phone Charger PD QC SCP AFC PPS Fast Charging For iPhone Samsung Xiaomi",
+    short: "Baseus 90W Car Charger",
+    price: 48.30,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4MV3LSb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-90w-car-charger/ad-photo.png",
+    desc: "Baseus 90W car charger — Type-C iP dual retractable cable phone charger, PD QC SCP AFC PPS fast charging.",
+    specs: [["Type", "Baseus 90W car charger, Type-C iP dual retractable cable phone charger (per listing title)"], ["Features", "PD QC SCP AFC PPS fast charging, for iPhone, Samsung, Xiaomi (per listing title)"], ["Power", "12V car-powered (per listing)"]],
+    added: 806,
+    popular: false
+  }
 
 ];
 
