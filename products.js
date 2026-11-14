@@ -18273,6 +18273,107 @@ const PRODUCTS = [
     added: 722,
     popular: false
   }
+,
+  {
+    id: "refillable-perfume-bottle-glass",
+    name: "8/16pcs Refillable Perfume Bottle Portable Glass Spray Bottle Container Refill Atomizer Perfume Travel Bottle",
+    short: "Refillable Perfume Bottle Glass",
+    price: 4.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c44PHlr5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/refillable-perfume-bottle-glass/ad-photo.png",
+    desc: "Refillable perfume bottle — portable glass spray bottle container, refill atomizer perfume travel bottle, 8/16pcs.",
+    specs: [["Type", "Refillable perfume bottle, portable glass spray (per listing title)"], ["Quantity", "8/16pcs (per listing title)"], ["Use", "Perfume travel bottle (per listing title)"]],
+    added: 723,
+    popular: false
+  },
+  {
+    id: "push-up-stand-h-shaped",
+    name: "Non-Slip H-Shaped Push-up Stand 1 Pair Strong Stable Push-up Support Bars Calisthenics Home Fitness Exercise Equipment",
+    short: "Push-up Stand H-Shaped",
+    price: 6.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3sfIsxv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/push-up-stand-h-shaped/ad-photo.png",
+    desc: "Non-slip H-shaped push-up stand — 1 pair strong stable push-up support bars for calisthenics home fitness exercise.",
+    specs: [["Type", "H-shaped push-up stand, 1 pair (per listing title)"], ["Use", "Calisthenics, home fitness exercise (per listing title)"], ["Grip", "Non-slip (per listing title)"]],
+    added: 724,
+    popular: false
+  },
+  {
+    id: "wood-lid-glass-canister",
+    name: "1pcs Wood Lid Orgnizer Glass Airtight Canister Kitchen Storage Bottles Jar Sealed Food Container Ginger Cereal Dispenser Set",
+    short: "Wood Lid Glass Canister",
+    price: 11.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c37HhL0n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wood-lid-glass-canister/ad-photo.png",
+    desc: "Wood lid glass airtight canister — kitchen storage bottle jar, sealed food container for ginger and cereal.",
+    specs: [["Type", "Wood lid glass airtight canister (per listing title)"], ["Use", "Kitchen storage, sealed food container (per listing title)"], ["Size", "250ml (from-price size; other sizes listed)"]],
+    added: 725,
+    popular: false
+  },
+  {
+    id: "wansenda-usb-flash-drive",
+    name: "New WANSENDA USB 3.0 TYPE C USB Flash Drive OTG Pen Drive 512GB 256GB 128GB 64GB 32GB 16GB USB Stick 2 in 1 High Speed Pendrive",
+    short: "WANSENDA USB Flash Drive",
+    price: 5.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3lk02AJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wansenda-usb-flash-drive/ad-photo.png",
+    desc: "WANSENDA USB 3.0 Type-C flash drive — OTG pen drive, 2-in-1 high speed pendrive, 16GB to 512GB.",
+    specs: [["Type", "USB 3.0 Type-C flash drive, OTG pen drive (per listing title)"], ["Capacities", "16GB-512GB (per listing title)"], ["Interface", "USB 3.0, Type-C, 2-in-1 (per listing title)"]],
+    added: 726,
+    popular: false
+  }
 
 ];
 
