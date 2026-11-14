@@ -19990,6 +19990,107 @@ const PRODUCTS = [
     added: 790,
     popular: false
   }
+,
+  {
+    id: "mijia-portable-blender-2",
+    name: "MIJIA Portable Blender 2, 40S Quickly Squeeze Juice, 19500 rpm, 300ML Capacity Mixer Juicer Machine, PCTG Cup Body Blenders",
+    short: "MIJIA Portable Blender 2",
+    price: 47.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3rVor3V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-portable-blender-2/ad-photo.png",
+    desc: "MIJIA Portable Blender 2 — 40S quickly squeeze juice, 19500 rpm, 300ML capacity mixer juicer, PCTG cup body.",
+    specs: [["Type", "MIJIA Portable Blender 2, 40S quickly squeeze juice, 19500 rpm, 300ML capacity (per listing title)"], ["Features", "PCTG cup body, mixer juicer machine (per listing title)"], ["Power", "USB/battery-powered (per listing)"]],
+    added: 791,
+    popular: false
+  },
+  {
+    id: "led-3d-printing-pen",
+    name: "New Generation LED Display Electronic 3D Printing Pen Three-Dimensional Graffiti Painting Tool DIY Smart Toy Birthday Gift",
+    short: "LED Display 3D Printing Pen",
+    price: 12.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3qnc6dN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/led-3d-printing-pen/ad-photo.png",
+    desc: "New generation LED display electronic 3D printing pen — three-dimensional graffiti painting tool, DIY smart toy, birthday gift.",
+    specs: [["Type", "LED display electronic 3D printing pen, three-dimensional graffiti painting tool (per listing title)"], ["Features", "DIY smart toy, birthday gift (per listing title)"], ["Power", "USB-powered (per listing)"]],
+    added: 792,
+    popular: false
+  },
+  {
+    id: "guhuavmi-t-rx4-smartwatch",
+    name: "2026New Military T-RX4 Built in GPS Outdoor Smart Watch 10ATM Waterproof Compass 850mAh Battery 1.7”AMOLED Sports Fitness Clock",
+    short: "GUHUAVMI T-RX4 Smart Watch",
+    price: 69.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3oSE4sx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guhuavmi-t-rx4-smartwatch/ad-photo.png",
+    desc: "2026New military T-RX4 outdoor smart watch — built-in GPS, 10ATM waterproof, compass, 850mAh battery, 1.7-inch AMOLED sports fitness clock.",
+    specs: [["Type", "2026New military T-RX4 outdoor smart watch, built-in GPS, 1.7-inch AMOLED (per listing title)"], ["Features", "10ATM waterproof, compass, 850mAh battery, sports fitness clock (per listing title)"], ["Power", "USB/battery-powered, 850mAh (per listing)"]],
+    added: 793,
+    popular: false
+  },
+  {
+    id: "gounod-weighted-ankle-wrist-strap",
+    name: "1PC/2pc GOUNOD Weighted Ankle Wrist Strap Ankle Weights Wrist Weights Iron Sand Filled Optimal Training Ideal Fitness Running",
+    short: "GOUNOD Weighted Ankle Wrist Strap",
+    price: 6.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4e8Zde7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gounod-weighted-ankle-wrist-strap/ad-photo.png",
+    desc: "GOUNOD weighted ankle/wrist strap — ankle weights, wrist weights, iron sand filled, optimal training, ideal fitness running.",
+    specs: [["Type", "GOUNOD weighted ankle/wrist strap, ankle weights, wrist weights, iron sand filled (per listing title)"], ["Features", "1PC/2pc, optimal training, ideal fitness running (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 794,
+    popular: false
+  }
 
 ];
 
