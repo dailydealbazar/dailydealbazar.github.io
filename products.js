@@ -19283,6 +19283,107 @@ const PRODUCTS = [
     added: 762,
     popular: false
   }
+,
+  {
+    id: "car-vanity-mirror-visor",
+    name: "Car Interior Mirrors Sun Visor Plate LED HD Makeup Mirror for Girls Women Rechargeable Fill Light Universal Thin Vanity Mirror",
+    short: "Car Vanity Mirror Visor",
+    price: 12.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3WsfQg7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/car-vanity-mirror-visor/ad-photo.png",
+    desc: "Car interior sun visor plate LED HD makeup mirror — rechargeable fill light, universal thin vanity mirror.",
+    specs: [["Type", "Car interior sun visor plate LED HD makeup mirror (per listing title)"], ["Features", "Rechargeable fill light, universal thin vanity mirror (per listing title)"], ["Power", "USB rechargeable, Type-C charging (per listing)"]],
+    added: 763,
+    popular: false
+  },
+  {
+    id: "ugreen-bluetooth-rca-adapter-bt505",
+    name: "UGREEN Bluetooth 3.5mm RCA LDAC Wireless Adapter (BT505)",
+    short: "UGREEN Bluetooth RCA Adapter BT505",
+    price: 24.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3qhJlKj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-bluetooth-rca-adapter-bt505/ad-photo.png",
+    desc: "UGREEN Bluetooth 3.5mm RCA LDAC wireless adapter BT505 — battery-powered, USB-C charging.",
+    specs: [["Type", "Bluetooth 3.5mm RCA LDAC wireless adapter, BT505 (per listing title)"], ["Features", "300 mAh battery, 15 h playback (per listing)"], ["Power", "Battery-powered, USB-C charging (per listing)"]],
+    added: 764,
+    popular: false
+  },
+  {
+    id: "high-speed-hair-dryer-110000rpm",
+    name: "110000 RPM High-Speed Brushless Motor Negative Ionic Blow Dryer for Fast Drying Low Noise Thermo-Control Hair Dryer",
+    short: "High-Speed Hair Dryer 110000 RPM",
+    price: 95.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3YsJ7yf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/high-speed-hair-dryer-110000rpm/ad-photo.png",
+    desc: "110000 RPM high-speed brushless motor negative ionic blow dryer — fast drying, low noise, thermo-control.",
+    specs: [["Type", "High-speed brushless motor negative ionic blow dryer, 110000 RPM (per listing title)"], ["Features", "Fast drying, low noise, thermo-control (per listing title)"], ["Power", "Mains-powered, EU Plug 220-240 V variant (per listing)"]],
+    added: 765,
+    popular: false
+  },
+  {
+    id: "mulberry-silk-pillowcase",
+    name: "100% Nature Mulberry Silk Pillowcase Zipper Pillowcases Pillow Case For Healthy Standard Queen King Multicolor",
+    short: "Mulberry Silk Pillowcase",
+    price: 27.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3IBGvgr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mulberry-silk-pillowcase/ad-photo.png",
+    desc: "100% nature mulberry silk pillowcase — zipper pillow case, standard/queen/king, multicolor.",
+    specs: [["Type", "100% nature mulberry silk pillowcase, zipper (per listing title)"], ["Features", "Standard, queen, king sizes, multicolor (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 766,
+    popular: false
+  }
 
 ];
 
