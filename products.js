@@ -18980,6 +18980,107 @@ const PRODUCTS = [
     added: 750,
     popular: false
   }
+,
+  {
+    id: "fifine-am8-microphone",
+    name: "FIFINE AM8 USB/XLR Dynamic Microphone for Gaming & Streaming",
+    short: "FIFINE AM8 Microphone",
+    price: 69.38,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4EoT97V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fifine-am8-microphone/ad-photo.png",
+    desc: "FIFINE AM8 USB/XLR dynamic microphone \\u2014 gaming & streaming.",
+    specs: [["Type", "USB/XLR dynamic microphone (per listing title)"], ["Use", "Gaming & streaming (per listing title)"], ["Power", "USB-powered (per listing)"]],
+    added: 751,
+    popular: false
+  },
+  {
+    id: "rockbros-bike-gloves",
+    name: "ROCKBROS Bike Gloves Half Finger Summer Breathable Anti-slip SBR Pad Shockproof MTB Road Bicycle Gloves Cycling Shorts Gloves",
+    short: "ROCKBROS Bike Gloves",
+    price: 7.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3xC7L8f",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-gloves/ad-photo.png",
+    desc: "ROCKBROS bike gloves half finger \\u2014 summer breathable, anti-slip SBR pad, shockproof, MTB road bicycle gloves.",
+    specs: [["Type", "Half finger bike gloves, summer breathable (per listing title)"], ["Pad", "Anti-slip SBR pad, shockproof (per listing title)"], ["Use", "MTB road bicycle gloves (per listing title)"]],
+    added: 752,
+    popular: false
+  },
+  {
+    id: "rockbros-bicycle-rear-light",
+    name: "ROCKBROS Bicycle Rear Light Magnetic Bike Tail Light IPX6 Waterproof 7Lighting Mode Smart Brake Sensor Rear Light Bike Accessory",
+    short: "ROCKBROS Bicycle Rear Light",
+    price: 18.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4BSZ2nZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bicycle-rear-light/ad-photo.png",
+    desc: "ROCKBROS bicycle rear light \\u2014 magnetic bike tail light, IPX6 waterproof, 7 lighting modes, smart brake sensor.",
+    specs: [["Type", "Magnetic bike tail light, IPX6 waterproof (per listing title)"], ["Modes", "7 lighting modes, smart brake sensor (per listing title)"], ["Power", "USB Type-C rechargeable, 400mAh battery (per listing)"]],
+    added: 753,
+    popular: false
+  },
+  {
+    id: "thermopro-tp610-thermometer",
+    name: "ThermoPro TP610 Rechargeable Waterproof Backlight 2 in 1 Folding Wired Probe Digital Kitchen Cooking Oven Grill Meat Thermometer",
+    short: "ThermoPro TP610 Thermometer",
+    price: 37.13,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c4Oyn0zN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/thermopro-tp610-thermometer/ad-photo.png",
+    desc: "ThermoPro TP610 thermometer \\u2014 rechargeable, waterproof backlight, 2 in 1 folding wired probe, digital kitchen cooking oven grill meat thermometer.",
+    specs: [["Type", "2 in 1 folding wired probe digital thermometer (per listing title)"], ["Power", "Rechargeable, waterproof backlight, IPX5 (per listing)"], ["Use", "Kitchen cooking, oven, grill, meat thermometer (per listing title)"]],
+    added: 754,
+    popular: false
+  }
 
 ];
 
