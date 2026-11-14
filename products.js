@@ -19586,6 +19586,107 @@ const PRODUCTS = [
     added: 774,
     popular: false
   }
+,
+  {
+    id: "leather-jewelry-box-travel",
+    name: "1pcs Single Layer Storage Box Ladies Travel Leather Jewelry Box Classic Black Pure White Fashion Pink Storage Box",
+    short: "Travel Leather Jewelry Box",
+    price: 4.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3L7YlBd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/leather-jewelry-box-travel/ad-photo.png",
+    desc: "Travel leather jewelry box — single layer storage box, classic black / pure white / fashion pink.",
+    specs: [["Type", "Single layer storage box, ladies travel leather jewelry box (per listing title)"], ["Features", "Classic black, pure white, fashion pink (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 775,
+    popular: false
+  },
+  {
+    id: "mosquito-mini-drone",
+    name: "Mosquito Drone, Mini Folding Drone, Aerial Camera Drone, Student Remote-Controlled Helicopter, Small Toy",
+    short: "Mosquito Mini Drone",
+    price: 36.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2RqyE1H",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mosquito-mini-drone/ad-photo.png",
+    desc: "Mosquito mini folding drone — aerial camera drone, student remote-controlled helicopter, small toy.",
+    specs: [["Type", "Mini folding drone, aerial camera drone, student remote-controlled helicopter (per listing title)"], ["Features", "Small toy, USB/battery powered (per listing)"], ["Power", "USB/battery-powered (per listing)"]],
+    added: 776,
+    popular: false
+  },
+  {
+    id: "waterproof-gym-bag",
+    name: "Gym Bag Waterproof Fitness Bag Sport Men Women Bag Outdoor Fitness Portable Bags Ultralight Yoga Sports Large Travel Backpack",
+    short: "Waterproof Gym Bag",
+    price: 18.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3l2Fxjl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/waterproof-gym-bag/ad-photo.png",
+    desc: "Waterproof gym bag — fitness bag for men women, outdoor fitness, ultralight yoga sports, large travel backpack.",
+    specs: [["Type", "Gym bag, waterproof fitness bag, large travel backpack (per listing title)"], ["Features", "Sport men women, outdoor fitness, ultralight yoga sports (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 777,
+    popular: false
+  },
+  {
+    id: "folding-eye-massager",
+    name: "Eye Massager Folding Vibration Airbag Eye Mask Compress Eye Care Instrument Music Eye Massage Glasses Eye Relax Fatigue Device",
+    short: "Folding Eye Massager",
+    price: 39.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2yEJkD5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/folding-eye-massager/ad-photo.png",
+    desc: "Folding eye massager — vibration airbag eye mask, compress eye care, music eye massage glasses, eye relax fatigue device.",
+    specs: [["Type", "Eye massager, folding vibration airbag eye mask (per listing title)"], ["Features", "Compress eye care, music eye massage glasses, eye relax fatigue device (per listing title)"], ["Power", "USB Type-C, 1200mAh battery, Bluetooth music, 4 modes (per listing)"]],
+    added: 778,
+    popular: false
+  }
 
 ];
 
