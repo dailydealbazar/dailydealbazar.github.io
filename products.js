@@ -20394,6 +20394,107 @@ const PRODUCTS = [
     added: 806,
     popular: false
   }
+,
+  {
+    id: "toocki-80w-6-in-1-gan-charging-station",
+    name: "Toocki 80W 6-in-1 GaN Charging Station Type C PD 65W Retractable Fast Charger Wireless Adapter For iPhone 16 17 iWatch AirPods",
+    short: "Toocki 80W 6-in-1 GaN Charging Station",
+    price: 72.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2vr2UvH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-80w-6-in-1-gan-charging-station/ad-photo.png",
+    desc: "Toocki 80W 6-in-1 GaN charging station — Type C PD 65W retractable fast charger, wireless adapter for iPhone, iWatch and AirPods.",
+    specs: [["Type", "Toocki 80W 6-in-1 GaN charging station, Type C PD 65W retractable fast charger (per listing title)"], ["Features", "Wireless adapter for iPhone 16/17, iWatch and AirPods (per listing title)"], ["Power", "EU Plug variant (per listing)"]],
+    added: 807,
+    popular: false
+  },
+  {
+    id: "kdeam-fishing-sunglasses-polarized",
+    name: "KDEAM Sleek Square Style Suits For Women And Men Fishing Sunglasses Polarized Vibrant Colors Three Dimensional Sunglass",
+    short: "KDEAM Fishing Sunglasses Polarized",
+    price: 9.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3AAQeV5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kdeam-fishing-sunglasses-polarized/ad-photo.png",
+    desc: "KDEAM sleek square style fishing sunglasses — polarized, vibrant colors, three dimensional sunglass, for women and men.",
+    specs: [["Type", "KDEAM sleek square style fishing sunglasses, polarized (per listing title)"], ["Features", "Polarized, vibrant colors, three dimensional sunglass (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 808,
+    popular: false
+  },
+  {
+    id: "rojeco-stainless-steel-pet-drinking-fountain",
+    name: "ROJECO Stainless Steel Pet Drinking Fountain AutomaticCat WaterFountain Smart Pet Water Dispenser for Dog Cat Drinking Supply",
+    short: "ROJECO Stainless Steel Pet Drinking Fountain",
+    price: 38.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3adgDMr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rojeco-stainless-steel-pet-drinking-fountain/ad-photo.png",
+    desc: "ROJECO stainless steel pet drinking fountain — automatic cat water fountain, smart pet water dispenser for dog and cat.",
+    specs: [["Type", "ROJECO stainless steel pet drinking fountain, automatic cat water fountain (per listing title)"], ["Features", "Smart pet water dispenser for dog and cat drinking supply (per listing title)"], ["Power", "EU Adapter variant (per listing)"]],
+    added: 809,
+    popular: false
+  },
+  {
+    id: "essager-magnetic-apple-watch-charger",
+    name: "Essager Magnetic Wireless Charger for Apple Watch 8 7 6 5 4 3 2 SE Portable USB Type C Magnetic Fast Charger for iWatch Ultra",
+    short: "Essager Magnetic Apple Watch Charger",
+    price: 5.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4TWqsY3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-apple-watch-charger/ad-photo.png",
+    desc: "Essager magnetic wireless charger for Apple Watch — portable USB Type C magnetic fast charger for iWatch Ultra.",
+    specs: [["Type", "Essager magnetic wireless charger for Apple Watch 8/7/6/5/4/3/2/SE (per listing title)"], ["Features", "Portable USB Type C magnetic fast charger for iWatch Ultra (per listing title)"], ["Power", "USB-C powered (per listing)"]],
+    added: 810,
+    popular: false
+  }
 
 ];
 
