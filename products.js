@@ -18576,6 +18576,107 @@ const PRODUCTS = [
     added: 734,
     popular: false
   }
+,
+  {
+    id: "veithdia-polarized-sunglasses",
+    name: "VEITHDIA Polarized Fashion Sunglasses TR90 Frame UV400 Mirror Lens Glasses Outdoor Driving Eyeglasses For Male Female VFA79X11",
+    short: "VEITHDIA Polarized Sunglasses",
+    price: 13.29,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3wYZURD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veithdia-polarized-sunglasses/ad-photo.png",
+    desc: "VEITHDIA polarized fashion sunglasses — TR90 frame, UV400 mirror lens glasses for outdoor driving, for male and female.",
+    specs: [["Type", "Polarized fashion sunglasses, TR90 frame (per listing title)"], ["Lens", "UV400 mirror lens (per listing title)"], ["Use", "Outdoor driving eyeglasses (per listing title)"]],
+    added: 735,
+    popular: false
+  },
+  {
+    id: "resistance-loop-bands-set",
+    name: "Resistance Exercise Loop Bands Set Workout Bands for Women and Men Stretch Bands 5 Different Resistance Levels for Booty Legs",
+    short: "Resistance Loop Bands Set",
+    price: 3.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4WvI71Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/resistance-loop-bands-set/ad-photo.png",
+    desc: "Resistance exercise loop bands set — workout bands for women and men, 5 different resistance levels for booty and legs.",
+    specs: [["Type", "Resistance exercise loop bands set (per listing title)"], ["Levels", "5 different resistance levels (per listing title)"], ["Use", "Booty, legs workout (per listing title)"]],
+    added: 736,
+    popular: false
+  },
+  {
+    id: "electric-foot-grinder",
+    name: "Electric Foot Grinder Remover Dead Skin Professional Grinding Exfoliator Remove Dry Dead Cracked Foot Care USB Recharge",
+    short: "Electric Foot Grinder",
+    price: 11.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2Qejnof",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-foot-grinder/ad-photo.png",
+    desc: "Electric foot grinder — removes dead skin, professional grinding exfoliator for dry, dead, cracked foot care, USB rechargeable.",
+    specs: [["Type", "Electric foot grinder, dead skin remover (per listing title)"], ["Use", "Professional grinding exfoliator, foot care (per listing title)"], ["Power", "USB recharge (per listing title)"]],
+    added: 737,
+    popular: false
+  },
+  {
+    id: "michael-jackson-plush-doll",
+    name: "Hot Sale Michael Jackson Cosplay Prop Doll Plush Stuffed Figure Dolls Room Decoration Abstract Joint Mobility Props Gift",
+    short: "Michael Jackson Plush Doll",
+    price: 3.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4o0yp8X",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/michael-jackson-plush-doll/ad-photo.png",
+    desc: "Michael Jackson cosplay prop doll — plush stuffed figure doll, room decoration, abstract joint mobility props gift.",
+    specs: [["Type", "Cosplay prop doll, plush stuffed figure (per listing title)"], ["Use", "Room decoration, gift (per listing title)"], ["Features", "Abstract joint mobility (per listing title)"]],
+    added: 738,
+    popular: false
+  }
 
 ];
 
